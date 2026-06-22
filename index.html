@@ -85,6 +85,37 @@
     .stat span { display: block; color: var(--muted); font-size: 13px; }
     .stat strong { font-size: 24px; }
     .panel { padding: 14px; margin-bottom: 14px; }
+    .plan-panel { display: grid; gap: 14px; }
+    .plan-head {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 220px;
+      gap: 12px;
+      align-items: end;
+    }
+    .plan-head h2 { margin: 0 0 6px; font-size: 19px; }
+    .plan-detail {
+      display: grid;
+      grid-template-columns: minmax(160px, .5fr) minmax(0, 1.5fr);
+      gap: 12px;
+      align-items: center;
+      padding: 12px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--soft);
+    }
+    .plan-detail span { display: block; color: var(--muted); font-size: 13px; }
+    .plan-detail strong { font-size: 24px; }
+    .query-list { display: flex; flex-wrap: wrap; gap: 8px; }
+    .query-chip {
+      max-width: 100%;
+      padding: 7px 10px;
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      background: #fff;
+      color: var(--ink);
+      font-size: 13px;
+      overflow-wrap: anywhere;
+    }
     .controls { display: grid; grid-template-columns: minmax(240px, 1fr) 180px 170px 160px 120px; gap: 10px; }
     input, select, button {
       width: 100%;
@@ -195,7 +226,7 @@
     @media (max-width: 860px) {
       .hero-head, .top, .meta { align-items: flex-start; flex-direction: column; }
       .quick-links { justify-content: flex-start; }
-      .stats, .controls, .result, .detail-grid { grid-template-columns: 1fr; }
+      .stats, .controls, .result, .detail-grid, .plan-head, .plan-detail { grid-template-columns: 1fr; }
       .links { flex-direction: row; flex-wrap: wrap; }
     }
   </style>
@@ -212,7 +243,7 @@
       <div class="hero-head">
         <div>
           <h1>산업별 세일즈 리드 검색</h1>
-          <p>법무, 노무, 감정평가, 자산운용, 환경, 승강기, 소방, 건축 리드를 한 번에 필터링합니다.</p>
+          <p>제조, 유통, 물류, IT, 전문서비스, 환경, 소방, 건설 리드를 한 번에 필터링합니다.</p>
         </div>
         <div class="quick-links" id="quickLinks"></div>
       </div>
@@ -222,6 +253,21 @@
         <div class="stat"><span>산업군</span><strong id="industryCount">-</strong></div>
         <div class="stat"><span>지역</span><strong id="regionCount">-</strong></div>
       </div>
+    </section>
+
+    <section class="panel plan-panel">
+      <div class="plan-head">
+        <div>
+          <h2>전국 B2B 업종 확장 계획</h2>
+          <p>KSIC 19개 업종 기준으로 공개 소스, 홈페이지, 대표전화, 문의 채널을 넓혀 수집합니다.</p>
+        </div>
+        <select id="planIndustry" aria-label="업종 확장 계획 선택"></select>
+      </div>
+      <div class="plan-detail">
+        <div><span id="planCode">KSIC</span><strong id="planCount">-</strong></div>
+        <p id="planNote"></p>
+      </div>
+      <div class="query-list" id="planQueries"></div>
     </section>
 
     <section class="panel">
@@ -273,6 +319,28 @@
     const fmt = n => Number(n || 0).toLocaleString("ko-KR");
     const norm = v => String(v || "").toLowerCase().replace(/\s+/g, " ").trim();
     const quickIndustries = ["법무법인", "노무법인", "감정평가법인", "관세법인", "자산운용사", "환경측정업", "승강기유지관리업", "소방시설업"];
+    const ksicPlan = [
+      ["A", "농림어업", 11876, "농업법인, 어업경영체, 축산/가공 인허가, 생산자조직"],
+      ["B", "광업", 1892, "광업권, 광산, 골재/토석, 원자재 사업자"],
+      ["C", "제조업", 504728, "공장, 산업단지, 벤처/이노비즈, 조달 납품 제조사"],
+      ["D", "전기·가스·증기업", 147040, "발전사업, 도시가스, 전력기술, 신재생/에너지 설비"],
+      ["E", "수도·하수·폐기업", 13621, "폐기물, 재활용, 환경전문공사, 수질/환경 처리"],
+      ["F", "건설업", 504985, "종합건설, 전문건설, 설비, 전기/정보통신공사, 인테리어"],
+      ["G", "도·소매업", 1612825, "도매, 유통, 총판, 대리점, 통신판매, 프랜차이즈"],
+      ["H", "운수업", 673324, "화물운송, 운송주선, 물류창고, 냉장/냉동창고, 배송"],
+      ["I", "숙박·음식점업", 858373, "음식점, 카페, 제과, 숙박, 관광숙박, 펜션"],
+      ["J", "정보통신업", 135207, "소프트웨어, SI, 정보통신공사, 게임, 콘텐츠, 통신서비스"],
+      ["K", "금융·보험업", 69013, "금융회사, 보험대리점, 법인보험대리점, 대부업, 핀테크"],
+      ["L", "부동산업", 277819, "공인중개사, 부동산개발, 주택관리, 임대/관리"],
+      ["M", "전문·과학·기술업", 243418, "법무, 세무, 회계, 노무, 특허, 엔지니어링, 컨설팅"],
+      ["N", "사업시설·지원업", 134859, "인력공급, 근로자파견, 경비, 소독, 시설관리, 콜센터"],
+      ["O", "공공행정", 13161, "공공기관, 지방공기업, 지자체, 행정기관"],
+      ["P", "교육서비스업", 279558, "학원, 교습소, 어린이집, 대학교, 직업훈련기관"],
+      ["Q", "보건·사회복지업", 170056, "병원, 의원, 약국, 요양기관, 사회복지시설"],
+      ["R", "예술·스포츠·여가업", 153557, "공연장, 체육시설, 관광/여행, 레저, 게임/오락 시설"],
+      ["S", "협회·기타서비스업", 548361, "협회, 단체, 협동조합, 사회적기업, 생활서비스"]
+    ];
+    const planQuerySuffixes = ["업체 홈페이지", "회사 문의", "대표전화", "업체 명단", "회원사"];
 
     function option(select, value) {
       const node = document.createElement("option");
@@ -285,6 +353,25 @@
     }
     function tag(value) {
       return `<span class="tag">${escapeHtml(value)}</span>`;
+    }
+    function renderPlan() {
+      const selected = ksicPlan.find(item => item[0] === el("planIndustry").value) || ksicPlan[0];
+      const [code, name, count, note] = selected;
+      el("planCode").textContent = `${code} · ${name}`;
+      el("planCount").textContent = `${fmt(count)}개`;
+      el("planNote").textContent = note;
+      el("planQueries").innerHTML = planQuerySuffixes
+        .map(suffix => `<span class="query-chip">${escapeHtml(`${name} ${suffix}`)}</span>`)
+        .join("");
+    }
+    function initPlan() {
+      ksicPlan.forEach(([code, name]) => {
+        const node = document.createElement("option");
+        node.value = code;
+        node.textContent = `${code} · ${name}`;
+        el("planIndustry").appendChild(node);
+      });
+      renderPlan();
     }
     function passesContactFilter(item, filter) {
       if (filter === "phone") return Boolean(item.phone);
@@ -403,11 +490,13 @@
       });
       render();
       openHashDetail();
+      initPlan();
     });
     el("q").addEventListener("input", apply);
     el("industry").addEventListener("change", apply);
     el("region").addEventListener("change", apply);
     el("contactFilter").addEventListener("change", apply);
+    el("planIndustry").addEventListener("change", renderPlan);
     el("reset").addEventListener("click", () => {
       el("q").value = "";
       el("industry").value = "";
