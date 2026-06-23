@@ -5,6 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Industry Lead Search</title>
   <meta name="description" content="산업별 B2B 리드 검색 데이터베이스">
+  <script>
+    if (location.protocol === "http:" && !["localhost", "127.0.0.1"].includes(location.hostname)) {
+      location.replace(`https://${location.host}${location.pathname}${location.search}${location.hash}`);
+    }
+  </script>
   <style>
     :root {
       color-scheme: light;
