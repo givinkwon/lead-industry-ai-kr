@@ -53,10 +53,10 @@
       color: #fff;
     }
     .brand small, .muted, p { color: var(--muted); }
-    main { padding: 28px 0 56px; }
+    main { padding: 24px 0 56px; }
     h1, h2, p { margin: 0; }
-    h1 { font-size: 29px; line-height: 1.25; }
-    .hero { display: grid; gap: 18px; margin-bottom: 18px; }
+    h1 { font-size: 28px; line-height: 1.25; }
+    .hero { display: grid; gap: 14px; margin-bottom: 14px; }
     .hero-head {
       display: flex;
       align-items: flex-end;
@@ -74,25 +74,25 @@
       color: var(--accent);
       font-weight: 700;
     }
-    .stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; }
+    .stats { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 10px; }
     .stat, .panel, .result, .detail-panel {
       border: 1px solid var(--line);
       border-radius: 8px;
       background: var(--panel);
       box-shadow: var(--shadow);
     }
-    .stat { padding: 14px; }
+    .stat { padding: 14px; min-width: 0; }
     .stat span { display: block; color: var(--muted); font-size: 13px; }
-    .stat strong { font-size: 24px; }
+    .stat strong { font-size: 23px; }
     .panel { padding: 14px; margin-bottom: 14px; }
     .plan-panel { display: grid; gap: 14px; }
     .plan-head {
       display: grid;
-      grid-template-columns: minmax(0, 1fr) 220px;
+      grid-template-columns: minmax(0, 1fr) 230px;
       gap: 12px;
       align-items: end;
     }
-    .plan-head h2 { margin: 0 0 6px; font-size: 19px; }
+    .plan-head h2 { margin: 0 0 6px; font-size: 18px; }
     .plan-detail {
       display: grid;
       grid-template-columns: minmax(160px, .5fr) minmax(0, 1.5fr);
@@ -116,7 +116,11 @@
       font-size: 13px;
       overflow-wrap: anywhere;
     }
-    .controls { display: grid; grid-template-columns: minmax(240px, 1fr) 180px 170px 160px 120px; gap: 10px; }
+    .controls {
+      display: grid;
+      grid-template-columns: minmax(230px, 1fr) 170px 170px 150px 150px 110px;
+      gap: 10px;
+    }
     input, select, button {
       width: 100%;
       height: 42px;
@@ -144,7 +148,12 @@
       font-size: 14px;
     }
     .results { display: grid; gap: 10px; }
-    .result { padding: 14px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 12px; }
+    .result {
+      padding: 14px;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 12px;
+    }
     .result h2 { margin: 0 0 6px; font-size: 18px; }
     .result p { line-height: 1.5; }
     .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
@@ -156,6 +165,7 @@
       font-size: 12px;
       background: var(--soft);
     }
+    .tag.ksic { color: #075985; border-color: #bae6fd; background: #f0f9ff; }
     .links { display: flex; flex-direction: column; gap: 8px; min-width: 132px; }
     a.btn, button.link-btn {
       display: block;
@@ -223,11 +233,16 @@
     }
     .detail-actions a.secondary { background: #fff; color: var(--accent); }
     .source-box { white-space: pre-wrap; color: var(--muted); }
-    @media (max-width: 860px) {
+    @media (max-width: 980px) {
+      .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .controls { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+    @media (max-width: 720px) {
       .hero-head, .top, .meta { align-items: flex-start; flex-direction: column; }
       .quick-links { justify-content: flex-start; }
       .stats, .controls, .result, .detail-grid, .plan-head, .plan-detail { grid-template-columns: 1fr; }
       .links { flex-direction: row; flex-wrap: wrap; }
+      h1 { font-size: 24px; }
     }
   </style>
 </head>
@@ -242,8 +257,8 @@
     <section class="hero">
       <div class="hero-head">
         <div>
-          <h1>산업별 세일즈 리드 검색</h1>
-          <p>제조, 유통, 물류, IT, 전문서비스, 환경, 소방, 건설 리드를 한 번에 필터링합니다.</p>
+          <h1>산업별 B2B 리드 검색</h1>
+          <p>홈페이지가 확인된 전국 사업자 데이터를 산업, KSIC 대분류, 지역, 연락 채널로 검색합니다.</p>
         </div>
         <div class="quick-links" id="quickLinks"></div>
       </div>
@@ -251,6 +266,7 @@
         <div class="stat"><span>전체 리드</span><strong id="totalCount">-</strong></div>
         <div class="stat"><span>검색 결과</span><strong id="resultCount">-</strong></div>
         <div class="stat"><span>산업군</span><strong id="industryCount">-</strong></div>
+        <div class="stat"><span>KSIC 분류</span><strong id="ksicCount">-</strong></div>
         <div class="stat"><span>지역</span><strong id="regionCount">-</strong></div>
       </div>
     </section>
@@ -258,10 +274,10 @@
     <section class="panel plan-panel">
       <div class="plan-head">
         <div>
-          <h2>전국 B2B 업종 확장 계획</h2>
-          <p>KSIC 19개 업종 기준으로 공개 소스, 홈페이지, 대표전화, 문의 채널을 넓혀 수집합니다.</p>
+          <h2>19개 산업 수집 기준</h2>
+          <p>KSIC 대분류별 수집 쿼리와 시장 규모를 함께 봅니다.</p>
         </div>
-        <select id="planIndustry" aria-label="업종 확장 계획 선택"></select>
+        <select id="planIndustry" aria-label="산업 수집 기준 선택"></select>
       </div>
       <div class="plan-detail">
         <div><span id="planCode">KSIC</span><strong id="planCount">-</strong></div>
@@ -273,6 +289,7 @@
     <section class="panel">
       <div class="controls">
         <input id="q" type="search" placeholder="회사명, 주소, 홈페이지, 이메일 검색" autocomplete="off">
+        <select id="ksic"><option value="">전체 KSIC</option></select>
         <select id="industry"><option value="">전체 산업</option></select>
         <select id="region"><option value="">전체 지역</option></select>
         <select id="contactFilter">
@@ -318,41 +335,47 @@
     const el = id => document.getElementById(id);
     const fmt = n => Number(n || 0).toLocaleString("ko-KR");
     const norm = v => String(v || "").toLowerCase().replace(/\s+/g, " ").trim();
-    const quickIndustries = ["법무법인", "노무법인", "감정평가법인", "관세법인", "자산운용사", "환경측정업", "승강기유지관리업", "소방시설업"];
+    const quickIndustries = ["법무법인", "노무법인", "건축사사무소", "소방시설업", "환경측정업", "승강기유지관리업", "자산운용사", "관세법인"];
     const ksicPlan = [
-      ["A", "농림어업", 11876, "농업법인, 어업경영체, 축산/가공 인허가, 생산자조직"],
-      ["B", "광업", 1892, "광업권, 광산, 골재/토석, 원자재 사업자"],
-      ["C", "제조업", 504728, "공장, 산업단지, 벤처/이노비즈, 조달 납품 제조사"],
-      ["D", "전기·가스·증기업", 147040, "발전사업, 도시가스, 전력기술, 신재생/에너지 설비"],
-      ["E", "수도·하수·폐기업", 13621, "폐기물, 재활용, 환경전문공사, 수질/환경 처리"],
-      ["F", "건설업", 504985, "종합건설, 전문건설, 설비, 전기/정보통신공사, 인테리어"],
-      ["G", "도·소매업", 1612825, "도매, 유통, 총판, 대리점, 통신판매, 프랜차이즈"],
-      ["H", "운수업", 673324, "화물운송, 운송주선, 물류창고, 냉장/냉동창고, 배송"],
+      ["A", "농림어업", 11876, "농업법인, 임업경영체, 축산·가공·인허가, 생산자조직"],
+      ["B", "광업", 1892, "광업권, 광산, 골재·석재, 자원개발"],
+      ["C", "제조업", 504728, "공장, 산업단지, 벤처·이노비즈, 조달 품목 제조사"],
+      ["D", "전기·가스·증기업", 147040, "발전사업, 전력기술, 신재생 에너지 설비"],
+      ["E", "수도·하수·폐기물업", 13621, "폐기물, 환경전문공사, 수질·환경 처리"],
+      ["F", "건설업", 504985, "종합건설, 전문건설, 설비, 전기·정보통신공사, 인테리어"],
+      ["G", "도소매업", 1612825, "도매, 유통, 총판, 대리점, 통신판매, 프랜차이즈"],
+      ["H", "운수·창고업", 673324, "화물운송, 운송주선, 물류창고, 냉장·냉동창고, 배송"],
       ["I", "숙박·음식점업", 858373, "음식점, 카페, 제과, 숙박, 관광숙박, 펜션"],
       ["J", "정보통신업", 135207, "소프트웨어, SI, 정보통신공사, 게임, 콘텐츠, 통신서비스"],
-      ["K", "금융·보험업", 69013, "금융회사, 보험대리점, 법인보험대리점, 대부업, 핀테크"],
-      ["L", "부동산업", 277819, "공인중개사, 부동산개발, 주택관리, 임대/관리"],
-      ["M", "전문·과학·기술업", 243418, "법무, 세무, 회계, 노무, 특허, 엔지니어링, 컨설팅"],
-      ["N", "사업시설·지원업", 134859, "인력공급, 근로자파견, 경비, 소독, 시설관리, 콜센터"],
+      ["K", "금융·보험업", 69013, "금융회사, 보험대리점, 법인보험대리점, 대부업, 자산운용"],
+      ["L", "부동산업", 277819, "공인중개, 부동산개발, 주택관리, 임대·관리"],
+      ["M", "전문·과학·기술서비스업", 243418, "법무, 노무, 회계, 세무, 특허, 건축설계, 엔지니어링, 컨설팅"],
+      ["N", "사업시설관리·사업지원업", 134859, "인력공급, 파견, 경비, 소독, 시설관리, 콜센터"],
       ["O", "공공행정", 13161, "공공기관, 지방공기업, 지자체, 행정기관"],
-      ["P", "교육서비스업", 279558, "학원, 교습소, 어린이집, 대학교, 직업훈련기관"],
+      ["P", "교육서비스업", 279558, "학원, 교습소, 어린이집, 대학, 직업훈련기관"],
       ["Q", "보건·사회복지업", 170056, "병원, 의원, 약국, 요양기관, 사회복지시설"],
-      ["R", "예술·스포츠·여가업", 153557, "공연장, 체육시설, 관광/여행, 레저, 게임/오락 시설"],
-      ["S", "협회·기타서비스업", 548361, "협회, 단체, 협동조합, 사회적기업, 생활서비스"]
+      ["R", "예술·스포츠·여가업", 153557, "공연장, 체육시설, 관광·여행, 게임·오락 시설"],
+      ["S", "협회·기타서비스업", 548361, "협회, 단체, 협동조합, 사회적기업, 생활서비스"],
     ];
+    const ksicNames = Object.fromEntries(ksicPlan.map(([code, name]) => [code, name]));
     const planQuerySuffixes = ["업체 홈페이지", "회사 문의", "대표전화", "업체 명단", "회원사"];
 
-    function option(select, value) {
+    function option(select, value, label = value) {
       const node = document.createElement("option");
       node.value = value;
-      node.textContent = value;
+      node.textContent = label;
       select.appendChild(node);
     }
     function escapeHtml(value) {
       return String(value || "").replace(/[&<>'"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", "\"": "&quot;" }[c]));
     }
-    function tag(value) {
-      return `<span class="tag">${escapeHtml(value)}</span>`;
+    function tag(value, className = "") {
+      return `<span class="tag ${className}">${escapeHtml(value)}</span>`;
+    }
+    function ksicLabel(item) {
+      const code = item.ksic_major_code || "";
+      if (!code) return "";
+      return `${code} · ${item.ksic_major_name || ksicNames[code] || "KSIC"}`;
     }
     function renderPlan() {
       const selected = ksicPlan.find(item => item[0] === el("planIndustry").value) || ksicPlan[0];
@@ -365,12 +388,7 @@
         .join("");
     }
     function initPlan() {
-      ksicPlan.forEach(([code, name]) => {
-        const node = document.createElement("option");
-        node.value = code;
-        node.textContent = `${code} · ${name}`;
-        el("planIndustry").appendChild(node);
-      });
+      ksicPlan.forEach(([code, name]) => option(el("planIndustry"), code, `${code} · ${name}`));
       renderPlan();
     }
     function passesContactFilter(item, filter) {
@@ -381,15 +399,29 @@
     }
     function apply() {
       const q = norm(el("q").value);
+      const ksic = el("ksic").value;
       const industry = el("industry").value;
       const region = el("region").value;
       const contactFilter = el("contactFilter").value;
       filtered = all.filter(item => {
+        if (ksic && item.ksic_major_code !== ksic) return false;
         if (industry && item.industry !== industry) return false;
         if (region && item.region !== region) return false;
         if (!passesContactFilter(item, contactFilter)) return false;
         if (!q) return true;
-        return norm([item.name, item.industry, item.field, item.region, item.address, item.homepage, item.phone, item.email, item.source].join(" ")).includes(q);
+        return norm([
+          item.name,
+          item.industry,
+          item.field,
+          item.ksic_major_code,
+          item.ksic_major_name,
+          item.region,
+          item.address,
+          item.homepage,
+          item.phone,
+          item.email,
+          item.source,
+        ].join(" ")).includes(q);
       });
       page = 1;
       render();
@@ -412,11 +444,13 @@
         card.className = "result";
         const homepage = item.homepage ? `<a class="btn" href="${escapeHtml(item.homepage)}" target="_blank" rel="noopener">홈페이지</a>` : "";
         const contact = item.contact ? `<a class="btn secondary" href="${escapeHtml(item.contact)}" target="_blank" rel="noopener">문의 페이지</a>` : "";
+        const ksic = ksicLabel(item);
         card.innerHTML = `
           <div>
             <h2>${escapeHtml(item.name)}</h2>
             <p>${escapeHtml(item.address || "주소 정보 없음")}</p>
             <div class="tags">
+              ${ksic ? tag(ksic, "ksic") : ""}
               ${tag(item.industry || "산업 미분류")}
               ${item.field ? tag(item.field) : ""}
               ${tag(item.region || "전국")}
@@ -443,14 +477,16 @@
     function showDetail(id) {
       const item = all.find(candidate => String(candidate.id) === String(id));
       if (!item) return;
+      const ksic = ksicLabel(item);
       el("detailTitle").textContent = item.name;
-      el("detailSubtitle").textContent = [item.industry || "산업 미분류", item.region || "전국"].join(" · ");
+      el("detailSubtitle").textContent = [item.industry || "산업 미분류", ksic || "", item.region || "전국"].filter(Boolean).join(" · ");
       el("detailActions").innerHTML = [
         item.homepage ? `<a href="${escapeHtml(item.homepage)}" target="_blank" rel="noopener">홈페이지 열기</a>` : "",
         item.contact ? `<a class="secondary" href="${escapeHtml(item.contact)}" target="_blank" rel="noopener">문의 페이지</a>` : "",
         item.email ? `<a class="secondary" href="mailto:${escapeHtml(item.email)}">이메일</a>` : ""
       ].filter(Boolean).join("");
       el("detailGrid").innerHTML = [
+        detailItem("KSIC", ksic),
         detailItem("산업", item.industry),
         detailItem("분야", item.field),
         detailItem("지역", item.region),
@@ -472,33 +508,40 @@
       const match = location.hash.match(/^#lead-(\d+)$/);
       if (match) showDetail(match[1]);
     }
-    fetch("data.json").then(r => r.json()).then(payload => {
+    function initialize(payload) {
       all = payload.items || [];
       filtered = all.slice();
-      el("totalCount").textContent = fmt(payload.summary.total);
-      el("regionCount").textContent = fmt(payload.summary.regions.length);
-      el("industryCount").textContent = fmt(payload.summary.industries.length);
-      el("generated").textContent = `updated ${payload.summary.generated}`;
-      payload.summary.industries.forEach(v => option(el("industry"), v));
-      payload.summary.regions.forEach(v => option(el("region"), v));
-      quickIndustries.filter(v => payload.summary.industries.includes(v)).forEach(value => {
+      const summary = payload.summary || {};
+      const ksicCodes = summary.ksic_major_codes || [...new Set(all.map(item => item.ksic_major_code).filter(Boolean))].sort();
+      el("totalCount").textContent = fmt(summary.total || all.length);
+      el("regionCount").textContent = fmt((summary.regions || []).length);
+      el("industryCount").textContent = fmt((summary.industries || []).length);
+      el("ksicCount").textContent = fmt(ksicCodes.length);
+      el("generated").textContent = `updated ${summary.generated || ""}`.trim();
+      ksicCodes.forEach(code => option(el("ksic"), code, `${code} · ${summary.ksic_major_names?.[code] || ksicNames[code] || "KSIC"}`));
+      (summary.industries || []).forEach(v => option(el("industry"), v));
+      (summary.regions || []).forEach(v => option(el("region"), v));
+      quickIndustries.filter(v => (summary.industries || []).includes(v)).forEach(value => {
         const button = document.createElement("button");
         button.type = "button";
         button.textContent = value;
         button.addEventListener("click", () => { el("industry").value = value; apply(); });
         el("quickLinks").appendChild(button);
       });
+      initPlan();
       render();
       openHashDetail();
-      initPlan();
-    });
+    }
+    fetch("data.json").then(r => r.json()).then(initialize);
     el("q").addEventListener("input", apply);
+    el("ksic").addEventListener("change", apply);
     el("industry").addEventListener("change", apply);
     el("region").addEventListener("change", apply);
     el("contactFilter").addEventListener("change", apply);
     el("planIndustry").addEventListener("change", renderPlan);
     el("reset").addEventListener("click", () => {
       el("q").value = "";
+      el("ksic").value = "";
       el("industry").value = "";
       el("region").value = "";
       el("contactFilter").value = "";
