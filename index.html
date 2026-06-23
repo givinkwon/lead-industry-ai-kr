@@ -528,6 +528,24 @@
       const match = location.hash.match(/^#lead-(\d+)$/);
       if (match) showDetail(match[1]);
     }
+    async function loadData() {
+      const manifest = await fetch("data-index.json", { cache: "no-store" })
+        .then(r => r.ok ? r.json() : Promise.reject(new Error("manifest unavailable")))
+        .catch(() => fetch("data.json", { cache: "no-store" }).then(r => r.json()));
+      const chunks = manifest.chunks || [];
+      if (!chunks.length) return manifest;
+      el("status").textContent = "데이터 불러오는 중";
+      const chunkPayloads = await Promise.all(chunks.map(chunk =>
+        fetch(chunk.url, { cache: "no-store" }).then(r => {
+          if (!r.ok) throw new Error(`failed to load ${chunk.url}`);
+          return r.json();
+        })
+      ));
+      return {
+        ...manifest,
+        items: chunkPayloads.flatMap(chunk => chunk.items || []),
+      };
+    }
     function initialize(payload) {
       all = payload.items || [];
       filtered = all.slice();
@@ -552,7 +570,11 @@
       render();
       openHashDetail();
     }
-    fetch("data.json").then(r => r.json()).then(initialize);
+    loadData().then(initialize).catch(error => {
+      console.error(error);
+      el("status").textContent = "데이터를 불러오지 못했습니다";
+      el("results").innerHTML = '<div class="empty panel">데이터를 불러오지 못했습니다. 잠시 후 다시 시도해 주세요.</div>';
+    });
     el("q").addEventListener("input", apply);
     el("ksic").addEventListener("change", apply);
     el("industry").addEventListener("change", apply);
