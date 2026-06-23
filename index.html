@@ -420,6 +420,8 @@
           item.field,
           item.segment,
           item.product,
+          item.certification_number,
+          item.representative,
           item.stock_code,
           item.ksic_major_code,
           item.ksic_major_name,
@@ -429,6 +431,7 @@
           item.phone,
           item.email,
           item.source,
+          item.source_page,
         ].join(" ")).includes(q);
       });
       page = 1;
@@ -501,6 +504,8 @@
         detailItem("산업", item.industry),
         detailItem("분야", item.field),
         optionalDetailItem("구분", item.segment),
+        optionalDetailItem("인증번호", item.certification_number),
+        optionalDetailItem("대표자", item.representative),
         optionalDetailItem("종목코드", item.stock_code),
         optionalDetailItem("주요제품", item.product),
         detailItem("지역", item.region),
@@ -508,7 +513,8 @@
         detailItem("전화", item.phone),
         detailItem("이메일", item.email, item.email ? `mailto:${item.email}` : ""),
         detailItem("홈페이지", item.homepage, item.homepage),
-        detailItem("문의 페이지", item.contact, item.contact)
+        detailItem("문의 페이지", item.contact, item.contact),
+        optionalDetailItem("원천 페이지", item.source_page, item.source_page)
       ].join("");
       el("detailSource").textContent = item.source || "정보 없음";
       el("detailOverlay").hidden = false;
