@@ -14,13 +14,14 @@
     :root {
       color-scheme: light;
       --ink: #132033;
-      --muted: #637083;
+      --muted: #627083;
       --line: #d7dee8;
       --bg: #f5f7fb;
       --panel: #fff;
       --soft: #f8fafc;
       --accent: #165dff;
       --accent-2: #0f766e;
+      --danger: #b42318;
       --shadow: 0 10px 30px rgba(19, 32, 51, .08);
     }
     * { box-sizing: border-box; }
@@ -56,11 +57,12 @@
       border-radius: 7px;
       background: var(--accent);
       color: #fff;
+      letter-spacing: 0;
     }
     .brand small, .muted, p { color: var(--muted); }
     main { padding: 24px 0 56px; }
     h1, h2, p { margin: 0; }
-    h1 { font-size: 28px; line-height: 1.25; }
+    h1 { font-size: 28px; line-height: 1.25; letter-spacing: 0; }
     .hero { display: grid; gap: 14px; margin-bottom: 14px; }
     .hero-head {
       display: flex;
@@ -68,6 +70,7 @@
       justify-content: space-between;
       gap: 18px;
     }
+    .hero-copy { display: grid; gap: 6px; }
     .quick-links { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 8px; }
     .quick-links button {
       width: auto;
@@ -78,6 +81,7 @@
       background: #fff;
       color: var(--accent);
       font-weight: 700;
+      white-space: nowrap;
     }
     .stats { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 10px; }
     .stat, .panel, .result, .detail-panel {
@@ -88,19 +92,19 @@
     }
     .stat { padding: 14px; min-width: 0; }
     .stat span { display: block; color: var(--muted); font-size: 13px; }
-    .stat strong { font-size: 23px; }
+    .stat strong { font-size: 23px; letter-spacing: 0; }
     .panel { padding: 14px; margin-bottom: 14px; }
     .plan-panel { display: grid; gap: 14px; }
     .plan-head {
       display: grid;
-      grid-template-columns: minmax(0, 1fr) 230px;
+      grid-template-columns: minmax(0, 1fr) 250px;
       gap: 12px;
       align-items: end;
     }
     .plan-head h2 { margin: 0 0 6px; font-size: 18px; }
     .plan-detail {
       display: grid;
-      grid-template-columns: minmax(160px, .5fr) minmax(0, 1.5fr);
+      grid-template-columns: minmax(180px, .55fr) minmax(0, 1.45fr);
       gap: 12px;
       align-items: center;
       padding: 12px;
@@ -109,7 +113,7 @@
       background: var(--soft);
     }
     .plan-detail span { display: block; color: var(--muted); font-size: 13px; }
-    .plan-detail strong { font-size: 24px; }
+    .plan-detail strong { font-size: 24px; letter-spacing: 0; }
     .query-list { display: flex; flex-wrap: wrap; gap: 8px; }
     .query-chip {
       max-width: 100%;
@@ -143,6 +147,7 @@
       color: #fff;
       font-weight: 700;
     }
+    button:disabled { cursor: not-allowed; opacity: .45; }
     .meta {
       display: flex;
       align-items: center;
@@ -159,8 +164,8 @@
       grid-template-columns: minmax(0, 1fr) auto;
       gap: 12px;
     }
-    .result h2 { margin: 0 0 6px; font-size: 18px; }
-    .result p { line-height: 1.5; }
+    .result h2 { margin: 0 0 6px; font-size: 18px; letter-spacing: 0; }
+    .result p { line-height: 1.5; overflow-wrap: anywhere; }
     .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
     .tag {
       border: 1px solid var(--line);
@@ -190,6 +195,7 @@
     .pager { display: flex; justify-content: center; gap: 8px; margin-top: 18px; }
     .pager button { width: auto; min-width: 92px; }
     .empty { padding: 28px; text-align: center; color: var(--muted); }
+    .error { color: var(--danger); }
     .detail-overlay {
       position: fixed;
       inset: 0;
@@ -212,7 +218,7 @@
       padding: 18px;
       border-bottom: 1px solid var(--line);
     }
-    .detail-head h2 { margin: 0 0 6px; font-size: 22px; }
+    .detail-head h2 { margin: 0 0 6px; font-size: 22px; letter-spacing: 0; }
     .detail-close {
       width: 42px;
       min-width: 42px;
@@ -220,6 +226,7 @@
       border-color: var(--line);
       background: #fff;
       color: var(--ink);
+      font-size: 24px;
     }
     .detail-body { display: grid; gap: 14px; padding: 18px; }
     .detail-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
@@ -258,10 +265,11 @@
       <p id="generated"></p>
     </div>
   </header>
+
   <main class="shell">
     <section class="hero">
       <div class="hero-head">
-        <div>
+        <div class="hero-copy">
           <h1>산업별 B2B 리드 검색</h1>
           <p>홈페이지가 확인된 전국 사업자 데이터를 산업, KSIC 대분류, 지역, 연락 채널로 검색합니다.</p>
         </div>
@@ -279,10 +287,10 @@
     <section class="panel plan-panel">
       <div class="plan-head">
         <div>
-          <h2>19개 산업 수집 기준</h2>
-          <p>KSIC 대분류별 수집 쿼리와 시장 규모를 함께 봅니다.</p>
+          <h2>산업별 탐색 기준</h2>
+          <p>19개 KSIC 대분류를 기준으로 실제 세일즈 탐색에 쓸 검색어와 현재 확보량을 함께 봅니다.</p>
         </div>
-        <select id="planIndustry" aria-label="산업 수집 기준 선택"></select>
+        <select id="planIndustry" aria-label="산업 탐색 기준 선택"></select>
       </div>
       <div class="plan-detail">
         <div><span id="planCode">KSIC</span><strong id="planCount">-</strong></div>
@@ -293,7 +301,7 @@
 
     <section class="panel">
       <div class="controls">
-        <input id="q" type="search" placeholder="회사명, 주소, 홈페이지, 이메일 검색" autocomplete="off">
+        <input id="q" type="search" placeholder="회사명, 주소, 홈페이지, 제품, 부스 검색" autocomplete="off">
         <select id="ksic"><option value="">전체 KSIC</option></select>
         <select id="industry"><option value="">전체 산업</option></select>
         <select id="region"><option value="">전체 지역</option></select>
@@ -337,33 +345,46 @@
     let all = [];
     let filtered = [];
     let page = 1;
+    let summary = {};
     const el = id => document.getElementById(id);
     const fmt = n => Number(n || 0).toLocaleString("ko-KR");
     const norm = v => String(v || "").toLowerCase().replace(/\s+/g, " ").trim();
-    const quickIndustries = ["법무법인", "노무법인", "건축사사무소", "소방시설업", "환경측정업", "승강기유지관리업", "자산운용사", "관세법인"];
+    const quickIndustries = [
+      "배터리·에너지",
+      "스마트팩토리·자동화",
+      "의료·헬스케어",
+      "바이오·제약·연구장비",
+      "포장·패키징",
+      "물류·콜드체인",
+      "화학·소재",
+      "제조업",
+      "정보통신업",
+      "전문서비스",
+      "건축사사무소"
+    ];
     const ksicPlan = [
-      ["A", "농림어업", 11876, "농업법인, 임업경영체, 축산·가공·인허가, 생산자조직"],
-      ["B", "광업", 1892, "광업권, 광산, 골재·석재, 자원개발"],
-      ["C", "제조업", 504728, "공장, 산업단지, 벤처·이노비즈, 조달 품목 제조사"],
-      ["D", "전기·가스·증기업", 147040, "발전사업, 전력기술, 신재생 에너지 설비"],
-      ["E", "수도·하수·폐기물업", 13621, "폐기물, 환경전문공사, 수질·환경 처리"],
-      ["F", "건설업", 504985, "종합건설, 전문건설, 설비, 전기·정보통신공사, 인테리어"],
-      ["G", "도소매업", 1612825, "도매, 유통, 총판, 대리점, 통신판매, 프랜차이즈"],
-      ["H", "운수·창고업", 673324, "화물운송, 운송주선, 물류창고, 냉장·냉동창고, 배송"],
-      ["I", "숙박·음식점업", 858373, "음식점, 카페, 제과, 숙박, 관광숙박, 펜션"],
-      ["J", "정보통신업", 135207, "소프트웨어, SI, 정보통신공사, 게임, 콘텐츠, 통신서비스"],
-      ["K", "금융·보험업", 69013, "금융회사, 보험대리점, 법인보험대리점, 대부업, 자산운용"],
-      ["L", "부동산업", 277819, "공인중개, 부동산개발, 주택관리, 임대·관리"],
-      ["M", "전문·과학·기술서비스업", 243418, "법무, 노무, 회계, 세무, 특허, 건축설계, 엔지니어링, 컨설팅"],
-      ["N", "사업시설관리·사업지원업", 134859, "인력공급, 파견, 경비, 소독, 시설관리, 콜센터"],
-      ["O", "공공행정", 13161, "공공기관, 지방공기업, 지자체, 행정기관"],
-      ["P", "교육서비스업", 279558, "학원, 교습소, 어린이집, 대학, 직업훈련기관"],
-      ["Q", "보건·사회복지업", 170056, "병원, 의원, 약국, 요양기관, 사회복지시설"],
-      ["R", "예술·스포츠·여가업", 153557, "공연장, 체육시설, 관광·여행, 게임·오락 시설"],
-      ["S", "협회·기타서비스업", 548361, "협회, 단체, 협동조합, 사회적기업, 생활서비스"],
+      ["A", "농업, 임업 및 어업", "농업법인, 축산, 가공식품, 스마트팜, 생산자 조직"],
+      ["B", "광업", "광산, 골재, 석재, 원자재 개발"],
+      ["C", "제조업", "공장, 산업단지, 부품, 장비, 소재, OEM, 조달 제조사"],
+      ["D", "전기, 가스, 증기 및 공기조절 공급업", "발전, 전력기술, 재생에너지, 에너지 설비"],
+      ["E", "수도, 하수 및 폐기물 처리, 원료 재생업", "폐기물, 환경플랜트, 수처리, 재활용"],
+      ["F", "건설업", "종합건설, 전문건설, 설비, 전기, 통신, 인테리어"],
+      ["G", "도매 및 소매업", "도매, 유통, 총판, 대리점, 장비 판매"],
+      ["H", "운수 및 창고업", "화물운송, 포워딩, 물류창고, 냉장, 냉동, 배송"],
+      ["I", "숙박 및 음식점업", "외식, 카페, 숙박, 관광숙박, 프랜차이즈"],
+      ["J", "정보통신업", "소프트웨어, SI, 플랫폼, 데이터, 게임, 콘텐츠, 통신"],
+      ["K", "금융 및 보험업", "금융사, 보험대리점, 자산운용, 투자, 대부"],
+      ["L", "부동산업", "중개, 개발, 주택관리, 임대, 자산관리"],
+      ["M", "전문, 과학 및 기술 서비스업", "법무, 세무, 회계, 특허, 설계, 엔지니어링, 컨설팅"],
+      ["N", "사업시설 관리, 사업 지원 및 임대 서비스업", "인력공급, 경비, 청소, 시설관리, 콜센터, 렌탈"],
+      ["O", "공공 행정, 국방 및 사회보장 행정", "공공기관, 지방공기업, 지자체, 행정기관"],
+      ["P", "교육 서비스업", "학원, 교습소, 어린이집, 대학, 직업훈련기관"],
+      ["Q", "보건업 및 사회복지 서비스업", "병원, 의원, 약국, 요양기관, 복지시설"],
+      ["R", "예술, 스포츠 및 여가관련 서비스업", "공연, 체육시설, 관광, 여가, 게임, 오락시설"],
+      ["S", "협회 및 단체, 수리 및 기타 개인 서비스업", "협회, 단체, 조합, 수리, 생활서비스"]
     ];
     const ksicNames = Object.fromEntries(ksicPlan.map(([code, name]) => [code, name]));
-    const planQuerySuffixes = ["업체 홈페이지", "회사 문의", "대표전화", "업체 명단", "회원사"];
+    const planQuerySuffixes = ["업체 홈페이지", "회사 문의", "전시 참가기업", "업체 명단", "협회 회원사"];
 
     function option(select, value, label = value) {
       const node = document.createElement("option");
@@ -380,12 +401,13 @@
     function ksicLabel(item) {
       const code = item.ksic_major_code || "";
       if (!code) return "";
-      return `${code} · ${item.ksic_major_name || ksicNames[code] || "KSIC"}`;
+      return `${code} · ${item.ksic_major_name || summary.ksic_major_names?.[code] || ksicNames[code] || "KSIC"}`;
     }
     function renderPlan() {
       const selected = ksicPlan.find(item => item[0] === el("planIndustry").value) || ksicPlan[0];
-      const [code, name, count, note] = selected;
-      el("planCode").textContent = `${code} · ${name}`;
+      const [code, name, note] = selected;
+      const count = summary.ksic_major_counts?.[code] || 0;
+      el("planCode").textContent = `${code} · ${summary.ksic_major_names?.[code] || name}`;
       el("planCount").textContent = `${fmt(count)}개`;
       el("planNote").textContent = note;
       el("planQueries").innerHTML = planQuerySuffixes
@@ -393,7 +415,8 @@
         .join("");
     }
     function initPlan() {
-      ksicPlan.forEach(([code, name]) => option(el("planIndustry"), code, `${code} · ${name}`));
+      el("planIndustry").innerHTML = "";
+      ksicPlan.forEach(([code, name]) => option(el("planIndustry"), code, `${code} · ${summary.ksic_major_names?.[code] || name}`));
       renderPlan();
     }
     function passesContactFilter(item, filter) {
@@ -422,6 +445,7 @@
           item.product,
           item.certification_number,
           item.representative,
+          item.ceo,
           item.stock_code,
           item.ksic_major_code,
           item.ksic_major_name,
@@ -430,8 +454,11 @@
           item.homepage,
           item.phone,
           item.email,
+          item.booth,
+          item.business_type,
+          item.industry_type,
           item.source,
-          item.source_page,
+          item.source_page
         ].join(" ")).includes(q);
       });
       page = 1;
@@ -448,6 +475,8 @@
       results.innerHTML = "";
       if (!items.length) {
         results.innerHTML = '<div class="empty panel">검색 결과가 없습니다.</div>';
+        el("prev").disabled = true;
+        el("next").disabled = true;
         return;
       }
       for (const item of items) {
@@ -465,12 +494,13 @@
               ${tag(item.industry || "산업 미분류")}
               ${item.field ? tag(item.field) : ""}
               ${tag(item.region || "전국")}
+              ${item.booth ? tag(`부스 ${item.booth}`) : ""}
               ${item.phone ? tag(item.phone) : ""}
               ${item.email ? tag(item.email) : ""}
             </div>
           </div>
           <div class="links">
-            <button class="link-btn" type="button" data-detail-id="${item.id}">상세보기</button>
+            <button class="link-btn" type="button" data-detail-id="${escapeHtml(item.id)}">상세보기</button>
             ${homepage}
             ${contact}
           </div>`;
@@ -481,8 +511,9 @@
       el("next").disabled = start + pageSize >= filtered.length;
     }
     function detailItem(label, value, href) {
-      const safeValue = escapeHtml(value || "정보 없음");
-      const content = href ? `<a href="${escapeHtml(href)}" target="_blank" rel="noopener">${safeValue}</a>` : `<strong>${safeValue}</strong>`;
+      const hasValue = value !== undefined && value !== null && String(value).trim() !== "";
+      const safeValue = escapeHtml(hasValue ? value : "정보 없음");
+      const content = href && hasValue ? `<a href="${escapeHtml(href)}" target="_blank" rel="noopener">${safeValue}</a>` : `<strong>${safeValue}</strong>`;
       return `<div class="detail-item"><span>${escapeHtml(label)}</span>${content}</div>`;
     }
     function optionalDetailItem(label, value, href) {
@@ -504,16 +535,19 @@
         detailItem("산업", item.industry),
         detailItem("분야", item.field),
         optionalDetailItem("구분", item.segment),
-        optionalDetailItem("인증번호", item.certification_number),
-        optionalDetailItem("대표자", item.representative),
-        optionalDetailItem("종목코드", item.stock_code),
         optionalDetailItem("주요제품", item.product),
         detailItem("지역", item.region),
         detailItem("주소", item.address),
-        detailItem("전화", item.phone),
-        detailItem("이메일", item.email, item.email ? `mailto:${item.email}` : ""),
+        optionalDetailItem("부스", item.booth),
+        optionalDetailItem("전화", item.phone),
+        optionalDetailItem("이메일", item.email, item.email ? `mailto:${item.email}` : ""),
         detailItem("홈페이지", item.homepage, item.homepage),
-        detailItem("문의 페이지", item.contact, item.contact),
+        optionalDetailItem("문의 페이지", item.contact, item.contact),
+        optionalDetailItem("대표자", item.representative || item.ceo),
+        optionalDetailItem("사업유형", item.business_type),
+        optionalDetailItem("세부분류", item.industry_type),
+        optionalDetailItem("인증번호", item.certification_number),
+        optionalDetailItem("종목코드", item.stock_code),
         optionalDetailItem("원천 페이지", item.source_page, item.source_page)
       ].join("");
       el("detailSource").textContent = item.source || "정보 없음";
@@ -543,19 +577,19 @@
       ));
       return {
         ...manifest,
-        items: chunkPayloads.flatMap(chunk => chunk.items || []),
+        items: chunkPayloads.flatMap(chunk => chunk.items || [])
       };
     }
     function initialize(payload) {
       all = payload.items || [];
       filtered = all.slice();
-      const summary = payload.summary || {};
+      summary = payload.summary || {};
       const ksicCodes = summary.ksic_major_codes || [...new Set(all.map(item => item.ksic_major_code).filter(Boolean))].sort();
       el("totalCount").textContent = fmt(summary.total || all.length);
       el("regionCount").textContent = fmt((summary.regions || []).length);
       el("industryCount").textContent = fmt((summary.industries || []).length);
       el("ksicCount").textContent = fmt(ksicCodes.length);
-      el("generated").textContent = `updated ${summary.generated || ""}`.trim();
+      el("generated").textContent = summary.generated ? `updated ${summary.generated}` : "";
       ksicCodes.forEach(code => option(el("ksic"), code, `${code} · ${summary.ksic_major_names?.[code] || ksicNames[code] || "KSIC"}`));
       (summary.industries || []).forEach(v => option(el("industry"), v));
       (summary.regions || []).forEach(v => option(el("region"), v));
@@ -572,7 +606,7 @@
     }
     loadData().then(initialize).catch(error => {
       console.error(error);
-      el("status").textContent = "데이터를 불러오지 못했습니다";
+      el("status").innerHTML = '<span class="error">데이터를 불러오지 못했습니다.</span>';
       el("results").innerHTML = '<div class="empty panel">데이터를 불러오지 못했습니다. 잠시 후 다시 시도해 주세요.</div>';
     });
     el("q").addEventListener("input", apply);
