@@ -418,6 +418,9 @@
           item.name,
           item.industry,
           item.field,
+          item.segment,
+          item.product,
+          item.stock_code,
           item.ksic_major_code,
           item.ksic_major_name,
           item.region,
@@ -479,6 +482,9 @@
       const content = href ? `<a href="${escapeHtml(href)}" target="_blank" rel="noopener">${safeValue}</a>` : `<strong>${safeValue}</strong>`;
       return `<div class="detail-item"><span>${escapeHtml(label)}</span>${content}</div>`;
     }
+    function optionalDetailItem(label, value, href) {
+      return value ? detailItem(label, value, href) : "";
+    }
     function showDetail(id) {
       const item = all.find(candidate => String(candidate.id) === String(id));
       if (!item) return;
@@ -494,6 +500,9 @@
         detailItem("KSIC", ksic),
         detailItem("산업", item.industry),
         detailItem("분야", item.field),
+        optionalDetailItem("구분", item.segment),
+        optionalDetailItem("종목코드", item.stock_code),
+        optionalDetailItem("주요제품", item.product),
         detailItem("지역", item.region),
         detailItem("주소", item.address),
         detailItem("전화", item.phone),
