@@ -25763,6 +25763,25 @@
       "lead_quality_grade": "A",
       "product": "Aluminum Flexible Duct Hose",
       "id": "121631"
+    },
+    {
+      "name": "GT SCIEN Co., Ltd.",
+      "industry": "환경·수처리·자원순환",
+      "field": "수출 환경·수처리·자원순환",
+      "segment": "GoBizKorea 수출기업 스토어",
+      "region": "전국",
+      "address": "",
+      "homepage": "https://sysgm_000013861.gobizkorea.com/",
+      "contact": "",
+      "phone": "",
+      "email": "",
+      "confidence": "high",
+      "source": "source_file:gobizkorea_seller_store",
+      "ksic_major_code": "E",
+      "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
+      "lead_quality_grade": "A",
+      "product": "Toxic Gas Purification System (M01D)",
+      "id": "121632"
     }
   ]
 }
