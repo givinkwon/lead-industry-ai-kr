@@ -44459,8 +44459,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "https://eq-global.co.kr/eng/main/main.html",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-321-2995, 031-321-2905 / 홈페이지: https://eq-global.co.kr/eng/main/main.html",
+      "phone": "031-321-2995, 031-321-2905",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -44470,7 +44470,9 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "B",
       "booth": "C704",
-      "source_note": "Since its establishment in 2001, EQ Global has grown into the best semiconductor equipment repair company in Korea through continuous investment and R&D. We provide a wide range of technical solutions to our customers through our expansion into plasma sources for semiconductor equipment and their applications. EQ Global's efforts to improve customer value do not stop in Korea. EQ Global is supporting global customers by establishing local subsidiaries in Wuxi, China and Singapore, and is impleme"
+      "source_note": "Since its establishment in 2001, EQ Global has grown into the best semiconductor equipment repair company in Korea through continuous investment and R&D. We provide a wide range of technical solutions to our customers through our expansion into plasma sources for semiconductor equipment and their applications. EQ Global's efforts to improve customer value do not stop in Korea. EQ Global is supporting global customers by establishing local subsidiaries in Wuxi, China and Singapore, and is impleme",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next16_enrichment; final_url=https://eq-global.co.kr/eng/company/ceo_greeting.html; title=CEO Message | About Us | 이큐글로벌; body_bytes=667; name_score=5; phones=031-321-2995,031-321-2905; emails=; checked_urls=https://eq-global.co.kr/eng/main/main.html,https://eq-global.co.kr/kor/main/main.html,https://eq-global.co.kr/eng/company/ceo_greeting.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "89018",
@@ -74330,9 +74332,9 @@
       "region": "경기",
       "address": "경기 광주시 광남안로 29-18 (주)세한",
       "homepage": "http://www.airshaft.kr",
-      "contact": "https://interbattery.or.kr/company-directories/2924?year=2026&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-767-5200, 031-767-5205 / 이메일: shi5200@airshaft.kr / 홈페이지: http://www.airshaft.kr",
+      "phone": "031-767-5200, 031-767-5205",
+      "email": "shi5200@airshaft.kr",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
       "source_page": "https://interbattery.or.kr/company-directories?year=2026&hl=en",
@@ -74344,7 +74346,9 @@
       "country": "KR",
       "business_type": "제조업",
       "industry_type": "에어샤프트, 로타리조인트",
-      "ceo": "김재윤"
+      "ceo": "김재윤",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next16_enrichment; final_url=http://www.airshaft.kr/main; title=saehan; body_bytes=0; name_score=5; phones=031-767-5200,031-767-5205; emails=shi5200@airshaft.kr; checked_urls=http://www.airshaft.kr/main,http://www.airshaft.kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90572",

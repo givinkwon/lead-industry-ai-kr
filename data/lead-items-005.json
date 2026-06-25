@@ -15194,9 +15194,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.artistchai.co.kr",
-      "contact": "",
+      "contact": "이메일: ethics@artistchai.co.kr / 홈페이지: http://www.artistchai.co.kr",
       "phone": "",
-      "email": "",
+      "email": "ethics@artistchai.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78385",
@@ -15204,7 +15204,9 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
       "stock_code": "351870",
-      "product": "광고대행, 광고물 작성"
+      "product": "광고대행, 광고물 작성",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next16_enrichment; final_url=https://www.artistchai.co.kr/#/contact/contactus; title=CHAI communication; body_bytes=4556; name_score=5; phones=; emails=ethics@artistchai.co.kr; checked_urls=https://www.artistchai.co.kr/#/,https://www.artistchai.co.kr/#/contact/contactus; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "아이언디바이스",
@@ -15940,9 +15942,9 @@
       "region": "대전광역시",
       "address": "",
       "homepage": "http://ybiologics.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-580-0533, 02-3480-3600, 02-392-0330 / 이메일: info@ybiologics.com / 홈페이지: http://ybiologics.com",
+      "phone": "02-580-0533, 02-3480-3600, 02-392-0330",
+      "email": "info@ybiologics.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78424",
@@ -15950,7 +15952,9 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
       "stock_code": "338840",
-      "product": "항체의약품 및 항체후보물질 연구개발"
+      "product": "항체의약품 및 항체후보물질 연구개발",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next16_enrichment; final_url=https://ybiologics.com/companyinfo; title=(주)와이바이오로직스; body_bytes=2380; name_score=5; phones=02-580-0533,02-3480-3600,02-392-0330; emails=info@ybiologics.com; checked_urls=https://ybiologics.com/,https://ybiologics.com/contact,https://ybiologics.com/companyinfo; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "에이텀",
@@ -16422,9 +16426,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.ycpipe.com",
-      "contact": "",
+      "contact": "이메일: braeden@ycpipe.com / 홈페이지: http://www.ycpipe.com",
       "phone": "",
-      "email": "",
+      "email": "braeden@ycpipe.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78450",
@@ -16432,7 +16436,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "146060",
-      "product": "냉간인발강관(파이프)"
+      "product": "냉간인발강관(파이프)",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next16_enrichment; final_url=https://ycpipe.com/ko/%EB%8C%80%ED%91%9C%EC%9D%B4%EC%82%AC-%EC%9D%B8%EC%82%AC%EB%A7%90/; title=인사말 – YULCHON; body_bytes=1791; name_score=5; phones=; emails=braeden@ycpipe.com; checked_urls=https://ycpipe.com/ko/%ec%a3%bc%ec%9c%a8%ec%b4%8c/,https://ycpipe.com/en/contact-us/,https://ycpipe.com/ko/%EB%8C%80%ED%91%9C%EC%9D%B4%EC%82%AC-%EC%9D%B8%EC%82%AC%EB%A7%90/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "크라우드웍스",
