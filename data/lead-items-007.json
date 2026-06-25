@@ -61112,15 +61112,15 @@
       "region": "전국",
       "address": "11-8 GWANGNARU-RO 4GA-GIL, SEONGDONG-GU, SEOUL, REPUBLIC OF KOREA KNOTTERS SQUARE",
       "homepage": "https://handly.team",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
+      "contact": "이메일: support@handly.team / 홈페이지: https://handly.team",
       "phone": "",
-      "email": "",
+      "email": "support@handly.team",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "A1009",
       "source_id": "smart-tech-korea-2026:COM_42798",
       "country": "Korea, South",
@@ -61128,7 +61128,9 @@
       "category_names": [
         "Smart Tech Show",
         "AI·빅데이터"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://about.handly.team/; title=스마트 워크스페이스의 시작 | 핸들리; body_bytes=3107; name_score=7; phones=; emails=support@handly.team; checked_urls=https://about.handly.team/,https://about.handly.team/,https://about.handly.team/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95892",
@@ -61168,15 +61170,15 @@
       "region": "전국",
       "address": "2639 SEJONG-RO, JOCHIWON-EUP, SEJONG-SI, REPUBLIC OF KOREA RM 405, FLEXIBLE INCUBATION ROOM, INDUSTRY-ACADEMIA COOPERATION BLDG.",
       "homepage": "https://www.heycare.co.kr",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
+      "contact": "이메일: heycare@naver.com / 홈페이지: https://www.heycare.co.kr",
       "phone": "",
-      "email": "",
+      "email": "heycare@naver.com",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "A1311",
       "source_id": "smart-tech-korea-2026:COM_43356",
       "country": "Korea, South",
@@ -61184,7 +61186,9 @@
       "category_names": [
         "Smart Tech Show",
         "디지털헬스케어"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://www.heycare.co.kr/; title=Heycare | 시니어 리빙 큐레이터; body_bytes=5002; name_score=7; phones=; emails=heycare@naver.com; checked_urls=https://www.heycare.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95894",
@@ -61616,15 +61620,15 @@
       "region": "전국",
       "address": "655 PYEONGCHEON-RO, WONMI-GU, BUCHEON-SI, GYEONGGI-DO, REPUBLIC OF KOREA 403-501",
       "homepage": "http://keypass.co.kr",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 032-234-1717 / 이메일: info@keypass.co.kr / 홈페이지: http://keypass.co.kr",
+      "phone": "032-234-1717",
+      "email": "info@keypass.co.kr",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
       "ksic_major_code": "H",
       "ksic_major_name": "운수 및 창고업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "C602",
       "source_id": "smart-tech-korea-2026:COM_42815",
       "country": "Korea, South",
@@ -61632,7 +61636,9 @@
       "category_names": [
         "Retail & Logis Tech Show",
         "물류자동화·운반장비"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://keypass.co.kr/home/index.php; title=키패스; body_bytes=3627; name_score=7; phones=032-234-1717; emails=info@keypass.co.kr; checked_urls=https://keypass.co.kr/home/index.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95914",
@@ -62148,15 +62154,15 @@
       "region": "전국",
       "address": "55 SONGPA-DAERO 49-GIL, SONGPA-GU, SEOUL, REPUBLIC OF KOREA LOAS",
       "homepage": "https://www.loas.ai",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-6486-6411 / 이메일: info@loas.ai / 홈페이지: https://www.loas.ai",
+      "phone": "02-6486-6411",
+      "email": "info@loas.ai",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "C400",
       "source_id": "smart-tech-korea-2026:COM_42903",
       "country": "Korea, South",
@@ -62164,7 +62170,9 @@
       "category_names": [
         "Robot Tech Show",
         "디지털헬스케어"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://www.loas.ai/; title=LOAS 로아스 │ AI 음향 진단 · Physical AI 기반 산업 자율 운영 플랫폼 기업; body_bytes=6131; name_score=5; phones=02-6486-6411,033-443-6411; emails=info@loas.ai; checked_urls=https://www.loas.ai/,https://www.loas.ai/loas-information-1-1; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95936",
@@ -62344,15 +62352,15 @@
       "region": "전국",
       "address": "36 CHILPAE-RO, JUNG-GU, SEOUL, REPUBLIC OF KOREA 3F",
       "homepage": "https://mindvr.co.kr",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
+      "contact": "이메일: mindvridge.official@gmail.com / 홈페이지: https://mindvr.co.kr",
       "phone": "",
-      "email": "",
+      "email": "mindvridge.official@gmail.com",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "B405",
       "source_id": "smart-tech-korea-2026:COM_43214",
       "country": "Korea, South",
@@ -62360,7 +62368,9 @@
       "category_names": [
         "KMF",
         "AI·빅데이터"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://mindvr.co.kr/; title=VR·AI 심리상담 및 훈련 플랫폼 | 마인드브이알; body_bytes=4623; name_score=7; phones=; emails=mindvridge.official@gmail.com; checked_urls=https://mindvr.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95948",
@@ -62988,15 +62998,15 @@
       "region": "전국",
       "address": "5th Floor, 12, Daewangpangyo-ro 645beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea",
       "homepage": "https://pikaicorp.com",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
+      "contact": "이메일: contact@pikaicorp.com / 홈페이지: https://pikaicorp.com",
       "phone": "",
-      "email": "",
+      "email": "contact@pikaicorp.com",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "none",
       "source_id": "smart-tech-korea-2026:COM_43248",
       "country": "Korea, South",
@@ -63004,7 +63014,9 @@
       "category_names": [
         "AI&Big Data Show",
         "로봇·AI 자동화"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://pikaicorp.com/; title=pikaicorp; body_bytes=14603; name_score=17; phones=; emails=contact@pikaicorp.com; checked_urls=https://pikaicorp.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95974",
@@ -106240,9 +106252,9 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.orangesquare.kr",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=122",
+      "contact": "이메일: contact@orangesquare.kr / 홈페이지: https://www.orangesquare.kr",
       "phone": "",
-      "email": "",
+      "email": "contact@orangesquare.kr",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
       "ksic_major_code": "K",
@@ -106250,7 +106262,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 소액해외송금 / 기타",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98151"
+      "id": "98151",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://www.orangesquare.kr/; title=오렌지스퀘어 | 국내 No.1 무인환전기 & 외국인 결제 플랫폼; body_bytes=4579; name_score=5; phones=; emails=contact@orangesquare.kr; checked_urls=https://www.orangesquare.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "보임테크놀러지(주)",
@@ -106260,8 +106274,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.voimtech.com",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=125",
-      "phone": "",
+      "contact": "전화: 02-890-7000 / 홈페이지: http://www.voimtech.com",
+      "phone": "02-890-7000",
       "email": "",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
@@ -106270,7 +106284,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 보안인증",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98153"
+      "id": "98153",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://www.voim.kr/; title=보임테크놀러지; body_bytes=3967; name_score=5; phones=02-890-7000,02-890-7011; emails=; checked_urls=https://www.voim.kr/,https://www.voim.kr/prd_logistics; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "위드머니",
@@ -106280,8 +106296,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.oneremit.co.kr",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=127",
-      "phone": "",
+      "contact": "전화: 02-2285-2077 / 홈페이지: http://www.oneremit.co.kr",
+      "phone": "02-2285-2077",
       "email": "",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
@@ -106290,7 +106306,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 소액해외송금",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98155"
+      "id": "98155",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=http://www.oneremit.co.kr/web/main.view; title=WithMoney CO.,LTD; body_bytes=27680; name_score=3; phones=02-2285-2077,02-2285-2078,070-8785-1799; emails=; checked_urls=http://www.oneremit.co.kr/web/main.view,http://www.oneremit.co.kr/web/serviceInfo/company_introduce.view; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "크레파스솔루션(주)",
@@ -106720,8 +106738,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.cocktailfunding.com",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=174",
-      "phone": "",
+      "contact": "전화: 02-785-2016 / 홈페이지: http://www.cocktailfunding.com",
+      "phone": "02-785-2016",
       "email": "",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
@@ -106730,7 +106748,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / P2P금융 / 자산관리",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98184"
+      "id": "98184",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://v2.cocktailfunding.com/; title=칵테일펀딩 - 리더를 위한 쉬운 투자; body_bytes=22446; name_score=5; phones=02-785-2016; emails=; checked_urls=https://v2.cocktailfunding.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)얼터너티브자산운용",
@@ -106760,8 +106780,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.cetecom.kr/",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=177",
-      "phone": "",
+      "contact": "전화: 031-321-2988 / 홈페이지: http://www.cetecom.kr/",
+      "phone": "031-321-2988",
       "email": "",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
@@ -106770,7 +106790,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 간편송금/지급결제 / 보안인증 / 컨설팅/리서치",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98186"
+      "id": "98186",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=http://www.cetecom.kr/main.php?userAgent=PC; title=쎄테콤; body_bytes=3000; name_score=3; phones=031-321-2988,031-478-4653; emails=; checked_urls=http://www.cetecom.kr/main.php?userAgent=PC,http://www.cetecom.kr/main.php?m1=27&m2=37,http://www.cetecom.kr/main.php?m1=32&m2=50; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "아고다페이먼트코리아(유)",
@@ -106900,9 +106922,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://Tosspayments.com",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=202",
+      "contact": "이메일: support@tosspayments.com / 홈페이지: http://Tosspayments.com",
       "phone": "",
-      "email": "",
+      "email": "support@tosspayments.com",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
       "ksic_major_code": "K",
@@ -106910,7 +106932,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / PG",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98198"
+      "id": "98198",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://www.tosspayments.com/; title=토스페이먼츠; body_bytes=5069; name_score=5; phones=; emails=support@tosspayments.com; checked_urls=https://www.tosspayments.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)스몰티켓",
@@ -106980,9 +107004,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.utransfer.com",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=219",
+      "contact": "이메일: support@utransfer.com / 홈페이지: http://www.utransfer.com",
       "phone": "",
-      "email": "",
+      "email": "support@utransfer.com",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
       "ksic_major_code": "K",
@@ -106990,7 +107014,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 간편송금/지급결제 / 소액해외송금",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98206"
+      "id": "98206",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://www.utransfer.com/; title=유트랜스퍼 - 해외송금이 필요할 때; body_bytes=3341; name_score=5; phones=; emails=support@utransfer.com,partnership@utransfer.com; checked_urls=https://www.utransfer.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)뱅큐",
@@ -107300,9 +107326,9 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.eztechfin.co.kr/",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=265",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 070-7841-1330 / 이메일: cs@eztechfin.co.kr / 홈페이지: https://www.eztechfin.co.kr/",
+      "phone": "070-7841-1330",
+      "email": "cs@eztechfin.co.kr",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
       "ksic_major_code": "K",
@@ -107310,7 +107336,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 금융투자 / 블록체인(가상자산)",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98228"
+      "id": "98228",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://www.eztechfin.co.kr/; title=이지테크핀 | EzTechFin; body_bytes=5039; name_score=5; phones=070-7841-1330; emails=cs@eztechfin.co.kr; checked_urls=https://www.eztechfin.co.kr/,https://www.eztechfin.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)푸시",
@@ -107340,8 +107368,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.kodata.co.kr",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=270",
-      "phone": "",
+      "contact": "전화: 02-3215-2673 / 홈페이지: http://www.kodata.co.kr",
+      "phone": "02-3215-2673",
       "email": "",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
@@ -107350,7 +107378,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 컨설팅/리서치 / 기타",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98230"
+      "id": "98230",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=http://www.kodata.co.kr/ci/CIINT01R0.do; title=KODATA (한국평가데이터); body_bytes=4032; name_score=5; phones=02-3215-2673; emails=; checked_urls=http://www.kodata.co.kr/ci/CIINT01R0.do,http://www.kodata.co.kr/ci/CICEO01R0.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)밴코",
@@ -107440,9 +107470,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.wealthguide.co.kr",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=280",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-3482-4867 / 이메일: contact@wealthguide.co.kr / 홈페이지: http://www.wealthguide.co.kr",
+      "phone": "02-3482-4867",
+      "email": "contact@wealthguide.co.kr",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
       "ksic_major_code": "K",
@@ -107450,7 +107480,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 자산관리",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98237"
+      "id": "98237",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://pfai.co.kr/; title=WEALTHGUIDE × PFAI — 개인 맞춤형 금융 AI 플랫폼; body_bytes=4479; name_score=5; phones=02-3482-4867; emails=contact@wealthguide.co.kr; checked_urls=https://pfai.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)빅쏠",
@@ -111930,8 +111962,8 @@
       "region": "전국",
       "address": "",
       "homepage": "https://seon.co.kr",
-      "contact": "https://proptech.or.kr/members",
-      "phone": "",
+      "contact": "전화: 043-220-8500 / 홈페이지: https://seon.co.kr",
+      "phone": "043-220-8500",
       "email": "",
       "confidence": "high",
       "source": "source_file:proptech_korea_forum_member_homepage",
@@ -111940,7 +111972,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원 / 부동산 / Estate Advisory / 건축 설계 및 종합 감리",
       "source_page": "https://proptech.or.kr/members",
-      "id": "98519"
+      "id": "98519",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://seon.co.kr/; title=(주)선엔지니어링종합건축사사무소; body_bytes=8229; name_score=5; phones=043-220-8500,043-257-1314; emails=; checked_urls=https://seon.co.kr/,https://seon.co.kr/about,https://seon.co.kr/csr,https://seon.co.kr/inquiry; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "세이프홈즈",
@@ -112050,8 +112084,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.spacebank.co.kr",
-      "contact": "https://proptech.or.kr/members",
-      "phone": "",
+      "contact": "전화: 070-4231-0270 / 홈페이지: http://www.spacebank.co.kr",
+      "phone": "070-4231-0270",
       "email": "",
       "confidence": "high",
       "source": "source_file:proptech_korea_forum_member_homepage",
@@ -112060,7 +112094,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원 / IT/TECH/스타트업 / IoT / Smart home / 공간 공유 플랫폼 / - 라이드(RAIID)",
       "source_page": "https://proptech.or.kr/members",
-      "id": "98525"
+      "id": "98525",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://www.spacebank.co.kr/; title=스페이스뱅크; body_bytes=5596; name_score=5; phones=070-4231-0270,031-704-6667; emails=; checked_urls=https://www.spacebank.co.kr/,https://www.spacebank.co.kr/about; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "스페이스클라우드",
@@ -112270,8 +112306,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://ilscience.co.kr/",
-      "contact": "https://proptech.or.kr/members",
-      "phone": "",
+      "contact": "전화: 02-2039-8039 / 홈페이지: http://ilscience.co.kr/",
+      "phone": "02-2039-8039",
       "email": "",
       "confidence": "high",
       "source": "source_file:proptech_korea_forum_member_homepage",
@@ -112280,7 +112316,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원 / IT/TECH/스타트업 / IoT / Smart home / 실리콘렌즈 탑재 LED 조명 등 제작 / - 카이룩스",
       "source_page": "https://proptech.or.kr/members",
-      "id": "98538"
+      "id": "98538",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://il.co.kr/v2/; title=아이엘; body_bytes=29472; name_score=3; phones=02-2039-8039,02-6959-5091; emails=; checked_urls=https://il.co.kr/v2/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "아주디자인그룹",
@@ -112390,9 +112428,9 @@
       "region": "전국",
       "address": "",
       "homepage": "https://kic114.kr/main.do",
-      "contact": "https://proptech.or.kr/members",
+      "contact": "이메일: repartner@kic114.kr / 홈페이지: https://kic114.kr/main.do",
       "phone": "",
-      "email": "",
+      "email": "repartner@kic114.kr",
       "confidence": "high",
       "source": "source_file:proptech_korea_forum_member_homepage",
       "ksic_major_code": "J",
@@ -112400,7 +112438,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원 / IT/TECH/스타트업 / Property Marketing Platform / 지식산업센터 정보 제공 / -지식산업센터114",
       "source_page": "https://proptech.or.kr/members",
-      "id": "98546"
+      "id": "98546",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://kic114.kr/main.do; title=지식산업센터114 | 메인; body_bytes=4278; name_score=5; phones=; emails=repartner@kic114.kr; checked_urls=https://kic114.kr/main.do,https://kic114.kr/tradingMap.do?BD_BUILD_CD=02&dumy01=&dumy02=&BD_AREA_CD=&BD_SIDO_CD=&BD_EXE_AREA=&BD_PRICE=&SEARCH_NM=&VIEW_3D_YN=Y,https://kic114.kr/leaseMap.do?BD_AREA_CD=&BD_SIDO_CD=&BD_EXE_AREA=&BD_MON_RENT=&SEARCH_NM=&VIEW_3D_YN=Y; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "애니이츠월드",
@@ -112630,8 +112670,8 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.unithaus.co.kr/ko",
-      "contact": "https://proptech.or.kr/members",
-      "phone": "",
+      "contact": "전화: 070-8655-2677 / 홈페이지: https://www.unithaus.co.kr/ko",
+      "phone": "070-8655-2677",
       "email": "",
       "confidence": "high",
       "source": "source_file:proptech_korea_forum_member_homepage",
@@ -112640,7 +112680,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원 / IT/TECH/스타트업 / Construction Solution / XR (AR/VR/MR) / 모듈러 건축 플랫폼 / - 맞춤형 모듈러 건축 제품·플랫폼 제공",
       "source_page": "https://proptech.or.kr/members",
-      "id": "98559"
+      "id": "98559",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://unithaus.co.kr/ko; title=Unithaus; body_bytes=3810; name_score=3; phones=070-8655-2677; emails=; checked_urls=https://unithaus.co.kr/ko,https://unithaus.co.kr/company; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "유일산업개발",
@@ -112670,8 +112712,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://landmaster.co.kr",
-      "contact": "https://proptech.or.kr/members",
-      "phone": "",
+      "contact": "전화: 02-6956-1021 / 홈페이지: http://landmaster.co.kr",
+      "phone": "02-6956-1021",
       "email": "",
       "confidence": "high",
       "source": "source_file:proptech_korea_forum_member_homepage",
@@ -112680,7 +112722,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원 / IT/TECH/스타트업 / Data & Valuation / 부동산 종합 정보 제공 / 부동산의신",
       "source_page": "https://proptech.or.kr/members",
-      "id": "98561"
+      "id": "98561",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://www.landmaster.co.kr/; title=부동산의 신; body_bytes=738; name_score=5; phones=02-6956-1021; emails=; checked_urls=https://www.landmaster.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "이랜드건설",

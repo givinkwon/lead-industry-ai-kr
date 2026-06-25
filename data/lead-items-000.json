@@ -41462,16 +41462,18 @@
       "region": "경기도",
       "address": "",
       "homepage": "https://yes01.co.kr/",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-840-5832 / 이메일: sales@yes01.co.kr / 홈페이지: https://yes01.co.kr/",
+      "phone": "031-840-5832",
+      "email": "sales@yes01.co.kr",
       "confidence": "high",
       "source": "seed:registry_seed",
       "id": "31047",
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://yes01.co.kr/document/; title=교육장비 3D프린터 VR 교육장비 토탈 솔루션 기업 | 영일교육시스템; body_bytes=2794; name_score=5; phones=031-840-5832; emails=sales@yes01.co.kr; checked_urls=https://yes01.co.kr/document/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)오알켐",
@@ -41481,8 +41483,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "https://orchem.com/",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-488-0600 / 홈페이지: https://orchem.com/",
+      "phone": "031-488-0600",
       "email": "",
       "confidence": "high",
       "source": "seed:registry_seed",
@@ -41490,7 +41492,9 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://orchem.com/home/main.php; title=(주)오알켐; body_bytes=3402; name_score=3; phones=031-488-0600,031-488-0660; emails=; checked_urls=https://orchem.com/home/main.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)웰크론한텍",
@@ -41626,8 +41630,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "https://ezex.co.kr/",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-608-4700 / 홈페이지: https://ezex.co.kr/",
+      "phone": "031-608-4700",
       "email": "",
       "confidence": "high",
       "source": "seed:registry_seed",
@@ -41635,7 +41639,9 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://ezex.co.kr/kor/index/; title=eZEX; body_bytes=3554; name_score=3; phones=031-608-4700,031-608-4701; emails=; checked_urls=https://ezex.co.kr/kor/index/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)인이지",
@@ -41898,8 +41904,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "https://fastech.co.kr/",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 032-234-6300 / 홈페이지: https://fastech.co.kr/",
+      "phone": "032-234-6300",
       "email": "",
       "confidence": "high",
       "source": "seed:registry_seed",
@@ -41907,7 +41913,9 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://fastech-motions.com/new/kor/main.php; title=FASTECH; body_bytes=4461; name_score=3; phones=032-234-6300; emails=; checked_urls=https://fastech-motions.com/new/kor/main.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)풍림정공 고용현황 총 종업원 수 7",
@@ -44198,16 +44206,18 @@
       "region": "경기도",
       "address": "",
       "homepage": "https://daejicar.com/",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-336-1151 / 이메일: daejicar@daejicar.com / 홈페이지: https://daejicar.com/",
+      "phone": "031-336-1151",
+      "email": "daejicar@daejicar.com",
       "confidence": "high",
       "source": "seed:registry_seed",
       "id": "31315",
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://daejicar.com/main/main.php; title=대지정공; body_bytes=3271; name_score=3; phones=031-336-1151,031-336-1150,031-336-1187; emails=daejicar@daejicar.com; checked_urls=https://daejicar.com/main/main.php,https://daejicar.com/company/01.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "도부라이프텍(주)",
@@ -44688,16 +44698,18 @@
       "region": "경기도",
       "address": "",
       "homepage": "https://seoulcorea.com/",
-      "contact": "",
+      "contact": "이메일: seoul@seoulcorea.com / 홈페이지: https://seoulcorea.com/",
       "phone": "",
-      "email": "",
+      "email": "seoul@seoulcorea.com",
       "confidence": "high",
       "source": "seed:registry_seed",
       "id": "31418",
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next3_enrichment; final_url=https://seoulcorea.com/main; title=서울산업기술(주); body_bytes=3607; name_score=5; phones=; emails=seoul@seoulcorea.com; checked_urls=https://seoulcorea.com/main; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "서진공조(주)",
