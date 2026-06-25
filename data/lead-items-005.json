@@ -27196,8 +27196,8 @@
       "region": "충청북도",
       "address": "",
       "homepage": "http://www.cqv.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 043-536-0314 / 홈페이지: http://www.cqv.co.kr",
+      "phone": "043-536-0314",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -27206,7 +27206,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "101240",
-      "product": "진주광택안료"
+      "product": "진주광택안료",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=https://cqv.co.kr/; title=; body_bytes=2858; name_score=3; phones=043-536-0314; emails=; checked_urls=https://cqv.co.kr/,https://cqv.co.kr/introduction/,https://cqv.co.kr/location/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "대한과학",
@@ -27356,8 +27358,8 @@
       "region": "인천광역시",
       "address": "",
       "homepage": "http://www.sftc.co.kr",
-      "contact": "이메일: webmaster@sftc.co.kr",
-      "phone": "",
+      "contact": "전화: 032-451-7756 / 홈페이지: http://www.sftc.co.kr",
+      "phone": "032-451-7756,032-822-1868",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -27366,7 +27368,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "089980",
-      "product": "LCD부품,사무기기부품,PCB부품,2차전지부품"
+      "product": "LCD부품,사무기기부품,PCB부품,2차전지부품",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=https://www.sftc.co.kr/sub/index.php; title=SANG-A FRONTEC; body_bytes=7579; name_score=5; phones=032-451-7756,032-822-1868; emails=; checked_urls=https://www.sftc.co.kr/sub/index.php,https://www.sftc.co.kr/sub/sub_01_03.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "롯데하이마트",
@@ -27496,9 +27500,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.meritzgroup.com",
-      "contact": "",
+      "contact": "이메일: ir@meritz.co.kr / 홈페이지: http://www.meritzgroup.com",
       "phone": "",
-      "email": "",
+      "email": "ir@meritz.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79067",
@@ -27506,7 +27510,9 @@
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
       "stock_code": "138040",
-      "product": "투자사업"
+      "product": "투자사업",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=http://www.meritzgroup.com/web/ko/main/main.do; title=메리츠금융그룹; body_bytes=5127; name_score=5; phones=; emails=ir@meritz.co.kr; checked_urls=http://www.meritzgroup.com/web/ko/main/main.do,http://www.meritzgroup.com/web/ko/group/group1.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "티케이케미칼",
@@ -27576,8 +27582,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.lbsemicon.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-680-1600 / 홈페이지: http://www.lbsemicon.com",
+      "phone": "031-680-1600,031-680-1798",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -27586,7 +27592,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "061970",
-      "product": "골드범핑, 솔더범핑 등"
+      "product": "골드범핑, 솔더범핑 등",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=https://www.lbsemicon.com/main.lb; title=LB세미콘; body_bytes=2012; name_score=5; phones=031-680-1600,031-680-1798; emails=; checked_urls=https://www.lbsemicon.com/main.lb,https://www.lbsemicon.com/company.lb; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "제이엔케이글로벌",
@@ -27756,9 +27764,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.daejung.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-488-8822 / 이메일: daejung@daejung.kr / 홈페이지: http://www.daejung.kr",
+      "phone": "031-488-8822,031-363-2246,031-433-6117,031-363-2294",
+      "email": "daejung@daejung.kr,insa@daejung.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79081",
@@ -27766,7 +27774,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "120240",
-      "product": "시약, 원료의약품"
+      "product": "시약, 원료의약품",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=http://www.daejungchem.co.kr/; title=대정화금 - 환경을 먼저 생각합니다. 내일의 희망이 있습니다.; body_bytes=5240; name_score=3; phones=031-488-8822,031-363-2246,031-433-6117,031-363-2294; emails=daejung@daejung.kr,insa@daejung.kr; checked_urls=http://www.daejungchem.co.kr/,http://www.daejungchem.co.kr/01_company/sub0101.php,http://www.daejungchem.co.kr/01_company/sub0102.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "시그네틱스",
@@ -27956,9 +27966,9 @@
       "region": "충청남도",
       "address": "",
       "homepage": "http://www.formetal.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 041-670-6200 / 이메일: csy@formetal.co.kr / 홈페이지: http://www.formetal.co.kr",
+      "phone": "041-670-6200,041-668-7316",
+      "email": "csy@formetal.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79093",
@@ -27966,7 +27976,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "119500",
-      "product": "자동차,풍력,방위산업,산업기계,농기계등의 단조부품"
+      "product": "자동차,풍력,방위산업,산업기계,농기계등의 단조부품",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=http://www.formetal.co.kr/main; title=포메탈; body_bytes=2927; name_score=3; phones=041-670-6200,041-668-7316; emails=csy@formetal.co.kr; checked_urls=http://www.formetal.co.kr/main,http://www.formetal.co.kr/policy/sitemap; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "다원시스",
@@ -28356,8 +28368,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.kolonindustries.com/",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-2199-4111 / 홈페이지: http://www.kolonindustries.com/",
+      "phone": "02-2199-4111,054-469-3820,054-461-6113",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -28366,7 +28378,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "120110",
-      "product": "산업자재, 화학, 필름"
+      "product": "산업자재, 화학, 필름",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=https://www.kolonindustries.com/kr/main; title=코오롱인더스트리; body_bytes=7436; name_score=5; phones=02-2199-4111,054-469-3820,054-461-6113; emails=; checked_urls=https://www.kolonindustries.com/kr/main,https://www.kolonindustries.com/kr/kolon-industries/introduce,https://www.kolonindustries.com/kr/kolon-industries/rnd/introduce; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "지역난방공사",
@@ -28396,8 +28410,8 @@
       "region": "충청북도",
       "address": "",
       "homepage": "http://www.star-flex.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-2644-4071 / 홈페이지: http://www.star-flex.com",
+      "phone": "02-2644-4071,043-878-4071,02-2644-4077,043-881-1363,070-4890-9928",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -28406,7 +28420,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "115570",
-      "product": "광고용플렉스(조명용,비조명용)"
+      "product": "광고용플렉스(조명용,비조명용)",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=http://www.star-flex.com/new/index.php; title=STAR-FLEX; body_bytes=4625; name_score=5; phones=02-2644-4071,043-878-4071,02-2644-4077,043-881-1363,070-4890-9928; emails=; checked_urls=http://www.star-flex.com/new/index.php,http://www.star-flex.com/new/company_intro.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "아세아텍",
@@ -28776,8 +28792,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.dsk.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-416-9100 / 홈페이지: http://www.dsk.co.kr",
+      "phone": "031-416-9100,031-416-9766",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -28786,7 +28802,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "109740",
-      "product": "FPD(Flat Panel Display 평판디스플레이)용 Bonding System 및 In-line System, 카메라모듈장비, 이차전지장비, 메카트로닉스 사업군"
+      "product": "FPD(Flat Panel Display 평판디스플레이)용 Bonding System 및 In-line System, 카메라모듈장비, 이차전지장비, 메카트로닉스 사업군",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=http://www.dsk.co.kr/mbs/dsk/index.jsp; title=디에스케이; body_bytes=4888; name_score=5; phones=031-416-9100,031-416-9766; emails=; checked_urls=http://www.dsk.co.kr/mbs/dsk/index.jsp,http://www.dsk.co.kr/mbs/dsk/subview.jsp?id=dsk_010100000000; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "제넥신",
@@ -28936,9 +28954,9 @@
       "region": "충청북도",
       "address": "",
       "homepage": "http://abov.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-392-0330 / 이메일: onlinesupport@abov.co.kr / 홈페이지: http://abov.co.kr",
+      "phone": "02-392-0330,02-2194-2194,02-580-0533,02-3480-3600",
+      "email": "onlinesupport@abov.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79152",
@@ -28946,7 +28964,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "102120",
-      "product": "반도체,전자제품,마이크로컨트롤라"
+      "product": "반도체,전자제품,마이크로컨트롤라",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=https://www.abov.co.kr/kr/main.php; title=어보브반도체 - 어보브반도체(주); body_bytes=15073; name_score=5; phones=02-392-0330,02-2194-2194,02-580-0533,02-3480-3600; emails=onlinesupport@abov.co.kr; checked_urls=https://www.abov.co.kr/kr/main.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "위메이드맥스",
@@ -29516,8 +29536,8 @@
       "region": "충청남도",
       "address": "",
       "homepage": "http://www.s-mac.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 041-539-2500 / 홈페이지: http://www.s-mac.co.kr",
+      "phone": "041-539-2500",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -29526,7 +29546,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "097780",
-      "product": "자동차 신품 부품"
+      "product": "자동차 신품 부품",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=http://ecovoltdynamics.co.kr/; title=에코볼트(주); body_bytes=3090; name_score=3; phones=041-539-2500; emails=; checked_urls=http://ecovoltdynamics.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "대창솔루션",
@@ -29576,8 +29598,8 @@
       "region": "경상남도",
       "address": "",
       "homepage": "http://www.yesemk.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 055-211-9600 / 홈페이지: http://www.yesemk.com",
+      "phone": "055-211-9600,055-211-9640",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -29586,7 +29608,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "095190",
-      "product": "CNC공작기계등"
+      "product": "CNC공작기계등",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=http://www.yesemk.com/kor/main/main.html; title=SHINHWA PRITECH Co., Ltd.; body_bytes=3325; name_score=5; phones=055-211-9600,055-211-9640; emails=; checked_urls=http://www.yesemk.com/kor/main/main.html,http://www.yesemk.com/kor/about/overview.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "케이알엠",
@@ -29816,8 +29840,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.neowizgames.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-8023-6600 / 홈페이지: http://www.neowizgames.com",
+      "phone": "031-8023-6600",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -29826,7 +29850,9 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "stock_code": "095660",
-      "product": "피망,스페셜포스"
+      "product": "피망,스페셜포스",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=https://www.neowiz.com/kr; title=NEOWIZ - NEOWIZ, the magic that makes the world fun; body_bytes=4492; name_score=3; phones=031-8023-6600; emails=; checked_urls=https://www.neowiz.com/kr,https://www.neowiz.com/kr/aboutus,https://www.neowiz.com/kr/inquiry?inquiryType=partnership; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "삼성카드",

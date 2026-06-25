@@ -71864,8 +71864,8 @@
       "region": "서울",
       "address": "서울 금천구 가산디지털 1로 168 403호 (가산동 우림라이온스밸리 C동)",
       "homepage": "https://www.techworld.co.kr",
-      "contact": "https://www.automationworld.co.kr/company-directories/4549?year=2026&hl=ko",
-      "phone": "",
+      "contact": "전화: 02-2026-5700 / 홈페이지: https://www.techworld.co.kr",
+      "phone": "02-2026-5700,02-2026-5701",
       "email": "",
       "confidence": "high",
       "source": "source_file:automation_world_2026_company_directory",
@@ -71878,7 +71878,9 @@
       "country": "KR",
       "business_type": "제조",
       "industry_type": "정기간행물",
-      "ceo": "박한식"
+      "ceo": "박한식",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=https://www.techworld.co.kr/; title=:: TECHWORLD; body_bytes=4034; name_score=3; phones=02-2026-5700,02-2026-5701; emails=; checked_urls=https://www.techworld.co.kr/,https://www.techworld.co.kr/sub/about_us.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90434",
@@ -72228,9 +72230,9 @@
       "region": "경기",
       "address": "경기 수원시 영통구 광교로 156 9층 905호(이의동)",
       "homepage": "https://www.balluff.co.kr",
-      "contact": "https://www.automationworld.co.kr/company-directories/1819?year=2026&hl=ko",
+      "contact": "이메일: sales.kr@balluff.co.kr / 홈페이지: https://www.balluff.co.kr",
       "phone": "",
-      "email": "",
+      "email": "sales.kr@balluff.co.kr",
       "confidence": "high",
       "source": "source_file:automation_world_2026_company_directory",
       "source_page": "https://www.automationworld.co.kr/company-directories?year=2026&hl=en",
@@ -72242,7 +72244,9 @@
       "country": "KR",
       "business_type": "서비스, 도매",
       "industry_type": "엔지니어링 및 기술지원서비스, 전기장치, 기계 및 관련부품",
-      "ceo": "플로리안미하엘허믈레"
+      "ceo": "플로리안미하엘허믈레",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=https://www.balluff.com/ko-kr; title=센서 기술 및 산업 자동화 | Balluff; body_bytes=5048; name_score=5; phones=; emails=sales.kr@balluff.co.kr; checked_urls=https://www.balluff.com/ko-kr; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90457",
@@ -95183,9 +95187,9 @@
       "region": "전국",
       "address": "KOREA",
       "homepage": "http://www.laservall.co.kr",
-      "contact": "https://www.korea-metal.com/en/visitor/exhibitor_detail/2491",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 070-7542-4400 / 이메일: sales@laservall.co.kr / 홈페이지: http://www.laservall.co.kr",
+      "phone": "070-7542-4400,031-420-0815",
+      "email": "sales@laservall.co.kr",
       "confidence": "high",
       "source": "source_file:korea_metal_week_2026_exhibitor_homepage",
       "source_page": "https://www.korea-metal.com/en/visitor/exhibitor",
@@ -95196,7 +95200,9 @@
       "source_id": "korea-metal-2026-2491",
       "country": "KOREA",
       "source_category": "KOREA METAL WEEK 2026",
-      "id": "91784"
+      "id": "91784",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=http://xn--om2b27iurivfwq.kr/; title=; body_bytes=4750; name_score=5; phones=070-7542-4400,031-420-0815; emails=sales@laservall.co.kr; checked_urls=http://xn--om2b27iurivfwq.kr/,http://xn--om2b27iurivfwq.kr/bbs/content.php?co_id=0101,http://xn--om2b27iurivfwq.kr/bbs/content.php?co_id=0102; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "SOMETECHVISION CO,.LTD",
@@ -95327,8 +95333,8 @@
       "region": "전국",
       "address": "KOREA",
       "homepage": "http://www.steel119.com",
-      "contact": "https://www.korea-metal.com/en/visitor/exhibitor_detail/2497",
-      "phone": "",
+      "contact": "전화: 070-7610-7307 / 홈페이지: http://www.steel119.com",
+      "phone": "070-7610-7307",
       "email": "",
       "confidence": "high",
       "source": "source_file:korea_metal_week_2026_exhibitor_homepage",
@@ -95340,7 +95346,9 @@
       "source_id": "korea-metal-2026-2497",
       "country": "KOREA",
       "source_category": "KOREA METAL WEEK 2026",
-      "id": "91790"
+      "id": "91790",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=https://www.steel119.com/; title=스틸119; body_bytes=7841; name_score=3; phones=070-7610-7307; emails=; checked_urls=https://www.steel119.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "KIPP Korea Ltd",
@@ -95351,9 +95359,9 @@
       "region": "전국",
       "address": "KOREA",
       "homepage": "http://www.kipp.kr",
-      "contact": "https://www.korea-metal.com/en/visitor/exhibitor_detail/2498",
+      "contact": "이메일: info@kipp.kr / 홈페이지: http://www.kipp.kr",
       "phone": "",
-      "email": "",
+      "email": "info@kipp.kr",
       "confidence": "high",
       "source": "source_file:korea_metal_week_2026_exhibitor_homepage",
       "source_page": "https://www.korea-metal.com/en/visitor/exhibitor",
@@ -95364,7 +95372,9 @@
       "source_id": "korea-metal-2026-2498",
       "country": "KOREA",
       "source_category": "KOREA METAL WEEK 2026",
-      "id": "91791"
+      "id": "91791",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=https://www.kipp.kr/ko/; title=KIPP KR | 스탠다드 부품, 클램핑 기술 및 작동 부품의 제조사; body_bytes=6837; name_score=15; phones=; emails=info@kipp.kr; checked_urls=https://www.kipp.kr/ko/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "Redt Inc.",
@@ -95399,9 +95409,9 @@
       "region": "전국",
       "address": "KOREA",
       "homepage": "http://www.smgtgs.co.kr",
-      "contact": "https://www.korea-metal.com/en/visitor/exhibitor_detail/2500",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 070-7655-3263 / 이메일: smgtgs@smgtgs.co.kr / 홈페이지: http://www.smgtgs.co.kr",
+      "phone": "070-7655-3263,070-7655-3264",
+      "email": "smgtgs@smgtgs.co.kr",
       "confidence": "high",
       "source": "source_file:korea_metal_week_2026_exhibitor_homepage",
       "source_page": "https://www.korea-metal.com/en/visitor/exhibitor",
@@ -95412,7 +95422,9 @@
       "source_id": "korea-metal-2026-2500",
       "country": "KOREA",
       "source_category": "KOREA METAL WEEK 2026",
-      "id": "91793"
+      "id": "91793",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next5_enrichment; final_url=http://smgtgs.co.kr/web/; title=SMGTGS; body_bytes=2759; name_score=13; phones=070-7655-3263,070-7655-3264; emails=smgtgs@smgtgs.co.kr; checked_urls=http://smgtgs.co.kr/web/,http://smgtgs.co.kr/web/cate02/page02.php,http://smgtgs.co.kr/web/cate02/page01.php,http://smgtgs.co.kr/web/cate03/page02.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "DONGDO CO.,LTD",
