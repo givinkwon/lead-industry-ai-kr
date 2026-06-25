@@ -56050,9 +56050,9 @@
       "region": "해외",
       "address": "Bucheon-si, Gyeonggi-do,, United States",
       "homepage": "https://www.utracs.com",
-      "contact": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=501&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=642262",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 032-624-4690 / 이메일: sales@utracs.com / 홈페이지: https://www.utracs.com",
+      "phone": "032-624-4690",
+      "email": "sales@utracs.com",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/exhibitors.aspx",
@@ -56063,7 +56063,9 @@
       "source_id": "semicon-korea-2026:642262",
       "country": "United States",
       "source_category": "SEMICON Korea 2026",
-      "id": "95670"
+      "id": "95670",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next12_enrichment; final_url=https://www.utracs.com/kr/sub/application/factory.php; title=유트랙스 UTRACS; body_bytes=3092; name_score=5; phones=032-624-4690; emails=sales@utracs.com; checked_urls=https://www.utracs.com/kr/,https://www.utracs.com/kr/sub/contact.php,https://www.utracs.com/kr/index.php,https://www.utracs.com/kr/sub/introduction/do.php,https://www.utracs.com/kr/sub/introduction/did.php,https://www.utracs.com/kr/sub/introduction/who.php,https://www.utracs.com/kr/sub/application/factory.php,https://www.utracs.com/kr/sub/application/clean.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "VAT KOREA LTD.",
@@ -56074,9 +56076,9 @@
       "region": "해외",
       "address": "Hwasung city,, Switzerland",
       "homepage": "http://www.vatvalve.com",
-      "contact": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=505&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=634331",
+      "contact": "이메일: reception@vatgroup.com / 홈페이지: http://www.vatvalve.com",
       "phone": "",
-      "email": "",
+      "email": "reception@vatgroup.com",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/exhibitors.aspx",
@@ -56087,7 +56089,9 @@
       "source_id": "semicon-korea-2026:634331",
       "country": "Switzerland",
       "source_category": "SEMICON Korea 2026",
-      "id": "95671"
+      "id": "95671",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next12_enrichment; final_url=https://www.vatgroup.com/contact; title=Contact - VAT Group; body_bytes=3445; name_score=3; phones=; emails=reception@vatgroup.com,office@videko.at,markus.soderlund@vacuumservice.fi,rodrigo@avaco.com.br,info@scan.si,calgovt@lawrenceandmayo.co.in,info@magnificat-vacuum.hu,myasa@myasa.com.mx,info@variscosrl.com,shlomi.sofer@isil.co.il,sales@labotec.co.za,mblaj@vacuserv.ro,sprzedaz@prevac.pl,tecnovac@tecnovac.es,info@intech-group.ru,jp@vatgroup.com,office@vakuum-servis.cz,nl@vatgroup.com,cn@vatgroup.com,sg@vatgroup.com,de@vatgroup.com,sales@vacpro.dk,uk@vatgroup.com,us@vatgroup.com,sales@scitek.com.au,tw@vatgroup.com,kr@vatgroup.com,fr@vatgroup.com,post@busch.no,m.soderlund@picopascal.se,purchasing@vat.my,joseph.haggerty@vatgroup.com,sales_row@vatgroup.com,my.staffing@vatgroup.com,vicky.yu@vatgroup.com,kevin.hou@vatgroup.com,yann.lemarquand@vatgroup.com,steve.derton@vatgroup.com,brian.lin@vatgroup.com,customerservice.us@vatgroup.com,jerome.routet@vatgroup.com,ian.andrews@vatgroup.com,colin.storey@vatgroup.com,ricardo.kuster@vatgroup.com,ch@vatgroup.com,communications@vatgroup.com; checked_urls=https://www.vatgroup.com/,https://www.vatgroup.com/,https://www.vatgroup.com/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "V-TEX KOREA CO., LTD.",

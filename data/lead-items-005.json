@@ -41734,8 +41734,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.daewoong.com/",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-550-8800 / 홈페이지: http://www.daewoong.com/",
+      "phone": "02-550-8800",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -41744,7 +41744,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "003090",
-      "product": "지주회사/의약품,화공약품,농예약품,위생용품,의료용구,식품,전기전자기구,부품 제조,판매"
+      "product": "지주회사/의약품,화공약품,농예약품,위생용품,의료용구,식품,전기전자기구,부품 제조,판매",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next12_enrichment; final_url=https://www.daewoong.com/ko/about/history; title=기업정보 | 대웅제약; body_bytes=19015; name_score=5; phones=02-550-8800; emails=; checked_urls=https://www.daewoong.com/ko,https://www.daewoong.com/ko/about/introduction,https://www.daewoong.com/ko/rnd/overview,https://www.daewoong.com/ko/about/culture,https://www.daewoong.com/ko/about/history,https://www.daewoong.com/ko/about/network,https://www.daewoong.com/ko/rnd/development/introduction/medicine/dwp212525,https://www.daewoong.com/ko/esg/social/ethics; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "진양산업",
@@ -41794,9 +41796,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.kccworld.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-3480-5000 / 이메일: kccmoon@kccworld.co.kr / 홈페이지: http://www.kccworld.co.kr",
+      "phone": "02-3480-5000",
+      "email": "kccmoon@kccworld.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79888",
@@ -41804,7 +41806,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "002380",
-      "product": "건축용단열재,내외장재,스레트,밤라이트,암면,석고보드,판유리 제조"
+      "product": "건축용단열재,내외장재,스레트,밤라이트,암면,석고보드,판유리 제조",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next12_enrichment; final_url=https://www.kccworld.co.kr/about-kcc/company.do?t=t2; title=사업소개 | 기업 소개 | KCC; body_bytes=10430; name_score=5; phones=02-3480-5000; emails=kccmoon@kccworld.co.kr,ryuckra@kccworld.co.kr,bsm@usechem.co.kr,hany317@hanmail.net,s02578@ks-chem.co.kr; checked_urls=https://www.kccworld.co.kr/main.do,https://www.kccworld.co.kr/about-kcc/management.do,https://www.kccworld.co.kr/esg/overview.do,https://www.kccworld.co.kr/support/contact-us/person.do,https://www.kccworld.co.kr/about-kcc/greeting.do,https://www.kccworld.co.kr/about-kcc/company.do,https://www.kccworld.co.kr/about-kcc/company.do?t=t2,https://www.kccworld.co.kr/about-kcc/network.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "롯데칠성음료",
@@ -41814,8 +41818,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://company.lottechilsung.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-3479-9114 / 홈페이지: http://company.lottechilsung.co.kr",
+      "phone": "02-3479-9114",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -41824,7 +41828,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "005300",
-      "product": "청량음료,과채류음료,곡류음료,주류 제조,판매/자동차정비,연수원"
+      "product": "청량음료,과채류음료,곡류음료,주류 제조,판매/자동차정비,연수원",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next12_enrichment; final_url=https://company.lottechilsung.co.kr/kor/history/contentsid/503/index.do; title=연혁 | 롯데칠성음료; body_bytes=14152; name_score=5; phones=02-3479-9114,02-536-9767; emails=; checked_urls=https://company.lottechilsung.co.kr/kor/main/index.do,https://company.lottechilsung.co.kr/kor/main/index.do,https://company.lottechilsung.co.kr/kor/company/intro/contentsid/508/index.do,https://company.lottechilsung.co.kr/kor/history/contentsid/503/index.do,https://company.lottechilsung.co.kr/kor/company/contentsid/504/index.do,https://company.lottechilsung.co.kr/kor/company/contentsid/962/index.do,https://company.lottechilsung.co.kr/kor/company/contentsid/511/index.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "일신방직",
@@ -41974,8 +41980,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.hanil.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-550-7901 / 홈페이지: http://www.hanil.com",
+      "phone": "02-550-7901",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -41984,7 +41990,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "003300",
-      "product": "지주사업"
+      "product": "지주사업",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next12_enrichment; final_url=https://www.hanil.com/main.do; title=한일홀딩스; body_bytes=2221; name_score=5; phones=02-550-7901; emails=; checked_urls=https://www.hanil.com/main.do,https://www.hanil.com/comp/intro.do,https://www.hanil.com/comp/directions.do,https://h-voice.hanil.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "세아제강지주",
