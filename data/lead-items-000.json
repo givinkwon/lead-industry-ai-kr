@@ -42206,15 +42206,17 @@
       "region": "경기",
       "address": "경기도 용인시 기흥구 기곡로 32",
       "homepage": "https://cjfreshway.com",
-      "contact": "https://www.cjfreshway.com/contact",
-      "phone": "",
+      "contact": "전화: 02-2149-6114 / 홈페이지: https://cjfreshway.com",
+      "phone": "02-2149-6114",
       "email": "",
       "confidence": "high",
       "source": "seed:opendart",
       "id": "31127",
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
-      "lead_quality_grade": "A"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:public_company_blank_contact_enrichment; final_url=https://www.cjfreshway.com/index.jsp; title=CJ프레시웨이; body_bytes=4066; name_score=5; phones=02-2149-6114; emails=; checked_urls=https://www.cjfreshway.com/index.jsp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "CNT85",
@@ -42278,15 +42280,17 @@
       "region": "경기",
       "address": "경기도 용인시 기흥구 흥덕중앙로 120 유타워 6층 (영덕동)",
       "homepage": "https://dms21.co.kr",
-      "contact": "https://dms21.co.kr/contact",
-      "phone": "",
+      "contact": "전화: 031-211-4990 / 홈페이지: https://dms21.co.kr",
+      "phone": "031-211-4990",
       "email": "",
       "confidence": "high",
       "source": "seed:opendart",
       "id": "31131",
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
-      "lead_quality_grade": "A"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:public_company_blank_contact_enrichment; final_url=https://dms21.co.kr/kr/; title=디엠에스 (DMS); body_bytes=4998; name_score=3; phones=031-211-4990,031-8031-1133,031-8031-1281,031-948-7397; emails=; checked_urls=https://dms21.co.kr/kr/,https://dms21.co.kr/kr/sub/company/about.asp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "DS단석",
@@ -42818,15 +42822,17 @@
       "region": "경기",
       "address": "경기도 수원시 장안구 정자로 102 SKC첨단기술중앙연구소 (정자동 911-10)",
       "homepage": "https://skc.kr",
-      "contact": "https://skc.kr/contact",
-      "phone": "",
+      "contact": "전화: 02-3787-1234 / 홈페이지: https://skc.kr",
+      "phone": "02-3787-1234",
       "email": "",
       "confidence": "high",
       "source": "seed:opendart",
       "id": "31173",
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
-      "lead_quality_grade": "A"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:public_company_blank_contact_enrichment; final_url=https://skc.kr/kor/main/index.do; title=SKC; body_bytes=5208; name_score=3; phones=02-3787-1234,063-530-4114,031-777-7675; emails=; checked_urls=https://skc.kr/kor/main/index.do,https://skc.kr/kor/corporation/intro/company.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "SK가스",
@@ -42836,15 +42842,17 @@
       "region": "경기",
       "address": "경기도 성남시 분당구 판교로 332 ECO Hub",
       "homepage": "https://skgas.co.kr",
-      "contact": "https://skgas.co.kr/contact",
-      "phone": "",
+      "contact": "전화: 02-6200-8114 / 홈페이지: https://skgas.co.kr",
+      "phone": "02-6200-8114",
       "email": "",
       "confidence": "high",
       "source": "seed:opendart",
       "id": "31174",
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
-      "lead_quality_grade": "A"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:public_company_blank_contact_enrichment; final_url=https://skgas.co.kr/main/index.html; title=SK gas; body_bytes=4688; name_score=3; phones=02-6200-8114,02-6200-8118; emails=; checked_urls=https://skgas.co.kr/main/index.html,https://skgas.co.kr/Company/ceo.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "SK네트웍스",

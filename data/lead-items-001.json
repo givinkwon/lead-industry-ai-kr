@@ -52009,12 +52009,14 @@
       "region": "충주시",
       "address": "충청북도 충주시 국원대로 344 ( 목행동 20-12 )",
       "homepage": "https://ccbgas.co.kr",
-      "contact": "전화: 1899-9100-3",
-      "phone": "",
+      "contact": "전화: 043-853-8696 / 홈페이지: https://ccbgas.co.kr",
+      "phone": "043-853-8696",
       "email": "",
-      "confidence": "medium",
-      "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "confidence": "high",
+      "lead_quality_grade": "A",
+      "source": "seed:registry_seed",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:public_company_blank_contact_enrichment; final_url=https://ccbgas.co.kr/; title=참빛충북도시가스; body_bytes=4023; name_score=5; phones=043-853-8696,070-4850-8227; emails=; checked_urls=https://ccbgas.co.kr/,https://ccbgas.co.kr/introduction/intro01.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "46033",
