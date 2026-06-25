@@ -28915,24 +28915,6 @@
       "source": "seed:registry_seed"
     },
     {
-      "id": "41986",
-      "name": "한국전력공사",
-      "industry": "전문서비스",
-      "field": "",
-      "segment": "전문서비스",
-      "ksic_major_code": "G",
-      "ksic_major_name": "도매 및 소매업",
-      "region": "",
-      "address": "전라남도 나주시 빛가람동 120번지 한국전력공사",
-      "homepage": "https://en-ter.co.kr",
-      "contact": "전화: 0613456853",
-      "phone": "061-345-6853",
-      "email": "",
-      "confidence": "medium",
-      "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
-    },
-    {
       "id": "41987",
       "name": "한도관광",
       "industry": "전문서비스",

@@ -7339,23 +7339,6 @@
       "lead_quality_grade": "B"
     },
     {
-      "name": "법무법인 해방",
-      "industry": "법무법인",
-      "field": "기업법률",
-      "segment": "법무법인",
-      "region": "서울",
-      "address": "서울 중구 한국언론진흥재단 20층 국제회의장에서 열렸으며, 이동환 시장은 도시 혁신과 공공행정 성과를 인정받아 수상을 하...",
-      "homepage": "https://gybknews.com",
-      "contact": "https://gybknews.com/contact",
-      "phone": "1776-7589",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.koreanbar.or.kr/pages/common/searchDetailCorp.asp?mtypes=1&impressnum=2382",
-      "id": "885",
-      "ksic_major_code": "M",
-      "ksic_major_name": "전문, 과학 및 기술 서비스업"
-    },
-    {
       "name": "법무법인 해법",
       "industry": "법무법인",
       "field": "기업법률",
@@ -12749,23 +12732,6 @@
       "lead_quality_grade": "A"
     },
     {
-      "name": "라이노스자산운용",
-      "industry": "자산운용사",
-      "field": "소형자산운용",
-      "segment": "자산운용사",
-      "region": "",
-      "address": "",
-      "homepage": "https://teamblind.com",
-      "contact": "전화: 02-076-3314",
-      "phone": "02-076-3314",
-      "email": "",
-      "confidence": "high",
-      "source": "https://kofia.or.kr/brd/m_96/view.do?seq=39221&srchFr=&srchTo=&srchWord=%EC%9E%90%EC%82%B0%EC%9A%B4%EC%9A%A9&srchTp=0&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=",
-      "id": "2842",
-      "ksic_major_code": "K",
-      "ksic_major_name": "금융 및 보험업"
-    },
-    {
       "name": "로버스트자산운용",
       "industry": "전문서비스",
       "field": "",
@@ -13071,23 +13037,6 @@
       "lead_quality_grade": "A"
     },
     {
-      "name": "켄달스퀘어자산운용",
-      "industry": "자산운용사",
-      "field": "소형자산운용",
-      "segment": "자산운용사",
-      "region": "",
-      "address": "",
-      "homepage": "https://newsis.com",
-      "contact": "전화: 02-721-7400, 02-721-7411",
-      "phone": "02-721-7400, 02-721-7411",
-      "email": "",
-      "confidence": "high",
-      "source": "https://kofia.or.kr/brd/m_96/view.do?seq=39281&srchFr=&srchTo=&srchWord=%EC%9E%90%EC%82%B0%EC%9A%B4%EC%9A%A9&srchTp=0&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=",
-      "id": "2882",
-      "ksic_major_code": "K",
-      "ksic_major_name": "금융 및 보험업"
-    },
-    {
       "name": "키움투자자산운용",
       "industry": "전문서비스",
       "field": "",
@@ -13231,23 +13180,6 @@
       "lead_quality_grade": "B"
     },
     {
-      "name": "(주)국토해양환경기술단",
-      "industry": "환경측정업",
-      "field": "환경측정",
-      "segment": "환경측정업",
-      "region": "경기",
-      "address": "제주지부)제주항연안여객터미널 기간제 계약직 채용 공고알림",
-      "homepage": "https://theksa.or.kr",
-      "contact": "https://theksa.or.kr/site/main/member/list",
-      "phone": "1544-1114",
-      "email": "",
-      "confidence": "high",
-      "source": "https://data.gg.go.kr/portal/data/service/selectServicePage.do?infId=H13KY5LDAUZTVN410NY022100&infSeq=1",
-      "id": "2908",
-      "ksic_major_code": "E",
-      "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업"
-    },
-    {
       "name": "(주)넘버원기술사사무소",
       "industry": "환경측정업",
       "field": "환경측정",
@@ -13388,40 +13320,6 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A"
-    },
-    {
-      "name": "(주)에스아이디어코스틱",
-      "industry": "환경측정업",
-      "field": "환경측정",
-      "segment": "환경측정업",
-      "region": "경기",
-      "address": "경기도 화성시 만세구 향남읍 발안공단로3길 106",
-      "homepage": "https://kpi.or.kr",
-      "contact": "https://kpi.or.kr/www/company/links.asp",
-      "phone": "010-2606-1674",
-      "email": "roundish@kpi.or.kr, kpidps@kpi.or.kr, wonga@kpi.or.kr",
-      "confidence": "high",
-      "source": "https://data.gg.go.kr/portal/data/service/selectServicePage.do?infId=H13KY5LDAUZTVN410NY022100&infSeq=1",
-      "id": "2958",
-      "ksic_major_code": "E",
-      "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업"
-    },
-    {
-      "name": "(주)에이치에스코리아",
-      "industry": "환경측정업",
-      "field": "환경측정",
-      "segment": "환경측정업",
-      "region": "경기",
-      "address": "인천광역시장, 이하 협회)와 ㈜더블유티씨서울(대표이사 김병유, 이하 WTCS)이 도심형 신재생에너지의 가치를 알리고 탄소중립 실현을 앞당기기 위해 힘을 모으기로 했다.",
-      "homepage": "https://kwwa.or.kr",
-      "contact": "",
-      "phone": "02-3156-7810",
-      "email": "",
-      "confidence": "high",
-      "source": "https://data.gg.go.kr/portal/data/service/selectServicePage.do?infId=H13KY5LDAUZTVN410NY022100&infSeq=1",
-      "id": "2961",
-      "ksic_major_code": "E",
-      "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업"
     },
     {
       "name": "(주)에이티엠코리아",
@@ -13672,23 +13570,6 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A"
-    },
-    {
-      "name": "(주)테크로스환경서비스",
-      "industry": "환경측정업",
-      "field": "환경측정",
-      "segment": "환경측정업",
-      "region": "경기",
-      "address": "경기술, 제품 검색",
-      "homepage": "https://keia.kr",
-      "contact": "https://keia.kr/main/envir/company_mst_list.do",
-      "phone": "02-389-7284",
-      "email": "keia@keia.kr",
-      "confidence": "high",
-      "source": "https://data.gg.go.kr/portal/data/service/selectServicePage.do?infId=H13KY5LDAUZTVN410NY022100&infSeq=1",
-      "id": "3020",
-      "ksic_major_code": "E",
-      "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업"
     },
     {
       "name": "(주)포이닉스",
@@ -14046,40 +13927,6 @@
       "lead_quality_grade": "A"
     },
     {
-      "name": "워터스생활환경연구소",
-      "industry": "환경측정업",
-      "field": "환경측정",
-      "segment": "환경측정업",
-      "region": "경기",
-      "address": "경기술, 제품 검색",
-      "homepage": "https://keia.kr",
-      "contact": "https://keia.kr/main/envir/company_mst_list.do",
-      "phone": "02-389-7284",
-      "email": "keia@keia.kr",
-      "confidence": "high",
-      "source": "https://data.gg.go.kr/portal/data/service/selectServicePage.do?infId=H13KY5LDAUZTVN410NY022100&infSeq=1",
-      "id": "3130",
-      "ksic_major_code": "E",
-      "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업"
-    },
-    {
-      "name": "유노빅스이엔씨(주)",
-      "industry": "환경측정업",
-      "field": "환경측정",
-      "segment": "환경측정업",
-      "region": "경기",
-      "address": "충북 음성군 맹동면 이수로 93 국가기술표준원 본관 301호",
-      "homepage": "https://ksnara.or.kr",
-      "contact": "https://ksnara.or.kr/web_basic/introduction/contact_us.asp",
-      "phone": "043-870-5576",
-      "email": "",
-      "confidence": "high",
-      "source": "https://data.gg.go.kr/portal/data/service/selectServicePage.do?infId=H13KY5LDAUZTVN410NY022100&infSeq=1",
-      "id": "3133",
-      "ksic_major_code": "E",
-      "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업"
-    },
-    {
       "name": "인바이오텍(주)",
       "industry": "전문서비스",
       "field": "",
@@ -14258,23 +14105,6 @@
       "ksic_major_code": "E",
       "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
       "lead_quality_grade": "B"
-    },
-    {
-      "name": "청해ENV(주)",
-      "industry": "환경측정업",
-      "field": "환경측정",
-      "segment": "환경측정업",
-      "region": "경기",
-      "address": "경기술, 제품 검색",
-      "homepage": "https://keia.kr",
-      "contact": "https://keia.kr/main/envir/company_mst_list.do",
-      "phone": "02-389-7284",
-      "email": "keia@keia.kr",
-      "confidence": "high",
-      "source": "https://data.gg.go.kr/portal/data/service/selectServicePage.do?infId=H13KY5LDAUZTVN410NY022100&infSeq=1",
-      "id": "3191",
-      "ksic_major_code": "E",
-      "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업"
     },
     {
       "name": "케이비엔텍 주식회사",
@@ -14525,23 +14355,6 @@
       "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업"
     },
     {
-      "name": "(주)금강엔지니어링",
-      "industry": "승강기유지관리업",
-      "field": "승강기유지관리",
-      "segment": "승강기유지관리업",
-      "region": "강원",
-      "address": "인천광역시장, 이하 협회)와 ㈜더블유티씨서울(대표이사 김병유, 이하 WTCS)이 도심형 신재생에너지의 가치를 알리고 탄소중립 실현을 앞당기기 위해 힘을 모으기로 했다.",
-      "homepage": "https://kwwa.or.kr",
-      "contact": "",
-      "phone": "02-3156-7810",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15123452/fileData.do",
-      "id": "3268",
-      "ksic_major_code": "N",
-      "ksic_major_name": "사업시설 관리, 사업 지원 및 임대 서비스업"
-    },
-    {
       "name": "(주)하이원파트너스",
       "industry": "승강기유지관리업",
       "field": "승강기유지관리",
@@ -14555,23 +14368,6 @@
       "confidence": "high",
       "source": "https://www.data.go.kr/data/15123452/fileData.do",
       "id": "3275",
-      "ksic_major_code": "N",
-      "ksic_major_name": "사업시설 관리, 사업 지원 및 임대 서비스업"
-    },
-    {
-      "name": "승창엘리베이터(주)",
-      "industry": "승강기유지관리업",
-      "field": "승강기유지관리",
-      "segment": "승강기유지관리업",
-      "region": "강원",
-      "address": "강원특별자치도청",
-      "homepage": "https://kwnews.co.kr",
-      "contact": "https://news.kwnews.co.kr/company/",
-      "phone": "033-258-1000",
-      "email": "messi@kwnews.co.kr, gony@kwnews.co.kr",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15123452/fileData.do",
-      "id": "3279",
       "ksic_major_code": "N",
       "ksic_major_name": "사업시설 관리, 사업 지원 및 임대 서비스업"
     },
@@ -14592,23 +14388,6 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A"
-    },
-    {
-      "name": "(주)디엠씨코리아",
-      "industry": "승강기유지관리업",
-      "field": "승강기유지관리",
-      "segment": "승강기유지관리업",
-      "region": "경기",
-      "address": "경기도 화성시 장안면 장안로 480-2",
-      "homepage": "https://kpi.or.kr",
-      "contact": "https://kpi.or.kr/www/company/links.asp",
-      "phone": "010-2606-1674",
-      "email": "roundish@kpi.or.kr, kpidps@kpi.or.kr, wonga@kpi.or.kr",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15123452/fileData.do",
-      "id": "3313",
-      "ksic_major_code": "N",
-      "ksic_major_name": "사업시설 관리, 사업 지원 및 임대 서비스업"
     },
     {
       "name": "(주)삼일엘텍",
@@ -14808,23 +14587,6 @@
       "lead_quality_grade": "B"
     },
     {
-      "name": "현대엘리베이터(주)수원지사",
-      "industry": "승강기유지관리업",
-      "field": "승강기유지관리",
-      "segment": "승강기유지관리업",
-      "region": "경기",
-      "address": "경기도 수원시 영통구 덕영대로1556번길 16 , B동 305호 (영통동)",
-      "homepage": "https://en-ter.co.kr",
-      "contact": "https://en-ter.co.kr/contact",
-      "phone": "",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15123452/fileData.do",
-      "id": "3489",
-      "ksic_major_code": "N",
-      "ksic_major_name": "사업시설 관리, 사업 지원 및 임대 서비스업"
-    },
-    {
       "name": "현승강기 주식회사",
       "industry": "승강기유지관리업",
       "field": "승강기유지관리",
@@ -14929,23 +14691,6 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A"
-    },
-    {
-      "name": "(주)서명",
-      "industry": "승강기유지관리업",
-      "field": "승강기유지관리",
-      "segment": "승강기유지관리업",
-      "region": "경상북도",
-      "address": "서울경찰청 금융범죄수사대는 자본시장법상 사기적 부정거래 혐의를 받는 방 의장에 대해 구속영장을 신청했다고 21일 밝혔다. 방 의장은 2019년 하이브 상장을 앞두고 기존 주주와 투자자들로부터 주식을 매수하면서, 회사의",
-      "homepage": "https://asiatoday.co.kr",
-      "contact": "https://www.asiatoday.co.kr/kn/company/com_main.php",
-      "phone": "1561-7995",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15123452/fileData.do",
-      "id": "3557",
-      "ksic_major_code": "N",
-      "ksic_major_name": "사업시설 관리, 사업 지원 및 임대 서비스업"
     },
     {
       "name": "(주)월드엘리베이터",
@@ -15139,23 +14884,6 @@
       "confidence": "high",
       "source": "https://www.data.go.kr/data/15123452/fileData.do",
       "id": "3651",
-      "ksic_major_code": "N",
-      "ksic_major_name": "사업시설 관리, 사업 지원 및 임대 서비스업"
-    },
-    {
-      "name": "한양엔지니어링",
-      "industry": "승강기유지관리업",
-      "field": "승강기유지관리",
-      "segment": "승강기유지관리업",
-      "region": "대전",
-      "address": "대전광역시 서구 계룡로553번안길 21 , 성원빌딩 301호 (탄방동)",
-      "homepage": "https://kpi.or.kr",
-      "contact": "https://kpi.or.kr/www/company/links.asp",
-      "phone": "010-2606-1674",
-      "email": "roundish@kpi.or.kr, kpidps@kpi.or.kr, wonga@kpi.or.kr",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15123452/fileData.do",
-      "id": "3665",
       "ksic_major_code": "N",
       "ksic_major_name": "사업시설 관리, 사업 지원 및 임대 서비스업"
     },
@@ -15512,23 +15240,6 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A"
-    },
-    {
-      "name": "케이에이씨공항서비스(주)",
-      "industry": "승강기유지관리업",
-      "field": "승강기유지관리",
-      "segment": "승강기유지관리업",
-      "region": "서울",
-      "address": "충북 음성군 맹동면 이수로 93 국가기술표준원 본관 301호",
-      "homepage": "https://ksnara.or.kr",
-      "contact": "https://ksnara.or.kr/web_basic/introduction/contact_us.asp",
-      "phone": "043-870-5576",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15123452/fileData.do",
-      "id": "3874",
-      "ksic_major_code": "N",
-      "ksic_major_name": "사업시설 관리, 사업 지원 및 임대 서비스업"
     },
     {
       "name": "하나로엠지엠(주)",
@@ -16046,23 +15757,6 @@
       "lead_quality_grade": "B"
     },
     {
-      "name": "(주)전원기업",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "광주",
-      "address": "광주광역시 북구 하남대로 605 ,2층 202호(동림동)",
-      "homepage": "https://weseb.com",
-      "contact": "전화: 062-382-8204",
-      "phone": "062-382-8204",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "4129",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
       "name": "(주)중원",
       "industry": "전문서비스",
       "field": "",
@@ -16386,23 +16080,6 @@
       "lead_quality_grade": "B"
     },
     {
-      "name": "(주)부송",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "대구",
-      "address": "대구광역시 남구 현충로 206 ,701호(대명동,신화빌딩)",
-      "homepage": "https://weseb.com",
-      "contact": "전화: 053-629-9501",
-      "phone": "053-629-9501",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "4271",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
       "name": "(주)서한",
       "industry": "전문서비스",
       "field": "",
@@ -16493,23 +16170,6 @@
       "lead_quality_grade": "B"
     },
     {
-      "name": "(주)신동양기업",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "대구",
-      "address": "대구광역시 서구 팔달로 34 ,301호(비산동)",
-      "homepage": "https://newsis.com",
-      "contact": "전화: 053-352-6711",
-      "phone": "053-352-6711",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "4287",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
       "name": "(주)에스제이에스일렉트릭",
       "industry": "전문서비스",
       "field": "",
@@ -16562,23 +16222,6 @@
       "ksic_major_code": "N",
       "ksic_major_name": "사업시설 관리, 사업 지원 및 임대 서비스업",
       "lead_quality_grade": "B"
-    },
-    {
-      "name": "(주)영진기공",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "대구",
-      "address": "대구광역시 북구 검단로 135 104동 120호(검단동, 검단팩토리밸리)",
-      "homepage": "https://weseb.com",
-      "contact": "전화: 053-384-7233",
-      "phone": "053-384-7233",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "4306",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
     },
     {
       "name": "(주)우방",
@@ -16921,23 +16564,6 @@
       "lead_quality_grade": "B"
     },
     {
-      "name": "주식회사 신진알앤씨",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "대구",
-      "address": "대구광역시 달서구 와룡로 18 , 3층(본동)",
-      "homepage": "https://en-ter.co.kr",
-      "contact": "전화: 053-582-7114",
-      "phone": "053-582-7114",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "4437",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
       "name": "주식회사 씨앤티",
       "industry": "전문서비스",
       "field": "",
@@ -17098,23 +16724,6 @@
       "ksic_major_name": "건설업"
     },
     {
-      "name": "(주)덕성건업",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "부산",
-      "address": "부산광역시 동래구 중앙대로1285번길 32 , 3층(사직동)",
-      "homepage": "https://sori114.com",
-      "contact": "전화: 051-558-0982",
-      "phone": "051-558-0982",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "4527",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
       "name": "(주)동아이엔지",
       "industry": "전문서비스",
       "field": "",
@@ -17258,40 +16867,6 @@
       "lead_quality_grade": "B"
     },
     {
-      "name": "(주)세창건설",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "부산",
-      "address": "부산광역시 금정구 체육공원로 47 (구서동) 3층",
-      "homepage": "https://en-ter.co.kr",
-      "contact": "전화: 051-503-6927",
-      "phone": "051-503-6927",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "4586",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
-      "name": "(주)수성방재",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "부산",
-      "address": "부산광역시 부산진구 성지로153번길 122 (초읍동, 대신빌라)",
-      "homepage": "https://sori114.com",
-      "contact": "전화: 051-642-6119",
-      "phone": "051-642-6119",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "4589",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
       "name": "(주)엔케이",
       "industry": "전문서비스",
       "field": "",
@@ -17433,23 +17008,6 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "B"
-    },
-    {
-      "name": "경성이엔씨(주)",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "부산",
-      "address": "부산광역시 사하구 승학로233번길 50 (괴정동, 괴정자유2차아파트) 상가 101호",
-      "homepage": "https://en-ter.co.kr",
-      "contact": "전화: 051-231-0482",
-      "phone": "051-231-0482",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "4696",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
     },
     {
       "name": "고려화공(주)",
@@ -17632,23 +17190,6 @@
       "lead_quality_grade": "B"
     },
     {
-      "name": "정운기업 주식회사",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "부산",
-      "address": "부산광역시 해운대구 삼어로147번길 23 (반여동) 2층",
-      "homepage": "https://newsis.com",
-      "contact": "전화: 051-525-0119",
-      "phone": "051-525-0119",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "4765",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
       "name": "주식회사 대림전설",
       "industry": "전문서비스",
       "field": "",
@@ -17755,23 +17296,6 @@
       "ksic_major_code": "N",
       "ksic_major_name": "사업시설 관리, 사업 지원 및 임대 서비스업",
       "lead_quality_grade": "B"
-    },
-    {
-      "name": "주식회사 윤성",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "부산",
-      "address": "부산광역시 남구 무민사로 13 , 1009호(감만동, 판테라오피스텔)",
-      "homepage": "https://en-ter.co.kr",
-      "contact": "전화: 051-639-5119",
-      "phone": "051-639-5119",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "4824",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
     },
     {
       "name": "주식회사 케이디기공",
@@ -18170,23 +17694,6 @@
       "lead_quality_grade": "B"
     },
     {
-      "name": "(주)동승기업",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "서울",
-      "address": "서울특별시 서대문구 불광천길 100 (북가좌동, 동승빌딩)",
-      "homepage": "https://weseb.com",
-      "contact": "전화: 02-393-8942",
-      "phone": "02-393-8942",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "4962",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
       "name": "(주)동행안전",
       "industry": "전문서비스",
       "field": "",
@@ -18221,23 +17728,6 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "B"
-    },
-    {
-      "name": "(주)리트코",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "서울",
-      "address": "서울특별시 강남구 논현로63길 63 (역삼동, 리트코빌딩)",
-      "homepage": "https://keia.kr",
-      "contact": "전화: 02-2009-1815 / 이메일: keia@keia.kr",
-      "phone": "02-2009-1815",
-      "email": "keia@keia.kr",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "4980",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
     },
     {
       "name": "(주)마스테코",
@@ -18510,23 +18000,6 @@
       "lead_quality_grade": "B"
     },
     {
-      "name": "(주)에이텍코리아",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "서울",
-      "address": "서울특별시 서초구 남부순환로350길 68 (양재동)",
-      "homepage": "https://weseb.com",
-      "contact": "전화: 02-577-9161",
-      "phone": "02-577-9161",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "5095",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
       "name": "(주)엑사파이어",
       "industry": "전문서비스",
       "field": "",
@@ -18671,23 +18144,6 @@
       "lead_quality_grade": "B"
     },
     {
-      "name": "(주)유신플랜테크",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "서울",
-      "address": "서울특별시 마포구 신촌로6길 24 (동교동)",
-      "homepage": "https://sori114.com",
-      "contact": "전화: 02-3143-0119",
-      "phone": "02-3143-0119",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "5134",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
       "name": "(주)윤익계전",
       "industry": "전문서비스",
       "field": "",
@@ -18813,23 +18269,6 @@
       "lead_quality_grade": "B"
     },
     {
-      "name": "(주)코젠",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "서울",
-      "address": "서울특별시 서초구 바우뫼로43길 56 (양재동)",
-      "homepage": "https://cnews.co.kr",
-      "contact": "전화: 02-529-3200",
-      "phone": "02-529-3200",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "5224",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
       "name": "(주)태원전기",
       "industry": "소방시설업",
       "field": "소방점검",
@@ -18953,23 +18392,6 @@
       "ksic_major_code": "N",
       "ksic_major_name": "사업시설 관리, 사업 지원 및 임대 서비스업",
       "lead_quality_grade": "B"
-    },
-    {
-      "name": "(주)한울종합전기",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "서울",
-      "address": "서울특별시 금천구 가산로3길 105 , 401호(독산동)",
-      "homepage": "https://ksnara.or.kr",
-      "contact": "전화: 031-432-2114",
-      "phone": "031-432-2114",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "5264",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
     },
     {
       "name": "(주)한창이엔지",
@@ -19343,23 +18765,6 @@
       "ksic_major_name": "건설업"
     },
     {
-      "name": "동양파이프라이닝(주)",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "서울",
-      "address": "서울특별시 영등포구 영중로 134-1 , 502호(영등포동8가)",
-      "homepage": "https://kwwa.or.kr",
-      "contact": "전화: 02-2672-2581 / 이메일: js4395@kwwa.or.kr",
-      "phone": "02-2672-2581",
-      "email": "js4395@kwwa.or.kr",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "5420",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
       "name": "동우공영(주)",
       "industry": "전문서비스",
       "field": "",
@@ -19376,40 +18781,6 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "B"
-    },
-    {
-      "name": "동화지엠(주)",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "서울",
-      "address": "서울특별시 강남구 개포로 662 , 202호(일원동, 금산빌딩)",
-      "homepage": "https://sori114.com",
-      "contact": "전화: 02-517-1447",
-      "phone": "02-517-1447",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "5427",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
-      "name": "두복산전(주)",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "서울",
-      "address": "서울특별시 서대문구 독립문공원길 13 , 202호(현저동, 독립문극동프라자)",
-      "homepage": "https://en-ter.co.kr",
-      "contact": "전화: 02-335-0181",
-      "phone": "02-335-0181",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "5428",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
     },
     {
       "name": "두원이에프씨(주)",
@@ -19498,23 +18869,6 @@
       "ksic_major_code": "N",
       "ksic_major_name": "사업시설 관리, 사업 지원 및 임대 서비스업",
       "lead_quality_grade": "B"
-    },
-    {
-      "name": "메인테크플랜트(주)",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "서울",
-      "address": "서울특별시 양천구 목동동로 293 2801호(목동,현대41타워)",
-      "homepage": "https://asiatoday.co.kr",
-      "contact": "전화: 02-2168-3341",
-      "phone": "02-2168-3341",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "5445",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
     },
     {
       "name": "미성엠프로 주식회사",
@@ -19642,23 +18996,6 @@
       "lead_quality_grade": "B"
     },
     {
-      "name": "승림이앤씨(주)",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "서울",
-      "address": "서울특별시 송파구 삼학사로11길 7 201호(삼전동, 광진빌딩)",
-      "homepage": "https://sori114.com",
-      "contact": "전화: 02-406-3380",
-      "phone": "02-406-3380",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "5532",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
       "name": "신신이앤씨 주식회사",
       "industry": "전문서비스",
       "field": "",
@@ -19780,23 +19117,6 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "B"
-    },
-    {
-      "name": "영림건설 주식회사",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "서울",
-      "address": "서울특별시 도봉구 도봉로126길 5 , 비1층, 1층(창동)",
-      "homepage": "https://sori114.com",
-      "contact": "전화: 02-999-5105",
-      "phone": "02-999-5105",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "5577",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
     },
     {
       "name": "오씨에스엔지니어링(주)",
@@ -19921,23 +19241,6 @@
       "ksic_major_code": "N",
       "ksic_major_name": "사업시설 관리, 사업 지원 및 임대 서비스업",
       "lead_quality_grade": "B"
-    },
-    {
-      "name": "주식회사 기영이엔씨",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "서울",
-      "address": "서울특별시 광진구 아차산로 375 ,4층 403호(구의동, 크레신타워 3차)",
-      "homepage": "https://en-ter.co.kr",
-      "contact": "전화: 02-456-3007",
-      "phone": "02-456-3007",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "5676",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
     },
     {
       "name": "주식회사 대운엔지니어링",
@@ -20188,23 +19491,6 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "B"
-    },
-    {
-      "name": "주식회사 케이에스메이트",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "서울",
-      "address": "서울특별시 용산구 한강대로62나길 17 , 2층(용산동3가, 인월빌딩)",
-      "homepage": "https://ksnara.or.kr",
-      "contact": "전화: 02-704-3001",
-      "phone": "02-704-3001",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "5876",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
     },
     {
       "name": "주식회사 케이에스이앤지",
@@ -20566,23 +19852,6 @@
       "lead_quality_grade": "B"
     },
     {
-      "name": "한양산업개발 주식회사",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "서울",
-      "address": "서울특별시 광진구 아차산로 355 405호(자양동)",
-      "homepage": "https://ksnara.or.kr",
-      "contact": "전화: 02-731-6000",
-      "phone": "02-731-6000",
-      "email": "",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "5996",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
       "name": "한일건설(주)",
       "industry": "소방시설업",
       "field": "소방점검",
@@ -20596,23 +19865,6 @@
       "confidence": "high",
       "source": "https://www.data.go.kr/data/15052730/fileData.do",
       "id": "5999",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
-      "name": "한일소방설비",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "서울",
-      "address": "서울특별시 중랑구 용마산로139다길 15-13 , 1층 101호(신내동, 영예빌라)",
-      "homepage": "https://kpi.or.kr",
-      "contact": "전화: 02-3295-3119 / 이메일: roundish@kpi.or.kr, kpidps@kpi.or.kr, wonga@kpi.or.kr",
-      "phone": "02-3295-3119",
-      "email": "roundish@kpi.or.kr, kpidps@kpi.or.kr, wonga@kpi.or.kr",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "6000",
       "ksic_major_code": "F",
       "ksic_major_name": "건설업"
     },
@@ -20777,41 +20029,6 @@
       "ksic_major_name": "건설업"
     },
     {
-      "name": "(주)대진이앤지",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "인천",
-      "address": "인천광역시 서구 완정로165번안길 1 , 502호(왕길동, 이편한프라자)",
-      "homepage": "https://kwwa.or.kr",
-      "contact": "전화: 032-523-8181 / 이메일: js4395@kwwa.or.kr",
-      "phone": "032-523-8181",
-      "email": "js4395@kwwa.or.kr",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "6061",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
-    },
-    {
-      "name": "(주)대화",
-      "industry": "전문서비스",
-      "field": "",
-      "segment": "전문서비스",
-      "region": "인천",
-      "address": "인천광역시 연수구 송도과학로 32 ,엠동 1102호(송도동,송도테크노파크아이티센터)",
-      "homepage": "https://ytn.co.kr",
-      "contact": "전화: 032-864-2266",
-      "phone": "032-864-2266",
-      "email": "",
-      "confidence": "medium",
-      "source": "seed:association_directory",
-      "id": "6063",
-      "ksic_major_code": "M",
-      "ksic_major_name": "전문, 과학 및 기술 서비스업",
-      "lead_quality_grade": "B"
-    },
-    {
       "name": "(주)더블유티씨",
       "industry": "전문서비스",
       "field": "",
@@ -20864,23 +20081,6 @@
       "ksic_major_code": "N",
       "ksic_major_name": "사업시설 관리, 사업 지원 및 임대 서비스업",
       "lead_quality_grade": "B"
-    },
-    {
-      "name": "(주)동일전력",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "인천",
-      "address": "인천광역시 연수구 송도미래로11번길 27 , 에이동 1510호(송도동, 송도스마트스퀘어)",
-      "homepage": "https://kpi.or.kr",
-      "contact": "전화: 032-818-7561 / 이메일: roundish@kpi.or.kr, kpidps@kpi.or.kr, wonga@kpi.or.kr",
-      "phone": "032-818-7561",
-      "email": "roundish@kpi.or.kr, kpidps@kpi.or.kr, wonga@kpi.or.kr",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "6072",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
     },
     {
       "name": "(주)디에프",
@@ -21363,23 +20563,6 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "B"
-    },
-    {
-      "name": "씨에스건설(주)",
-      "industry": "소방시설업",
-      "field": "소방점검",
-      "segment": "소방시설업",
-      "region": "인천",
-      "address": "인천광역시 계양구 계산새로 71 , 씨동 805-2호(계산동, 하이베라스)",
-      "homepage": "https://kwwa.or.kr",
-      "contact": "전화: 032-545-6630 / 이메일: js4395@kwwa.or.kr",
-      "phone": "032-545-6630",
-      "email": "js4395@kwwa.or.kr",
-      "confidence": "high",
-      "source": "https://www.data.go.kr/data/15052730/fileData.do",
-      "id": "6235",
-      "ksic_major_code": "F",
-      "ksic_major_name": "건설업"
     },
     {
       "name": "인천공항운영서비스 주식회사",
@@ -24135,23 +23318,6 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업"
     },
     {
-      "name": "(주)이상건축사사무소",
-      "industry": "건축사사무소",
-      "field": "건축설계",
-      "segment": "건축사사무소",
-      "region": "김포시",
-      "address": "경기도 김포시 사우중로11번길 20",
-      "homepage": "https://kwnews.co.kr",
-      "contact": "전화: 033-258-1000 / 이메일: messi@kwnews.co.kr, gony@kwnews.co.kr",
-      "phone": "033-258-1000",
-      "email": "messi@kwnews.co.kr, gony@kwnews.co.kr",
-      "confidence": "high",
-      "source": "https://data.gg.go.kr/portal/data/service/selectServicePage.do?infId=7VV6IWKWGKZFH3PG0ELH19127436&infSeq=1",
-      "id": "12478",
-      "ksic_major_code": "M",
-      "ksic_major_name": "전문, 과학 및 기술 서비스업"
-    },
-    {
       "name": "(주)종합건축사사무소 수",
       "industry": "건축사사무소",
       "field": "건축설계",
@@ -24310,23 +23476,6 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "B"
-    },
-    {
-      "name": "건축사사무소 오가",
-      "industry": "건축사사무소",
-      "field": "건축설계",
-      "segment": "건축사사무소",
-      "region": "남양주시",
-      "address": "경기도 남양주시 경춘로1256번길 6",
-      "homepage": "https://cnews.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
-      "confidence": "high",
-      "source": "https://data.gg.go.kr/portal/data/service/selectServicePage.do?infId=7VV6IWKWGKZFH3PG0ELH19127436&infSeq=1",
-      "id": "12621",
-      "ksic_major_code": "M",
-      "ksic_major_name": "전문, 과학 및 기술 서비스업"
     },
     {
       "name": "건축사사무소 원",
@@ -26731,23 +25880,6 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업"
     },
     {
-      "name": "(주)선진건축사사무소",
-      "industry": "건축사사무소",
-      "field": "건축설계",
-      "segment": "건축사사무소",
-      "region": "양평군",
-      "address": "경기도 양평군 양평읍 군청앞길 1",
-      "homepage": "https://kwnews.co.kr",
-      "contact": "전화: 033-258-1000 / 이메일: messi@kwnews.co.kr, gony@kwnews.co.kr",
-      "phone": "033-258-1000",
-      "email": "messi@kwnews.co.kr, gony@kwnews.co.kr",
-      "confidence": "high",
-      "source": "https://data.gg.go.kr/portal/data/service/selectServicePage.do?infId=7VV6IWKWGKZFH3PG0ELH19127436&infSeq=1",
-      "id": "22638",
-      "ksic_major_code": "M",
-      "ksic_major_name": "전문, 과학 및 기술 서비스업"
-    },
-    {
       "name": "(주)토우 건축사사무소",
       "industry": "건축사사무소",
       "field": "건축설계",
@@ -27871,23 +27003,6 @@
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A"
-    },
-    {
-      "name": "이다 건축사사무소",
-      "industry": "건축사사무소",
-      "field": "건축설계",
-      "segment": "건축사사무소",
-      "region": "파주시",
-      "address": "경기도 파주시 월롱면 도감로 258",
-      "homepage": "https://cnews.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
-      "confidence": "high",
-      "source": "https://data.gg.go.kr/portal/data/service/selectServicePage.do?infId=7VV6IWKWGKZFH3PG0ELH19127436&infSeq=1",
-      "id": "25049",
-      "ksic_major_code": "M",
-      "ksic_major_name": "전문, 과학 및 기술 서비스업"
     },
     {
       "name": "(주)그린 건축사사무소",
@@ -46184,24 +45299,6 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "B"
-    },
-    {
-      "name": "주식회사 국토해양환경기술단",
-      "industry": "전문서비스",
-      "field": "",
-      "segment": "전문서비스",
-      "region": "경기",
-      "address": "경기도 수원시 영통구 덕영대로1556번길 16, 디지털엠파이어빌딩 D동 5층 505호 (영통동)",
-      "homepage": "https://theksa.or.kr",
-      "contact": "전화: 031-205-8601",
-      "phone": "031-205-8601",
-      "email": "",
-      "confidence": "high",
-      "source": "seed:official_seed",
-      "id": "31524",
-      "ksic_major_code": "E",
-      "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
-      "lead_quality_grade": "A"
     },
     {
       "name": "주식회사 바이오옵틱스",
