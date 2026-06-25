@@ -23826,8 +23826,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.hlscience.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-421-9903 / 홈페이지: http://www.hlscience.com",
+      "phone": "031-421-9903,031-421-9904",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -23836,7 +23836,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "239610",
-      "product": "건강기능식품 등"
+      "product": "건강기능식품 등",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=https://hlscience.com/main; title=에이치엘사이언스; body_bytes=13788; name_score=5; phones=031-421-9903,031-421-9904; emails=; checked_urls=https://hlscience.com/main; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "코스메카코리아",
@@ -23866,9 +23868,9 @@
       "region": "대전광역시",
       "address": "",
       "homepage": "http://www.angiolab.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 042-867-5785 / 이메일: angiolab@angiolab.co.kr / 홈페이지: http://www.angiolab.co.kr",
+      "phone": "042-867-5785,042-867-5787",
+      "email": "angiolab@angiolab.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78862",
@@ -23876,7 +23878,9 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
       "stock_code": "251280",
-      "product": "신약개발 및 체지방 감소 건강기능식품"
+      "product": "신약개발 및 체지방 감소 건강기능식품",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=https://www.angiolab.co.kr/default/; title=안지오랩; body_bytes=3478; name_score=3; phones=042-867-5785,042-867-5787; emails=angiolab@angiolab.co.kr; checked_urls=https://www.angiolab.co.kr/default/,https://www.angiolab.co.kr/base/sub2/01.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "미투온",
@@ -24126,8 +24130,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.koreit.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-3451-1100 / 홈페이지: http://www.koreit.co.kr",
+      "phone": "02-3451-1100,02-3451-1114",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -24136,7 +24140,9 @@
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
       "stock_code": "034830",
-      "product": "부동산신탁 등"
+      "product": "부동산신탁 등",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=https://www.koreit.co.kr/main.html; title=한국토지신탁; body_bytes=4324; name_score=5; phones=02-3451-1100,02-3451-1114; emails=; checked_urls=https://www.koreit.co.kr/main.html,https://www.koreit.co.kr/company/about/history; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "해성디에스",
@@ -24146,8 +24152,8 @@
       "region": "경상남도",
       "address": "",
       "homepage": "http://www.haesungds.com",
-      "contact": "전화: 070-4761-0000",
-      "phone": "",
+      "contact": "전화: 070-4761-0000 / 홈페이지: http://www.haesungds.com",
+      "phone": "070-4761-0000",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -24156,7 +24162,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "195870",
-      "product": "반도체 패키지용 Substrate"
+      "product": "반도체 패키지용 Substrate",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=http://www.haesungds.com/; title=HAESUNG DS; body_bytes=47226; name_score=5; phones=070-4761-0000; emails=; checked_urls=http://www.haesungds.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "에스티팜",
@@ -24166,8 +24174,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.stpharm.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-310-1100 / 홈페이지: http://www.stpharm.co.kr",
+      "phone": "031-310-1100",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -24176,7 +24184,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "237690",
-      "product": "원료의약품"
+      "product": "원료의약품",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=https://www.stpharm.co.kr/; title=ST PHARM; body_bytes=5856; name_score=3; phones=031-310-1100; emails=; checked_urls=https://www.stpharm.co.kr/,https://www.stpharm.co.kr/ko/st-pharm-family; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "지씨셀",
@@ -24266,8 +24276,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.ips.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-8047-7000 / 홈페이지: http://www.ips.co.kr",
+      "phone": "031-8047-7000",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -24276,7 +24286,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "240810",
-      "product": "반도체 제조용 기계"
+      "product": "반도체 제조용 기계",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=https://www.ips.co.kr/ko/; title=WONIK IPS; body_bytes=5532; name_score=5; phones=031-8047-7000; emails=; checked_urls=https://www.ips.co.kr/ko/,https://www.ips.co.kr/ko/company/about.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "레이언스",
@@ -24306,8 +24318,8 @@
       "region": "충청남도",
       "address": "",
       "homepage": "http://www.tongyangphc.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-3770-1805 / 홈페이지: http://www.tongyangphc.com",
+      "phone": "02-3770-1805,02-3770-3305",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -24316,7 +24328,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "228340",
-      "product": "PHC파일"
+      "product": "PHC파일",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=http://www.tongyangphc.com/main.htm; title=동양파일(주); body_bytes=3279; name_score=3; phones=02-3770-1805,02-3770-3305; emails=; checked_urls=http://www.tongyangphc.com/main.htm,http://www.tongyangphc.com/about/about_info.html,http://www.tongyangphc.com/about/about_history.html,http://www.tongyangphc.com/about/about_manage.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "삼일씨엔에스",
@@ -24326,9 +24340,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.esamil.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-326-6331 / 이메일: si85804@esamil.com / 홈페이지: http://www.esamil.com",
+      "phone": "031-326-6331,031-352-7066,031-672-5317,043-851-9898,031-896-8035,052-254-1300",
+      "email": "si85804@esamil.com,si00957@esamil.com,sicon125@esamil.com,hhn6468@esamil.com,si00012@esamil.com,gy56802@esamil.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78888",
@@ -24336,7 +24350,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "004440",
-      "product": "PHC파일, 강교, PC"
+      "product": "PHC파일, 강교, PC",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=http://www.esamil.com/home/main.do; title=; body_bytes=8614; name_score=5; phones=031-326-6331,031-352-7066,031-672-5317,043-851-9898,031-896-8035,052-254-1300; emails=si85804@esamil.com,si00957@esamil.com,sicon125@esamil.com,hhn6468@esamil.com,si00012@esamil.com,gy56802@esamil.com; checked_urls=http://www.esamil.com/home/main.do,http://www.esamil.com/home/business_01.do,http://www.esamil.com/home/samil_01.do,http://www.esamil.com/home/customer_03.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "팬젠",
@@ -24486,8 +24502,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.cronex.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 070-5214-1998 / 홈페이지: http://www.cronex.co.kr",
+      "phone": "070-5214-1998,031-352-7669,043-716-2300,064-805-0033,070-4369-0017,031-352-4067",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -24496,7 +24512,9 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
       "stock_code": "215570",
-      "product": "CRO 및 생물종(미니피그)"
+      "product": "CRO 및 생물종(미니피그)",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=http://www.cronex.co.kr/main/; title=크로넥스(주); body_bytes=6686; name_score=3; phones=070-5214-1998,031-352-7669,043-716-2300,064-805-0033,070-4369-0017,031-352-4067; emails=; checked_urls=http://www.cronex.co.kr/main/,http://www.cronex.co.kr/contact/inquiry.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "사토시홀딩스",
@@ -24526,8 +24544,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://yikcorp.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-639-9180 / 홈페이지: http://yikcorp.com",
+      "phone": "031-639-9180,031-639-9160",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -24536,7 +24554,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "232140",
-      "product": "메모리 웨이퍼 테스터"
+      "product": "메모리 웨이퍼 테스터",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=https://www.yccorp.com/kr/index.php; title=와이씨; body_bytes=4358; name_score=3; phones=031-639-9180,031-639-9160; emails=; checked_urls=https://www.yccorp.com/kr/index.php,https://www.yccorp.com/kr/etc/sitemap.php,https://www.yccorp.com/kr/company/summary.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "육일씨엔에쓰",
@@ -24686,8 +24706,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.yest.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-612-3333 / 홈페이지: http://www.yest.co.kr",
+      "phone": "031-612-3333,031-612-3399,031-612-3355",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -24696,7 +24716,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "122640",
-      "product": "반도체 및 디스플레이 제조 장비"
+      "product": "반도체 및 디스플레이 제조 장비",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=https://www.yest.co.kr/New/index.html; title=YEST - YES Technology; body_bytes=5129; name_score=3; phones=031-612-3333,031-612-3399,031-612-3355; emails=; checked_urls=https://www.yest.co.kr/New/index.html,https://www.yest.co.kr/New/portfolio.html,https://www.yest.co.kr/New/about_us.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "원익피앤이",
@@ -24726,8 +24748,8 @@
       "region": "울산광역시",
       "address": "",
       "homepage": "http://www.sejinheavy.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 052-231-8000 / 홈페이지: http://www.sejinheavy.com",
+      "phone": "052-231-8000,052-239-7010",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -24736,7 +24758,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "075580",
-      "product": "선박 Deck House, LPG Tank, Upper Deck Unit, 해양플랜트 Living Quarter"
+      "product": "선박 Deck House, LPG Tank, Upper Deck Unit, 해양플랜트 Living Quarter",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=http://www.sejinheavy.com/main.asp; title=세진중공업; body_bytes=3536; name_score=5; phones=052-231-8000,052-239-7010; emails=; checked_urls=http://www.sejinheavy.com/main.asp,http://www.sejinheavy.com/sub0_intro.asp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "엔투텍",
@@ -24806,8 +24830,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.namuga.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 070-7012-8400 / 홈페이지: http://www.namuga.co.kr",
+      "phone": "070-7012-8400",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -24816,7 +24840,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "190510",
-      "product": "스마트폰 카메라모듈, 노트북 카메라모듈"
+      "product": "스마트폰 카메라모듈, 노트북 카메라모듈",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=https://namuga.com/; title=Main | Namuga; body_bytes=20161; name_score=3; phones=070-7012-8400; emails=; checked_urls=https://namuga.com/,https://namuga.com/kor/introduce/about.php,https://namuga.com/kor/introduce/contact.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "시지메드텍",
@@ -25086,9 +25112,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.dongil-steel.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 070-4370-8720 / 이메일: jyh3920@dongil-steel.co.kr / 홈페이지: http://www.dongil-steel.com",
+      "phone": "070-4370-8720,031-677-1234",
+      "email": "jyh3920@dongil-steel.co.kr,aluminum@dongil-steel.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78929",
@@ -25096,7 +25122,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "002690",
-      "product": "PC강연선, 경강선, 도금선, 마봉강"
+      "product": "PC강연선, 경강선, 도금선, 마봉강",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=; title=동일제강(주); body_bytes=3525; name_score=3; phones=070-4370-8720,031-677-1234; emails=jyh3920@dongil-steel.co.kr,aluminum@dongil-steel.co.kr; checked_urls=https://dongil-steel.com/dongilsteel/?mode=main,https://dongil-steel.com/dongilsteel/?mode=customer_service01; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "휴먼테크놀로지",
@@ -25106,9 +25134,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://humantechn.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-6205-0505 / 이메일: editor@humantechn.com / 홈페이지: http://humantechn.com",
+      "phone": "02-6205-0505,031-714-0454",
+      "email": "editor@humantechn.com,as@humantechn.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78930",
@@ -25116,7 +25144,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "175140",
-      "product": "웨어러블 디바이스, 모바일 라우터"
+      "product": "웨어러블 디바이스, 모바일 라우터",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=https://humantechn.com/; title=휴먼테크놀로지; body_bytes=4477; name_score=5; phones=02-6205-0505,031-714-0454; emails=editor@humantechn.com,as@humantechn.com; checked_urls=https://humantechn.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "씨아이에스",
@@ -25166,9 +25196,9 @@
       "region": "경상남도",
       "address": "",
       "homepage": "http://www.cenotec.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 055-584-9181 / 이메일: sales@cenotec.com / 홈페이지: http://www.cenotec.com",
+      "phone": "055-584-9181,055-584-9187",
+      "email": "sales@cenotec.com,cenotec.sales@gmail.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78935",
@@ -25176,7 +25206,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "222420",
-      "product": "세라믹 비드"
+      "product": "세라믹 비드",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=http://www.cenotec.com/; title=쎄노텍; body_bytes=4269; name_score=3; phones=055-584-9181,055-584-9187; emails=sales@cenotec.com,cenotec.sales@gmail.com; checked_urls=http://www.cenotec.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "엔에스컴퍼니",
@@ -25326,9 +25358,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.bio-core.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2027-6235 / 이메일: sales@bio-core.com / 홈페이지: http://www.bio-core.com",
+      "phone": "02-2027-6235,02-2626-5600,02-2205-9921,02-2027-6200,02-2027-6218",
+      "email": "sales@bio-core.com,qcsales@bio-core.com,coldchain@bio-core.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78946",
@@ -25336,7 +25368,9 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
       "stock_code": "216400",
-      "product": "CRO(분석/생동/임상) 서비스, 유전체 분석 및 유전체 분석제품 개발 등"
+      "product": "CRO(분석/생동/임상) 서비스, 유전체 분석 및 유전체 분석제품 개발 등",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=https://www.bio-core.com/kor/main/main.php; title=인바이츠바이오코아(주); body_bytes=3299; name_score=5; phones=02-2027-6235,02-2626-5600,02-2205-9921,02-2027-6200,02-2027-6218; emails=sales@bio-core.com,qcsales@bio-core.com,coldchain@bio-core.com; checked_urls=https://www.bio-core.com/kor/main/main.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "씨앗",
@@ -25546,8 +25580,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.hansolpaper.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-3287-7114 / 홈페이지: http://www.hansolpaper.co.kr",
+      "phone": "02-3287-7114",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -25556,7 +25590,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "213500",
-      "product": "인쇄용지, 산업용지, 특수지 제조 및 판매"
+      "product": "인쇄용지, 산업용지, 특수지 제조 및 판매",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=; title=한솔제지; body_bytes=7159; name_score=3; phones=02-3287-7114; emails=; checked_urls=http://www.hansolpaper.co.kr/main?homepage,http://www.hansolpaper.co.kr/product/intrd,http://www.hansolpaper.co.kr/intro/company,http://www.hansolpaper.co.kr/intro/place?p=1; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "디와이파워",
@@ -25946,8 +25982,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.tegoscience.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-818-2900 / 홈페이지: http://www.tegoscience.com",
+      "phone": "02-818-2900",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -25956,7 +25992,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "191420",
-      "product": "피부세포치료제"
+      "product": "피부세포치료제",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=http://www.tegoscience.com/kor/main.do; title=TEGO SCIENCE; body_bytes=19131; name_score=5; phones=02-818-2900; emails=; checked_urls=http://www.tegoscience.com/kor/main.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "슈피겐코리아",
@@ -26126,8 +26164,8 @@
       "region": "경상남도",
       "address": "",
       "homepage": "http://www.finebesteel.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 055-259-2000 / 홈페이지: http://www.finebesteel.com",
+      "phone": "055-259-2000,055-259-2020,02-599-1601,061-795-7495,051-796-7000,051-316-5341",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -26136,7 +26174,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "133820",
-      "product": "조선용 형강(부등변 부등후 앵글, 부등호 앵글, 등변앵글 평철 등)"
+      "product": "조선용 형강(부등변 부등후 앵글, 부등호 앵글, 등변앵글 평철 등)",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=http://www.finebesteel.com/kr/index.do; title=(주)화인베스틸; body_bytes=10619; name_score=5; phones=055-259-2000,055-259-2020,02-599-1601,061-795-7495,051-796-7000,051-316-5341; emails=; checked_urls=http://www.finebesteel.com/kr/index.do,http://www.finebesteel.com/kr/pageView/16/view.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "엣지파운드리",
@@ -26286,8 +26326,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.topcomedia.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-508-4493 / 홈페이지: http://www.topcomedia.co.kr",
+      "phone": "02-508-4493",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -26296,7 +26336,9 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "stock_code": "134580",
-      "product": "웹툰, 만화"
+      "product": "웹툰, 만화",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=https://www.topcomedia.co.kr/; title=탑코미디어; body_bytes=14259; name_score=5; phones=02-508-4493; emails=; checked_urls=https://www.topcomedia.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "신송홀딩스",
@@ -26446,9 +26488,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.naturalendo.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 070-4601-3139 / 이메일: cs9393@naturalendo.co.kr / 홈페이지: http://www.naturalendo.com",
+      "phone": "070-4601-3139,070-4601-3152,070-4601-3100",
+      "email": "cs9393@naturalendo.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79009",
@@ -26456,7 +26498,9 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
       "stock_code": "168330",
-      "product": "백수오 여성호르몬제, 백수오등복합추출물(원료)"
+      "product": "백수오 여성호르몬제, 백수오등복합추출물(원료)",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=http://www.naturalendo.co.kr/default/; title=; body_bytes=5078; name_score=5; phones=070-4601-3139,070-4601-3152,070-4601-3100; emails=cs9393@naturalendo.co.kr; checked_urls=http://www.naturalendo.co.kr/default/,http://www.naturalendo.co.kr/default/company/company_1.php?tit=01&sub=01; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "수프로",
@@ -26826,8 +26870,8 @@
       "region": "충청남도",
       "address": "",
       "homepage": "http://www.ymc-inc.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 041-538-5200 / 홈페이지: http://www.ymc-inc.com",
+      "phone": "041-538-5200,041-538-5399",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -26836,7 +26880,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "155650",
-      "product": "FPD 패널용 Target, Backing Plate 등"
+      "product": "FPD 패널용 Target, Backing Plate 등",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=https://www.ymc-inc.com/default/; title=와이엠씨(주); body_bytes=3021; name_score=3; phones=041-538-5200,041-538-5399; emails=; checked_urls=https://www.ymc-inc.com/default/,https://www.ymc-inc.com/default/01/01.php,https://www.ymc-inc.com/default/05/05.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "아바텍",
@@ -26906,8 +26952,8 @@
       "region": "충청북도",
       "address": "",
       "homepage": "http://www.koyj.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 070-8255-6405 / 홈페이지: http://www.koyj.co.kr",
+      "phone": "070-8255-6405,043-842-1987,043-842-1988",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -26916,7 +26962,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "121850",
-      "product": "보호필름, 도광판, 백코팅"
+      "product": "보호필름, 도광판, 백코팅",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=http://koyj.co.kr/kr/; title=코이즈; body_bytes=3253; name_score=3; phones=070-8255-6405,043-842-1987,043-842-1988; emails=; checked_urls=http://koyj.co.kr/kr/,http://koyj.co.kr/kr/introduce/about.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "애경케미칼",
@@ -27006,8 +27054,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.ktopreits.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-783-5858 / 홈페이지: http://www.ktopreits.co.kr",
+      "phone": "02-783-5858,02-783-1717",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -27016,7 +27064,9 @@
       "ksic_major_name": "부동산업",
       "lead_quality_grade": "A",
       "stock_code": "145270",
-      "product": "부동산 임대"
+      "product": "부동산 임대",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=https://www.ktopreits.co.kr/kr/index.asp; title=Ktopreits; body_bytes=7571; name_score=5; phones=02-783-5858,02-783-1717; emails=; checked_urls=https://www.ktopreits.co.kr/kr/index.asp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "원익머트리얼즈",

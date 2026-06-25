@@ -7217,8 +7217,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.ymeng.co.kr/",
-      "contact": "차윤호",
-      "phone": "",
+      "contact": "전화: 031-740-2630 / 홈페이지: http://www.ymeng.co.kr/",
+      "phone": "031-740-2630",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -7226,7 +7226,9 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
       "product": "비제조업 / 서비스 / 인증만료 2028-09-15",
-      "id": "106334"
+      "id": "106334",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=http://www.ymeng.co.kr/; title=; body_bytes=17861; name_score=5; phones=031-740-2630; emails=; checked_urls=http://www.ymeng.co.kr/,http://www.ymeng.co.kr/introduction/1,http://www.ymeng.co.kr/introduce/location; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)대륜엘리스",

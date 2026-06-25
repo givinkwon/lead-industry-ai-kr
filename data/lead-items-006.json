@@ -47916,8 +47916,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.wonik.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-8098-9018 / 홈페이지: http://www.wonik.co.kr",
+      "phone": "031-8098-9018",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -47925,9 +47925,11 @@
       "representative": "",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "A444",
-      "source_note": "WONIK Corporation WONIK Corporation was founded on the management philosophy of trust, fairness, and transparency and has grown into a blue-chip company over the past 30 years. WONIK Corporation imports high-quality raw materials and products required for Korea's domestic industry from the world's leading suppliers at stable and competitive prices and supplies them to domestic companies. We believe that our achievements are mainly the result of our customers' interest and support WONIK Corporati"
+      "source_note": "WONIK Corporation WONIK Corporation was founded on the management philosophy of trust, fairness, and transparency and has grown into a blue-chip company over the past 30 years. WONIK Corporation imports high-quality raw materials and products required for Korea's domestic industry from the world's leading suppliers at stable and competitive prices and supplies them to domestic companies. We believe that our achievements are mainly the result of our customers' interest and support WONIK Corporati",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:mixed_b2b_next4_enrichment; final_url=http://www.wonik.com/; title=Main | 원익; body_bytes=4121; name_score=7; phones=031-8098-9018; emails=; checked_urls=http://www.wonik.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "89178",
