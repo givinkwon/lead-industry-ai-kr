@@ -54410,20 +54410,22 @@
       "region": "해외",
       "address": "Eybens,, France",
       "homepage": "https://www.hprobe.com",
-      "contact": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=209&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=664193",
+      "contact": "이메일: infos@hprobe.com / 홈페이지: https://www.hprobe.com",
       "phone": "",
-      "email": "",
+      "email": "infos@hprobe.com",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/exhibitors.aspx",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "A354",
       "source_id": "semicon-korea-2026:664193",
       "country": "France",
       "source_category": "SEMICON Korea 2026",
-      "id": "95596"
+      "id": "95596",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next8_enrichment; final_url=https://www.hprobe.com/cookie-policy-eu/; title=Cookie Policy (EU) - Hprobe; body_bytes=5969; name_score=5; phones=; emails=infos@hprobe.com; checked_urls=https://www.hprobe.com/,https://www.hprobe.com/,https://www.hprobe.com/contact/,https://www.hprobe.com/ask-for-a-demo/,https://www.hprobe.com/about-us/,https://www.hprobe.com/cookie-policy-eu/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "INFICON",
@@ -64300,15 +64302,15 @@
       "region": "전국",
       "address": "88 OLYMPIC-RO, SONGPA-GU, SEOUL, REPUBLIC OF KOREA OLYMPIC TOWER 9TH FLOOR #903",
       "homepage": "http://www.steamgenie.co.kr",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-413-9673 / 이메일: mpc@steamgenie.co.kr / 홈페이지: http://www.steamgenie.co.kr",
+      "phone": "02-413-9673",
+      "email": "mpc@steamgenie.co.kr",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "C529",
       "source_id": "smart-tech-korea-2026:COM_42874",
       "country": "Korea, South",
@@ -64316,7 +64318,9 @@
       "category_names": [
         "Robot Tech Show",
         "로봇·AI 자동화"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next8_enrichment; final_url=https://steamgenie.co.kr/; title=산업용 청소기 & 산업용 청소장비, 로봇청소기 명품 스팀지니 - (주)스팀지니; body_bytes=5609; name_score=5; phones=02-413-9673; emails=mpc@steamgenie.co.kr; checked_urls=https://steamgenie.co.kr/,https://steamgenie.co.kr/%ec%b2%ad%ec%86%8c%ec%a0%84%eb%ac%b8%ec%95%bd%ed%92%88%c2%b7%ec%9a%a9%ed%92%88/%ec%b9%b4%ed%8e%98%ed%8a%b8%c2%b7%ec%99%81%ec%8a%a4%eb%a5%98/pcs/,https://steamgenie.co.kr/%ea%b3%a0%ea%b0%9d%eb%a7%8c%ec%a1%b1/,https://steamgenie.co.kr/%ea%b3%a0%ea%b0%9d%eb%a7%8c%ec%a1%b1/%ea%b3%a0%ea%b0%9d%eb%ac%b8%ec%9d%98/,https://steamgenie.co.kr/%ea%b3%a0%ea%b0%9d%eb%a7%8c%ec%a1%b1/%ea%b5%ac%eb%a7%a4%eb%ac%b8%ec%9d%98/,https://steamgenie.co.kr/%ea%b3%a0%ea%b0%9d%eb%a7%8c%ec%a1%b1/quotation-inquiry/,https://steamgenie.co.kr/%ec%8a%a4%ed%8c%80%ec%a7%80%eb%8b%88-%ec%86%8c%ea%b0%9c/,https://steamgenie.co.kr/%ec%8a%a4%ed%8c%80%ec%a7%80%eb%8b%88-%ec%86%8c%ea%b0%9c/company/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "96026",
