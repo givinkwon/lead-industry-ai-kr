@@ -40601,6 +40601,64 @@
       "country": "Korea, South",
       "id": "114033",
       "source_id": "krx-listed:001460"
+    },
+    {
+      "industry": "소방시설업",
+      "field": "사업시설 관리, 사업 지원 및 임대 서비스업",
+      "segment": "소방시설업",
+      "region": "서울",
+      "address": "서울특별시 서대문구 통일로 81 , 서관 9층 10층(미근동, 엔에이치농협생명빌딩)",
+      "homepage": "https://nhnetworks.co.kr:8108/",
+      "contact": "https://nhnetworks.co.kr:8108/",
+      "phone": "02-2140-5079",
+      "email": "",
+      "confidence": "medium",
+      "source": "source_file:sales_ready_companies",
+      "source_page": "seed:official_seed",
+      "ksic_major_code": "N",
+      "ksic_major_name": "사업시설·지원업",
+      "source_category": "소방시설업",
+      "category_names": [
+        "소방시설업",
+        "사업시설 관리, 사업 지원 및 임대 서비스업",
+        "소방시설업"
+      ],
+      "representative": "",
+      "intro": "소방시설업 · 사업시설·지원업 · NHNETWORKS",
+      "lead_quality_grade": "B",
+      "country": "Korea, South",
+      "name": "NHNETWORKS",
+      "id": "114034",
+      "source_id": "sales-ready:nhnetworks"
+    },
+    {
+      "industry": "법무법인",
+      "field": "법무법인",
+      "segment": "기업법률",
+      "region": "서울",
+      "address": "서울 중구 세종대로19길 16, 302호 (정동, 성공회빌딩)",
+      "homepage": "https://kyong.kr/",
+      "contact": "https://kyong.kr/page/location.php",
+      "phone": "02-3471-4003, 02-3471-4009, 031-734-3777",
+      "email": "",
+      "confidence": "medium",
+      "source": "source_file:sales_ready_companies",
+      "source_page": "seed:association_directory",
+      "ksic_major_code": "M",
+      "ksic_major_name": "전문, 과학 및 기술 서비스업",
+      "source_category": "기업법률",
+      "category_names": [
+        "기업법률",
+        "법무법인",
+        "법무법인"
+      ],
+      "representative": "",
+      "intro": "기업법률 · law_firm · 법무법인 경",
+      "lead_quality_grade": "B",
+      "country": "Korea, South",
+      "name": "법무법인 경",
+      "id": "114035",
+      "source_id": "sales-ready:법무법인-경"
     }
   ]
 }
