@@ -38934,18 +38934,16 @@
       "region": "부산",
       "address": "부산",
       "homepage": "http://www.gcsc.co.kr/",
-      "contact": "전화: 051-850-5700 / 이메일: gc@gcsc.co.kr / 홈페이지: http://www.gcsc.co.kr/",
-      "phone": "051-850-5700",
-      "email": "gc@gcsc.co.kr",
+      "contact": "이상길",
+      "phone": "",
+      "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "product": "건설업 / 정보통신 / 인증만료 2027-06-02",
-      "id": "108429",
-      "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:b2b_next12_enrichment; final_url=https://www.gcsc.co.kr/%EB%B9%84%EC%A0%84-%EB%B0%8F-%ED%95%B5%EC%8B%AC%EA%B0%80%EC%B9%98; title=비전 및 핵심가치 | (주)지씨; body_bytes=2397; name_score=5; phones=051-850-5700,051-637-8938; emails=gc@gcsc.co.kr; checked_urls=https://www.gcsc.co.kr/,https://www.gcsc.co.kr/%EB%AC%B8%EC%9D%98%ED%95%98%EA%B8%B0,https://www.gcsc.co.kr/%EB%B3%B5%EC%A0%9C-%ED%9A%8C%EC%82%AC%EA%B0%9C%EC%9A%94,https://www.gcsc.co.kr/%ED%9A%8C%EC%82%AC%EA%B0%9C%EC%9A%94,https://www.gcsc.co.kr/%EB%8C%80%ED%91%9C-%EC%9D%B8%EC%82%AC%EB%A7%90,https://www.gcsc.co.kr/%EB%B9%84%EC%A0%84-%EB%B0%8F-%ED%95%B5%EC%8B%AC%EA%B0%80%EC%B9%98,https://www.gcsc.co.kr/%EC%97%B0%ED%98%81; verification=homepage_rendered_contact_enriched"
+      "id": "108429"
     },
     {
       "name": "드림네트워크",

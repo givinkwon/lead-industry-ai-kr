@@ -41796,9 +41796,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.kccworld.co.kr",
-      "contact": "전화: 02-3480-5000 / 이메일: kccmoon@kccworld.co.kr / 홈페이지: http://www.kccworld.co.kr",
-      "phone": "02-3480-5000",
-      "email": "kccmoon@kccworld.co.kr",
+      "contact": "",
+      "phone": "",
+      "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79888",
@@ -41806,9 +41806,7 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "002380",
-      "product": "건축용단열재,내외장재,스레트,밤라이트,암면,석고보드,판유리 제조",
-      "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:b2b_next12_enrichment; final_url=https://www.kccworld.co.kr/about-kcc/company.do?t=t2; title=사업소개 | 기업 소개 | KCC; body_bytes=10430; name_score=5; phones=02-3480-5000; emails=kccmoon@kccworld.co.kr,ryuckra@kccworld.co.kr,bsm@usechem.co.kr,hany317@hanmail.net,s02578@ks-chem.co.kr; checked_urls=https://www.kccworld.co.kr/main.do,https://www.kccworld.co.kr/about-kcc/management.do,https://www.kccworld.co.kr/esg/overview.do,https://www.kccworld.co.kr/support/contact-us/person.do,https://www.kccworld.co.kr/about-kcc/greeting.do,https://www.kccworld.co.kr/about-kcc/company.do,https://www.kccworld.co.kr/about-kcc/company.do?t=t2,https://www.kccworld.co.kr/about-kcc/network.do; verification=homepage_rendered_contact_enriched"
+      "product": "건축용단열재,내외장재,스레트,밤라이트,암면,석고보드,판유리 제조"
     },
     {
       "name": "롯데칠성음료",
