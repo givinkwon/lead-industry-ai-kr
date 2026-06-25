@@ -71419,24 +71419,6 @@
       "lead_quality_grade": "B"
     },
     {
-      "name": "(주)다음커뮤니케이션부산경남센터",
-      "industry": "정보통신업",
-      "field": "소프트웨어사업자",
-      "segment": "소프트웨어사업자",
-      "region": "부산",
-      "address": "부산 해운대구 우동 1514번지 센텀리더스마크 2707호",
-      "homepage": "http://blog.daumbusan.net",
-      "contact": "",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
-      "source": "source_file:j_sw_business_db",
-      "id": "72252",
-      "ksic_major_code": "J",
-      "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
-    },
-    {
       "name": "사단법인 노동자역사 한내",
       "industry": "정보통신업",
       "field": "소프트웨어사업자",

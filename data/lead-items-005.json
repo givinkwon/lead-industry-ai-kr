@@ -91924,27 +91924,6 @@
       "lead_quality_grade": "A"
     },
     {
-      "id": "82932",
-      "name": "(주)씨이비비과학",
-      "industry": "전문서비스",
-      "field": "기타 전문, 과학 및 기술 서비스업",
-      "segment": "벤처기업협회 회원사",
-      "product": "",
-      "region": "대구광역시",
-      "address": "대구 동구 동대구로 481 (신천동, 대구테크노파크 동대구캠퍼스 2동)",
-      "homepage": "https://www.linkedin.com/company/cbbs-co-ltd/:viewAsMember=true",
-      "contact": "",
-      "phone": "",
-      "email": "",
-      "confidence": "high",
-      "source": "source_file:kova_member_company_homepage",
-      "source_page": "https://venture.or.kr/home/kor/M318196487/membership/status/all/index.do?pageIndex=244",
-      "representative": "변찬",
-      "ksic_major_code": "M",
-      "ksic_major_name": "전문, 과학 및 기술 서비스업",
-      "lead_quality_grade": "A"
-    },
-    {
       "id": "82933",
       "name": "(주)에이치이엠씨",
       "industry": "바이오·제약·연구장비",

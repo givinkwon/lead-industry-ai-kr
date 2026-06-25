@@ -18641,25 +18641,6 @@
       "id": "100852"
     },
     {
-      "name": "(주)머니스테이션",
-      "industry": "전문서비스",
-      "field": "기술혁신 비제조·서비스",
-      "segment": "이노비즈 인증기업",
-      "region": "서울",
-      "address": "서울",
-      "homepage": "http://blog.moneystation.net/",
-      "contact": "이정일",
-      "phone": "",
-      "email": "",
-      "confidence": "high",
-      "source": "source_file:innobiz_certified_company_homepage",
-      "ksic_major_code": "M",
-      "ksic_major_name": "전문, 과학 및 기술 서비스업",
-      "lead_quality_grade": "A",
-      "product": "비제조업 / 서비스 / 인증만료 2027-12-10",
-      "id": "100853"
-    },
-    {
       "name": "주식회사 빈스페이스",
       "industry": "식품·푸드테크",
       "field": "기술혁신 식품 제조·가공",
