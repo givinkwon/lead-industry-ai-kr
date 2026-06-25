@@ -402,6 +402,10 @@
     function escapeHtml(value) {
       return String(value || "").replace(/[&<>'"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", "\"": "&quot;" }[c]));
     }
+    function externalHref(value) {
+      const text = String(value || "").trim();
+      return /^(https?:|mailto:|tel:)/i.test(text) ? text : "";
+    }
     function tag(value, className = "") {
       return `<span class="tag ${className}">${escapeHtml(value)}</span>`;
     }
@@ -490,7 +494,8 @@
         const card = document.createElement("article");
         card.className = "result";
         const homepage = item.homepage ? `<a class="btn" href="${escapeHtml(item.homepage)}" target="_blank" rel="noopener">홈페이지</a>` : "";
-        const contact = item.contact ? `<a class="btn secondary" href="${escapeHtml(item.contact)}" target="_blank" rel="noopener">문의 페이지</a>` : "";
+        const contactHref = externalHref(item.contact);
+        const contact = contactHref ? `<a class="btn secondary" href="${escapeHtml(contactHref)}" target="_blank" rel="noopener">문의 페이지</a>` : "";
         const ksic = ksicLabel(item);
         card.innerHTML = `
           <div>
@@ -534,7 +539,7 @@
       el("detailSubtitle").textContent = [item.industry || "산업 미분류", ksic || "", item.region || "전국"].filter(Boolean).join(" · ");
       el("detailActions").innerHTML = [
         item.homepage ? `<a href="${escapeHtml(item.homepage)}" target="_blank" rel="noopener">홈페이지 열기</a>` : "",
-        item.contact ? `<a class="secondary" href="${escapeHtml(item.contact)}" target="_blank" rel="noopener">문의 페이지</a>` : "",
+        externalHref(item.contact) ? `<a class="secondary" href="${escapeHtml(externalHref(item.contact))}" target="_blank" rel="noopener">문의 페이지</a>` : "",
         item.email ? `<a class="secondary" href="mailto:${escapeHtml(item.email)}">이메일</a>` : ""
       ].filter(Boolean).join("");
       el("detailGrid").innerHTML = [
@@ -549,7 +554,7 @@
         optionalDetailItem("전화", item.phone),
         optionalDetailItem("이메일", item.email, item.email ? `mailto:${item.email}` : ""),
         detailItem("홈페이지", item.homepage, item.homepage),
-        optionalDetailItem("문의 페이지", item.contact, item.contact),
+        optionalDetailItem(externalHref(item.contact) ? "문의 페이지" : "연락 정보", item.contact, externalHref(item.contact)),
         optionalDetailItem("대표자", item.representative || item.ceo),
         optionalDetailItem("사업유형", item.business_type),
         optionalDetailItem("세부분류", item.industry_type),
