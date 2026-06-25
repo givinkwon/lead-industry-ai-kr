@@ -19702,16 +19702,18 @@
       "region": "인천",
       "address": "인천",
       "homepage": "http://www.i-pharm.kr/",
-      "contact": "전광석",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 032-815-2751, 032-815-2753 / 이메일: iworldpharm@i-pharm.kr / 홈페이지: http://www.i-pharm.kr/",
+      "phone": "032-815-2751, 032-815-2753",
+      "email": "iworldpharm@i-pharm.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 바이오 / 인증만료 2028-06-23",
-      "id": "107159"
+      "id": "107159",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next6_enrichment; final_url=http://www.i-pharm.kr/iworld/include/main.asp; title=㈜아이월드제약; body_bytes=11288; name_score=5; phones=032-815-2751,032-815-2753; emails=iworldpharm@i-pharm.kr; checked_urls=http://www.i-pharm.kr/iworld/include/main.asp,http://www.i-pharm.kr/iworld/html/1_2.asp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)디에이치엠",
@@ -19854,16 +19856,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.choicentec.com/",
-      "contact": "최홍규",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-424-0212, 031-424-0213 / 이메일: choicentec@choicentec.com / 홈페이지: http://www.choicentec.com/",
+      "phone": "031-424-0212, 031-424-0213",
+      "email": "choicentec@choicentec.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2028-07-06",
-      "id": "107168"
+      "id": "107168",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next6_enrichment; final_url=http://www.choicentec.com/main.php?userAgent=PC; title=초이스엔텍 : 화장품 원료생산; body_bytes=3728; name_score=5; phones=031-424-0212,031-424-0213; emails=choicentec@choicentec.com; checked_urls=http://www.choicentec.com/main.php?userAgent=PC,http://www.choicentec.com/main.php?m1=27&m2=32; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "알택엔지니어링(주)",
@@ -20428,8 +20432,8 @@
       "region": "전북",
       "address": "전북",
       "homepage": "http://tim-plus.kr/",
-      "contact": "성창용",
-      "phone": "",
+      "contact": "전화: 063-714-2345 / 홈페이지: http://tim-plus.kr/",
+      "phone": "063-714-2345",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -20437,7 +20441,9 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
       "product": "비제조업 / 서비스 / 인증만료 2027-09-06",
-      "id": "107208"
+      "id": "107208",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next6_enrichment; final_url=http://tim-plus.kr/; title=팀경영컨설팅; body_bytes=3064; name_score=5; phones=063-714-2345; emails=; checked_urls=http://tim-plus.kr/,http://tim-plus.kr/sub01/sub01_01.php,http://tim-plus.kr/bbs/board.php?bo_table=sub06_01,http://tim-plus.kr/sub01/sub01_06.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)월드캐스트",
@@ -20675,16 +20681,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.green-cos.com/",
-      "contact": "김용인",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 032-678-5670, 02-6959-5767, 032-678-5672, 02-8233-3188 / 이메일: help@green-cos.com / 홈페이지: http://www.green-cos.com/",
+      "phone": "032-678-5670, 02-6959-5767, 032-678-5672, 02-8233-3188",
+      "email": "help@green-cos.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 화학 / 인증만료 2026-10-05",
-      "id": "107223"
+      "id": "107223",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next6_enrichment; final_url=https://www.green-cos.com/kor/main.php; title=그린코스(주), 화장품, 의약외품, 동물용의약외품 연구개발, OEM, ODM 전문기업; body_bytes=6166; name_score=3; phones=032-678-5670,02-6959-5767,032-678-5672,02-8233-3188; emails=help@green-cos.com; checked_urls=https://www.green-cos.com/kor/main.php,https://www.green-cos.com/kor/support/inquiry.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "태영식품",
@@ -23183,16 +23191,18 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.midasonair.com/",
-      "contact": "이하용",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-917-5509, 02-2675-8013 / 이메일: 8450d@hanmail.net / 홈페이지: http://www.midasonair.com/",
+      "phone": "031-917-5509, 02-2675-8013",
+      "email": "8450d@hanmail.net",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
       "product": "비제조업 / 서비스 / 인증만료 2029-09-04",
-      "id": "107395"
+      "id": "107395",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next6_enrichment; final_url=http://www.midasonair.co.kr/; title=; body_bytes=1177; name_score=5; phones=031-917-5509,02-2675-8013; emails=8450d@hanmail.net; checked_urls=http://www.midasonair.co.kr/,http://www.midasonair.co.kr/1_1.php,http://www.midasonair.co.kr/4_2.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)BMB산업",
@@ -24494,16 +24504,18 @@
       "region": "인천",
       "address": "인천",
       "homepage": "http://www.youngartron.co.kr/",
-      "contact": "전문휘",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 032-817-0811, 032-817-0850 / 이메일: artron@youngartron.co.kr / 홈페이지: http://www.youngartron.co.kr/",
+      "phone": "032-817-0811, 032-817-0850",
+      "email": "artron@youngartron.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2026-08-24",
-      "id": "107497"
+      "id": "107497",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next6_enrichment; final_url=http://www.youngartron.co.kr/artron/kr/src/main.php; title=대영산업; body_bytes=2030; name_score=3; phones=032-817-0811,032-817-0850; emails=artron@youngartron.co.kr; checked_urls=http://www.youngartron.co.kr/artron/kr/src/main.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "삼구화학공업(주)",
@@ -24551,8 +24563,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.younginner.com/",
-      "contact": "이종덕",
-      "phone": "",
+      "contact": "전화: 02-2684-6737, 02-2625-6732 / 홈페이지: http://www.younginner.com/",
+      "phone": "02-2684-6737, 02-2625-6732",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -24560,7 +24572,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 섬유 / 인증만료 2026-10-23",
-      "id": "107501"
+      "id": "107501",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next6_enrichment; final_url=http://www.younginner.com/main; title=Young lnner Foam CO.,LTD; body_bytes=2379; name_score=3; phones=02-2684-6737,02-2625-6732; emails=; checked_urls=http://www.younginner.com/main; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "욱일산업(주)",
@@ -28256,16 +28270,18 @@
       "region": "충북",
       "address": "충북",
       "homepage": "http://www.dongbofood.co.kr/",
-      "contact": "박정규",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 070-4353-7150, 070-8250-7851 / 이메일: dongbo-food@hanmail.net / 홈페이지: http://www.dongbofood.co.kr/",
+      "phone": "070-4353-7150, 070-8250-7851",
+      "email": "dongbo-food@hanmail.net",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 기타 / 인증만료 2029-03-30",
-      "id": "107744"
+      "id": "107744",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next6_enrichment; final_url=http://www.dongbofood.co.kr/php/landing.htm; title=동보식품; body_bytes=5224; name_score=3; phones=070-4353-7150,070-8250-7851; emails=dongbo-food@hanmail.net; checked_urls=http://www.dongbofood.co.kr/php/landing.htm; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "한영테크노켐(주)",
@@ -28598,8 +28614,8 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://hanchon.co.kr/",
-      "contact": "정보연",
-      "phone": "",
+      "contact": "전화: 02-3458-4025, 032-323-4121, 02-357-7204, 02-522-1011, 041-579-0110, 02-2296-6078 / 홈페이지: http://hanchon.co.kr/",
+      "phone": "02-3458-4025, 032-323-4121, 02-357-7204, 02-522-1011, 041-579-0110, 02-2296-6078",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -28607,7 +28623,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 식품 / 인증만료 2029-02-14",
-      "id": "107768"
+      "id": "107768",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next6_enrichment; final_url=http://hanchon.kr/new/; title=한촌설렁탕; body_bytes=20509; name_score=5; phones=02-3458-4025,032-323-4121,02-357-7204,02-522-1011,041-579-0110,02-2296-6078; emails=; checked_urls=http://hanchon.kr/new/,http://hanchon.kr/new/html/brand_4.html,http://hanchon.kr/new/board/index.php?board=map_01&sca=all; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)광림이엔씨",
@@ -31315,8 +31333,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.sepeng.co.kr/",
-      "contact": "이시철",
-      "phone": "",
+      "contact": "전화: 031-478-2415, 031-478-2417 / 홈페이지: http://www.sepeng.co.kr/",
+      "phone": "031-478-2415, 031-478-2417",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -31324,7 +31342,9 @@
       "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
       "lead_quality_grade": "A",
       "product": "환경 / 환경 / 인증만료 2028-06-23",
-      "id": "107951"
+      "id": "107951",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next6_enrichment; final_url=https://www.sepeng.co.kr/main/main.php; title=SEP ENGINEERING; body_bytes=4519; name_score=5; phones=031-478-2415,031-478-2417; emails=; checked_urls=https://www.sepeng.co.kr/main/main.php,https://www.sepeng.co.kr/about/greeting.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)금촌베이커리",
@@ -31505,8 +31525,8 @@
       "region": "경북",
       "address": "경북",
       "homepage": "http://www.ssresin.co.kr/",
-      "contact": "홍영태",
-      "phone": "",
+      "contact": "전화: 054-976-9133, 054-971-0902 / 홈페이지: http://www.ssresin.co.kr/",
+      "phone": "054-976-9133, 054-971-0902",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -31514,7 +31534,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2026-10-22",
-      "id": "107962"
+      "id": "107962",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next6_enrichment; final_url=http://www.ssresin.co.kr/main/main.html; title=삼성레진(주); body_bytes=2596; name_score=3; phones=054-976-9133,054-971-0902; emails=; checked_urls=http://www.ssresin.co.kr/main/main.html,http://www.ssresin.co.kr/company/company.html,http://www.ssresin.co.kr/company/company_02.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)조일콘크리트",

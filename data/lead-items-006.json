@@ -95507,9 +95507,9 @@
       "region": "전국",
       "address": "KOREA",
       "homepage": "http://www.e-frontec.co.kr",
-      "contact": "https://www.korea-metal.com/en/visitor/exhibitor_detail/2505",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-488-4700, 031-431-7723 / 이메일: frontec@e-frontec.co.kr / 홈페이지: http://www.e-frontec.co.kr",
+      "phone": "031-488-4700, 031-431-7723",
+      "email": "frontec@e-frontec.co.kr",
       "confidence": "high",
       "source": "source_file:korea_metal_week_2026_exhibitor_homepage",
       "source_page": "https://www.korea-metal.com/en/visitor/exhibitor",
@@ -95520,7 +95520,9 @@
       "source_id": "korea-metal-2026-2505",
       "country": "KOREA",
       "source_category": "KOREA METAL WEEK 2026",
-      "id": "91797"
+      "id": "91797",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next6_enrichment; final_url=http://e-frontec.co.kr/; title=FRONTEC; body_bytes=5265; name_score=7; phones=031-488-4700,031-431-7723; emails=frontec@e-frontec.co.kr; checked_urls=http://e-frontec.co.kr/,http://e-frontec.co.kr/%ec%a0%9c%ed%92%88%ec%86%8c%ea%b0%9c-2/%ea%b3%b5%ec%a0%95%ec%86%8c%ea%b0%9c/,http://e-frontec.co.kr/%ed%9a%8c%ec%82%ac%ec%86%8c%ea%b0%9c-2/%ed%9a%8c%ec%82%ac%ec%97%b0%ed%98%81/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "GOOSTECH",
@@ -95891,9 +95893,9 @@
       "region": "전국",
       "address": "KOREA",
       "homepage": "http://www.psicmm.com",
-      "contact": "https://www.korea-metal.com/en/visitor/exhibitor_detail/2540",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-898-7233 / 이메일: psi@psicmm.com / 홈페이지: http://www.psicmm.com",
+      "phone": "02-898-7233",
+      "email": "psi@psicmm.com",
       "confidence": "high",
       "source": "source_file:korea_metal_week_2026_exhibitor_homepage",
       "source_page": "https://www.korea-metal.com/en/visitor/exhibitor",
@@ -95904,7 +95906,9 @@
       "source_id": "korea-metal-2026-2540",
       "country": "KOREA",
       "source_category": "KOREA METAL WEEK 2026",
-      "id": "91816"
+      "id": "91816",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next6_enrichment; final_url=http://www.psicmm.com/home/index.php; title=주식회사피에스아이 – 3D 측정 솔루션; body_bytes=2698; name_score=3; phones=02-898-7233; emails=psi@psicmm.com; checked_urls=http://www.psicmm.com/home/index.php,http://www.psicmm.com/home/company01.php,http://www.psicmm.com/home/company02.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "YC Corp.",
@@ -95939,8 +95943,8 @@
       "region": "전국",
       "address": "KOREA",
       "homepage": "https://fact-base.jp",
-      "contact": "https://www.korea-metal.com/en/visitor/exhibitor_detail/2542",
-      "phone": "",
+      "contact": "전화: 052-265-8821 / 홈페이지: https://fact-base.jp",
+      "phone": "052-265-8821",
       "email": "",
       "confidence": "high",
       "source": "source_file:korea_metal_week_2026_exhibitor_homepage",
@@ -95952,7 +95956,9 @@
       "source_id": "korea-metal-2026-2542",
       "country": "KOREA",
       "source_category": "KOREA METAL WEEK 2026",
-      "id": "91818"
+      "id": "91818",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next6_enrichment; final_url=https://fact-base.com/; title=株式会社Fact Base; body_bytes=7284; name_score=15; phones=052-265-8821; emails=; checked_urls=https://fact-base.com/,https://fact-base.com/company; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "MK system",
@@ -96275,8 +96281,8 @@
       "region": "전국",
       "address": "KOREA",
       "homepage": "http://www.tpcpage.co.kr",
-      "contact": "https://www.korea-metal.com/en/visitor/exhibitor_detail/2560",
-      "phone": "",
+      "contact": "전화: 070-4332-1588 / 홈페이지: http://www.tpcpage.co.kr",
+      "phone": "070-4332-1588",
       "email": "",
       "confidence": "high",
       "source": "source_file:korea_metal_week_2026_exhibitor_homepage",
@@ -96288,7 +96294,9 @@
       "source_id": "korea-metal-2026-2560",
       "country": "KOREA",
       "source_category": "KOREA METAL WEEK 2026",
-      "id": "91833"
+      "id": "91833",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next6_enrichment; final_url=https://www.tpcrobotics.com/main/; title=TPC 로보틱스 | 로봇, 모션컨트롤, 공압 , 3D 프린터 자동화 솔루션 전문; body_bytes=6227; name_score=3; phones=070-4332-1588; emails=; checked_urls=https://www.tpcrobotics.com/main/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "드림소프트웨어(주)",
