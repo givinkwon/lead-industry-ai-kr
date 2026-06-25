@@ -14060,9 +14060,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.proteina.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-6959-9309, 02-6959-9493 / 이메일: proteina@proteina.co.kr / 홈페이지: http://www.proteina.co.kr",
+      "phone": "02-6959-9309, 02-6959-9493",
+      "email": "proteina@proteina.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78322",
@@ -14070,7 +14070,9 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
       "stock_code": "468530",
-      "product": "단백질간 상호작용 바이오마커 개발 및 분석서비스"
+      "product": "단백질간 상호작용 바이오마커 개발 및 분석서비스",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next15_enrichment; final_url=https://www.proteina.co.kr/kr/communications/contact.php?anchor=middleArea; title=문의하기 - 커뮤니케이션 - PROTEINA 프로티나; body_bytes=2221; name_score=5; phones=02-6959-9309,02-6959-9493; emails=proteina@proteina.co.kr; checked_urls=https://www.proteina.co.kr/kr/index.php,https://www.proteina.co.kr/kr/company/vision.php?anchor=middleArea,https://www.proteina.co.kr/kr/company/leadership.php?anchor=middleArea,https://www.proteina.co.kr/kr/company/advisory.php?anchor=middleArea,https://www.proteina.co.kr/kr/company/career.php?anchor=middleArea,https://www.proteina.co.kr/kr/communications/contact.php?anchor=middleArea; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "엔알비",

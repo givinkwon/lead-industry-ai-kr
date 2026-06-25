@@ -43412,8 +43412,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.aets.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-8015-2072, 031-8015-2078 / 홈페이지: http://www.aets.co.kr",
+      "phone": "031-8015-2072, 031-8015-2078",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -43423,7 +43423,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "B",
       "booth": "A408",
-      "source_note": "“가치높은 기술과 차별화된 서비스 제공” * 에이텍솔루션 주요 제품 소개 1. Wafer Recyle 국내 최초 30nm급 / 300mm Wafer Recycle 고객 맞춤 Wafer 제작 고품질 26nm 대응 기술력 확보 Class 1 Zone의 제작 환경 Capacity - Film Decap : 200K/月 Wafer Recycle(CMP/Nano세정) : 20K/月 2. Quartz Cleaning 반도체 Diff / LPCVD 공정에서 사용되는 Quartz 제품 세정 FAB - 환경 Class1, 온/습도 관리, 하향급식 공조시스템 분석실 - ICP-MS 성분 분석기 Utility - DI 비저항 관리, DI P/C 관리, 폐액관리, Oil Free Compressor 3. Aera MFC FC-R780 Series Transformer PAR780 / DNR780 Series FC-DR980 Series PI-980 Series 4. Rust Clean Up 배관내부의 녹"
+      "source_note": "“가치높은 기술과 차별화된 서비스 제공” * 에이텍솔루션 주요 제품 소개 1. Wafer Recyle 국내 최초 30nm급 / 300mm Wafer Recycle 고객 맞춤 Wafer 제작 고품질 26nm 대응 기술력 확보 Class 1 Zone의 제작 환경 Capacity - Film Decap : 200K/月 Wafer Recycle(CMP/Nano세정) : 20K/月 2. Quartz Cleaning 반도체 Diff / LPCVD 공정에서 사용되는 Quartz 제품 세정 FAB - 환경 Class1, 온/습도 관리, 하향급식 공조시스템 분석실 - ICP-MS 성분 분석기 Utility - DI 비저항 관리, DI P/C 관리, 폐액관리, Oil Free Compressor 3. Aera MFC FC-R780 Series Transformer PAR780 / DNR780 Series FC-DR980 Series PI-980 Series 4. Rust Clean Up 배관내부의 녹",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next15_enrichment; final_url=https://www.aets.co.kr/; title=에이텍솔루션; body_bytes=1704; name_score=5; phones=031-8015-2072,031-8015-2078; emails=; checked_urls=https://www.aets.co.kr/,https://www.aets.co.kr/subpage/location.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "88970",
@@ -43968,9 +43970,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://ciscorp.kr",
-      "contact": "",
+      "contact": "이메일: info@ciscorp.kr, sjc0405@ciscorp.kr / 홈페이지: http://ciscorp.kr",
       "phone": "",
-      "email": "",
+      "email": "info@ciscorp.kr, sjc0405@ciscorp.kr",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=70&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=634456",
@@ -43979,7 +43981,9 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "B",
       "booth": "C840",
-      "source_note": "CIS Corporation is a direct seller and buyer for second-hand semiconductor equipment, facilities equipment and spare parts worldwide. We mainly deal with front-end process equipment, test equipment, major sub systems and various spare parts. We also provide a broad range of services such as refurbishment, overhaul and, upgrade. Visit http://ciscorp.kr for more information."
+      "source_note": "CIS Corporation is a direct seller and buyer for second-hand semiconductor equipment, facilities equipment and spare parts worldwide. We mainly deal with front-end process equipment, test equipment, major sub systems and various spare parts. We also provide a broad range of services such as refurbishment, overhaul and, upgrade. Visit http://ciscorp.kr for more information.",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next15_enrichment; final_url=http://ciscorp.kr/contents/; title=CIS-CORP. Used, Surplus Semiconductor Equipment / Used, Surplus and Repaired Parts; body_bytes=2758; name_score=5; phones=; emails=info@ciscorp.kr,sjc0405@ciscorp.kr; checked_urls=http://ciscorp.kr/contents/,https://ciscorp.kr/contents/about_cis.php?PHPSESSID=a532cd45b4fb65564f37d9746ccf8ec4,https://ciscorp.kr/contents/about_ceo.php?PHPSESSID=a532cd45b4fb65564f37d9746ccf8ec4,https://ciscorp.kr/contents/about_history.php?PHPSESSID=a532cd45b4fb65564f37d9746ccf8ec4,https://ciscorp.kr/contents/about_vision.php?PHPSESSID=a532cd45b4fb65564f37d9746ccf8ec4,https://ciscorp.kr/contents/contact_us.php?PHPSESSID=a532cd45b4fb65564f37d9746ccf8ec4,https://ciscorp.kr/contents/contact_loca.php?PHPSESSID=a532cd45b4fb65564f37d9746ccf8ec4,https://ciscorp.kr/contents/contact_requ.php?PHPSESSID=a532cd45b4fb65564f37d9746ccf8ec4; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "88994",
