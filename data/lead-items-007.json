@@ -17205,22 +17205,24 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.jujint.com",
-      "contact": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 02-633-7492 / 이메일: sselectric@gmail.com / 홈페이지: https://www.jujint.com",
+      "phone": "02-633-7492",
+      "email": "sselectric@gmail.com",
+      "confidence": "high",
       "source": "source_file:keet_2022_2026_exhibitor_homepage",
       "source_page": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
       "ksic_major_code": "E",
       "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "",
       "source_id": "keet-2026-주진테크놀로지-jujint.com",
       "country": "Korea, Republic of",
       "source_category": "KEET 2026",
       "exhibit_category": "",
       "domestic_proof": "official_korean_exhibitor",
-      "id": "93761"
+      "id": "93761",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://jujint.com/; title=폐열발전기 전문기업 주진테크놀로지 | ORC 시스템 | 유기랭킨사이클 폐열회수; body_bytes=8530; name_score=5; phones=02-633-7492; emails=sselectric@gmail.com; checked_urls=https://jujint.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "㈜퍼블위즈 (내셔널지오그래픽)",
@@ -17569,22 +17571,24 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.idmt.kr",
-      "contact": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 070-4888-0159 / 이메일: dmt@idmt.kr / 홈페이지: http://www.idmt.kr",
+      "phone": "070-4888-0159",
+      "email": "dmt@idmt.kr",
+      "confidence": "high",
       "source": "source_file:keet_2022_2026_exhibitor_homepage",
       "source_page": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
       "ksic_major_code": "D",
       "ksic_major_name": "전기, 가스, 증기 및 공기조절 공급업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "",
       "source_id": "keet-2025-디엠테크-idmt.kr",
       "country": "Korea, Republic of",
       "source_category": "KEET 2025",
       "exhibit_category": "",
       "domestic_proof": "homepage_kr",
-      "id": "93780"
+      "id": "93780",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://idmt.kr/wp/; title=; body_bytes=2916; name_score=3; phones=070-4888-0159,061-820-8056,061-820-8057; emails=dmt@idmt.kr; checked_urls=https://idmt.kr/wp/,https://idmt.kr/wp/?page_id=160; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 칼선",
@@ -17647,22 +17651,24 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.fa119.com",
-      "contact": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 02-2027-5858 / 이메일: mirae@fa119.com / 홈페이지: http://www.fa119.com",
+      "phone": "02-2027-5858",
+      "email": "mirae@fa119.com",
+      "confidence": "high",
       "source": "source_file:keet_2022_2026_exhibitor_homepage",
       "source_page": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
       "ksic_major_code": "D",
       "ksic_major_name": "전기, 가스, 증기 및 공기조절 공급업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "",
       "source_id": "keet-2025-미래이앤아이-fa119.com",
       "country": "Korea, Republic of",
       "source_category": "KEET 2025",
       "exhibit_category": "",
       "domestic_proof": "official_korean_exhibitor",
-      "id": "93783"
+      "id": "93783",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=http://www.fa119.com/main; title=미래이앤아이; body_bytes=5464; name_score=5; phones=02-2027-5858,02-2027-5855; emails=mirae@fa119.com; checked_urls=http://www.fa119.com/main; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "㈜티앨씨",
@@ -19467,22 +19473,24 @@
       "region": "전국",
       "address": "",
       "homepage": "http://krtkorea.co.kr",
-      "contact": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
+      "contact": "이메일: krt2022@naver.com / 홈페이지: http://krtkorea.co.kr",
       "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "email": "krt2022@naver.com",
+      "confidence": "high",
       "source": "source_file:keet_2022_2026_exhibitor_homepage",
       "source_page": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
       "ksic_major_code": "D",
       "ksic_major_name": "전기, 가스, 증기 및 공기조절 공급업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "",
       "source_id": "keet-2024-한국재생기술단-krtkorea.co.kr",
       "country": "Korea, Republic of",
       "source_category": "KEET 2024",
       "exhibit_category": "태양광, 열",
       "domestic_proof": "homepage_kr",
-      "id": "93879"
+      "id": "93879",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=http://krtkorea.co.kr/ko/; title=(주)한국재생기술단; body_bytes=3437; name_score=5; phones=; emails=krt2022@naver.com; checked_urls=http://krtkorea.co.kr/ko/,http://krtkorea.co.kr/ko/sub1_1.html,http://krtkorea.co.kr/ko/sub1_2.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "국제방수케미칼",
@@ -59806,15 +59814,15 @@
       "region": "전국",
       "address": "518 TEHERAN-RO, GANGNAM-GU, SEOUL, REPUBLIC OF KOREA 12F",
       "homepage": "https://cdri.pro",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
-      "phone": "",
+      "contact": "전화: 02-6225-5253 / 홈페이지: https://cdri.pro",
+      "phone": "02-6225-5253",
       "email": "",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "D426",
       "source_id": "smart-tech-korea-2026:COM_43304",
       "country": "Korea, South",
@@ -59822,7 +59830,9 @@
       "category_names": [
         "AI + Smart Factory Show",
         "로봇·AI 자동화"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://cdri.pro/; title=CDRI - 뷰티 IT 솔루션 프로바이더 씨디알아이; body_bytes=4690; name_score=5; phones=02-6225-5253; emails=; checked_urls=https://cdri.pro/,https://cdri.pro/about-us; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95834",
@@ -59974,15 +59984,15 @@
       "region": "전국",
       "address": "103 ACHASAN-RO, SEONGDONG-GU, SEOUL, REPUBLIC OF KOREA 401",
       "homepage": "https://cloudplug.co.kr",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
+      "contact": "이메일: sege0426@cloudplug.co.kr / 홈페이지: https://cloudplug.co.kr",
       "phone": "",
-      "email": "",
+      "email": "sege0426@cloudplug.co.kr",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "A809",
       "source_id": "smart-tech-korea-2026:COM_43053",
       "country": "Korea, South",
@@ -59990,7 +60000,9 @@
       "category_names": [
         "Secu Tech Show",
         "정보보호·보안"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://cloudplug.co.kr/; title=cloudplug | 정책 기반 보안 네트워크 플랫폼; body_bytes=4991; name_score=7; phones=; emails=sege0426@cloudplug.co.kr; checked_urls=https://cloudplug.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95840",
@@ -60030,15 +60042,15 @@
       "region": "전국",
       "address": "171 DONGGYO-RO, MAPO-GU, SEOUL, REPUBLIC OF KOREA B1",
       "homepage": "https://concepted.co.kr",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
+      "contact": "이메일: conceptedkr@gmail.com / 홈페이지: https://concepted.co.kr",
       "phone": "",
-      "email": "",
+      "email": "conceptedkr@gmail.com",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "D735",
       "source_id": "smart-tech-korea-2026:COM_43286",
       "country": "Korea, South",
@@ -60046,7 +60058,9 @@
       "category_names": [
         "AI + Smart Factory Show",
         "로봇·AI 자동화"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://concepted.co.kr/; title=CONCEPTED; body_bytes=3047; name_score=7; phones=; emails=conceptedkr@gmail.com; checked_urls=https://concepted.co.kr/,https://concepted.co.kr/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EC%86%8C%EA%B0%9C; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95843",
@@ -60338,15 +60352,15 @@
       "region": "전국",
       "address": "12 HAKDONG-RO 31-GIL, GANGNAM-GU, SEOUL, REPUBLIC OF KOREA 4F",
       "homepage": "https://dropbox.stkcloud.co.kr",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
+      "contact": "이메일: dropbox@stkcloud.co.kr / 홈페이지: https://dropbox.stkcloud.co.kr",
       "phone": "",
-      "email": "",
+      "email": "dropbox@stkcloud.co.kr",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "A1514",
       "source_id": "smart-tech-korea-2026:COM_42935",
       "country": "Korea, South",
@@ -60354,7 +60368,9 @@
       "category_names": [
         "AI&Big Data Show",
         "정보보호·보안"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://dropbox.stkcloud.co.kr/; title=Dropbox l 드롭박스; body_bytes=4456; name_score=7; phones=; emails=dropbox@stkcloud.co.kr; checked_urls=https://dropbox.stkcloud.co.kr/,https://dropbox.stkcloud.co.kr/docsend; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95858",
@@ -60534,15 +60550,15 @@
       "region": "전국",
       "address": "6 SAECHANG-RO 14-GIL, YONGSAN-GU, SEOUL, REPUBLIC OF KOREA 3RD FLOOR",
       "homepage": "https://everyscene.co.kr",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
+      "contact": "이메일: contact@everyscene.co.kr / 홈페이지: https://everyscene.co.kr",
       "phone": "",
-      "email": "",
+      "email": "contact@everyscene.co.kr",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
       "ksic_major_code": "H",
       "ksic_major_name": "운수 및 창고업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "C900",
       "source_id": "smart-tech-korea-2026:COM_42921",
       "country": "Korea, South",
@@ -60550,7 +60566,9 @@
       "category_names": [
         "Retail & Logis Tech Show",
         "물류자동화·운반장비"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://everyscene.co.kr/; title=에브리씬; body_bytes=3344; name_score=12; phones=; emails=contact@everyscene.co.kr; checked_urls=https://everyscene.co.kr/,https://everyscene.co.kr/about; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95865",
@@ -66610,15 +66628,15 @@
       "region": "전국",
       "address": "10011 경기 김포시 하성면 애기봉로698번길 51-1 원산리 29-9",
       "homepage": "http://www.hdecal.co.kr",
-      "contact": "https://nanokorea.or.kr/visit/cp_pop.php?num=3804",
+      "contact": "이메일: hdecal@hdecal.co.kr / 홈페이지: http://www.hdecal.co.kr",
       "phone": "",
-      "email": "",
+      "email": "hdecal@hdecal.co.kr",
       "confidence": "high",
       "source": "source_file:nano_korea_2026_exhibitor_homepage",
       "source_page": "https://nanokorea.or.kr/visit/search.php",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "3P01",
       "source_id": "nano-korea-2026:3804",
       "country": "Korea, South",
@@ -66626,7 +66644,9 @@
       "category_names": [
         "NANO KOREA 2026",
         "첨단소재·세라믹·필름"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=http://www.hdecal.co.kr/main/; title=현대특수데칼; body_bytes=3219; name_score=5; phones=; emails=hdecal@hdecal.co.kr; checked_urls=http://www.hdecal.co.kr/main/,http://www.hdecal.co.kr/public/1-0-0.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "96121",
@@ -105330,9 +105350,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://cashnote.kr",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=622",
+      "contact": "이메일: help@cashnote.kr / 홈페이지: http://cashnote.kr",
       "phone": "",
-      "email": "",
+      "email": "help@cashnote.kr",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
       "ksic_major_code": "K",
@@ -105340,7 +105360,9 @@
       "lead_quality_grade": "A",
       "industry_type": "부회장사 / 자산관리",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98089"
+      "id": "98089",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://cashnote.kr/; title=캐시노트; body_bytes=5004; name_score=5; phones=; emails=help@cashnote.kr; checked_urls=https://cashnote.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "노웨어브릿지",
@@ -105510,9 +105532,9 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.banksalad.com/",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=9",
+      "contact": "이메일: hello@banksalad.com / 홈페이지: https://www.banksalad.com/",
       "phone": "",
-      "email": "",
+      "email": "hello@banksalad.com",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
       "ksic_major_code": "K",
@@ -105520,7 +105542,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 자산관리 / 핀테크SW / 기타",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98099"
+      "id": "98099",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://www.banksalad.com/; title=뱅크샐러드 | 금융을 넘어 건강 자산까지; body_bytes=3954; name_score=5; phones=; emails=hello@banksalad.com,banksalad@banksalad.com; checked_urls=https://www.banksalad.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "엔에이치엔페이코(주)",
@@ -105530,9 +105554,9 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.payco.com/",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=14",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-8038-3000 / 이메일: help@payco.com / 홈페이지: https://www.payco.com/",
+      "phone": "031-8038-3000",
+      "email": "help@payco.com",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
       "ksic_major_code": "K",
@@ -105540,7 +105564,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 간편송금/지급결제 / 보안인증 / PG",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98101"
+      "id": "98101",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://www.payco.com/; title=PAYCO │ 페이코 라이프 하세요; body_bytes=4218; name_score=5; phones=031-8038-3000; emails=help@payco.com; checked_urls=https://www.payco.com/,https://www.payco.com/cs/faq.nhn; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "피에프씨테크놀로지스(주)",
@@ -105570,9 +105596,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.zeropay.or.kr",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=23",
+      "contact": "이메일: help@zpay.or.kr / 홈페이지: http://www.zeropay.or.kr",
       "phone": "",
-      "email": "",
+      "email": "help@zpay.or.kr",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
       "ksic_major_code": "K",
@@ -105580,7 +105606,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 간편송금/지급결제 / 컨설팅/리서치",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98105"
+      "id": "98105",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://www.zeropay.or.kr/UI_HP_001.act; title=제로페이 가맹점 홈페이지; body_bytes=3695; name_score=5; phones=; emails=help@zpay.or.kr; checked_urls=https://www.zeropay.or.kr/UI_HP_001.act,https://www.zeropay.or.kr/UI_HP_008_01_04.act; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "보맵(주)",
@@ -105650,9 +105678,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.mibank.me",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=38",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2273-1375 / 이메일: contact@mibank.me / 홈페이지: http://www.mibank.me",
+      "phone": "02-2273-1375",
+      "email": "contact@mibank.me",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
       "ksic_major_code": "K",
@@ -105660,7 +105688,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 금융투자 / 자산관리 / 인슈어테크",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98110"
+      "id": "98110",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://www.mibank.me/; title=마이뱅크 | 쉽고 편리한 금융; body_bytes=1630; name_score=3; phones=02-2273-1375; emails=contact@mibank.me; checked_urls=https://www.mibank.me/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)렌딧",
@@ -110870,8 +110900,8 @@
       "region": "전국",
       "address": "",
       "homepage": "https://nexis-design-group.com/main/main.php",
-      "contact": "https://proptech.or.kr/members",
-      "phone": "",
+      "contact": "전화: 02-6951-5350 / 홈페이지: https://nexis-design-group.com/main/main.php",
+      "phone": "02-6951-5350",
       "email": "",
       "confidence": "high",
       "source": "source_file:proptech_korea_forum_member_homepage",
@@ -110880,7 +110910,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원 / 부동산 / Deco & Interior / 주방 가구 제작 및 납품",
       "source_page": "https://proptech.or.kr/members",
-      "id": "98457"
+      "id": "98457",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://nexis-design-group.com/main/main.php; title=넥시스디자인그룹; body_bytes=3307; name_score=5; phones=02-6951-5350,051-747-9886,02-532-4523; emails=; checked_urls=https://nexis-design-group.com/main/main.php,https://nexis-design-group.com/group/1200_about.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "뉴아이",
@@ -110910,9 +110942,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.clickdk.com/",
-      "contact": "https://proptech.or.kr/members",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 062-362-8430 / 이메일: dky@clickdk.com / 홈페이지: http://www.clickdk.com/",
+      "phone": "062-362-8430",
+      "email": "dky@clickdk.com",
       "confidence": "high",
       "source": "source_file:proptech_korea_forum_member_homepage",
       "ksic_major_code": "L",
@@ -110920,7 +110952,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원 / 부동산 / Developer / Construction Company / 주거용 건물 건설업 / - 대광 로제비앙 - 대광파인밸리 - 대광 오투빌",
       "source_page": "https://proptech.or.kr/members",
-      "id": "98460"
+      "id": "98460",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://www.clickdk.com/; title=대광건영 로제비앙; body_bytes=2305; name_score=5; phones=062-362-8430,062-362-8425,062-351-4709; emails=dky@clickdk.com; checked_urls=https://www.clickdk.com/,https://www.clickdk.com/home.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "대우산업개발",
@@ -110950,9 +110984,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.thecapsule.co.kr/",
-      "contact": "https://proptech.or.kr/members",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 070-8956-1986 / 이메일: admin@thecapsule.co.kr / 홈페이지: http://www.thecapsule.co.kr/",
+      "phone": "070-8956-1986",
+      "email": "admin@thecapsule.co.kr",
       "confidence": "high",
       "source": "source_file:proptech_korea_forum_member_homepage",
       "ksic_major_code": "J",
@@ -110960,7 +110994,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원 / IT/TECH/스타트업 / Deco & Interior / 캡슐 호텔 운영",
       "source_page": "https://proptech.or.kr/members",
-      "id": "98464"
+      "id": "98464",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://www.thecapsule.co.kr/; title=The Capsule; body_bytes=2673; name_score=3; phones=070-8956-1986,070-8095-4126; emails=admin@thecapsule.co.kr; checked_urls=https://www.thecapsule.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "도원그룹",
@@ -111090,9 +111126,9 @@
       "region": "전국",
       "address": "",
       "homepage": "https://disco.re/",
-      "contact": "https://proptech.or.kr/members",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-703-0229 / 이메일: brown@disco.re / 홈페이지: https://disco.re/",
+      "phone": "031-703-0229",
+      "email": "brown@disco.re",
       "confidence": "high",
       "source": "source_file:proptech_korea_forum_member_homepage",
       "ksic_major_code": "J",
@@ -111100,7 +111136,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원 / IT/TECH/스타트업 / Data & Valuation / 종합 부동산 정보 플랫폼 / - 실거래가 / 매물 / 경매 물건",
       "source_page": "https://proptech.or.kr/members",
-      "id": "98472"
+      "id": "98472",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://disco.re/; title=토지, 빌딩, 상가 거래의 시작, 디스코; body_bytes=4574; name_score=3; phones=031-703-0229,031-702-0229; emails=brown@disco.re; checked_urls=https://disco.re/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "디엔코리아",
@@ -111450,8 +111488,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.mgtrust.co.kr",
-      "contact": "https://proptech.or.kr/members",
-      "phone": "",
+      "contact": "전화: 02-3456-0000 / 홈페이지: http://www.mgtrust.co.kr",
+      "phone": "02-3456-0000",
       "email": "",
       "confidence": "high",
       "source": "source_file:proptech_korea_forum_member_homepage",
@@ -111460,7 +111498,9 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원 / 부동산 / Financing & Investment / 신탁 및 집합투자",
       "source_page": "https://proptech.or.kr/members",
-      "id": "98491"
+      "id": "98491",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=http://www.mgtrust.co.kr/main.do; title=무궁화신탁 MAIN; body_bytes=4441; name_score=5; phones=02-3456-0000; emails=; checked_urls=http://www.mgtrust.co.kr/main.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "무촌철거",
