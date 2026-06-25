@@ -3992,15 +3992,17 @@
       "region": "서울",
       "address": "서울 영등포구 여의도동 라이프오피스텔빌딩 346호",
       "homepage": "http://www.rorobrain.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 070-7516-0723 / 이메일: extralee@rorobrain.com / 홈페이지: http://www.rorobrain.com",
+      "phone": "070-7516-0723",
+      "email": "extralee@rorobrain.com",
+      "confidence": "high",
       "source": "source_file:j_sw_business_db",
       "id": "76526",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:sw_next5_enrichment; final_url=http://www.rorobrain.com/home/; title=로로브레인; body_bytes=2793; name_score=5; phones=070-7516-0723; emails=extralee@rorobrain.com; checked_urls=http://www.rorobrain.com/home/,http://www.rorobrain.com/home/Movies/559129; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "포스트텔링크(주)",
