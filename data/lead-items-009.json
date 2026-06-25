@@ -94032,25 +94032,6 @@
       "id": "111941"
     },
     {
-      "name": "주식회사 에스엠피쓰리",
-      "industry": "정보통신업",
-      "field": "AI·SW·ICT",
-      "segment": "소프트웨어 기업",
-      "region": "서울",
-      "address": "서울특별시 서초구 서초대로 243, 4층(서초동, 서현빌딩)",
-      "homepage": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/a/smp3.co.kr/home&dsh=S1762176400:1782366214710822&followup=https://sites.google.com/a/smp3.co.kr/home&osid=1&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AcDsRvz3TrdlXhS6ANVWE5Xgl99X92XAelfFIAA0OQHnc6aivHAn182eV4c1cCfbMe_vUgLq8FEkNg",
-      "contact": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/a/smp3.co.kr/home&dsh=S1762176400:1782366214710822&followup=https://sites.google.com/a/smp3.co.kr/home&osid=1&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AcDsRvz3TrdlXhS6ANVWE5Xgl99X92XAelfFIAA0OQHnc6aivHAn182eV4c1cCfbMe_vUgLq8FEkNg",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
-      "source": "source_file:j_sw_business_db",
-      "source_page": "C:\\Users\\블루웨일\\Documents\\Codex\\2026-06-22\\givinkwon-github-construction-lead-lead-industry\\construction_lead_collector\\data\\source_files\\j_sw_business_db\\EC_82_AC_EC_97_85_EC_9E_90_EC_A0_95_EB_B3_B4_20250630.csv",
-      "ksic_major_code": "J",
-      "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "C",
-      "id": "111942"
-    },
-    {
       "name": "주식회사 부민더블유엔피 (W&P)",
       "industry": "정보통신업",
       "field": "AI·SW·ICT",
