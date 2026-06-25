@@ -25174,24 +25174,6 @@
       "source": "seed:registry_seed"
     },
     {
-      "id": "41304",
-      "name": "씨밀레",
-      "industry": "전문서비스",
-      "field": "",
-      "segment": "전문서비스",
-      "ksic_major_code": "G",
-      "ksic_major_name": "도매 및 소매업",
-      "region": "",
-      "address": "충청북도 충주시 주덕읍 화곡리 1207",
-      "homepage": "https://marketboro.com",
-      "contact": "전화: 031-698-3407 / 이메일: info@marketboro.com, abc@mail.com",
-      "phone": "031-698-3407",
-      "email": "info@marketboro.com",
-      "confidence": "medium",
-      "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
-    },
-    {
       "id": "41311",
       "name": "아라소프트 주식회사",
       "industry": "전문서비스",
