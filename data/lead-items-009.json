@@ -46,16 +46,18 @@
       "region": "대구",
       "address": "대구",
       "homepage": "http://www.gubi.kr/",
-      "contact": "서정권",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 053-587-2335, 053-584-2335 / 이메일: gb5367@gubi.kr / 홈페이지: http://www.gubi.kr/",
+      "phone": "053-587-2335, 053-584-2335",
+      "email": "gb5367@gubi.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-04-08",
-      "id": "105860"
+      "id": "105860",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:sw_next6_enrichment; final_url=http://www.gubi.kr/kr/sub/com03.htm; title=(주)구비테크; body_bytes=4874; name_score=3; phones=053-587-2335,053-584-2335; emails=gb5367@gubi.kr; checked_urls=http://www.gubi.kr/kr/main/main.htm,http://www.gubi.kr/kr/sub/com01.htm,http://www.gubi.kr/kr/sub/com03.htm; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)태현엔지니어링",
@@ -504,16 +506,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.cm-ind.co.kr/",
-      "contact": "남택송",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-352-4617, 031-352-4616 / 이메일: namts11@hanmail.net / 홈페이지: http://www.cm-ind.co.kr/",
+      "phone": "031-352-4617, 031-352-4616",
+      "email": "namts11@hanmail.net",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-07-12",
-      "id": "105889"
+      "id": "105889",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:sw_next6_enrichment; final_url=http://www.cm-ind.co.kr/default/m01/p01.php; title=청명산업 / (주)청명테크; body_bytes=5520; name_score=3; phones=031-352-4617,031-352-4616; emails=namts11@hanmail.net; checked_urls=http://www.cm-ind.co.kr/default/,http://www.cm-ind.co.kr/default/m01/p06.php,http://www.cm-ind.co.kr/default/m01/p01.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 첨단공간정보",
@@ -675,8 +679,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://dnc-corp.com/",
-      "contact": "최항병",
-      "phone": "",
+      "contact": "전화: 031-631-9469, 031-631-9468 / 홈페이지: http://dnc-corp.com/",
+      "phone": "031-631-9469, 031-631-9468",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -684,7 +688,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-04-13",
-      "id": "105901"
+      "id": "105901",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:sw_next6_enrichment; final_url=http://dnc-corp.com/home/index.php; title=디앤씨 - DNC; body_bytes=1745; name_score=3; phones=031-631-9469,031-631-9468; emails=; checked_urls=http://dnc-corp.com/home/index.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)동광뉴텍",
