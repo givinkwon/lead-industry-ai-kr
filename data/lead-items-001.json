@@ -193,7 +193,7 @@
       "homepage": "http://znsgr.kr",
       "contact": "전화: 031-821-1260 / 이메일: znzunu@naver.com, webmaster@medsoft.co.kr",
       "phone": "031-821-1260",
-      "email": "znzunu@naver.com, webmaster@medsoft.co.kr",
+      "email": "znzunu@naver.com",
       "confidence": "high",
       "lead_quality_grade": "A",
       "source": "official:kira/official_seed/official_seed"
@@ -748,13 +748,14 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "region": "서울",
       "address": "",
-      "homepage": "http://xn--h50b631avvdm5bd2d.kr",
+      "homepage": "http://xn--h50b631avvdm5bd2d.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "naver/search_engine/search_engine"
+      "source": "naver/search_engine/search_engine",
+      "source_page": ""
     },
     {
       "id": "37086",
@@ -784,13 +785,14 @@
       "ksic_major_name": "금융 및 보험업",
       "region": "",
       "address": "",
-      "homepage": "https://koreaassetinv.com",
-      "contact": "",
+      "homepage": "https://koreaassetinv.com/",
+      "contact": "https://koreaassetinv.com/contactus/map.asp?lan=",
       "phone": "",
       "email": "",
       "confidence": "high",
       "lead_quality_grade": "A",
-      "source": "seed:official_seed"
+      "source": "seed:official_seed",
+      "source_page": "https://koreaassetinv.com/"
     },
     {
       "id": "37088",
@@ -823,7 +825,7 @@
       "homepage": "https://heerim.com",
       "contact": "이메일: hotline_em@heerim.com, webmaster@heerim.com, recruit@heerim.com",
       "phone": "",
-      "email": "hotline_em@heerim.com, webmaster@heerim.com, recruit@heerim.com",
+      "email": "hotline_em@heerim.com, recruit@heerim.com",
       "confidence": "low",
       "lead_quality_grade": "C",
       "source": "naver/search_engine/search_engine"
@@ -1090,13 +1092,14 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "region": "경기",
       "address": "",
-      "homepage": "http://xn--z69an2fe26a92g.kr",
+      "homepage": "http://xn--z69an2fe26a92g.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "naver/search_engine/search_engine"
+      "source": "naver/search_engine/search_engine",
+      "source_page": ""
     },
     {
       "id": "37109",
@@ -1468,13 +1471,14 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "region": "경남",
       "address": "경남보훈회관)",
-      "homepage": "https://soosungeng.com",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://soosungeng.com/",
+      "contact": "https://soosungeng.com/ko/",
+      "phone": "055-262-5200, 055-262-5202, 02-552-0111",
       "email": "",
       "confidence": "high",
       "lead_quality_grade": "A",
-      "source": "seed:association_directory"
+      "source": "seed:association_directory",
+      "source_page": "https://soosungeng.com/ko/"
     },
     {
       "id": "37136",
@@ -1936,13 +1940,14 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "region": "서울",
       "address": "서울특별시 영등포구 국제금융로2길 25 (유수홀딩스빌딩16층, 20층) => 하기 주소로 이전 예정 ▶",
-      "homepage": "https://pentasecurity.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "https://pentasecurity.co.kr/",
+      "contact": "https://www.pentasecurity.co.kr/",
+      "phone": "02-780-7728, 02-786-5281",
+      "email": "info@pentasecurity.com, japan@pentasecurity.com",
       "confidence": "high",
       "lead_quality_grade": "A",
-      "source": "seed:association_directory"
+      "source": "seed:association_directory",
+      "source_page": "https://www.pentasecurity.co.kr/"
     },
     {
       "id": "37179",
@@ -1954,13 +1959,14 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "region": "서울",
       "address": "",
-      "homepage": "https://www.hanwhasystems.com",
+      "homepage": "https://www.hanwhasystems.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "naver/search_engine/search_engine"
+      "source": "naver/search_engine/search_engine",
+      "source_page": ""
     },
     {
       "id": "37181",
@@ -2206,13 +2212,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://becuai.com",
+      "homepage": "https://becuai.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37204",
@@ -2278,13 +2285,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://everon.co.kr",
+      "homepage": "https://everon.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37214",
@@ -2314,13 +2322,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://infable.kr",
+      "homepage": "https://infable.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37216",
@@ -2404,13 +2413,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://neowings.co.kr",
+      "homepage": "https://neowings.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37231",
@@ -2440,13 +2450,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://newrizon.kr",
+      "homepage": "https://newrizon.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37235",
@@ -2476,13 +2487,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://dasansoft.com",
+      "homepage": "https://dasansoft.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37237",
@@ -2569,7 +2581,7 @@
       "homepage": "https://dhinfo.co.kr",
       "contact": "전화: 053-553-4799, 053-553-9334 / 이메일: webmaster@dhinfo.co.kr",
       "phone": "053-553-4799, 053-553-9334",
-      "email": "webmaster@dhinfo.co.kr",
+      "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -2818,13 +2830,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://lowekorea.com",
+      "homepage": "https://lowekorea.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37264",
@@ -2872,13 +2885,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://mysen.kr",
-      "contact": "",
+      "homepage": "https://mysen.kr/",
+      "contact": "https://www.mysen.kr/",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.mysen.kr/"
     },
     {
       "id": "37267",
@@ -2980,13 +2994,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://mobiis.com",
+      "homepage": "https://mobiis.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37274",
@@ -3052,13 +3067,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://valiantdata.co.kr",
+      "homepage": "https://valiantdata.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37281",
@@ -3088,13 +3104,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://bearable.im",
-      "contact": "",
+      "homepage": "https://bearable.im/",
+      "contact": "https://www.bearable.im/channels/L2NoYW5uZWxzLzE3MjQ3",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.bearable.im/channels/L2NoYW5uZWxzLzE3MjQ3"
     },
     {
       "id": "37283",
@@ -3160,13 +3177,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://broadcns.com",
+      "homepage": "https://broadcns.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37288",
@@ -3178,13 +3196,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://wissensbaum.com",
+      "homepage": "https://wissensbaum.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37289",
@@ -3268,13 +3287,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://sandeul.co.kr",
+      "homepage": "https://sandeul.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37299",
@@ -3394,13 +3414,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://sketchbook.kr",
+      "homepage": "https://sketchbook.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37309",
@@ -3502,13 +3523,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://ca-plan.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "https://ca-plan.com/",
+      "contact": "https://www.ca-plan.com/",
+      "phone": "02-886-2211, 02-886-4477",
+      "email": "contact@ca-plan.com, cris.lee@ca-plan.com",
       "confidence": "medium",
-      "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "lead_quality_grade": "A",
+      "source": "seed:registry_seed",
+      "source_page": "https://www.ca-plan.com/"
     },
     {
       "id": "37319",
@@ -3520,13 +3542,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://adost.co.kr",
+      "homepage": "https://adost.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37320",
@@ -3556,13 +3579,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://iacloud.kr",
+      "homepage": "https://iacloud.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37325",
@@ -3628,13 +3652,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://alycehealth.com",
+      "homepage": "https://alycehealth.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37333",
@@ -3790,13 +3815,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://fgi.kr",
+      "homepage": "https://fgi.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37346",
@@ -3826,13 +3852,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://engistech.com",
-      "contact": "",
+      "homepage": "https://engistech.com/",
+      "contact": "https://www.engistech.com/",
       "phone": "",
-      "email": "",
+      "email": "info@engistech.com, support@engistech.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.engistech.com/"
     },
     {
       "id": "37349",
@@ -3880,13 +3907,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://openlinkv.com",
+      "homepage": "https://openlinkv.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37357",
@@ -3934,13 +3962,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://alllayer.com",
+      "homepage": "https://alllayer.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37361",
@@ -3988,13 +4017,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://wonderon.co.kr",
+      "homepage": "https://wonderon.co.kr/",
       "contact": "",
-      "phone": "",
+      "phone": "1666-5195",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37368",
@@ -4078,13 +4108,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://winwaysystems.com",
+      "homepage": "https://winwaysystems.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37377",
@@ -4168,13 +4199,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://youyoung.net",
+      "homepage": "https://youyoung.net/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37385",
@@ -4240,13 +4272,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://emotion.co.kr",
+      "homepage": "https://emotion.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37392",
@@ -4384,13 +4417,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://inforang.com",
-      "contact": "",
+      "homepage": "https://inforang.com/",
+      "contact": "https://www.inforang.com/",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.inforang.com/"
     },
     {
       "id": "37406",
@@ -4402,13 +4436,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://illunex.com",
+      "homepage": "https://illunex.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37407",
@@ -4420,13 +4455,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://iliasai.com",
-      "contact": "",
+      "homepage": "https://iliasai.com/",
+      "contact": "https://iliasai.com/pages/about-us.html",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://iliasai.com/"
     },
     {
       "id": "37408",
@@ -4600,13 +4636,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://gsdlab.co.kr",
+      "homepage": "https://gsdlab.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37420",
@@ -4654,13 +4691,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://commoners.co.kr",
+      "homepage": "https://commoners.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37428",
@@ -4672,13 +4710,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://kevic.com",
+      "homepage": "https://kevic.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37429",
@@ -4870,13 +4909,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://phis.co.kr",
+      "homepage": "https://phis.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37450",
@@ -4978,13 +5018,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://ecreditkorea.co.kr",
-      "contact": "",
+      "homepage": "https://ecreditkorea.co.kr/",
+      "contact": "https://www.ecreditkorea.co.kr/",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.ecreditkorea.co.kr/"
     },
     {
       "id": "37456",
@@ -4996,13 +5037,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://hannuri.net",
+      "homepage": "https://hannuri.net/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37458",
@@ -5140,13 +5182,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://it7.kr",
-      "contact": "",
+      "homepage": "https://it7.kr/",
+      "contact": "https://it7.kr/service.php",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://it7.kr/"
     },
     {
       "id": "37467",
@@ -5212,13 +5255,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://ninefive.com",
-      "contact": "",
+      "homepage": "https://ninefive.com/",
+      "contact": "https://www.ninefive.com/",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.ninefive.com/"
     },
     {
       "id": "37476",
@@ -5539,7 +5583,7 @@
       "homepage": "https://dkmtech.com",
       "contact": "전화: 02-553-0181, 02-553-0121, 051-816-3557 / 이메일: webmaster@dkmtech.com",
       "phone": "02-553-0181, 02-553-0121, 051-816-3557",
-      "email": "webmaster@dkmtech.com",
+      "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -5626,13 +5670,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://lightive.co.kr",
+      "homepage": "https://lightive.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37515",
@@ -5698,13 +5743,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://moonsoftinc.com",
-      "contact": "",
+      "homepage": "https://moonsoftinc.com/",
+      "contact": "https://moonsoftinc.com/baseApp/",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://moonsoftinc.com/baseApp/"
     },
     {
       "id": "37523",
@@ -5770,13 +5816,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://bewall.co.kr",
+      "homepage": "https://bewall.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37532",
@@ -5788,13 +5835,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://sailing-it.com",
+      "homepage": "https://sailing-it.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37536",
@@ -5806,13 +5854,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://seoilenc.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "https://seoilenc.com/",
+      "contact": "https://www.seoilenc.com/",
+      "phone": "02-2676-4888, 02-2676-4131",
+      "email": "seoilenc97@gmail.com",
       "confidence": "medium",
-      "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "lead_quality_grade": "A",
+      "source": "seed:registry_seed",
+      "source_page": "https://www.seoilenc.com/"
     },
     {
       "id": "37538",
@@ -5824,13 +5873,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://sunyoutech.com",
-      "contact": "",
+      "homepage": "https://sunyoutech.com/",
+      "contact": "https://sunyoutech.com/about",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://sunyoutech.com/"
     },
     {
       "id": "37542",
@@ -5896,13 +5946,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://standardnetworks.co.kr",
+      "homepage": "https://standardnetworks.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37548",
@@ -5914,13 +5965,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://stunningw.com",
+      "homepage": "https://stunningw.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37550",
@@ -5932,13 +5984,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://storic.co.kr",
+      "homepage": "https://storic.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37551",
@@ -5950,13 +6003,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://speechlog.co.kr",
+      "homepage": "https://speechlog.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37553",
@@ -6004,13 +6058,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://eduworks.co.kr",
+      "homepage": "https://eduworks.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37559",
@@ -6094,13 +6149,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://irenotech.com",
+      "homepage": "https://irenotech.com/",
       "contact": "",
-      "phone": "",
-      "email": "",
+      "phone": "070-7123-7301",
+      "email": "jhjeon@irenotech.com, hwangmin@irenotech.com",
       "confidence": "medium",
-      "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "lead_quality_grade": "A",
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37568",
@@ -6130,13 +6186,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://ipmes.co.kr",
+      "homepage": "https://ipmes.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37570",
@@ -6202,13 +6259,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://scglab.com",
-      "contact": "",
+      "homepage": "https://scglab.com/",
+      "contact": "https://scglabcareer.notion.site/SCGLAB-0ddd12009a8949beb88d9928f2dc8785",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://scglabcareer.notion.site/SCGLAB-0ddd12009a8949beb88d9928f2dc8785"
     },
     {
       "id": "37577",
@@ -6220,13 +6278,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://sktelecom.com",
-      "contact": "",
+      "homepage": "https://sktelecom.com/",
+      "contact": "https://www.sktelecom.com/",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.sktelecom.com/"
     },
     {
       "id": "37578",
@@ -6238,13 +6297,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://ablecoms.com",
-      "contact": "",
+      "homepage": "https://ablecoms.com/",
+      "contact": "https://redirect.ablecoms.com/index.html?ablecoms.com",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://redirect.ablecoms.com/index.html?ablecoms.com"
     },
     {
       "id": "37579",
@@ -6382,13 +6442,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://obodesign.co.kr",
+      "homepage": "https://obodesign.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37591",
@@ -6706,13 +6767,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://iamhere.co.kr",
+      "homepage": "https://iamhere.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37617",
@@ -6724,13 +6786,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://geekble.com",
+      "homepage": "https://geekble.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37618",
@@ -6742,13 +6805,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://nadoomodoo.com",
-      "contact": "",
+      "homepage": "https://nadoomodoo.com/",
+      "contact": "https://nadoo.ai/about",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://nadoo.ai/about"
     },
     {
       "id": "37620",
@@ -6760,13 +6824,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://narravine.com",
+      "homepage": "https://narravine.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37622",
@@ -6832,13 +6897,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://newgens.co.kr",
+      "homepage": "https://newgens.co.kr/",
       "contact": "",
-      "phone": "",
-      "email": "",
+      "phone": "02-6247-3901, 02-504-3902",
+      "email": "joon5771@newgens.co.kr, baramdor@newgens.co.kr",
       "confidence": "medium",
-      "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "lead_quality_grade": "A",
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37626",
@@ -6976,13 +7042,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://realmkt.co.kr",
+      "homepage": "https://realmkt.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37637",
@@ -7087,7 +7154,7 @@
       "homepage": "https://datacook.kr",
       "contact": "전화: 02-6380-3001 / 이메일: admin@datacook.kr, admin@Datacook.kr",
       "phone": "02-6380-3001",
-      "email": "admin@datacook.kr, admin@Datacook.kr",
+      "email": "admin@datacook.kr",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -7102,13 +7169,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://dentner.com",
+      "homepage": "https://dentner.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37645",
@@ -7213,7 +7281,7 @@
       "homepage": "https://dnbsoft.com",
       "contact": "전화: 02-1599-8596, 010-5874-8596 / 이메일: Info@dnbsoft.com, info@domain.com, info@dnbsoft.com",
       "phone": "02-1599-8596, 010-5874-8596",
-      "email": "Info@dnbsoft.com, info@dnbsoft.com",
+      "email": "Info@dnbsoft.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -7426,13 +7494,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://mccaai.com",
+      "homepage": "https://mccaai.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37681",
@@ -7516,13 +7585,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://minisoft.co.kr",
+      "homepage": "https://minisoft.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37687",
@@ -7570,13 +7640,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://vibeon.ai",
-      "contact": "",
+      "homepage": "https://vibeon.ai/",
+      "contact": "https://www.vibeon.ai/",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.vibeon.ai/"
     },
     {
       "id": "37690",
@@ -7624,13 +7695,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://bogonets.com",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://bogonets.com/",
+      "contact": "https://www.bogonets.com/",
+      "phone": "011-883-8028, 02-5040-0641, 02-3764-2585",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.bogonets.com/"
     },
     {
       "id": "37695",
@@ -7804,13 +7876,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://b2brental.co.kr",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://b2brental.co.kr/",
+      "contact": "https://b2brental.co.kr/index.do;jsessionid=9788E92F145C284596E24CC84AE0F1D8",
+      "phone": "1670-9511",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://b2brental.co.kr/index.do;jsessionid=9788E92F145C284596E24CC84AE0F1D8"
     },
     {
       "id": "37711",
@@ -7966,13 +8039,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://studiog.kr",
+      "homepage": "https://studiog.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37724",
@@ -8002,13 +8076,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://slogup.com",
+      "homepage": "https://slogup.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37727",
@@ -8038,13 +8113,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://ciiz-se.com",
+      "homepage": "https://ciiz-se.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37731",
@@ -8164,13 +8240,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://whiteme.co.kr",
-      "contact": "",
+      "homepage": "https://whiteme.co.kr/",
+      "contact": "https://www.whiteme.co.kr/",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.whiteme.co.kr/"
     },
     {
       "id": "37743",
@@ -8182,13 +8259,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://itofrom.com",
-      "contact": "",
+      "homepage": "https://itofrom.com/",
+      "contact": "https://www.itofrom.com/",
       "phone": "",
-      "email": "",
+      "email": "sales@itofrom.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.itofrom.com/"
     },
     {
       "id": "37746",
@@ -8236,13 +8314,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://achacha.kr",
-      "contact": "",
+      "homepage": "https://achacha.kr/",
+      "contact": "https://www.achacha.kr/",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.achacha.kr/"
     },
     {
       "id": "37751",
@@ -8254,13 +8333,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://artnartech.com",
-      "contact": "",
+      "homepage": "https://artnartech.com/",
+      "contact": "https://www.artnartech.com/",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.artnartech.com/"
     },
     {
       "id": "37752",
@@ -8365,7 +8445,7 @@
       "homepage": "https://sdulife.com",
       "contact": "전화: 02-2128-2500 / 이메일: webmaster@sdulife.com",
       "phone": "02-2128-2500",
-      "email": "webmaster@sdulife.com",
+      "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -8398,13 +8478,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://sckcorp.co.kr",
+      "homepage": "https://sckcorp.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37768",
@@ -8473,7 +8554,7 @@
       "homepage": "https://acnt.co.kr",
       "contact": "전화: 031-386-7795 / 이메일: webmaster@acnt.co.kr",
       "phone": "031-386-7795",
-      "email": "webmaster@acnt.co.kr",
+      "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -8488,13 +8569,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://aiskorea.co.kr",
+      "homepage": "https://aiskorea.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37774",
@@ -8722,13 +8804,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://m2-it.com",
+      "homepage": "https://m2-it.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37794",
@@ -8812,13 +8895,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://atlabs.kr",
-      "contact": "",
+      "homepage": "https://atlabs.kr/",
+      "contact": "https://atlabs.kr/en",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://atlabs.kr/en"
     },
     {
       "id": "37804",
@@ -8830,13 +8914,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://openmade.co.kr",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://openmade.co.kr/",
+      "contact": "https://www.openmade.co.kr/",
+      "phone": "02-0750-3320, 02-564-1023, 043-4782-6086",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.openmade.co.kr/"
     },
     {
       "id": "37805",
@@ -8866,13 +8951,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://oneed.co.kr",
+      "homepage": "https://oneed.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37808",
@@ -8902,13 +8988,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://widenplus.co.kr",
+      "homepage": "https://widenplus.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37810",
@@ -8920,13 +9007,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://wbconsulting.co.kr",
+      "homepage": "https://wbconsulting.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37812",
@@ -8956,13 +9044,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://onelineai.com",
+      "homepage": "https://onelineai.com/",
       "contact": "",
       "phone": "",
-      "email": "",
+      "email": "email@yourcompany.email",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37815",
@@ -9118,13 +9207,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://unes.co.kr",
+      "homepage": "https://unes.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37825",
@@ -9136,13 +9226,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://u1lab.com",
+      "homepage": "https://u1lab.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37826",
@@ -9154,13 +9245,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://utopsoft.co.kr",
+      "homepage": "https://utopsoft.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37828",
@@ -9226,13 +9318,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://easycerti.com",
+      "homepage": "https://easycerti.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37834",
@@ -9334,13 +9427,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://itinfosys.co.kr",
+      "homepage": "https://itinfosys.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37845",
@@ -9406,13 +9500,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://jcg.asia",
+      "homepage": "https://jcg.asia/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37850",
@@ -9460,13 +9555,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://zi-en.io",
+      "homepage": "https://zi-en.io/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37856",
@@ -9496,13 +9592,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://catsolutions.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "https://catsolutions.co.kr/",
+      "contact": "https://www.catsolutions.co.kr/",
+      "phone": "1688-4374",
+      "email": "mkt@catsolutions.co.kr",
       "confidence": "medium",
-      "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "lead_quality_grade": "A",
+      "source": "seed:registry_seed",
+      "source_page": "https://www.catsolutions.co.kr/"
     },
     {
       "id": "37858",
@@ -9715,7 +9812,7 @@
       "homepage": "https://comasinteractive.com",
       "contact": "전화: 02-539-9171 / 이메일: webmaster@icomas.co.kr",
       "phone": "02-539-9171",
-      "email": "webmaster@icomas.co.kr",
+      "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -9964,13 +10061,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://tnmsystem.co.kr",
+      "homepage": "https://tnmsystem.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37889",
@@ -10000,13 +10098,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://teamkai.kr",
-      "contact": "",
+      "homepage": "https://teamkai.kr/",
+      "contact": "https://www.teamkai.kr/",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.teamkai.kr/"
     },
     {
       "id": "37893",
@@ -10054,13 +10153,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://4usoft.kr",
-      "contact": "",
+      "homepage": "https://4usoft.kr/",
+      "contact": "https://www.4u-pay.com/",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.4u-pay.com/"
     },
     {
       "id": "37898",
@@ -10126,13 +10226,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://proten.co.kr",
+      "homepage": "https://proten.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37903",
@@ -10144,13 +10245,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://plasbt.com",
-      "contact": "",
+      "homepage": "https://plasbt.com/",
+      "contact": "https://www.plasbt.com/",
       "phone": "",
-      "email": "",
+      "email": "plasbio@plasbt.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.plasbt.com/"
     },
     {
       "id": "37904",
@@ -10234,13 +10336,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://arhunt.com",
+      "homepage": "https://arhunt.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37914",
@@ -10360,13 +10463,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://knjsystem.net",
+      "homepage": "https://knjsystem.net/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37925",
@@ -10378,13 +10482,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://trackfarm.co.kr",
-      "contact": "",
+      "homepage": "https://trackfarm.co.kr/",
+      "contact": "https://www.trackfarm.co.kr/",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.trackfarm.co.kr/"
     },
     {
       "id": "37927",
@@ -10450,13 +10555,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://cashmap.kr",
+      "homepage": "https://cashmap.kr/",
       "contact": "",
-      "phone": "",
+      "phone": "1644-5154",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37932",
@@ -10486,13 +10592,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://ikenit.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "https://ikenit.com/",
+      "contact": "https://www.ikenit.com/",
+      "phone": "051-404-1016",
+      "email": "kenit@kenit.co.kr",
       "confidence": "medium",
-      "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "lead_quality_grade": "A",
+      "source": "seed:registry_seed",
+      "source_page": "https://www.ikenit.com/"
     },
     {
       "id": "37935",
@@ -10576,13 +10683,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://kizling.com",
-      "contact": "",
+      "homepage": "https://kizling.com/",
+      "contact": "https://www.kizling.com/",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.kizling.com/"
     },
     {
       "id": "37944",
@@ -10612,13 +10720,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://tecace.com",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://tecace.com/",
+      "contact": "https://www.tecace.com/",
+      "phone": "043-6683-3479, 054-5540-3441, 043-2785-9505",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.tecace.com/"
     },
     {
       "id": "37948",
@@ -10630,13 +10739,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://2isys.com",
+      "homepage": "https://2isys.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37949",
@@ -10846,13 +10956,14 @@
       "ksic_major_name": "정보통신업",
       "region": "",
       "address": "",
-      "homepage": "https://heliosen.co.kr",
+      "homepage": "https://heliosen.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "37976",
@@ -11641,7 +11752,7 @@
       "homepage": "https://dawoolnetwork.com",
       "contact": "전화: 041-552-3656 / 이메일: root@all104-img.novalocal",
       "phone": "041-552-3656",
-      "email": "root@all104-img.novalocal",
+      "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -12379,7 +12490,7 @@
       "homepage": "https://mcret.com",
       "contact": "전화: 055-364-3363 / 이메일: MIN02299@NAVER.COM, min02299@naver.com, lunar-2@nate.com",
       "phone": "055-364-3363",
-      "email": "MIN02299@NAVER.COM, min02299@naver.com, lunar-2@nate.com",
+      "email": "MIN02299@NAVER.COM, lunar-2@nate.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -13153,7 +13264,7 @@
       "homepage": "https://maristory.co.kr",
       "contact": "전화: 033-242-8239 / 이메일: maristory01@gmail.com, example@mail.com",
       "phone": "033-242-8239",
-      "email": "maristory01@gmail.com, example@mail.com",
+      "email": "maristory01@gmail.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -13549,7 +13660,7 @@
       "homepage": "https://ccumtl.com",
       "contact": "전화: 031-298-0701 / 이메일: CAPTAIN@CCUMTL.COM, captain@ccumtl.com",
       "phone": "031-298-0701",
-      "email": "CAPTAIN@CCUMTL.COM, captain@ccumtl.com",
+      "email": "CAPTAIN@CCUMTL.COM",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -16249,7 +16360,7 @@
       "homepage": "https://beautifulstore.org",
       "contact": "전화: 02-2115-7215 / 이메일: webmaster@beautifulstore.org",
       "phone": "02-2115-7215",
-      "email": "webmaster@beautifulstore.org",
+      "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -17041,7 +17152,7 @@
       "homepage": "https://goodtravel.kr",
       "contact": "전화: 02-701-9071 / 이메일: goodtravel21@gmail.com, example@naver.com",
       "phone": "02-701-9071",
-      "email": "goodtravel21@gmail.com, example@naver.com",
+      "email": "goodtravel21@gmail.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -17398,13 +17509,14 @@
       "ksic_major_name": "협회 및 단체, 수리 및 기타 개인 서비스업",
       "region": "서울",
       "address": "서울특별시 마포구 증산로 87 문화비축기지 내 상암소셜박스(성산동)",
-      "homepage": "https://bandal.kr",
+      "homepage": "https://bandal.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "39350",
@@ -18676,13 +18788,14 @@
       "ksic_major_name": "협회 및 단체, 수리 및 기타 개인 서비스업",
       "region": "서울",
       "address": "서울특별시 성동구 뚝섬로1나길 5 헤이그라운드 7층",
-      "homepage": "https://wehuddling.com",
-      "contact": "",
+      "homepage": "https://wehuddling.com/",
+      "contact": "https://www.hugedomains.com/domain_profile.cfm?d=wehuddling.com",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.hugedomains.com/domain_profile.cfm?d=wehuddling.com"
     },
     {
       "id": "39536",
@@ -19036,13 +19149,14 @@
       "ksic_major_name": "협회 및 단체, 수리 및 기타 개인 서비스업",
       "region": "서울",
       "address": "서울특별시 영등포구 당산로54길 11 상가 304호",
-      "homepage": "https://bookfriend.net",
+      "homepage": "https://bookfriend.net/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "39572",
@@ -20332,13 +20446,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://gongyoung.kr",
+      "homepage": "https://gongyoung.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40476",
@@ -20350,13 +20465,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://kogas-tech.co.kr",
+      "homepage": "https://kogas-tech.co.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40479",
@@ -20404,13 +20520,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://1122.cw.or.kr",
+      "homepage": "https://1122.cw.or.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40491",
@@ -20422,13 +20539,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://knudh.kr",
+      "homepage": "https://knudh.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40492",
@@ -20494,13 +20612,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://irb.or.kr",
+      "homepage": "https://irb.or.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40497",
@@ -20512,13 +20631,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://ncrc.or.kr",
+      "homepage": "https://ncrc.or.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40499",
@@ -20530,13 +20650,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://knps.or.kr",
+      "homepage": "https://knps.or.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40504",
@@ -20548,13 +20669,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://aviation.or.kr",
+      "homepage": "https://aviation.or.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40505",
@@ -20566,13 +20688,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://knmm.or.kr",
+      "homepage": "https://knmm.or.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40506",
@@ -20602,13 +20725,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://hnibr.re.kr",
+      "homepage": "https://hnibr.re.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40509",
@@ -20620,13 +20744,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://add.re.kr",
+      "homepage": "https://add.re.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40510",
@@ -20692,13 +20817,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://total.comwel.or.kr",
+      "homepage": "https://total.comwel.or.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40517",
@@ -20711,12 +20837,13 @@
       "region": "",
       "address": "",
       "homepage": "https://kibo.or.kr/index.do",
-      "contact": "",
-      "phone": "",
+      "contact": "https://www.kibo.or.kr/index.do",
+      "phone": "1544-1120, 051-606-7301",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.kibo.or.kr/index.do"
     },
     {
       "id": "40519",
@@ -20728,13 +20855,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://returnfarm.com",
+      "homepage": "https://returnfarm.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40520",
@@ -20800,13 +20928,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://dhrm.or.kr",
-      "contact": "",
+      "homepage": "https://dhrm.or.kr/",
+      "contact": "https://dhrm.or.kr/%ea%b8%b0%eb%a1%9d%ea%b4%80-%ec%86%8c%ea%b0%9c/",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://dhrm.or.kr/"
     },
     {
       "id": "40528",
@@ -20854,13 +20983,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://snubh.org",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://snubh.org/",
+      "contact": "https://snubh.org/index.do",
+      "phone": "1588-3369, 031-787-7000, 031-787-4008",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://snubh.org/index.do"
     },
     {
       "id": "40531",
@@ -20872,13 +21002,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://tpwebzine.com",
+      "homepage": "https://tpwebzine.com/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40532",
@@ -20909,12 +21040,13 @@
       "region": "",
       "address": "",
       "homepage": "https://edu.kinfa.or.kr/academy/main/intro.do",
-      "contact": "",
+      "contact": "https://www.kinfa.or.kr/common/error.jsp",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.kinfa.or.kr/common/error.jsp"
     },
     {
       "id": "40534",
@@ -20926,13 +21058,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://snuh.org",
+      "homepage": "https://snuh.org/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40535",
@@ -20944,13 +21077,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://snudh.org",
+      "homepage": "https://snudh.org/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40538",
@@ -20962,13 +21096,14 @@
       "ksic_major_name": "공공 행정, 국방 및 사회보장 행정",
       "region": "",
       "address": "",
-      "homepage": "https://slc.or.kr",
+      "homepage": "https://slc.or.kr/",
       "contact": "",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": ""
     },
     {
       "id": "40540",
@@ -21145,7 +21280,7 @@
       "homepage": "https://kohom.or.kr/web/main/index.do",
       "contact": "이메일: webmaster@kohom.or.kr",
       "phone": "",
-      "email": "webmaster@kohom.or.kr",
+      "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -21271,7 +21406,7 @@
       "homepage": "https://kedi.re.kr/khome/main/webhome/Home.do",
       "contact": "전화: 043-530-9114, 043-530-9819 / 이메일: koogiehot@dongbucni.com, webmaster@kedi.re.kr",
       "phone": "043-530-9114, 043-530-9819",
-      "email": "koogiehot@dongbucni.com, webmaster@kedi.re.kr",
+      "email": "koogiehot@dongbucni.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -21487,7 +21622,7 @@
       "homepage": "https://newseoulgolf.co.kr",
       "contact": "전화: 031-762-5672, 031-760-8000, 031-763-0519 / 이메일: webmaster@newseoulgolf.co.kr",
       "phone": "031-762-5672, 031-760-8000, 031-763-0519",
-      "email": "webmaster@newseoulgolf.co.kr",
+      "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -22225,7 +22360,7 @@
       "homepage": "https://heerim.com",
       "contact": "이메일: hotline_em@heerim.com, webmaster@heerim.com, recruit@heerim.com",
       "phone": "",
-      "email": "hotline_em@heerim.com, webmaster@heerim.com, recruit@heerim.com",
+      "email": "hotline_em@heerim.com, recruit@heerim.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "naver/search_engine/search_engine"
@@ -28687,7 +28822,7 @@
       "homepage": "https://kidic.co.kr",
       "contact": "전화: 041-681-3330 / 이메일: root@localhost.localdomain",
       "phone": "041-681-3330",
-      "email": "root@localhost.localdomain",
+      "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -28921,7 +29056,7 @@
       "homepage": "https://barfdog.co.kr",
       "contact": "전화: 010-4979-2025 / 이메일: info@freshour.co.kr, example@gmail.com, kyeonghoim@freshour.co.kr",
       "phone": "010-4979-2025",
-      "email": "info@freshour.co.kr, example@gmail.com, kyeonghoim@freshour.co.kr",
+      "email": "info@freshour.co.kr, kyeonghoim@freshour.co.kr",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -30091,7 +30226,7 @@
       "homepage": "https://dmckorea.rezio.shop",
       "contact": "이메일: info@dmckoreatravel.com, example@rezio.io",
       "phone": "",
-      "email": "info@dmckoreatravel.com, example@rezio.io",
+      "email": "info@dmckoreatravel.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -30181,7 +30316,7 @@
       "homepage": "https://high1.co.kr",
       "contact": "전화: 1588-7789 / 이메일: webmaster@high1.com",
       "phone": "1588-7789",
-      "email": "webmaster@high1.com",
+      "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -30217,7 +30352,7 @@
       "homepage": "https://ccpmarathon.kr",
       "contact": "전화: 033-260-9400 / 이메일: ccpmarathon@kado.net, ccpmarathon@daum.net, webmaster@ccpmarathon.co.kr",
       "phone": "033-260-9400",
-      "email": "ccpmarathon@kado.net, ccpmarathon@daum.net, webmaster@ccpmarathon.co.kr",
+      "email": "ccpmarathon@kado.net, ccpmarathon@daum.net",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -34519,7 +34654,7 @@
       "homepage": "https://asiatour.co.kr",
       "contact": "전화: 062-228-3000 / 이메일: 2283000@daum.net, example@naver.com, asiatour@eoding.com",
       "phone": "062-228-3000",
-      "email": "2283000@daum.net, example@naver.com, asiatour@eoding.com",
+      "email": "2283000@daum.net, asiatour@eoding.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -34732,13 +34867,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "광주",
       "address": "광주광역시 동구 충장로안길 38^ 지하층 (황금동)",
-      "homepage": "https://kj.nobleliz.com",
-      "contact": "",
+      "homepage": "https://kj.nobleliz.com/",
+      "contact": "https://www.hugedomains.com/about.cfm",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.hugedomains.com/domain_profile.cfm?d=nobleliz.com"
     },
     {
       "id": "42583",
@@ -34823,12 +34959,13 @@
       "region": "광주",
       "address": "광주광역시 서구 치평동 1310-13",
       "homepage": "https://judamobile.com/Shop.aspx",
-      "contact": "",
+      "contact": "https://judamobile.com/SignIn.aspx",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://judamobile.com/Shop.aspx"
     },
     {
       "id": "42591",
@@ -34858,13 +34995,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "광주",
       "address": "광주광역시 동구 금남로5가 62번지 20호",
-      "homepage": "https://khgroup.com",
+      "homepage": "https://khgroup.com/",
       "contact": "",
       "phone": "",
-      "email": "",
+      "email": "info@khgroup.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://khgroup.com/"
     },
     {
       "id": "42595",
@@ -35041,7 +35179,7 @@
       "homepage": "https://thehelper.biz",
       "contact": "전화: 062-512-0835 / 이메일: example@gmail.com",
       "phone": "062-512-0835",
-      "email": "example@gmail.com",
+      "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -35236,13 +35374,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "광주",
       "address": "광주광역시 동구 산수동 545-86",
-      "homepage": "https://hamseongedu.com",
+      "homepage": "https://hamseongedu.com/",
       "contact": "",
       "phone": "",
-      "email": "",
+      "email": "%22hsedu@hamseongedu.com, %20%5c%22info@liveklass.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://hamseongedu.com/"
     },
     {
       "id": "42634",
@@ -35560,13 +35699,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "대구",
       "address": "대구광역시 북구 고성동1가 50번지 38호 한백아파트 102동 802호",
-      "homepage": "https://popkrn.net",
-      "contact": "",
+      "homepage": "https://popkrn.net/",
+      "contact": "https://www.hugedomains.com/about.cfm",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.hugedomains.com/domain_profile.cfm?d=popkrn.net"
     },
     {
       "id": "42682",
@@ -36604,13 +36744,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "대구",
       "address": "대구광역시 북구 산격동 1370-1",
-      "homepage": "https://jcschemical.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "https://jcschemical.com/",
+      "contact": "https://jcschemical.com/pages/contact",
+      "phone": "053-950-5585, 053-950-6594",
+      "email": "jcschemical21@gmail.com",
       "confidence": "medium",
-      "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "lead_quality_grade": "A",
+      "source": "seed:registry_seed",
+      "source_page": "https://jcschemical.com/"
     },
     {
       "id": "42797",
@@ -37090,13 +37231,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "대전",
       "address": "대전광역시 동구 용전동 76-2",
-      "homepage": "https://richfriends.liveklass.com",
+      "homepage": "https://richfriends.liveklass.com/",
       "contact": "",
       "phone": "",
-      "email": "",
+      "email": "%22richfriends.m@gmail.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://richfriends.liveklass.com/"
     },
     {
       "id": "42884",
@@ -37306,13 +37448,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "대전",
       "address": "대전광역시 중구 옥계동 159-9",
-      "homepage": "https://tbang.kr",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://tbang.kr/",
+      "contact": "https://tbang.kr/bbs/content.php?co_id=company",
+      "phone": "1899-0206",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://tbang.kr/"
     },
     {
       "id": "42908",
@@ -37396,13 +37539,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "대전",
       "address": "대전광역시 동구 용전동 14-9",
-      "homepage": "https://deutschmotors.com",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://deutschmotors.com/",
+      "contact": "https://www.deutschmotors.com/page/contact-bmw",
+      "phone": "080-269-2200",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://deutschmotors.com/"
     },
     {
       "id": "42916",
@@ -37414,13 +37558,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "대전",
       "address": "대전광역시 동구 계족로 137^ 103동 304호 (대동^ 새들뫼휴먼시아1단지)",
-      "homepage": "https://apple.com",
-      "contact": "",
+      "homepage": "https://apple.com/",
+      "contact": "https://www.apple.com/contact/",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.apple.com/"
     },
     {
       "id": "42917",
@@ -37882,13 +38027,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "대전",
       "address": "대전광역시 동구 판암동 873 301호",
-      "homepage": "https://aros100.com",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://aros100.com/",
+      "contact": "https://aros100.com/premiumconsultings",
+      "phone": "1668-3203",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://aros100.com/"
     },
     {
       "id": "42985",
@@ -38461,7 +38607,7 @@
       "homepage": "https://ykbook.com",
       "contact": "전화: 051-816-9500 / 이메일: webmaster@ykbook.com",
       "phone": "051-816-9500",
-      "email": "webmaster@ykbook.com",
+      "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -39091,7 +39237,7 @@
       "homepage": "https://pinktour.co.kr",
       "contact": "전화: 070-5055-2505, 02-6008-2505 / 이메일: pinktour00@nate.com, example@naver.com",
       "phone": "070-5055-2505, 02-6008-2505",
-      "email": "pinktour00@nate.com, example@naver.com",
+      "email": "pinktour00@nate.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -39775,7 +39921,7 @@
       "homepage": "https://ygolf.co.kr",
       "contact": "전화: 051-466-5557 / 이메일: ygolftour@naver.com, example@naver.com, ygolf@eoding.com",
       "phone": "051-466-5557",
-      "email": "ygolftour@naver.com, example@naver.com, ygolf@eoding.com",
+      "email": "ygolftour@naver.com, ygolf@eoding.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -40312,13 +40458,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "서울",
       "address": "서울특별시 은평구 갈현동 488번지 7호 더클래스",
-      "homepage": "https://ppobgie.com",
-      "contact": "",
+      "homepage": "https://ppobgie.com/",
+      "contact": "https://ppobgie.com/bbs/qalist.php",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://ppobgie.com/"
     },
     {
       "id": "43327",
@@ -40762,13 +40909,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "서울",
       "address": "서울특별시 은평구 불광동 434-10",
-      "homepage": "https://urivet.com",
-      "contact": "",
+      "homepage": "https://urivet.com/",
+      "contact": "https://urivet.com/philosophy.html",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://urivet.com/"
     },
     {
       "id": "43385",
@@ -41521,7 +41669,7 @@
       "homepage": "https://cdnt.co.kr",
       "contact": "전화: 02-356-7178, 02-356-7179 / 이메일: clubdhowtravel@gmail.com, example@naver.com, clubdow@eoding.com",
       "phone": "02-356-7178, 02-356-7179",
-      "email": "clubdhowtravel@gmail.com, example@naver.com, clubdow@eoding.com",
+      "email": "clubdhowtravel@gmail.com, clubdow@eoding.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -41554,13 +41702,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "서울",
       "address": "서울특별시 은평구 진관동 100-1 은평헤스티아2차",
-      "homepage": "https://tvill.co.kr",
-      "contact": "",
+      "homepage": "https://tvill.co.kr/",
+      "contact": "https://tvill.co.kr/Pages/About.aspx",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://tvill.co.kr/"
     },
     {
       "id": "43484",
@@ -42691,7 +42840,7 @@
       "homepage": "https://ompasscloud.com",
       "contact": "이메일: service@omsecurity.kr, example@omsecurity.kr, ceo@omsecurity.kr",
       "phone": "",
-      "email": "service@omsecurity.kr, example@omsecurity.kr, ceo@omsecurity.kr",
+      "email": "service@omsecurity.kr, ceo@omsecurity.kr",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -42742,13 +42891,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "세종",
       "address": "세종특별자치시 나성동 790 디펠리체",
-      "homepage": "https://chiyoom.com",
+      "homepage": "https://chiyoom.com/",
       "contact": "",
-      "phone": "",
+      "phone": "1555-4147",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://chiyoom.com/"
     },
     {
       "id": "43643",
@@ -42922,13 +43072,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "세종",
       "address": "세종특별자치시 부강면 문곡리 산 249 ??",
-      "homepage": "https://kcar.com",
+      "homepage": "https://kcar.com/",
       "contact": "",
-      "phone": "",
+      "phone": "02-7450-9804",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://www.kcar.com/"
     },
     {
       "id": "43667",
@@ -43084,13 +43235,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "울산",
       "address": "울산광역시 중구 우정동 512-5 우정혁신타워",
-      "homepage": "https://washfun.fun",
-      "contact": "",
+      "homepage": "https://washfun.fun/",
+      "contact": "https://washfun.fun/partner.html",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://washfun.fun/"
     },
     {
       "id": "43686",
@@ -43842,11 +43994,12 @@
       "address": "울산광역시 중구 약사동 **** 약사 I-PARK ***호",
       "homepage": "https://link.inpock.co.kr/whitebear",
       "contact": "",
-      "phone": "",
-      "email": "",
+      "phone": "070-5222-7724",
+      "email": "support@ab-z.com",
       "confidence": "medium",
-      "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "lead_quality_grade": "A",
+      "source": "seed:registry_seed",
+      "source_page": "https://link.inpock.co.kr/whitebear"
     },
     {
       "id": "43790",
@@ -44075,12 +44228,13 @@
       "region": "울산",
       "address": "울산광역시 중구 성남동 66-2",
       "homepage": "https://usjournal.kr/bbs/list.php",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "https://usjournal.kr/support/join.html",
+      "phone": "052-211-7952, 052-286-9678",
+      "email": "usjournal22@gmail.com",
       "confidence": "medium",
-      "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "lead_quality_grade": "A",
+      "source": "seed:registry_seed",
+      "source_page": "https://usjournal.kr/bbs/list.php"
     },
     {
       "id": "43831",
@@ -44599,7 +44753,7 @@
       "homepage": "https://goodtravellab.com",
       "contact": "전화: 070-8670-0888, 052-248-0325 / 이메일: ulsangoodtravel@gmail.com, example@naver.com, ulsangoodtravel@eoding.com",
       "phone": "070-8670-0888, 052-248-0325",
-      "email": "ulsangoodtravel@gmail.com, example@naver.com, ulsangoodtravel@eoding.com",
+      "email": "ulsangoodtravel@gmail.com, ulsangoodtravel@eoding.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -44614,13 +44768,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "울산",
       "address": "울산광역시 중구 교동 138 울산과학기술진흥센터/그린카기술센터 401호",
-      "homepage": "https://chaintree.biz",
-      "contact": "",
+      "homepage": "https://chaintree.biz/",
+      "contact": "https://chaintree.biz/company",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://chaintree.biz/"
     },
     {
       "id": "43895",
@@ -44740,13 +44895,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "인천",
       "address": "인천광역시 중구 운서동 2800-2 비2빌 607호",
-      "homepage": "https://cctvall.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "https://cctvall.co.kr/",
+      "contact": "https://cctvall.co.kr/service/company",
+      "phone": "02-1566-7155, 0504-8488-889, 1566-7155",
+      "email": "cctvall@daum.net",
       "confidence": "medium",
-      "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "lead_quality_grade": "A",
+      "source": "seed:registry_seed",
+      "source_page": "https://cctvall.co.kr/main/index"
     },
     {
       "id": "43906",
@@ -44815,7 +44971,7 @@
       "homepage": "https://seoulgls.co.kr",
       "contact": "전화: 032-746-7942 / 이메일: webmaster@seoulgls.co.kr, ek.yang.@seoulgls.co.kr",
       "phone": "032-746-7942",
-      "email": "webmaster@seoulgls.co.kr, ek.yang.@seoulgls.co.kr",
+      "email": "ek.yang.@seoulgls.co.kr",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -45011,12 +45167,13 @@
       "region": "인천",
       "address": "인천광역시 중구 운서동 3098-1",
       "homepage": "https://glcityhotel.com/INTRO",
-      "contact": "",
+      "contact": "https://glcityhotel.com/INTRO/view/1084035",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://glcityhotel.com/INTRO"
     },
     {
       "id": "43950",
@@ -45119,12 +45276,13 @@
       "region": "인천",
       "address": "인천광역시 중구 운서동 2787-1 금호베스트빌",
       "homepage": "https://fem.kr/main",
-      "contact": "",
+      "contact": "https://fem.kr/company/about-us",
       "phone": "",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://fem.kr/main"
     },
     {
       "id": "43967",
@@ -45172,13 +45330,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "인천",
       "address": "인천광역시 중구 운서동 3238 스카이72골프클럽",
-      "homepage": "https://onetheclub.com",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://onetheclub.com/",
+      "contact": "https://onetheclub.com/reservation/golfPartner",
+      "phone": "1833-8800, 1599-0072, 033-339-0020",
       "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://onetheclub.com/"
     },
     {
       "id": "43970",
@@ -47422,13 +47581,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "제주",
       "address": "제주특별자치도 서귀포시 토평동 758-1",
-      "homepage": "https://bluewind-korea.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "https://bluewind-korea.com/",
+      "contact": "https://www.bluewind-korea.com/",
+      "phone": "070-4047-8880, 1833-2384",
+      "email": "bluewind1282@naver.com",
       "confidence": "medium",
-      "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "lead_quality_grade": "A",
+      "source": "seed:registry_seed",
+      "source_page": "https://www.bluewind-korea.com/"
     },
     {
       "id": "44313",
@@ -47530,13 +47690,14 @@
       "ksic_major_name": "도매 및 소매업",
       "region": "제주",
       "address": "제주특별자치도 서귀포시 남원읍 태흥리 194-26 6동",
-      "homepage": "https://math.msprep.kr",
+      "homepage": "https://math.msprep.kr/",
       "contact": "",
       "phone": "",
-      "email": "",
+      "email": "%22math.go@kakao.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "source_page": "https://math.msprep.kr/"
     },
     {
       "id": "44333",
@@ -48217,7 +48378,7 @@
       "homepage": "https://i815.or.kr",
       "contact": "전화: 041-560-0500 / 이메일: webmaster@i815.or.kr",
       "phone": "041-560-0500",
-      "email": "webmaster@i815.or.kr",
+      "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -49225,7 +49386,7 @@
       "homepage": "https://mmk.or.kr",
       "contact": "전화: 051-309-1900 / 이메일: webmaster@macu.kr",
       "phone": "051-309-1900",
-      "email": "webmaster@macu.kr",
+      "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -49261,7 +49422,7 @@
       "homepage": "https://ocimuseum.org",
       "contact": "전화: 02-734-0440 / 이메일: webmaster@ocimuseum.org",
       "phone": "02-734-0440",
-      "email": "webmaster@ocimuseum.org",
+      "email": "",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -49441,7 +49602,7 @@
       "homepage": "https://imageroot.co.kr",
       "contact": "전화: 02-396-3185 / 이메일: info@museumwp.com, imageroot@gmail.com",
       "phone": "02-396-3185",
-      "email": "info@museumwp.com, imageroot@gmail.com",
+      "email": "info@museumwp.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -50269,7 +50430,7 @@
       "homepage": "https://pjcitytour.kr",
       "contact": "전화: 티앤플래이스 02-730-0531 / 이메일: tn-place@naver.com, example@naver.com, pjcitytour@eoding.com",
       "phone": "티앤플래이스 02-730-0531",
-      "email": "tn-place@naver.com, example@naver.com, pjcitytour@eoding.com",
+      "email": "tn-place@naver.com, pjcitytour@eoding.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -50431,7 +50592,7 @@
       "homepage": "https://nbtour.co.kr",
       "contact": "전화: 완주관광체육마케팅센터 063-290-3991 / 이메일: nbtravel@naver.com, example@naver.com, nbtour@eoding.com",
       "phone": "완주관광체육마케팅센터 063-290-3991",
-      "email": "nbtravel@naver.com, example@naver.com, nbtour@eoding.com",
+      "email": "nbtravel@naver.com, nbtour@eoding.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -50449,7 +50610,7 @@
       "homepage": "https://nbtour.co.kr",
       "contact": "전화: 063-640-2343 / 이메일: nbtravel@naver.com, example@naver.com, nbtour@eoding.com",
       "phone": "063-640-2343",
-      "email": "nbtravel@naver.com, example@naver.com, nbtour@eoding.com",
+      "email": "nbtravel@naver.com, nbtour@eoding.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed"
@@ -52948,7 +53109,7 @@
       "homepage": "https://www.cuk.edu",
       "contact": "전화: 02-6361-2000 / 이메일: webmaster@koreacu.ac.kr",
       "phone": "02-6361-2000",
-      "email": "webmaster@koreacu.ac.kr",
+      "email": "",
       "confidence": "medium",
       "source": "source_file:p_university_overview",
       "id": "46062",
@@ -53830,7 +53991,7 @@
       "homepage": "https://kcti.re.kr",
       "contact": "전화: 02-2669-9800, 02-2669-9880 / 이메일: webmaster@kcti.re.kr",
       "phone": "02-2669-9800, 02-2669-9880",
-      "email": "webmaster@kcti.re.kr",
+      "email": "",
       "confidence": "medium",
       "source": "source_file:o_alio_plus_openapi",
       "id": "46766",
@@ -54367,8 +54528,8 @@
       "segment": "통신판매업",
       "region": "서울특별시",
       "address": "서울특별시 은평구 연서로34길 11-1^ 2층 201호 (불광동)",
-      "homepage": "https://pbbz.co.kr",
-      "contact": "",
+      "homepage": "https://pbbz.co.kr/",
+      "contact": "https://www.showkey.app/feature-pages/showkey-service",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -54376,7 +54537,8 @@
       "id": "46829",
       "ksic_major_code": "G",
       "ksic_major_name": "도매 및 소매업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.showkey.app/"
     },
     {
       "name": "사단법인 은평스포츠클럽",
@@ -54421,16 +54583,17 @@
       "segment": "통신판매업",
       "region": "서울특별시",
       "address": "서울특별시 은평구 진관3로 32^ 은평뉴타운파크앤타워 B동 615호 (진관동)",
-      "homepage": "https://cubesj.kr",
+      "homepage": "https://cubesj.kr/",
       "contact": "",
-      "phone": "",
+      "phone": "1833-8490",
       "email": "",
       "confidence": "medium",
       "source": "source_file:g_ecommerce_seller",
       "id": "46835",
       "ksic_major_code": "G",
       "ksic_major_name": "도매 및 소매업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://cubesj.kr/"
     },
     {
       "name": "주식회사 플랜제닉",
@@ -56368,7 +56531,7 @@
       "homepage": "https://seosanrws.com",
       "contact": "전화: 669-6969 / 이메일: root@fishmap.cafe24.com",
       "phone": "669-6969",
-      "email": "root@fishmap.cafe24.com",
+      "email": "",
       "confidence": "medium",
       "source": "source_file:g_ecommerce_seller",
       "id": "47102",
@@ -56941,16 +57104,17 @@
       "segment": "통신판매업",
       "region": "강원특별자치도",
       "address": "강원특별자치도 태백시 황지로 22 (황지동)",
-      "homepage": "https://surisulsa.com",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://surisulsa.com/",
+      "contact": "https://www.surisulsa.com/front/sub/service.php",
+      "phone": "1533-1254",
       "email": "",
       "confidence": "medium",
       "source": "source_file:g_ecommerce_seller",
       "id": "47190",
       "ksic_major_code": "G",
       "ksic_major_name": "도매 및 소매업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.surisulsa.com/front/"
     },
     {
       "name": "재단법인 양구문화재단",
@@ -56980,7 +57144,7 @@
       "homepage": "https://high1.com",
       "contact": "전화: 1588-7789 / 이메일: webmaster@high1.com",
       "phone": "1588-7789",
-      "email": "webmaster@high1.com",
+      "email": "",
       "confidence": "medium",
       "source": "source_file:g_ecommerce_seller",
       "id": "47193",
@@ -58093,16 +58257,17 @@
       "segment": "소프트웨어사업자",
       "region": "대구광역시",
       "address": "대구광역시 수성구 알파시티1로42길 11, 2층 224호 (대흥동)",
-      "homepage": "http://dawooplatform.co.kr",
-      "contact": "",
+      "homepage": "http://dawooplatform.co.kr/",
+      "contact": "http://dawooplatform.co.kr/contents/03_development/sub03.html?online_id=koweb_online_contact_us&mode=write",
       "phone": "",
-      "email": "",
+      "email": "kristenkim22@gmail.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47316",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://dawooplatform.co.kr/"
     },
     {
       "name": "(사)지역농업연구원",
@@ -58147,16 +58312,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 서초구 강남대로95길 55, 4층 (잠원동)",
-      "homepage": "http://www.theframework.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://www.theframework.co.kr/",
+      "contact": "http://www.theframework.co.kr/81",
+      "phone": "02-545-2825",
+      "email": "tfj241@naver.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47319",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "http://www.theframework.co.kr/"
     },
     {
       "name": "사회정보연구원",
@@ -58561,8 +58727,8 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 안양시 동안구 벌말로 123, 1302호 (관양동, 평촌스마트베이)",
-      "homepage": "http://www.dnisystem.com",
-      "contact": "",
+      "homepage": "http://www.dnisystem.com/",
+      "contact": "http://www.dnisystem.com/company/company01_05.php",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -58570,7 +58736,8 @@
       "id": "47354",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.dnisystem.com/"
     },
     {
       "name": "(주)이비아이앤씨",
@@ -58885,16 +59052,17 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 성남시 수정구 창업로 54, 224호(시흥동, 판교제2테크노밸리기업성장센터)",
-      "homepage": "http://www.batem.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://www.batem.com/",
+      "contact": "https://www.batem.com/about01.html",
+      "phone": "031-755-5561, 031-755-5562",
+      "email": "gd.hong@batem.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47380",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://www.batem.com/"
     },
     {
       "name": "컴퓨터공간",
@@ -59014,7 +59182,7 @@
       "homepage": "http://www.puzzlesystems.co.kr",
       "contact": "전화: 02-2135-1338 / 이메일: Contact@puzzlesystems.co.kr, contact@puzzlesystems.co.kr",
       "phone": "02-2135-1338",
-      "email": "Contact@puzzlesystems.co.kr, contact@puzzlesystems.co.kr",
+      "email": "Contact@puzzlesystems.co.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47390",
@@ -59065,16 +59233,17 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 수원시 영통구 창룡대로 260, 609호, 610호(이의동, 광교센트럴비즈타워)",
-      "homepage": "http://www.gbudatalinks.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://www.gbudatalinks.com/",
+      "contact": "https://www.gbudatalinks.com/about",
+      "phone": "070-4354-2135, 031-8066-7447",
+      "email": "sales@gbudatalinks.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47393",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://www.gbudatalinks.com/"
     },
     {
       "name": "주식회사 이트라이브",
@@ -59551,16 +59720,17 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 성남시 중원구 양현로405번길 7, 8층 801호(여수동, 신야탑푸르지오시티2)",
-      "homepage": "http://coachjob.net",
+      "homepage": "http://coachjob.net/",
       "contact": "",
-      "phone": "",
+      "phone": "02-023-0008",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47425",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://quickresume.co.kr/"
     },
     {
       "name": "주식회사 에스에스엘(SSL)",
@@ -59839,8 +60009,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 성동구 연무장13길 9, 514호 (성수동2가)",
-      "homepage": "http://hansmt.co.kr",
-      "contact": "",
+      "homepage": "http://hansmt.co.kr/",
+      "contact": "https://east-raptor-590.notion.site/2023-53bce2d1d03a49a4a61f36f1b3fa54f3",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -59848,7 +60018,8 @@
       "id": "47445",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://east-raptor-590.notion.site/30ff17d96a8449d3af6673fc10caf848?pvs=4"
     },
     {
       "name": "주식회사 골드스타333",
@@ -59896,7 +60067,7 @@
       "homepage": "http://www.kapanet.or.kr",
       "contact": "전화: 02-521-0900 / 이메일: webmaster@kapanet.or.kr",
       "phone": "02-521-0900",
-      "email": "webmaster@kapanet.or.kr",
+      "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47448",
@@ -60037,16 +60208,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강남구 논현로 646(논현동)",
-      "homepage": "http://www.forcs.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://www.forcs.com/",
+      "contact": "https://kr.forcs.com/about-us/",
+      "phone": "02-6188-8252, 02-6188-8280, 02-6188-8282",
+      "email": "sales@forcs.com, insa@forcs.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47458",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://kr.forcs.com/"
     },
     {
       "name": "(주)핸디아이씨에스",
@@ -60685,8 +60857,8 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 광명시 광명역로 26, 1동1212호 (일직동)",
-      "homepage": "http://hankookpixel.com",
-      "contact": "",
+      "homepage": "http://hankookpixel.com/",
+      "contact": "http://hankookpixel.com/rankup_module/rankup_member/join_intro.html",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -60694,7 +60866,8 @@
       "id": "47500",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://hankookpixel.com/main/index.html"
     },
     {
       "name": "주식회사 캠토",
@@ -61063,8 +61236,8 @@
       "segment": "소프트웨어사업자",
       "region": "대전광역시",
       "address": "대전광역시 유성구 가정북로 96, 506호, 507호 (장동, 대전일자리경제진흥원)",
-      "homepage": "http://www.eiss.co.kr",
-      "contact": "",
+      "homepage": "http://www.eiss.co.kr/",
+      "contact": "https://eiss.co.kr/etc/sitemap.html",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -61072,7 +61245,8 @@
       "id": "47522",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://eiss.co.kr/main/index.html"
     },
     {
       "name": "(주)스페이스몽키디자인",
@@ -61621,16 +61795,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강남구 역삼로8길 15, 7층 (역삼동, 홍우빌딩)",
-      "homepage": "http://www.tssni.com",
-      "contact": "",
-      "phone": "",
+      "homepage": "http://www.tssni.com/",
+      "contact": "http://www.tssni.com/page/page6",
+      "phone": "02-554-1020",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47565",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.tssni.com/"
     },
     {
       "name": "(주)테크커넥트",
@@ -62017,16 +62192,17 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 부천시 오정구 석천로 397, 202동 705호 (삼정동, 부천 테크노파크 쌍용3차)",
-      "homepage": "http://hhtech.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://hhtech.co.kr/",
+      "contact": "http://hhtech.co.kr/pages/in01.html",
+      "phone": "02-6949-3027, 02-6499-5027",
+      "email": "zyanose@naver.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47591",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "http://hhtech.co.kr/"
     },
     {
       "name": "주식회사 하이브랩",
@@ -62125,16 +62301,17 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 군포시 군포로 713-1, 1005호 (금정동, 진원타워)",
-      "homepage": "http://www.safetyons.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://www.safetyons.com/",
+      "contact": "https://www.safetyons.com/about-safetyons",
+      "phone": "031-781-8801",
+      "email": "contact@safetyons.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47602",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://www.safetyons.com/"
     },
     {
       "name": "(주)창흥텔레콤",
@@ -62323,16 +62500,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 동작구 상도로 369, 창신관 113호(상도동) (상도동, 숭실대학교)",
-      "homepage": "http://whybiz.net",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://whybiz.net/",
+      "contact": "https://whybiz.net/",
+      "phone": "02-853-1112",
+      "email": "whybiz@whybiz.net",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47614",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://whybiz.net/"
     },
     {
       "name": "(주)올림플래닛",
@@ -62578,7 +62756,7 @@
       "homepage": "http://www.arasoft.net",
       "contact": "전화: 055-757-9900 / 이메일: arasoft@nate.com, example@org.kr",
       "phone": "055-757-9900",
-      "email": "arasoft@nate.com, example@org.kr",
+      "email": "arasoft@nate.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47630",
@@ -63277,16 +63455,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강남구 선릉로90길 44, 정인빌딩 2층 (대치동)",
-      "homepage": "http://in-touch.co.kr",
-      "contact": "",
-      "phone": "",
+      "homepage": "http://in-touch.co.kr/",
+      "contact": "https://in-touch.co.kr/home/2026/overview.html",
+      "phone": "02-3447-1090, 02-3447-1092",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47674",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://in-touch.co.kr/home/2026/index.html"
     },
     {
       "name": "(주)나오디지탈",
@@ -63583,8 +63762,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 서초구 반포대로30길 81, 11층 1120호 (서초동)",
-      "homepage": "http://www.actimedi.com",
-      "contact": "",
+      "homepage": "http://www.actimedi.com/",
+      "contact": "https://actimedi.com/en/service/toktok",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -63592,7 +63771,8 @@
       "id": "47697",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://actimedi.com/en"
     },
     {
       "name": "(주)글로벌디피알",
@@ -63745,16 +63925,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 종로구 청계천로 11, 17층 (서린동)",
-      "homepage": "http://rnaanalytics.com",
-      "contact": "",
-      "phone": "",
+      "homepage": "http://rnaanalytics.com/",
+      "contact": "https://www.rnaanalytics.com/contact",
+      "phone": "02-722-1041",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47707",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.rnaanalytics.com/"
     },
     {
       "name": "주식회사 미디어큐빗",
@@ -64015,8 +64196,8 @@
       "segment": "소프트웨어사업자",
       "region": "대전광역시",
       "address": "대전광역시 유성구 대덕대로 593, 2층 205호 (도룡동)",
-      "homepage": "https://www.hepi.co.kr",
-      "contact": "",
+      "homepage": "https://www.hepi.co.kr/",
+      "contact": "https://www.hepi.co.kr/about/contactUs.html",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -64024,7 +64205,8 @@
       "id": "47728",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.hepi.co.kr/"
     },
     {
       "name": "주식회사 샌드버그",
@@ -64339,16 +64521,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 마포구 월드컵북로 75, 4층 A-02호 (성산동)",
-      "homepage": "http://www.imindinc.com",
+      "homepage": "http://www.imindinc.com/",
       "contact": "",
       "phone": "",
-      "email": "",
+      "email": "jaycho@imindinc.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47751",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.imindinc.com/"
     },
     {
       "name": "주식회사 플러스파크",
@@ -64357,8 +64540,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 서초구 청룡마을3길 2, 2층 (신원동)",
-      "homepage": "http://pluspark.co.kr",
-      "contact": "",
+      "homepage": "http://pluspark.co.kr/",
+      "contact": "https://pluspark.co.kr/",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -64366,7 +64549,8 @@
       "id": "47752",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://pluspark.co.kr/"
     },
     {
       "name": "지오스트 주식회사",
@@ -64591,16 +64775,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 마포구 성암로 330, B동 315호(상암동, DMC 첨단산업센터)",
-      "homepage": "http://ablearn.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://ablearn.kr/",
+      "contact": "https://ablearn.kr/about",
+      "phone": "02-589-2020, 02-589-2021, 02-589-2025",
+      "email": "contactus@ablearn.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47765",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://ablearn.kr/"
     },
     {
       "name": "주식회사 오픈시스",
@@ -64774,7 +64959,7 @@
       "homepage": "http://www.zero.kr",
       "contact": "전화: 043-221-6161, 043-252-7924 / 이메일: webmaster@zero.kr",
       "phone": "043-221-6161, 043-252-7924",
-      "email": "webmaster@zero.kr",
+      "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47779",
@@ -64843,16 +65028,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 중랑구 신내역로 111, 726호(신내동, 신내 SK V1 center)",
-      "homepage": "https://www.hulearn.co.kr",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://www.hulearn.co.kr/",
+      "contact": "https://www.hulearn.co.kr/usr/company/intro.do",
+      "phone": "1577-1239",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47783",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.hulearn.co.kr/usr/main/mainLayout.do"
     },
     {
       "name": "주식회사 모카소프트",
@@ -65149,8 +65335,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 서초구 강남대로 311, 1402호 (서초동, 한화생명보험빌딩)",
-      "homepage": "http://angelswing.io",
-      "contact": "",
+      "homepage": "http://angelswing.io/",
+      "contact": "https://angelswing.io/en/about",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -65158,7 +65344,8 @@
       "id": "47806",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://angelswing.io/"
     },
     {
       "name": "(주)지앤넷",
@@ -65368,7 +65555,7 @@
       "homepage": "https://www.hanilstm.com",
       "contact": "전화: 031-739-5700, 031-739-5755 / 이메일: webmaster@hanilstm.com",
       "phone": "031-739-5700, 031-739-5755",
-      "email": "webmaster@hanilstm.com",
+      "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47824",
@@ -66499,16 +66686,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강남구 삼성로100길 8, 202호(삼성동, 우경빌딩)",
-      "homepage": "http://mooam.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://mooam.co.kr/",
+      "contact": "https://www.mooam.co.kr/aboutus",
+      "phone": "02-555-4248, 010-7546-4248, 02-3436-1634",
+      "email": "contact@mooam.co.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47897",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://www.mooam.co.kr/"
     },
     {
       "name": "주식회사 엔에이유",
@@ -66607,8 +66795,8 @@
       "segment": "소프트웨어사업자",
       "region": "부산광역시",
       "address": "부산광역시 해운대구 좌동순환로 473, 214호(중동, 해운대로데오아울렛)",
-      "homepage": "http://www.tscinfo.co.kr",
-      "contact": "",
+      "homepage": "http://www.tscinfo.co.kr/",
+      "contact": "http://www.tscinfo.co.kr/%ED%9A%8C%EC%82%AC%EC%86%8C%EA%B0%9C",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -66616,7 +66804,8 @@
       "id": "47904",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.tscinfo.co.kr/"
     },
     {
       "name": "아이티캡씨엔엔 주식회사",
@@ -66895,8 +67084,8 @@
       "segment": "소프트웨어사업자",
       "region": "광주광역시",
       "address": "광주광역시 남구 월산로 72 (월산동,신한빌딩)",
-      "homepage": "http://sksecurity.co.kr",
-      "contact": "",
+      "homepage": "http://sksecurity.co.kr/",
+      "contact": "http://skcns.co.kr/index.php?mid=form_mail",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -66904,7 +67093,8 @@
       "id": "47925",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://skcns.co.kr/"
     },
     {
       "name": "주식회사 어픽(apeak Co,Ltd.)",
@@ -67003,16 +67193,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 성동구 뚝섬로1길 31, 604호,605호 (성수동1가, 서울숲 M타워)",
-      "homepage": "http://luning.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://luning.co.kr/",
+      "contact": "https://www.luning.co.kr/about",
+      "phone": "02-499-8622, 02-499-8623",
+      "email": "luning_sales@luning.co.kr, luning_support@luning.co.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "47932",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://www.luning.co.kr/"
     },
     {
       "name": "주식회사 더로벨",
@@ -67381,8 +67572,8 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 용인시 기흥구 기흥로 58, B-1104호 (구갈동, 기흥ICT밸리 SK V1)",
-      "homepage": "http://www.itbay.co.kr",
-      "contact": "",
+      "homepage": "http://www.itbay.co.kr/",
+      "contact": "http://www.itbay.co.kr/html/intro2_r.htm",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -67390,7 +67581,8 @@
       "id": "47956",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.itbay.co.kr/"
     },
     {
       "name": "주식회사 라이다스",
@@ -67651,8 +67843,8 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 안산시 단원구 능안로 81 (신길동 안산디지털파크6021호)",
-      "homepage": "http://www.anhcorp.com",
-      "contact": "",
+      "homepage": "http://www.anhcorp.com/",
+      "contact": "https://anhcorp.com/?page_id=1014",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -67660,7 +67852,8 @@
       "id": "47975",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.anhcorp.com/"
     },
     {
       "name": "주식회사 아날로그에이아이",
@@ -67669,8 +67862,8 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 성남시 수정구 창업로40번길 20, 지하2층 스타트업지원센터 6- 3호(시흥동, 소프트웨어드림센터)",
-      "homepage": "http://www.analog-ai.com",
-      "contact": "",
+      "homepage": "http://www.analog-ai.com/",
+      "contact": "https://www.analog-ai.com/contact",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -67678,7 +67871,8 @@
       "id": "47976",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.analog-ai.com/"
     },
     {
       "name": "테크노빌리지(주)",
@@ -67957,8 +68151,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 중구 청계천로 24, 13층 (다동, 케이스퀘어시티빌딩)",
-      "homepage": "http://doubleme.me",
-      "contact": "",
+      "homepage": "http://doubleme.me/",
+      "contact": "https://www.doubleme.me/en/contactus",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -67966,7 +68160,8 @@
       "id": "47997",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.doubleme.me/en"
     },
     {
       "name": "주식회사 이와이씨",
@@ -68497,8 +68692,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강남구 언주로 626, 501호 (논현동, 논현로얄팰리스)",
-      "homepage": "http://www.koreaartnow.com",
-      "contact": "",
+      "homepage": "http://www.koreaartnow.com/",
+      "contact": "http://www.koreaartnow.com/?module=Inquiry&action=SiteInquiry&sMode=INSERT_FORM&iInquiryNo=1",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -68506,7 +68701,8 @@
       "id": "48031",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.koreaartnow.com/"
     },
     {
       "name": "(주)퍼틸레인",
@@ -68572,7 +68768,7 @@
       "homepage": "http://www.shinsungic.com",
       "contact": "전화: 02-564-5977, 02-553-9113 / 이메일: webmaster@shinsungic.com",
       "phone": "02-564-5977, 02-553-9113",
-      "email": "webmaster@shinsungic.com",
+      "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48035",
@@ -68680,7 +68876,7 @@
       "homepage": "http://www.hysolutech.com",
       "contact": "전화: 02-891-8110, 070-8240-8110, 051-923-5381 / 이메일: webmaster@hysolutech.com",
       "phone": "02-891-8110, 070-8240-8110, 051-923-5381",
-      "email": "webmaster@hysolutech.com",
+      "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48044",
@@ -68785,16 +68981,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 마포구 백범로31길 21, 본관 806호(공덕동, 서울창업허브)",
-      "homepage": "http://www.thejaemi.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://www.thejaemi.com/",
+      "contact": "https://www.thejaemi.com/%EB%B3%B5%EC%A0%9C-%EB%B3%B5%EC%A0%9C-home",
+      "phone": "1577-4983",
+      "email": "thejaemi@thejaemi.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48051",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://www.thejaemi.com/"
     },
     {
       "name": "주식회사 디지털아이디어",
@@ -69055,8 +69252,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 영등포구 양산로 53, 월드메르디앙비즈센터 908호 (양평동3가)",
-      "homepage": "http://www.cwit.or.kr",
-      "contact": "",
+      "homepage": "http://www.cwit.or.kr/",
+      "contact": "http://www.cwit.or.kr/company_01.htm",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -69064,7 +69261,8 @@
       "id": "48070",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.cwit.or.kr/"
     },
     {
       "name": "주식회사 서커스컴퍼니",
@@ -69523,8 +69721,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 광진구 광나루로 478, 304호 (구의동, 광진 경제허브센터도약관)",
-      "homepage": "http://www.deepfarm.net",
-      "contact": "",
+      "homepage": "http://www.deepfarm.net/",
+      "contact": "http://www.deepfarm.net/about.html",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -69532,7 +69730,8 @@
       "id": "48103",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.deepfarm.net/"
     },
     {
       "name": "(주)넷원시스템",
@@ -69721,16 +69920,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 서초구 논현로11길 6-9, 2층 (양재동)",
-      "homepage": "http://gazzi.ai",
+      "homepage": "http://gazzi.ai/",
       "contact": "",
-      "phone": "",
+      "phone": "02-7425-1500, 02-7486-6200",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48115",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://gazzi.ai/"
     },
     {
       "name": "주식회사 훌리악",
@@ -69775,8 +69975,8 @@
       "segment": "소프트웨어사업자",
       "region": "경상북도",
       "address": "경상북도 구미시 수출대로1길 50, 211호 (공단동)",
-      "homepage": "http://dasung-tech.com",
-      "contact": "",
+      "homepage": "http://dasung-tech.com/",
+      "contact": "http://dasung-tech.com/elements/map/",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -69784,7 +69984,8 @@
       "id": "48118",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://dasung-tech.com/"
     },
     {
       "name": "주식회사 코리아통신",
@@ -70297,16 +70498,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강서구 양천로 583, 우림블루나인 A-23F (염창동)",
-      "homepage": "https://www.ksystem.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "https://www.ksystem.co.kr/",
+      "contact": "https://www.ksystem.co.kr/customer-support-service/",
+      "phone": "1661-1155, 1688-1155, 1688-7048",
+      "email": "as1@ksystem.co.kr, as3@ksystem.co.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48153",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://www.ksystem.co.kr/"
     },
     {
       "name": "(주)처음소프트",
@@ -70351,8 +70553,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강남구 역삼로 229(역삼동)",
-      "homepage": "http://www.vect.co.kr",
-      "contact": "",
+      "homepage": "http://www.vect.co.kr/",
+      "contact": "http://www.vect.co.kr/about/overview.php",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -70360,7 +70562,8 @@
       "id": "48156",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.vect.co.kr/"
     },
     {
       "name": "(주)대학내일",
@@ -70405,8 +70608,8 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 성남시 분당구 판교역로 166, 비동 5층(백현동, 카카오 판교아지트)",
-      "homepage": "https://kakaohealthcare.com",
-      "contact": "",
+      "homepage": "https://kakaohealthcare.com/",
+      "contact": "https://kakaohealthcare.com/company/",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -70414,7 +70617,8 @@
       "id": "48159",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://kakaohealthcare.com/"
     },
     {
       "name": "(주)에이치에스티",
@@ -70477,16 +70681,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 용산구 한강대로 32 (한강로3가)",
-      "homepage": "http://www.lguplus.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://www.lguplus.co.kr/",
+      "contact": "https://www.lguplus.com/about/ko",
+      "phone": "1544-0010, 1644-7000, 1644-7009",
+      "email": "corpdev@lguplus.co.kr, royalty@lguplus.co.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48164",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://www.lguplus.com/"
     },
     {
       "name": "주식회사 피앤지텍",
@@ -70711,8 +70916,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 성동구 뚝섬로17가길 48, 904호 (성수동2가, 성수에이원 지식산업센터)",
-      "homepage": "http://www.xenoid.co.kr",
-      "contact": "",
+      "homepage": "http://www.xenoid.co.kr/",
+      "contact": "http://www.xenoid.co.kr/company/company.jsp",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -70720,7 +70925,8 @@
       "id": "48179",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.xenoid.co.kr/"
     },
     {
       "name": "와이피피(주)",
@@ -70747,8 +70953,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강서구 양천로 551-17, 402호 (가양동, 한화비즈메트로1차)",
-      "homepage": "http://www.kbinfo.co.kr",
-      "contact": "",
+      "homepage": "http://www.kbinfo.co.kr/",
+      "contact": "http://www.kbinfo.co.kr/new/pages/about.php",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -70756,7 +70962,8 @@
       "id": "48181",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.kbinfo.co.kr/"
     },
     {
       "name": "주식회사 커넥트플로우",
@@ -70910,15 +71117,16 @@
       "region": "울산광역시",
       "address": "울산광역시 동구 방어진순환도로 563, 402호 (화정동)",
       "homepage": "http://globalse.co.kr/kor",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "http://globalse.co.kr/page/intro01",
+      "phone": "052-261-7053, 0504-9857-053",
+      "email": "sales@globalse.co.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48193",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "http://globalse.co.kr/kor"
     },
     {
       "name": "(주)이노텍코리아",
@@ -71089,16 +71297,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 금천구 디지털로 121, 1301호 (가산동,에이스가산타워)",
-      "homepage": "http://www.bhcon.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://www.bhcon.co.kr/",
+      "contact": "http://www.bhcon.co.kr/bbs/content.php?co_id=b01",
+      "phone": "02-2281-0641, 02-2281-0644",
+      "email": "info@bhcon.co.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48203",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "http://www.bhcon.co.kr/"
     },
     {
       "name": "(주)에이아이소프트",
@@ -71359,16 +71568,17 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 성남시 분당구 대왕판교로 660, A동 1008호(삼평동,유스페이스1)",
-      "homepage": "https://www.herit.net",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "https://www.herit.net/",
+      "contact": "https://www.herit.net/customer/inquiry.html",
+      "phone": "031-606-7150, 031-606-7170, 02-3480-3573",
+      "email": "dmbyun@herit.net",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48225",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://www.herit.net/"
     },
     {
       "name": "(주)그노티",
@@ -72079,8 +72289,8 @@
       "segment": "소프트웨어사업자",
       "region": "경상북도",
       "address": "경상북도 경산시 성암로15길 10, 1층 (옥산동)",
-      "homepage": "http://dnycp.co.kr",
-      "contact": "",
+      "homepage": "http://dnycp.co.kr/",
+      "contact": "http://dnycp.co.kr/?r=home&amp;c=1/8",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -72088,7 +72298,8 @@
       "id": "48278",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://dnycp.co.kr/"
     },
     {
       "name": "주식회사 인솔엠앤티",
@@ -72475,16 +72686,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강남구 테헤란로70길 14-6, 비동 5층 (대치동, 세왕종합상사빌딩)",
-      "homepage": "https://www.acornsoft.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "https://www.acornsoft.co.kr/",
+      "contact": "https://cocktail.io.kr/contact-8",
+      "phone": "02-554-0301, 02-554-0302",
+      "email": "support@cocktail.io.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48302",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://cocktail.io.kr/"
     },
     {
       "name": "주식회사 이룸인프라",
@@ -72853,8 +73065,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 서초구 마방로 28, 2-3층, 모빌테크 (양재동, 우제빌딩)",
-      "homepage": "http://mobiltech.io",
-      "contact": "",
+      "homepage": "http://mobiltech.io/",
+      "contact": "https://www.mobiltech.io/",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -72862,7 +73074,8 @@
       "id": "48330",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.mobiltech.io/"
     },
     {
       "name": "프로메디우스주식회사",
@@ -73288,7 +73501,7 @@
       "homepage": "http://www.aflnews.co.kr",
       "contact": "전화: 02-585-0091, 02-588-4905 / 이메일: webmaster@aflnews.co.kr, aflnews@aflnews.co.kr, support@goodsoftware.co.kr",
       "phone": "02-585-0091, 02-588-4905",
-      "email": "webmaster@aflnews.co.kr, aflnews@aflnews.co.kr, support@goodsoftware.co.kr",
+      "email": "aflnews@aflnews.co.kr, support@goodsoftware.co.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48361",
@@ -74008,7 +74221,7 @@
       "homepage": "https://www.yht.co.kr",
       "contact": "전화: 02-6277-8000, 02-6277-8080, 051-469-9538 / 이메일: sales@yht.co.kr, webmaster@yht.co.kr",
       "phone": "02-6277-8000, 02-6277-8080, 051-469-9538",
-      "email": "sales@yht.co.kr, webmaster@yht.co.kr",
+      "email": "sales@yht.co.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48414",
@@ -74545,8 +74758,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 구로구 디지털로 272, 한신아이티타워 3층 314호 (구로동)",
-      "homepage": "http://www.erasone.com",
-      "contact": "",
+      "homepage": "http://www.erasone.com/",
+      "contact": "http://www.erasone.com/?module=Html&action=SiteMap",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -74554,7 +74767,8 @@
       "id": "48453",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.erasone.com/"
     },
     {
       "name": "(주)인에이지",
@@ -74743,8 +74957,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 은평구 응암로 161, 3층 (응암동)",
-      "homepage": "http://iabm.net",
-      "contact": "",
+      "homepage": "http://iabm.net/",
+      "contact": "http://iabm.net/company1.html",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -74752,7 +74966,8 @@
       "id": "48469",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://iabm.net/"
     },
     {
       "name": "(주)오드레몬오리진",
@@ -74818,7 +75033,7 @@
       "homepage": "http://www.bookcube.com",
       "contact": "이메일: webmaster@bookcube.com",
       "phone": "",
-      "email": "webmaster@bookcube.com",
+      "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48477",
@@ -74833,16 +75048,17 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 성남시 분당구 성남대로 69, 로드랜드EZ타워 412호 (구미동)",
-      "homepage": "http://www.dabinsystems.com",
-      "contact": "",
+      "homepage": "http://www.dabinsystems.com/",
+      "contact": "http://www.dabinsystems.com/about/greeting.htm",
       "phone": "",
-      "email": "",
+      "email": "cs@dabinsystems.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48478",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.dabinsystems.com/"
     },
     {
       "name": "(주)블루포트(Bluepor, lnc.)",
@@ -75301,16 +75517,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강남구 논현로 22, 5층 (개포동, 인빌딩)",
-      "homepage": "http://www.inoutsc.com",
-      "contact": "",
-      "phone": "",
+      "homepage": "http://www.inoutsc.com/",
+      "contact": "http://www.inoutsc.com/inintro/inintro_010100.html",
+      "phone": "02-3463-2341",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48510",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.inoutsc.com/"
     },
     {
       "name": "주식회사 스토리",
@@ -75463,16 +75680,17 @@
       "segment": "소프트웨어사업자",
       "region": "부산광역시",
       "address": "부산광역시 기장군 정관읍 정관로 574, 1004호(조은시티)",
-      "homepage": "http://www.idksoft.co.kr",
-      "contact": "",
-      "phone": "",
+      "homepage": "http://www.idksoft.co.kr/",
+      "contact": "http://www.idksoft.co.kr/theme/basic/sub/sub01_01.php",
+      "phone": "051-818-6747, 051-818-0566",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48521",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.idksoft.co.kr/"
     },
     {
       "name": "주식회사 오영비티",
@@ -75517,8 +75735,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강남구 테헤란로79길 6, 513호 (삼성동, 제이에스타워)",
-      "homepage": "http://gtsoft.kr",
-      "contact": "",
+      "homepage": "http://gtsoft.kr/",
+      "contact": "http://gtsoft.kr/sustainability/philosophy.html",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -75526,7 +75744,8 @@
       "id": "48524",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://gtsoft.kr/"
     },
     {
       "name": "주식회사 서버키트",
@@ -75697,16 +75916,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 금천구 벚꽃로 254, 1109호(가산동, 월드메르디앙)",
-      "homepage": "https://woorimdt.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "https://woorimdt.co.kr/",
+      "contact": "https://www.woorimdt.co.kr/sub/about2.php",
+      "phone": "02-736-1022, 02-866-9021",
+      "email": "lee@woorimdt.co.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48536",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://www.woorimdt.co.kr/"
     },
     {
       "name": "주식회사 인사커뮤니케이션",
@@ -75859,16 +76079,17 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 안양시 동안구 벌말로 126, 612호(관양동,평촌오비즈타워)",
-      "homepage": "http://www.pndsolution.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://www.pndsolution.com/",
+      "contact": "https://pndsolution.com/PnDsolution",
+      "phone": "031-450-3011, 031-450-3012",
+      "email": "pndsolution@pndsolution.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48548",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://pndsolution.com/"
     },
     {
       "name": "이엔테크놀로지 (주)",
@@ -76255,16 +76476,17 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 성남시 분당구 판교로289번길 20, 3동 5층 (삼평동, 판교테크노밸리 스타트업 캠퍼스)",
-      "homepage": "http://inflearn.com",
-      "contact": "",
-      "phone": "",
+      "homepage": "http://inflearn.com/",
+      "contact": "https://www.inflearn.com/roadmaps",
+      "phone": "032-2580-6451, 043-4782-6086",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48579",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.inflearn.com/"
     },
     {
       "name": "주식회사 이파피루스",
@@ -76633,8 +76855,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 성동구 성수일로39-34, 11층 19호(성수동1가, 서울숲 더 스페이스)",
-      "homepage": "http://www.tqconsulting.co.kr",
-      "contact": "",
+      "homepage": "http://www.tqconsulting.co.kr/",
+      "contact": "http://www.tqconsulting.co.kr/?page_id=182",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -76642,7 +76864,8 @@
       "id": "48602",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.tqconsulting.co.kr/"
     },
     {
       "name": "주식회사 피피코",
@@ -76651,16 +76874,17 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 군포시 공단로140번길 47-16, 202호 (당정동, 한솔빌딩)",
-      "homepage": "http://pp-co.net",
+      "homepage": "http://pp-co.net/",
       "contact": "",
-      "phone": "",
+      "phone": "1500-1500",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48603",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://pp-co.net/"
     },
     {
       "name": "(주)맥스윈",
@@ -77137,16 +77361,17 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 용인시 수지구 수지로112번길 10 (성복동)",
-      "homepage": "http://www.doosanlogistics.com",
-      "contact": "",
-      "phone": "",
+      "homepage": "http://www.doosanlogistics.com/",
+      "contact": "https://www.doosanlogistics.com/en/intro/intro-01",
+      "phone": "031-270-1800",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48635",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.doosanlogistics.com/en"
     },
     {
       "name": "주식회사 더피프티원",
@@ -77155,16 +77380,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강남구 봉은사로18길 58, 1층 (역삼동, 건영빌딩)",
-      "homepage": "http://www.the-51.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://www.the-51.com/",
+      "contact": "http://www.the-51.com/about-slider-portfolio/contact-slider-portfolio/",
+      "phone": "02-332-6251, 02-332-6253",
+      "email": "contact@the-51.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48636",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "http://www.the-51.com/"
     },
     {
       "name": "주식회사 비즈앤뱅크",
@@ -77335,8 +77561,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 송파구 법원로6길 7, 10층 1004호 (문정동, 송파유탑테크밸리)",
-      "homepage": "http://www.jjnet.co.kr",
-      "contact": "",
+      "homepage": "http://www.jjnet.co.kr/",
+      "contact": "http://www.jjnet.co.kr/gb4/jjnet/company.html",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -77344,7 +77570,8 @@
       "id": "48648",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.jjnet.co.kr/"
     },
     {
       "name": "주식회사 덱스터스튜디오(Dexter studios Co.,Ltd.)",
@@ -77443,16 +77670,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강남구 선릉로 577, 9층 (역삼동, 조선내화빌딩 )",
-      "homepage": "http://www.skonec.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://www.skonec.com/",
+      "contact": "https://www.skonec.com/about/company/",
+      "phone": "02-458-3742, 02-458-3745",
+      "email": "business@skonec.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48656",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://www.skonec.com/"
     },
     {
       "name": "주식회사 엠티오메가",
@@ -78037,16 +78265,17 @@
       "segment": "소프트웨어사업자",
       "region": "대구광역시",
       "address": "대구광역시 수성구 고산로18길 3, 4층 케이비드 (신매동)",
-      "homepage": "http://www.kabead.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://www.kabead.com/",
+      "contact": "http://www.kabead.com/bbs/write.php?bo_table=estimate",
+      "phone": "02-580-0533, 02-3480-3600, 02-392-0330",
+      "email": "help@kabead.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48695",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "http://www.kabead.com/"
     },
     {
       "name": "디케이브릿지웍스 주식회사 (DK BRIDGE WORKS CO.,LTD)",
@@ -78235,8 +78464,8 @@
       "segment": "소프트웨어사업자",
       "region": "경상남도",
       "address": "경상남도 창원시 성산구 완암로 50, 909호(성산동,에스케이테크노파크 테크동)",
-      "homepage": "http://www.shaco.co.kr",
-      "contact": "",
+      "homepage": "http://www.shaco.co.kr/",
+      "contact": "https://www.shaco.co.kr/company_contact_us/",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -78244,7 +78473,8 @@
       "id": "48706",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.shaco.co.kr/"
     },
     {
       "name": "(주)더파워브레인스",
@@ -78487,16 +78717,17 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 하남시 미사대로 550, 2층제에이2-0043호제에이2-0044호제에이2-0045호제에이2-0046호제에이2-0047호4층제에이4-0031호(덕풍동, 현대지식산업센터한강미사) (덕풍동)",
-      "homepage": "https://www.erencomtm.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "https://www.erencomtm.co.kr/",
+      "contact": "https://www.erencomtm.co.kr/%EB%B3%B5%EC%A0%9C-about-us",
+      "phone": "02-466-7051",
+      "email": "hshsnam@erencomtm.co.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48727",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://www.erencomtm.co.kr/"
     },
     {
       "name": "더착한 주식회사",
@@ -78631,8 +78862,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강남구 학동로9길 33(논현동, 시니스트빌딩)",
-      "homepage": "http://www.shinest.co.kr",
-      "contact": "",
+      "homepage": "http://www.shinest.co.kr/",
+      "contact": "http://www.shinest.co.kr/company.html",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -78640,7 +78871,8 @@
       "id": "48737",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.shinest.co.kr/"
     },
     {
       "name": "(주)아크릴",
@@ -79387,8 +79619,8 @@
       "segment": "소프트웨어사업자",
       "region": "인천광역시",
       "address": "인천광역시 서구 백범로 611, 815~819호 (가좌동, 아르테크주안)",
-      "homepage": "http://drsys.net",
-      "contact": "",
+      "homepage": "http://drsys.net/",
+      "contact": "https://www.drsys.net/",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -79396,7 +79628,8 @@
       "id": "48800",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.drsys.net/"
     },
     {
       "name": "(주) 블룸에이아이",
@@ -79444,7 +79677,7 @@
       "homepage": "https://ydavc.co.kr",
       "contact": "전화: 033-254-4321, 033-256-3819 / 이메일: webmaster@OOO.co.kr, ydavc@hanmail.net",
       "phone": "033-254-4321, 033-256-3819",
-      "email": "webmaster@OOO.co.kr, ydavc@hanmail.net",
+      "email": "ydavc@hanmail.net",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48806",
@@ -79657,16 +79890,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 마포구 양화로3길 82, 2층 (합정동, 국민빌딩 2층)",
-      "homepage": "http://www.sdbmt.co.kr",
-      "contact": "",
-      "phone": "",
+      "homepage": "http://www.sdbmt.co.kr/",
+      "contact": "http://www.sdbmt.co.kr/company/",
+      "phone": "02-325-1225, 070-8220-5415",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48819",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.sdbmt.co.kr/"
     },
     {
       "name": "(주) 조은네트웍스",
@@ -79694,15 +79928,16 @@
       "region": "서울특별시",
       "address": "서울특별시 마포구 대흥로 54, TAF빌딩 602호 (대흥동)",
       "homepage": "http://e-htech.co.kr/start_main/start_index.php?url=",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "http://e-htech.co.kr/company/company_map.php",
+      "phone": "02-703-3074",
+      "email": "e3074@e-htech.co.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48822",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "http://e-htech.co.kr/start_main/start_index.php?url="
     },
     {
       "name": "(주)텔로스",
@@ -80035,8 +80270,8 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 성남시 수정구 위례광장로 21-12, 408호 (창곡동, 위례드림시티)",
-      "homepage": "http://www.towith.co.kr",
-      "contact": "",
+      "homepage": "http://www.towith.co.kr/",
+      "contact": "https://www.towith.co.kr/",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -80044,7 +80279,8 @@
       "id": "48847",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.towith.co.kr/"
     },
     {
       "name": "(주)시스웨어",
@@ -80251,8 +80487,8 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 광명시 일직로 43, B동 804,805호(일직동, GIDC)",
-      "homepage": "http://jselec.kr",
-      "contact": "",
+      "homepage": "http://jselec.kr/",
+      "contact": "http://jselec.kr/company_01.html",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -80260,7 +80496,8 @@
       "id": "48861",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://jselec.kr/"
     },
     {
       "name": "주식회사 클래스액트",
@@ -80953,8 +81190,8 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 성남시 분당구 판교역로 230, 비동 906호(삼평동, 삼환하이펙스)",
-      "homepage": "http://www.mediazen.co.kr",
-      "contact": "",
+      "homepage": "http://www.mediazen.co.kr/",
+      "contact": "http://www.mediazen.co.kr/dist/sub/contact.html",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -80962,7 +81199,8 @@
       "id": "48911",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.mediazen.co.kr/"
     },
     {
       "name": "주식회사 큐브세븐틴",
@@ -81007,8 +81245,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강남구 언주로75길 6 (역삼동)",
-      "homepage": "http://www.sehwanms.com",
-      "contact": "",
+      "homepage": "http://www.sehwanms.com/",
+      "contact": "http://www.sehwanms.com/estimate/index.php",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -81016,7 +81254,8 @@
       "id": "48916",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.sehwanms.com/"
     },
     {
       "name": "(주)인터솔루션테크놀로지",
@@ -81133,16 +81372,17 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 안산시 상록구 한양대학로 55, 창업보육센터 6층 614호 (사동, 창업보육센터)",
-      "homepage": "http://doroedu.net",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://doroedu.net/",
+      "contact": "https://doroedu.net/83",
+      "phone": "010-9667-3691, 070-7712-3691",
+      "email": "dojeonrobot@gmail.com, dorocoltd@doroedu.co.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "48924",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://doroedu.net/"
     },
     {
       "name": "(주)더스테이지",
@@ -81313,8 +81553,8 @@
       "segment": "소프트웨어사업자",
       "region": "울산광역시",
       "address": "울산광역시 울주군 청량읍 군청로 12, 302호, 401호",
-      "homepage": "http://www.onbranding.co.kr",
-      "contact": "",
+      "homepage": "http://www.onbranding.co.kr/",
+      "contact": "http://www.onbranding.co.kr/biz/consulting.html",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -81322,7 +81562,8 @@
       "id": "48939",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.onbranding.co.kr/"
     },
     {
       "name": "(주)유니진정보",
@@ -81583,8 +81824,8 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 안양시 동안구 벌말로 123, 2006, 2007, 2008호 (관양동)",
-      "homepage": "http://humands.co.kr",
-      "contact": "",
+      "homepage": "http://humands.co.kr/",
+      "contact": "http://humands.co.kr/?act=info.page&pcode=greeting",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -81592,7 +81833,8 @@
       "id": "48957",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://humands.co.kr/"
     },
     {
       "name": "주식회사 노벨테크놀로지",
@@ -81781,8 +82023,8 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 하남시 덕풍북로 28, 203호 (덕풍동)",
-      "homepage": "http://www.bysolution.co.kr",
-      "contact": "",
+      "homepage": "http://www.bysolution.co.kr/",
+      "contact": "http://bysolution.co.kr/company/",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -81790,7 +82032,8 @@
       "id": "48971",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://bysolution.co.kr/"
     },
     {
       "name": "(주)슈퍼스타트(Super Start)",
@@ -82789,16 +83032,17 @@
       "segment": "소프트웨어사업자",
       "region": "전라남도",
       "address": "전라남도 순천시 국가정원1호길 47, 1층 (오천동, 순천만국제습지센터)",
-      "homepage": "http://www.locus.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://www.locus.com/",
+      "contact": "http://locus.com/contact/",
+      "phone": "02-6005-5000",
+      "email": "business@locus.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "49038",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "http://locus.com/"
     },
     {
       "name": "(주)비웍스",
@@ -82807,8 +83051,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 성동구 성수일로8길 5 (성수동2가, 서울숲 에스케이브이1타워에이동 403호)",
-      "homepage": "http://www.beworks.co.kr",
-      "contact": "",
+      "homepage": "http://www.beworks.co.kr/",
+      "contact": "http://www.beworks.co.kr/page.php?Main=1&sub=3",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -82816,7 +83060,8 @@
       "id": "49039",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.beworks.co.kr/"
     },
     {
       "name": "(주)에코라이트",
@@ -82879,8 +83124,8 @@
       "segment": "소프트웨어사업자",
       "region": "경상북도",
       "address": "경상북도 포항시 남구 효자로118번길 11, 2층 (효자동)",
-      "homepage": "http://www.pomtec.co.kr",
-      "contact": "",
+      "homepage": "http://www.pomtec.co.kr/",
+      "contact": "https://www.pomtec.co.kr/content/company/map",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -82888,7 +83133,8 @@
       "id": "49046",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.pomtec.co.kr/"
     },
     {
       "name": "주식회사 소통파이브",
@@ -82951,8 +83197,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 구로구 디지털로 243, 1309호 (구로동, 지하이시티)",
-      "homepage": "http://wstm.kr",
-      "contact": "",
+      "homepage": "http://wstm.kr/",
+      "contact": "http://wstm.kr/doc/?f=sub11",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -82960,7 +83206,8 @@
       "id": "49050",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://wstm.kr/"
     },
     {
       "name": "주식회사 에프엑스디자인",
@@ -83095,8 +83342,8 @@
       "segment": "소프트웨어사업자",
       "region": "부산광역시",
       "address": "부산광역시 남구 신선로 365, 부경대학교 용당캠퍼스 12공학관 236호 (용당동,부경대학교용당캠퍼스)",
-      "homepage": "https://lebengrida.co.kr",
-      "contact": "",
+      "homepage": "https://lebengrida.co.kr/",
+      "contact": "https://lebengrida.co.kr/business/",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -83104,7 +83351,8 @@
       "id": "49062",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://lebengrida.co.kr/"
     },
     {
       "name": "주식회사 엔지엘(NGL)",
@@ -84031,8 +84279,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강남구 테헤란로 503, 5층 (삼성동, 하이브로빌딩)",
-      "homepage": "https://www.classting.com",
-      "contact": "",
+      "homepage": "https://www.classting.com/",
+      "contact": "https://www.classting.com/consult",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -84040,7 +84288,8 @@
       "id": "49128",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.classting.com/"
     },
     {
       "name": "한국비지네스써비스(주)",
@@ -84085,16 +84334,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울",
       "address": "서울 강남구 강남대로 626, 별관2,3층 (신사동,엠아이타워빌딩)",
-      "homepage": "https://misoltech.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "https://misoltech.com/",
+      "contact": "https://misoltech.com/contact/",
+      "phone": "02-3482-2929, 02-514-2030",
+      "email": "info@misoltech.com, your@mail.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "49131",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://misoltech.com/"
     },
     {
       "name": "(주)나래이엔씨",
@@ -84232,7 +84482,7 @@
       "homepage": "https://www.win-tek.co.kr",
       "contact": "전화: 031-714-1729, 031-714-1728 / 이메일: webmaster@win-tek.co.kr",
       "phone": "031-714-1729, 031-714-1728",
-      "email": "webmaster@win-tek.co.kr",
+      "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "49141",
@@ -84499,8 +84749,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 성동구 아차산로 126, 12층 4호 (성수동2가, 더리브 세종타워)",
-      "homepage": "https://www.wemap.ai",
-      "contact": "",
+      "homepage": "https://www.wemap.ai/",
+      "contact": "https://www.wemap.ai/about",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -84508,7 +84758,8 @@
       "id": "49160",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.wemap.ai/"
     },
     {
       "name": "(주)시스원",
@@ -84553,16 +84804,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 관악구 승방1길 6, 2층(남현동, 청송빌딩)",
-      "homepage": "http://www.fdxnetworks.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://www.fdxnetworks.com/",
+      "contact": "https://www.clush.ai/contact",
+      "phone": "02-2039-0100, 031-757-1015, 02-2039-0101",
+      "email": "contact@clush.net, cloud_team@clush.net",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "49163",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "https://www.clush.ai/"
     },
     {
       "name": "주식회사 조아소프트",
@@ -84574,7 +84826,7 @@
       "homepage": "http://www.zoasoft.kr",
       "contact": "전화: 063-714-2565 / 이메일: webmaster@zoasoft.kr",
       "phone": "063-714-2565",
-      "email": "webmaster@zoasoft.kr",
+      "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "49164",
@@ -84949,16 +85201,17 @@
       "segment": "소프트웨어사업자",
       "region": "부산광역시",
       "address": "부산광역시 남구 신선로 365, 용당1관 203호 (용당동)",
-      "homepage": "https://cloud1an.com",
+      "homepage": "https://cloud1an.com/",
       "contact": "",
-      "phone": "",
+      "phone": "02-5525-5255, 02-2122-1221",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "49189",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://cloud1an.com/"
     },
     {
       "name": "(주)케이지오솔루션",
@@ -85508,15 +85761,16 @@
       "region": "대전광역시",
       "address": "대전광역시 유성구 현충원로347번길 54, 401호 (구암동)",
       "homepage": "http://www.cunext.co.kr/new",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "http://www.cunext.co.kr/new/about-me.html",
+      "phone": "070-3443-7952",
+      "email": "ceo@cunext.co.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "49231",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "http://www.cunext.co.kr/new/"
     },
     {
       "name": "주식회사 다돌",
@@ -86317,16 +86571,17 @@
       "segment": "소프트웨어사업자",
       "region": "부산광역시",
       "address": "부산광역시 동래구 충렬대로350번길 2, 3층 (안락동)",
-      "homepage": "https://www.netbreeze.co.kr",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://www.netbreeze.co.kr/",
+      "contact": "https://www.netbreeze.co.kr/company/info",
+      "phone": "1600-4808",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "49283",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.netbreeze.co.kr/"
     },
     {
       "name": "㈜블루웨이브컨설팅",
@@ -86605,8 +86860,8 @@
       "segment": "소프트웨어사업자",
       "region": "인천광역시",
       "address": "인천광역시 부평구 장제로 53 (부평동,경원빌딩3층)",
-      "homepage": "http://www.kyungwoncns.com",
-      "contact": "",
+      "homepage": "http://www.kyungwoncns.com/",
+      "contact": "http://www.kyungwoncns.com/html/sub4_1.html",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -86614,7 +86869,8 @@
       "id": "49303",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.kyungwoncns.com/"
     },
     {
       "name": "이주데이타시스템 주식회사",
@@ -87145,16 +87401,17 @@
       "segment": "소프트웨어사업자",
       "region": "경기도",
       "address": "경기도 고양시 덕양구 청초로 66, 덕은리버워크지식산업센터 A동 1010호 (덕은동)",
-      "homepage": "http://www.kiits.kr",
-      "contact": "",
-      "phone": "",
+      "homepage": "http://www.kiits.kr/",
+      "contact": "https://www.kiits.kr/contact/inquiry",
+      "phone": "02-6974-1706",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "49339",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.kiits.kr/"
     },
     {
       "name": "주식회사 마스킷",
@@ -87490,7 +87747,7 @@
       "homepage": "http://www.giantsoft.co.kr",
       "contact": "전화: 02-2678-0031, 02-2678-0039 / 이메일: webmaster@giantsoft.co.kr",
       "phone": "02-2678-0031, 02-2678-0039",
-      "email": "webmaster@giantsoft.co.kr",
+      "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "49361",
@@ -87577,16 +87834,17 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 구로구 디지털로26길 123, 7층 712호 (구로동, 지플러스타워)",
-      "homepage": "http://www.exaint.co.kr",
-      "contact": "",
-      "phone": "",
+      "homepage": "http://www.exaint.co.kr/",
+      "contact": "http://www.exaint.co.kr/Map1.html",
+      "phone": "070-8708-2580",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "49367",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://www.exaint.co.kr/"
     },
     {
       "name": "사단법인한국기업윤리경영연구원",
@@ -87865,8 +88123,8 @@
       "segment": "소프트웨어사업자",
       "region": "강원특별자치도",
       "address": "강원특별자치도 원주시 혁신로 19, A동 7층 708호 (반곡동, H타워)",
-      "homepage": "http://h-cloud.co.kr",
-      "contact": "",
+      "homepage": "http://h-cloud.co.kr/",
+      "contact": "http://h-cloud.co.kr/index.html",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -87874,7 +88132,8 @@
       "id": "49384",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "http://h-cloud.co.kr/"
     },
     {
       "name": "(주)맨텍솔루션",
@@ -88297,16 +88556,17 @@
       "segment": "소프트웨어사업자",
       "region": "대전광역시",
       "address": "대전광역시 유성구 테크노2로 199, 미건테크노월드1 209호 (용산동)",
-      "homepage": "http://www.rtpkorea.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://www.rtpkorea.com/",
+      "contact": "http://www.rtpkorea.com/about-rtp/index.htm",
+      "phone": "042-863-9400, 042-863-9407",
+      "email": "support@rtpkorea.com, contact@rtpcorp.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "49418",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "source_page": "http://www.rtpkorea.com/"
     },
     {
       "name": "제이비 주식회사",
@@ -89452,7 +89712,7 @@
       "homepage": "http://www.31cts.com",
       "contact": "전화: 070-7094-9000 / 이메일: example@energia.com, helpdesk@samilcts.com",
       "phone": "070-7094-9000",
-      "email": "example@energia.com, helpdesk@samilcts.com",
+      "email": "helpdesk@samilcts.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "49502",
@@ -89901,14 +90161,15 @@
       "address": "서울특별시 마포구 월드컵북로 400, 7층 703호,704호 907호 ( 상암동, 서울경제진흥원)",
       "homepage": "http://www.comtrue.com/comtrue",
       "contact": "",
-      "phone": "",
+      "phone": "1500-1500",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "49535",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "source_page": "https://www.comtrue.com/comtrue/"
     },
     {
       "name": "(주)피앤피컨설팅",
@@ -89920,7 +90181,7 @@
       "homepage": "http://www.pnpc.co.kr",
       "contact": "전화: 02-501-0900, 02-501-1437 / 이메일: webmaster@pnpc.co.kr, shlee@pnpc.co.kr, mksung@pnpc.co.kr",
       "phone": "02-501-0900, 02-501-1437",
-      "email": "webmaster@pnpc.co.kr, shlee@pnpc.co.kr, mksung@pnpc.co.kr",
+      "email": "shlee@pnpc.co.kr, mksung@pnpc.co.kr",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "49536",
