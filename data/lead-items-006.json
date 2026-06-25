@@ -71918,9 +71918,9 @@
       "region": "서울",
       "address": "서울 강남구 영동대로 324 507호(대치동)",
       "homepage": "https://www.feelsobene.co.kr",
-      "contact": "https://www.automationworld.co.kr/company-directories/1763?year=2026&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 070-4044-1118, 070-4044-1119, 064-4638-1559 / 이메일: sales@feelsobene.com / 홈페이지: https://www.feelsobene.co.kr",
+      "phone": "070-4044-1118, 070-4044-1119, 064-4638-1559",
+      "email": "sales@feelsobene.com",
       "confidence": "high",
       "source": "source_file:automation_world_2026_company_directory",
       "source_page": "https://www.automationworld.co.kr/company-directories?year=2026&hl=en",
@@ -71932,7 +71932,9 @@
       "country": "KR",
       "business_type": "제조업,도매업,소매업",
       "industry_type": "디지털영상계측시스템, 정밀 및 과학기기 도",
-      "ceo": "최홍석"
+      "ceo": "최홍석",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.feelsobene.co.kr/sub/sub11.html; title=㈜필소베네 :: 홈페이지에 오신 것을 환영합니다 ::; body_bytes=2669; name_score=3; phones=070-4044-1118,070-4044-1119,064-4638-1559; emails=sales@feelsobene.com; checked_urls=https://www.feelsobene.co.kr/main/main.html,https://www.feelsobene.co.kr/sub/sub03.html,https://www.feelsobene.co.kr/sub/sub10.html,https://www.feelsobene.co.kr/sub/sub11.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90438",
@@ -72518,8 +72520,8 @@
       "region": "서울",
       "address": "서울시 영등포구 국제금융로 106, 530(여의도동, 행진빌딩)",
       "homepage": "https://www.sick.com/kr/ko",
-      "contact": "https://www.automationworld.co.kr/company-directories/1789?year=2026&hl=ko",
-      "phone": "",
+      "contact": "전화: 033-333-3333 / 홈페이지: https://www.sick.com/kr/ko",
+      "phone": "033-333-3333",
       "email": "",
       "confidence": "high",
       "source": "source_file:automation_world_2026_company_directory",
@@ -72532,7 +72534,9 @@
       "country": "KR",
       "business_type": "도소매",
       "industry_type": "공장자동화설비",
-      "ceo": "문성식"
+      "ceo": "문성식",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.sick.com/kr/ko/; title=씨크코리아㈜ | SICK; body_bytes=798; name_score=5; phones=033-333-3333; emails=; checked_urls=https://www.sick.com/kr/ko/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90474",
@@ -72570,9 +72574,9 @@
       "region": "서울",
       "address": "서울특별시 금천구 가산디지털 1로 119 B-207(SK 트윈테크타워)",
       "homepage": "https://www.inutra.co.kr",
-      "contact": "https://www.automationworld.co.kr/company-directories/1863?year=2026&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-6677-3870, 02-863-3874 / 이메일: inutra77@naver.com, jgstar1@naver.com / 홈페이지: https://www.inutra.co.kr",
+      "phone": "02-6677-3870, 02-863-3874",
+      "email": "inutra77@naver.com, jgstar1@naver.com",
       "confidence": "high",
       "source": "source_file:automation_world_2026_company_directory",
       "source_page": "https://www.automationworld.co.kr/company-directories?year=2026&hl=en",
@@ -72584,7 +72588,9 @@
       "country": "KR",
       "business_type": "도소매,제조,서비스",
       "industry_type": "영상기기, 현미경,전기전자",
-      "ceo": "조기문"
+      "ceo": "조기문",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.inutra.co.kr/default/05/01.php; title=아이앤유시스템(주) ㅣ INU System; body_bytes=7730; name_score=13; phones=02-6677-3870,02-863-3874; emails=inutra77@naver.com,jgstar1@naver.com; checked_urls=https://www.inutra.co.kr/default/00/01.php,https://www.inutra.co.kr/default/01/02.php,https://www.inutra.co.kr/default/01/03.php,https://www.inutra.co.kr/default/04/01.php,https://www.inutra.co.kr/default/05/01.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90477",
@@ -73116,9 +73122,9 @@
       "region": "경기",
       "address": "경기 용인시 기흥구 구성로 357 C동 707호(청덕동, 용인테크노밸리)",
       "homepage": "https://www.witree.co.kr",
-      "contact": "https://www.automationworld.co.kr/company-directories/1891?year=2026&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-215-2263, 031-624-2260 / 이메일: info@witree.co.kr / 홈페이지: https://www.witree.co.kr",
+      "phone": "031-215-2263, 031-624-2260",
+      "email": "info@witree.co.kr",
       "confidence": "high",
       "source": "source_file:automation_world_2026_company_directory",
       "source_page": "https://www.automationworld.co.kr/company-directories?year=2026&hl=en",
@@ -73130,7 +73136,9 @@
       "country": "KR",
       "business_type": "제조업, 도소매 외",
       "industry_type": "유선통신장치/무선통신방송및응용장치 외",
-      "ceo": "신동식"
+      "ceo": "신동식",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://witree.co.kr/customer/skill.php; title=와이트리 | 산업용 무선 AP, Client 전문기업; body_bytes=14263; name_score=3; phones=031-215-2263,031-624-2260; emails=info@witree.co.kr; checked_urls=https://witree.co.kr/main/,https://witree.co.kr/solution/support.php,https://witree.co.kr/product/product_list.php,https://witree.co.kr/customer/contact.php,https://witree.co.kr/customer/skill.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90512",
@@ -73194,9 +73202,9 @@
       "region": "서울",
       "address": "서울 금천구 가산디지털1로 128 15층 1510호",
       "homepage": "https://www.qlight.com",
-      "contact": "https://www.automationworld.co.kr/company-directories/1787?year=2026&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2679-6152, 02-2679-6154 / 이메일: qlightkr@qlight.com / 홈페이지: https://www.qlight.com",
+      "phone": "02-2679-6152, 02-2679-6154",
+      "email": "qlightkr@qlight.com",
       "confidence": "high",
       "source": "source_file:automation_world_2026_company_directory",
       "source_page": "https://www.automationworld.co.kr/company-directories?year=2026&hl=en",
@@ -73208,7 +73216,9 @@
       "country": "KR",
       "business_type": "제조 도매",
       "industry_type": "전기장비 무역 등",
-      "ceo": "최헌길, 최유빈, 최승혁"
+      "ceo": "최헌길, 최유빈, 최승혁",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.qlight.com/kr/products/main; title=LED 타워램프 · IO-Link 타워램프 산업용 신호·경보 솔루션 및 장비 제조 전문기업 | 큐라이트; body_bytes=29987; name_score=3; phones=02-2679-6152,02-2679-6154; emails=qlightkr@qlight.com; checked_urls=https://www.qlight.com/kr/,https://www.qlight.com/kr/customer-support/data/,https://www.qlight.com/kr/customer-support/certificates/,https://www.qlight.com/kr/customer-support/contact-us/,https://www.qlight.com/kr/products/main; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90516",
@@ -73792,9 +73802,9 @@
       "region": "서울",
       "address": "서울시 영등포구 여의공원로 101 C.C.M.M 빌딩 10 층",
       "homepage": "http://kr.endress.com",
-      "contact": "https://www.automationworld.co.kr/company-directories/1714?year=2026&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2658-7200, 02-2659-2839, 052-274-9448, 052-274-9449, 061-691-5721, 061-691-5725, 041-681-8750, 02-3660-0366, 032-822-6199 / 이메일: info.kr@endress.com / 홈페이지: http://kr.endress.com",
+      "phone": "02-2658-7200, 02-2659-2839, 052-274-9448, 052-274-9449, 061-691-5721, 061-691-5725, 041-681-8750, 02-3660-0366, 032-822-6199",
+      "email": "info.kr@endress.com",
       "confidence": "high",
       "source": "source_file:automation_world_2026_company_directory",
       "source_page": "https://www.automationworld.co.kr/company-directories?year=2026&hl=en",
@@ -73806,7 +73816,9 @@
       "country": "KR",
       "business_type": "제조, 도매",
       "industry_type": "자동측정제어장비",
-      "ceo": "김영석"
+      "ceo": "김영석",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.kr.endress.com/ko/Field-instruments-overview/product-finder; title=공정 자동화를 실현하는 계측 기기 제조 기업 | Endress+Hauser; body_bytes=30130; name_score=5; phones=02-2658-7200,02-2659-2839,052-274-9448,052-274-9449,061-691-5721,061-691-5725,041-681-8750,02-3660-0366,032-822-6199; emails=info.kr@endress.com; checked_urls=https://www.kr.endress.com/ko,https://www.kr.endress.com/ko/contact,https://www.kr.endress.com/ko/Field-instruments-overview/software-solutions-process-automation,https://www.kr.endress.com/ko/Field-instruments-overview/new-products,https://www.kr.endress.com/ko/Field-instruments-overview/product-finder; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90547",
@@ -75306,9 +75318,9 @@
       "region": "대전",
       "address": "대전 유성구 복용동로 43 F337호",
       "homepage": "http://www.neba.co.kr",
-      "contact": "https://interbattery.or.kr/company-directories/2955?year=2026&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 042-822-4705, 044-866-5003 / 이메일: info@neba.co.kr / 홈페이지: http://www.neba.co.kr",
+      "phone": "042-822-4705, 044-866-5003",
+      "email": "info@neba.co.kr",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
       "source_page": "https://interbattery.or.kr/company-directories?year=2026&hl=en",
@@ -75320,7 +75332,9 @@
       "country": "KR",
       "business_type": "제조업, 도매 및 소매업",
       "industry_type": "축전지 제조업, 축전지용 부품소재",
-      "ceo": "백창근"
+      "ceo": "백창근",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.neba.co.kr/home/login.php; title=NEBA; body_bytes=6228; name_score=5; phones=042-822-4705,044-866-5003; emails=info@neba.co.kr; checked_urls=http://www.neba.co.kr/home/,http://www.neba.co.kr/home/sub0101.php,http://www.neba.co.kr/home/sub0401.php,http://www.neba.co.kr/home/sub0402.php,http://www.neba.co.kr/home/login.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90620",
@@ -75358,9 +75372,9 @@
       "region": "경기",
       "address": "경기 화성시 병점구 반월북길 23",
       "homepage": "http://www.daskorea.co.kr",
-      "contact": "https://interbattery.or.kr/company-directories/2658?year=2026&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-204-2550, 031-205-2611, 031-204-2511 / 이메일: help@daskorea.co.kr / 홈페이지: http://www.daskorea.co.kr",
+      "phone": "031-204-2550, 031-205-2611, 031-204-2511",
+      "email": "help@daskorea.co.kr",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
       "source_page": "https://interbattery.or.kr/company-directories?year=2026&hl=en",
@@ -75372,7 +75386,9 @@
       "country": "KR",
       "business_type": "도소매.제조.서비스",
       "industry_type": "전기전자부품.전자장비.컨설팅",
-      "ceo": "차현성"
+      "ceo": "차현성",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.daskorea.co.kr/customer/data.html; title=다스코리아㈜; body_bytes=30862; name_score=5; phones=031-204-2550,031-205-2611,031-204-2511; emails=help@daskorea.co.kr; checked_urls=https://www.daskorea.co.kr/main/main.html,https://www.daskorea.co.kr/customer/notice.html,https://www.daskorea.co.kr/customer/productqna.html,https://www.daskorea.co.kr/customer/faq.html,https://www.daskorea.co.kr/customer/data.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90622",
@@ -75722,9 +75738,9 @@
       "region": "서울",
       "address": "서울 송파구 중대로 269 삼우빌딩 7층",
       "homepage": "https://www.samwoomt.com",
-      "contact": "https://interbattery.or.kr/company-directories/2906?year=2026&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-408-0777, 02-408-1243, 02-3480-3573, 031-8247-4842 / 이메일: samwoo@samwoomt.com / 홈페이지: https://www.samwoomt.com",
+      "phone": "02-408-0777, 02-408-1243, 02-3480-3573, 031-8247-4842",
+      "email": "samwoo@samwoomt.com",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
       "source_page": "https://interbattery.or.kr/company-directories?year=2026&hl=en",
@@ -75736,7 +75752,9 @@
       "country": "KR",
       "business_type": "도매 및 소매업",
       "industry_type": "기타무역업, 금속광물, 기계장비",
-      "ceo": "유태열"
+      "ceo": "유태열",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.samwoomt.com/sub/contact.html; title=(주)삼우마테크; body_bytes=3093; name_score=5; phones=02-408-0777,02-408-1243,02-3480-3573,031-8247-4842; emails=samwoo@samwoomt.com; checked_urls=https://www.samwoomt.com/main/main.html,https://www.samwoomt.com/sub/major_ptn.html,https://www.samwoomt.com/sub/location.html,https://www.samwoomt.com/sub/contact.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90639",
@@ -75826,9 +75844,9 @@
       "region": "서울",
       "address": "서울 서초구 반포대로30길 61 명지빌딩 5층",
       "homepage": "https://www.sunglimtech.com",
-      "contact": "https://interbattery.or.kr/company-directories/2889?year=2026&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-586-0325, 02-587-0515, 031-933-4975 / 이메일: sunglimtech@sunglimtech.com / 홈페이지: https://www.sunglimtech.com",
+      "phone": "02-586-0325, 02-587-0515, 031-933-4975",
+      "email": "sunglimtech@sunglimtech.com",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
       "source_page": "https://interbattery.or.kr/company-directories?year=2026&hl=en",
@@ -75840,7 +75858,9 @@
       "country": "KR",
       "business_type": "도,소매",
       "industry_type": "LCD장비.자동화기기",
-      "ceo": "안광호"
+      "ceo": "안광호",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.sunglimtech.com/default/menu05/p02.php?tit=05&sub=02; title=(주)성림테크; body_bytes=6166; name_score=3; phones=02-586-0325,02-587-0515,031-933-4975; emails=sunglimtech@sunglimtech.com; checked_urls=https://www.sunglimtech.com/default/,https://www.sunglimtech.com/default/menu01/p05.php?tit=01&sub=05,https://www.sunglimtech.com/default/menu01/p01.php?tit=01&sub=01,https://www.sunglimtech.com/default/menu05/p01.php?tit=05&sub=01,https://www.sunglimtech.com/default/menu05/p02.php?tit=05&sub=02; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90643",
@@ -76060,8 +76080,8 @@
       "region": "경기",
       "address": "경기 용인시 처인구 남사읍 경기동로256번길 21",
       "homepage": "https://www.astel.kr",
-      "contact": "https://interbattery.or.kr/company-directories/4419?year=2026&hl=ko",
-      "phone": "",
+      "contact": "전화: 031-8018-7450, 031-707-7694 / 홈페이지: https://www.astel.kr",
+      "phone": "031-8018-7450, 031-707-7694",
       "email": "",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
@@ -76074,7 +76094,9 @@
       "country": "KR",
       "business_type": "도소매, 제조업",
       "industry_type": "반도체,전기,전자부품",
-      "ceo": "원성규"
+      "ceo": "원성규",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.astel.kr/default/sub1/01.php; title=아스텔; body_bytes=2042; name_score=3; phones=031-8018-7450,031-707-7694; emails=; checked_urls=https://www.astel.kr/default/,https://www.astel.kr/default/sub3/01.php,https://www.astel.kr/default/sub4/01.php,https://www.astel.kr/default/sub4/02.php,https://www.astel.kr/default/sub1/01.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90655",
@@ -76372,9 +76394,9 @@
       "region": "서울",
       "address": "서울 송파구 법원로 127 8층 804호(문정동, 문정대명벨리온)",
       "homepage": "https://www.oneinternational.kr",
-      "contact": "https://interbattery.or.kr/company-directories/3104?year=2026&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-448-8301, 02-448-8303, 02-3480-3573 / 이메일: info@oneinternational.kr / 홈페이지: https://www.oneinternational.kr",
+      "phone": "02-448-8301, 02-448-8303, 02-3480-3573",
+      "email": "info@oneinternational.kr",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
       "source_page": "https://interbattery.or.kr/company-directories?year=2026&hl=en",
@@ -76386,7 +76408,9 @@
       "country": "KR",
       "business_type": "업태란- 도소매,전문,과학 및 기술서비스업",
       "industry_type": "무역 경영컨설팅업, 공공관계 서비스, 기계, 기계기술엔지니어링",
-      "ceo": "류재준"
+      "ceo": "류재준",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.oneinternational.kr/sub/service_inq.html; title=원인터내쇼날; body_bytes=7440; name_score=5; phones=02-448-8301,02-448-8303,02-3480-3573; emails=info@oneinternational.kr; checked_urls=https://www.oneinternational.kr/main/main.html,https://www.oneinternational.kr/sub/greeting.html,https://www.oneinternational.kr/sub/wtcome.html,https://www.oneinternational.kr/sub/quote_inq.html,https://www.oneinternational.kr/sub/service_inq.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90672",
@@ -76736,9 +76760,9 @@
       "region": "대구",
       "address": "대구 동구 동대구로 465 10층 1002호(신천동, 대구스케일업허브)",
       "homepage": "http://www.remplir.co.kr",
-      "contact": "https://interbattery.or.kr/company-directories/2914?year=2026&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-355-0797, 041-379-5867, 02-765-0915, 02-2763-0395, 02-373-4738 / 이메일: ksj.ceo@remplir.co.kr / 홈페이지: http://www.remplir.co.kr",
+      "phone": "031-355-0797, 041-379-5867, 02-765-0915, 02-2763-0395, 02-373-4738",
+      "email": "ksj.ceo@remplir.co.kr",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
       "source_page": "https://interbattery.or.kr/company-directories?year=2026&hl=en",
@@ -76750,7 +76774,9 @@
       "country": "KR",
       "business_type": "제조업, 도소매업 등",
       "industry_type": "일차전지 및 축전지 등",
-      "ceo": "김수진, 김동현"
+      "ceo": "김수진, 김동현",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.remplir.co.kr/contact; title=주식회사 럼플리어; body_bytes=7172; name_score=3; phones=031-355-0797,041-379-5867,02-765-0915,02-2763-0395,02-373-4738; emails=ksj.ceo@remplir.co.kr; checked_urls=http://www.remplir.co.kr/main,http://www.remplir.co.kr/company,http://www.remplir.co.kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90692",
@@ -79015,18 +79041,20 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.servokorea.co.kr",
-      "contact": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
+      "contact": "이메일: mac@servokorea.co.kr / 홈페이지: https://www.servokorea.co.kr",
       "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "email": "mac@servokorea.co.kr",
+      "confidence": "high",
       "source": "source_file:elecs_exhibitor_homepage",
       "source_page": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "",
       "source_id": "elecs-2021-3-FUTURE AUTOMATION CO.",
-      "country": "KR-inferred"
+      "country": "KR-inferred",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.servokorea.co.kr/company/org; title=Future automation co.; body_bytes=9528; name_score=15; phones=; emails=mac@servokorea.co.kr; checked_urls=https://www.servokorea.co.kr/main,https://www.servokorea.co.kr/company,https://www.servokorea.co.kr/company/message,https://www.servokorea.co.kr/company/history,https://www.servokorea.co.kr/company/org; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90844",
@@ -79038,18 +79066,20 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.kles.co.kr",
-      "contact": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 042-671-1122, 042-671-1133 / 이메일: kles@kles.co.kr / 홈페이지: https://www.kles.co.kr",
+      "phone": "042-671-1122, 042-671-1133",
+      "email": "kles@kles.co.kr",
+      "confidence": "high",
       "source": "source_file:elecs_exhibitor_homepage",
       "source_page": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "",
       "source_id": "elecs-2021-3-KLES Inc.",
-      "country": "KR-inferred"
+      "country": "KR-inferred",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://kles.kr/power-industry-about; title=KLES; body_bytes=12070; name_score=3; phones=042-671-1122,042-671-1133; emails=kles@kles.co.kr; checked_urls=https://kles.kr/,https://kles.kr/about-us,https://kles.kr/cooperative-company,https://kles.kr/direction,https://kles.kr/power-industry-about; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90847",
@@ -79245,18 +79275,20 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.fmtech.kr",
-      "contact": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 052-275-8585, 053-568-9490, 052-227-1888, 070-4172-4420, 070-4172-4422, 070-4172-4421 / 이메일: fmtech@fmtech.kr / 홈페이지: https://www.fmtech.kr",
+      "phone": "052-275-8585, 053-568-9490, 052-227-1888, 070-4172-4420, 070-4172-4422, 070-4172-4421",
+      "email": "fmtech@fmtech.kr",
+      "confidence": "high",
       "source": "source_file:elecs_exhibitor_homepage",
       "source_page": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "",
       "source_id": "elecs-2017-6-FMTECH CO., LTD.",
-      "country": "KR-inferred"
+      "country": "KR-inferred",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.fmtech.kr/theme/home/html/customer/notic_intro.php; title=에프엠테크; body_bytes=6241; name_score=5; phones=052-275-8585,053-568-9490,052-227-1888,070-4172-4420,070-4172-4422,070-4172-4421; emails=fmtech@fmtech.kr; checked_urls=https://www.fmtech.kr/,https://www.fmtech.kr/theme/home/html/business/company.php,https://www.fmtech.kr/theme/home/html/business/location.php,https://www.fmtech.kr/theme/home/html/correction/contact.php,https://www.fmtech.kr/theme/home/html/customer/notic_intro.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90872",

@@ -13279,8 +13279,8 @@
       "region": "전국",
       "address": "-",
       "homepage": "http://www.cest.co.kr",
-      "contact": "https://www.kes.org/eng/search/company_view.asp?user_no=6381&admission=2025&pagesize=100&page=1",
-      "phone": "",
+      "contact": "전화: 053-954-5430, 053-954-5420 / 홈페이지: http://www.cest.co.kr",
+      "phone": "053-954-5430, 053-954-5420",
       "email": "",
       "confidence": "high",
       "source": "source_file:kes_2025_exhibitor_homepage",
@@ -13294,7 +13294,9 @@
       "source_category": "KES 2025",
       "pavilion": "Mobility",
       "domestic_proof": "homepage_kr",
-      "id": "93567"
+      "id": "93567",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://cest.co.kr/?page_id=1454; title=(주)세스트; body_bytes=2881; name_score=3; phones=053-954-5430,053-954-5420; emails=; checked_urls=http://cest.co.kr/,http://cest.co.kr/?page_id=3994,http://cest.co.kr/?page_id=1519,http://cest.co.kr/?page_id=1454; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "chilloen",
@@ -14111,8 +14113,8 @@
       "region": "경기",
       "address": "684, Dongtangiheung-ro, Giheung-gu, Yongin-si, Gyeonggi-do",
       "homepage": "http://www.gosungeng.co.kr",
-      "contact": "https://www.kes.org/eng/search/company_view.asp?user_no=6094&admission=2025&pagesize=100&page=2",
-      "phone": "",
+      "contact": "전화: 031-831-8680, 031-377-0449 / 홈페이지: http://www.gosungeng.co.kr",
+      "phone": "031-831-8680, 031-377-0449",
       "email": "",
       "confidence": "high",
       "source": "source_file:kes_2025_exhibitor_homepage",
@@ -14126,7 +14128,9 @@
       "source_category": "KES 2025",
       "pavilion": "AX",
       "domestic_proof": "address",
-      "id": "93608"
+      "id": "93608",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.gosungeng.co.kr/location.php; title=고성엔지니어링; body_bytes=9673; name_score=15; phones=031-831-8680,031-377-0449; emails=; checked_urls=http://www.gosungeng.co.kr/,http://www.gosungeng.co.kr/CompanyOverview.php,http://www.gosungeng.co.kr/companyOverview.php,http://www.gosungeng.co.kr/location.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "Goyang Industry Promotion Agency",
@@ -15125,8 +15129,8 @@
       "region": "서울",
       "address": "LG Seoulstation Bldg., 98, Huam-ro, Jung-gu, Seoul, 04637, Korea",
       "homepage": "http://www.lge.co.kr",
-      "contact": "https://www.kes.org/eng/search/company_view.asp?user_no=6196&admission=2025&pagesize=100&page=3",
-      "phone": "",
+      "contact": "전화: 02-3777-1114, 02-2024-0920 / 홈페이지: http://www.lge.co.kr",
+      "phone": "02-3777-1114, 02-2024-0920",
       "email": "",
       "confidence": "high",
       "source": "source_file:kes_2025_exhibitor_homepage",
@@ -15140,7 +15144,9 @@
       "source_category": "KES 2025",
       "pavilion": "AX",
       "domestic_proof": "address",
-      "id": "93657"
+      "id": "93657",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.lge.co.kr/company/investor/corporateGovernance; title=LGE.COM | LG전자; body_bytes=29525; name_score=20; phones=02-3777-1114,02-2024-0920; emails=; checked_urls=https://www.lge.co.kr/home,https://www.lge.co.kr/company/main,https://www.lge.co.kr/company/info/mission,https://www.lge.co.kr/company/recruit/talent,https://www.lge.co.kr/company/investor/corporateGovernance; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "LMS Corporation",
@@ -16269,9 +16275,9 @@
       "region": "전국",
       "address": "SUNGMUN #1301-303 Bucheon Technopark, 365-1, Samjung-dong, Ojeong-gu, Bucheon-si, Kyeonggi-do, Korea #1301-302 Bucheon Technopark, 365-1, Samjung-dong, Ojeong-gu, Bucheon-si, Kyeonggi-do, Korea",
       "homepage": "http://www.sungmun.com",
-      "contact": "https://www.kes.org/eng/search/company_view.asp?user_no=6105&admission=2025&pagesize=100&page=5",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2625-1941, 02-2625-1944 / 이메일: sungmun@sungmun.co.kr / 홈페이지: http://www.sungmun.com",
+      "phone": "02-2625-1941, 02-2625-1944",
+      "email": "sungmun@sungmun.co.kr",
       "confidence": "high",
       "source": "source_file:kes_2025_exhibitor_homepage",
       "source_page": "https://www.kes.org/eng/search/company_list.asp",
@@ -16284,7 +16290,9 @@
       "source_category": "KES 2025",
       "pavilion": "Elect & Parts",
       "domestic_proof": "address",
-      "id": "93711"
+      "id": "93711",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.sungmun.com/eng/page/bbs.php?bdID=data1; title=:: SUNGMUN ELECTRONCS ::; body_bytes=7268; name_score=20; phones=02-2625-1941,02-2625-1944; emails=sungmun@sungmun.co.kr; checked_urls=http://www.sungmun.com/eng/page/main.php,http://www.sungmun.com/eng/page/contact.php,http://www.sungmun.com/eng/page/int10.php,http://www.sungmun.com/eng/page/inf10.php,http://www.sungmun.com/eng/page/bbs.php?bdID=data1; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "Super Solution Co., Ltd.",
@@ -16321,8 +16329,8 @@
       "region": "전국",
       "address": "-",
       "homepage": "http://www.switchon.ai.kr",
-      "contact": "https://www.kes.org/eng/search/company_view.asp?user_no=6405&admission=2025&pagesize=100&page=5",
-      "phone": "",
+      "contact": "전화: 02-601-7828 / 홈페이지: http://www.switchon.ai.kr",
+      "phone": "02-601-7828",
       "email": "",
       "confidence": "high",
       "source": "source_file:kes_2025_exhibitor_homepage",
@@ -16336,7 +16344,9 @@
       "source_category": "KES 2025",
       "pavilion": "Mobility",
       "domestic_proof": "homepage_kr",
-      "id": "93713"
+      "id": "93713",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.switchon.ai.kr/; title=SWITCHON - 감각적인 조명 & 라이프스타일 브랜드 | 무드등 & 인테리어 소품; body_bytes=1319; name_score=5; phones=02-601-7828; emails=; checked_urls=https://www.switchon.ai.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "T&L HEALTHCARE Co., Ltd",
@@ -21759,8 +21769,8 @@
       "region": "경기",
       "address": "660, Daewangpangyo-ro 13494 Korea, Republic of",
       "homepage": "http://www.etas.com",
-      "contact": "https://www.testingexpo-korea.com/exhibitors/etas-korea-co-ltd",
-      "phone": "",
+      "contact": "전화: 02-202-4120 / 홈페이지: http://www.etas.com",
+      "phone": "02-202-4120",
       "email": "",
       "confidence": "high",
       "source": "source_file:automotive_testing_expo_korea_2026_exhibitors",
@@ -21775,7 +21785,9 @@
       "exhibit_category": "Vehicle simulation; Calibration; Software test and development; Test simulation",
       "domestic_proof": "official_exhibitor_korea_address",
       "description": "Founded in 1994, ETAS GmbH is a wholly owned subsidiary of Robert Bosch GmbH, represented in twelve countries in Europe, North and South America, and Asia. ETAS' portfolio includes software development tools, software testing solutions, automotive middleware, data acquisition and processing tools, authoring and diagnostic solutions, automotive cybersecurity solutions, and end-to-end engineering and consulting services for the realization of software-defined vehicles. Our product solutions and se",
-      "id": "94000"
+      "id": "94000",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.etas.com/ww/en/products-services/vehicle-software-platform/autosar-classic-profile-rta-car/; title=ETAS | Driving innovation in automotive software; body_bytes=25517; name_score=8; phones=02-202-4120; emails=; checked_urls=https://www.etas.com/ww/en/,https://www.etas.com/ww/en/support-training/,https://www.etas.com/ww/en/contact/,https://www.etas.com/ww/en/products-services/vehicle-software-platform/autosar-classic-profile-rta-car/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "Famtech",
@@ -21975,8 +21987,8 @@
       "region": "전국",
       "address": "C-1013, 128 Beobwon-ro, 05854 Korea, Republic of",
       "homepage": "https://www.ipg-automotive.com",
-      "contact": "https://www.testingexpo-korea.com/exhibitors/ipg-automotive-korea-ltd",
-      "phone": "",
+      "contact": "전화: 064-301-4471, 02-275-0030, 02-803-1043, 02-869-0423, 02-734-7474, 02-217-6578, 02-2529-7471, 02-627-2586, 02-425-2111 / 홈페이지: https://www.ipg-automotive.com",
+      "phone": "064-301-4471, 02-275-0030, 02-803-1043, 02-869-0423, 02-734-7474, 02-217-6578, 02-2529-7471, 02-627-2586, 02-425-2111",
       "email": "",
       "confidence": "high",
       "source": "source_file:automotive_testing_expo_korea_2026_exhibitors",
@@ -21991,7 +22003,9 @@
       "exhibit_category": "Vehicle dynamics testing; Vehicle simulation; Software test and development; Autonomous Vehicle (AV) and/or ADAS development, testing and validation; Test simulation; Test management software",
       "domestic_proof": "official_exhibitor_korea_address",
       "description": "About IPG Automotive - Solutions for Virtual Vehicle Development As a global leader in virtual test driving technology, IPG Automotive develops innovative simulation solutions for vehicle development. Designed for seamless use, the software and hardware products can be applied throughout the entire development process. IPG Automotive is an expert in the field of virtual development methods for the application areas of Autonomous Vehicles, ADAS, Powertrain, and Vehicle Dynamics. Together with its",
-      "id": "94008"
+      "id": "94008",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.ipg-automotive.com/company/what-makes-us-different; title=IPG Automotive | Solutions for Virtual Vehicle Development; body_bytes=24698; name_score=13; phones=064-301-4471,02-275-0030,02-803-1043,02-869-0423,02-734-7474,02-217-6578,02-2529-7471,02-627-2586,02-425-2111; emails=; checked_urls=https://www.ipg-automotive.com/,https://www.ipg-automotive.com/company/who-we-are,https://www.ipg-automotive.com/company/who-we-are#c226,https://www.ipg-automotive.com/company/who-we-are#c231,https://www.ipg-automotive.com/company/what-makes-us-different; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "JAT Co Ltd",
@@ -22083,8 +22097,8 @@
       "region": "서울",
       "address": "7F, 16, Teheran-ro 78-gil 06194 Korea, Republic of",
       "homepage": "https://www.morai.ai",
-      "contact": "https://www.testingexpo-korea.com/exhibitors/morai-inc",
-      "phone": "",
+      "contact": "전화: 02-2333-7494, 02-322-5876, 054-346-9359 / 홈페이지: https://www.morai.ai",
+      "phone": "02-2333-7494, 02-322-5876, 054-346-9359",
       "email": "",
       "confidence": "high",
       "source": "source_file:automotive_testing_expo_korea_2026_exhibitors",
@@ -22099,7 +22113,9 @@
       "exhibit_category": "Test simulation; Vehicle dynamics testing; Sensors and transducers; Vehicle simulation; Software test and development; Autonomous Vehicle (AV) and/or ADAS development, testing and validation; Full-vehicle testing",
       "domestic_proof": "official_exhibitor_korea_address",
       "description": "MORAI는 디지털트윈 자율주행 시뮬레이션 플랫폼을 개발하고 공급하는 대한민국의 유일한 기업입니다. MORAI의 시뮬레이션 플랫폼 제품 MORAI SIM은 실제 세계의 형상과 물리를 그대로 반영한 디지털트윈 세계를 재현하며 기존의 시뮬레이터와는 차별화된 직관적인 사용자 친화적 인터페이스를 지원하므로, 사용자는 편리하게 극사실적인 자율주행 차량을 시뮬레이션할 수 있어 자율주행 차량 테스트의 위험성, 비용, 기간이 획기적으로 감축됩니다. MORAI SIM은 현대자동차 그룹 및 SIEMENS 사와 같은 글로벌 차량 및 시뮬레이션 업계는 물론, 한화에어로스페이스, LIG Nex1, 한국항공우주산업 등 방위산업 업계의 글로벌 고객으로부터 우수성과 확장성을 인정받고 있습니다.",
-      "id": "94013"
+      "id": "94013",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.morai.ai/ourlocations; title=MORAI | Digital Twin Simulation for Autonomous Systems; body_bytes=7982; name_score=5; phones=02-2333-7494,02-322-5876,054-346-9359; emails=; checked_urls=https://www.morai.ai/,https://www.morai.ai/aboutus,https://www.morai.ai/ourlocations; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "Mueller BBM VAS Korea Ltd",
@@ -22218,9 +22234,9 @@
       "region": "인천",
       "address": "62 Bupyeong-daero 329 Beon-Gil 403-858 Korea, Republic of",
       "homepage": "https://www.odacore.com",
-      "contact": "https://www.testingexpo-korea.com/exhibitors/oda-technologies",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 070-5032-2921, 032-715-5456, 062-6637-0625, 031-3668-6243 / 이메일: oda@odacore.com / 홈페이지: https://www.odacore.com",
+      "phone": "070-5032-2921, 032-715-5456, 062-6637-0625, 031-3668-6243",
+      "email": "oda@odacore.com",
       "confidence": "high",
       "source": "source_file:automotive_testing_expo_korea_2026_exhibitors",
       "source_page": "https://www.testingexpo-korea.com/exhibitors",
@@ -22234,7 +22250,9 @@
       "exhibit_category": "Reliability/lifecycle testing; Automated test equipment (ATE); Quality testing and inspection; Laboratory instrumentation; Component testing; Quality management solutions; Durability Testing; Test simulation; Engine/emissions testing; Vehicle dynamics testing; Environmental testing; Electrical systems testing; Test management software; Electronics and microelectronics testing; Automatic inspection; Stress/strain testing; Calibration; Software test and development; Battery Technology; Autonomous Vehicle (AV) and/or ADAS development, testing and validation; Electric & Hybrid Powertrain Testing; Charging testing and validation; Full-vehicle testing",
       "domestic_proof": "official_exhibitor_korea_address",
       "description": "(주)오디에이테크놀로지는 다양한 산업분야의 발전에 필수적인 전력전자 계측기 분야에서 국산 계측기 보급을 목표로 2005년 설립하여 전력전자 계측기 개발을 시작한 이래 기업부설연구소의 끊임 없는 연구 개발을 통해 매년 다양한 제품을 선보이고 있습니다. 그 결과 현재 당사는 배터리 충방전 테스트 솔루션을 비롯한 총 8개 사업 분야에서 자체 기술력을 바탕으로 고객의 요청에 대응하고 있으며, 또한 더욱 발전된 혁신적 기술개발을 통한 제품의 성능 향상과 고객 요청에 맞춘 원스톱 자동화 시스템 및 솔루션 개발을 위해 당사의 역량과 기술, 그리고 투자를 지속적으로 하고 있습니다.",
-      "id": "94018"
+      "id": "94018",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.odacore.com/customer-support/download/manual; title=오디에이테크놀로지 (ODA Technologies) | DC 파워서플라이 분야 글로벌 리더 & 최고 수준 B2B 솔루션; body_bytes=20044; name_score=13; phones=070-5032-2921,032-715-5456,062-6637-0625,031-3668-6243; emails=oda@odacore.com; checked_urls=https://www.odacore.com/main,https://www.odacore.com/products,https://www.odacore.com/customer-support,https://www.odacore.com/customer-support/download,https://www.odacore.com/customer-support/download/manual; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "OMAGOM, LLC",
@@ -22407,9 +22425,9 @@
       "region": "전국",
       "address": "186, Gosan-ro Sampae-dong 12245 Korea, Republic of",
       "homepage": "https://www.seoulcorea.com",
-      "contact": "https://www.testingexpo-korea.com/exhibitors/seoul-industry-engineering-co-ltd",
+      "contact": "이메일: seoul@seoulcorea.com / 홈페이지: https://www.seoulcorea.com",
       "phone": "",
-      "email": "",
+      "email": "seoul@seoulcorea.com",
       "confidence": "high",
       "source": "source_file:automotive_testing_expo_korea_2026_exhibitors",
       "source_page": "https://www.testingexpo-korea.com/exhibitors",
@@ -22423,7 +22441,9 @@
       "exhibit_category": "Aerodynamics and wind tunnel testing; Test facilities; Test facility design; Durability Testing; Automated test equipment (ATE)",
       "domestic_proof": "official_exhibitor_korea_address",
       "description": "Seoul Industrial Engineering (SIE) provides turbocharger test systems, EGR test systems, airflow test stands and portable air flow meters. The SIE is equipped with equipment that can meet test requirements with its own technology. We have exported our equipment to Germany, China, India, Thailand as well as many foreign affiliates.",
-      "id": "94025"
+      "id": "94025",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.seoulcorea.com/company/client; title=서울산업기술(주); body_bytes=11080; name_score=25; phones=; emails=seoul@seoulcorea.com; checked_urls=https://www.seoulcorea.com/main,https://www.seoulcorea.com/company,https://www.seoulcorea.com/company/greeting,https://www.seoulcorea.com/company/history,https://www.seoulcorea.com/company/client; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "Suresoft Technologies Inc.",
@@ -22704,9 +22724,9 @@
       "region": "전국",
       "address": "#801 Artplaza 8F 16435 Korea, Republic of",
       "homepage": "https://www.cylos.co.kr",
-      "contact": "https://www.testingexpo-korea.com/exhibitors/cylos-co-ltd",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-251-1905, 031-251-1908 / 이메일: sales@cylos.co.kr / 홈페이지: https://www.cylos.co.kr",
+      "phone": "031-251-1905, 031-251-1908",
+      "email": "sales@cylos.co.kr",
       "confidence": "high",
       "source": "source_file:automotive_testing_expo_korea_2026_exhibitors",
       "source_page": "https://www.testingexpo-korea.com/exhibitors",
@@ -22720,7 +22740,9 @@
       "exhibit_category": "NVH analysis; Acoustic modeling and testing; Environmental testing; Data acquisition and signal analysis; Impact testing; Structural and fatigue testing; Sensors and transducers; Stress/strain testing; Calibration; Durability Testing; Vehicle dynamics testing; Materials testing; Vibration and shock testing; Mechanical testing; Reliability/lifecycle testing; Test management software; Crash test analysis; Tire testing; Fatigue/fracture testing; Component testing; Impact and crash testing; Quality testing and inspection; Laboratory instrumentation; Interior Component Testing; Data post-processing; Full-vehicle testing; Every type of data capture; Internal combustion engine and hybrid testing; Crash test technology",
       "domestic_proof": "official_exhibitor_korea_address",
       "description": "싸이러스㈜는 소음 · 진동 및 응력 측정 · 분석 , 진동내구 시험과 진동제어 , 구조 동역학 및 CAE 해석을 포함한 종합 엔지니어링 솔루션을 제공하는 전문 기업입니다 . 다양한 산업 분야에서 요구되는 정밀 계측과 시험 , 해석 기술을 기반으로 제품 개발 전 과정에 걸친 기술 지원을 수행하고 있습니다 . m+p, Dytran, Tira, Spektra, Norsonic, Labworks, Tekscan, Gefell, DDS 의 공식 대리점으로서 NVH 측정 · 분석 시스템 , 진동 시험 제어 시스템 , 가진기 및 압력 · 힘 · 가속도 · 소음 센서 를 공급하며 , NVH 측정 · 분석 시스템 및 진동 시험 제어 시스템 경우 장비 선정부터 설치 , 교육 , 유지관리까지 체계적인 서비스를 제공합니다 . 시험 - 해석 상관관계 분석 , 최적설계 지원 , 사용자 맞춤형 프로그램 개발 , 전원공급장치 · 앰프 · 속도제어기 · 시험용 지그의 설계 · 제작 등 고객 요구에 최적화된 솔루션",
-      "id": "94038"
+      "id": "94038",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.cylos.co.kr/html/1_3.php; title=(주)싸이러스; body_bytes=7831; name_score=3; phones=031-251-1905,031-251-1908; emails=sales@cylos.co.kr; checked_urls=https://www.cylos.co.kr/html/index.php,https://www.cylos.co.kr/html/1_4.php,https://www.cylos.co.kr/html/1_1.php,https://www.cylos.co.kr/html/1_2.php,https://www.cylos.co.kr/html/1_3.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "3SLINE CO., LTD.",
@@ -35204,23 +35226,25 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.kipp.kr",
-      "contact": "https://simtos.org/eng/exhibitors/exhibitor_list.do",
-      "phone": "",
-      "email": "",
-      "confidence": 0.74,
+      "contact": "전화: 043-8567-1241, 02-3769-6685 / 이메일: info@kipp.kr, info@norelem.de, info@kipp.com, ca.info@kipp.com, us.info@kipp.com, contact@process-concept.com, sales@cnucs.cn, sales@steelsmith.com / 홈페이지: http://www.kipp.kr",
+      "phone": "043-8567-1241, 02-3769-6685",
+      "email": "info@kipp.kr, info@norelem.de, info@kipp.com, ca.info@kipp.com, us.info@kipp.com, contact@process-concept.com, sales@cnucs.cn, sales@steelsmith.com",
+      "confidence": "high",
       "source": "source_file:simtos_2028_exhibitor_homepage",
       "source_page": "https://simtos.org/eng/exhibitors/exhibitor_list.do",
       "representative": "",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "05C270",
       "source_note": "SIMTOS official list row with .kr homepage",
       "country": "",
       "source_category": "SIMTOS 2028",
       "domestic_proof": "kr_homepage",
       "source_id": "71",
-      "id": "94646"
+      "id": "94646",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.kipp.kr/ko/howto; title=KIPP KR | 스탠다드 부품, 클램핑 기술 및 작동 부품의 제조사; body_bytes=39303; name_score=3; phones=043-8567-1241,02-3769-6685; emails=info@kipp.kr,info@norelem.de,info@kipp.com,ca.info@kipp.com,us.info@kipp.com,contact@process-concept.com,sales@cnucs.cn,sales@steelsmith.com; checked_urls=https://www.kipp.kr/ko/,https://www.kipp.kr/ko/%ED%9A%8C%EC%82%AC,https://www.kipp.kr/ko/%ED%8A%B9%EC%88%98%20%EC%86%94%EB%A3%A8%EC%85%98,https://www.kipp.kr/ko/%EC%97%B0%EB%9D%BD%EC%B2%98,https://www.kipp.kr/ko/howto; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "YADON KOREA",
@@ -35339,23 +35363,25 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.radianeng.co.kr",
-      "contact": "https://simtos.org/eng/exhibitors/exhibitor_list.do",
-      "phone": "",
-      "email": "",
-      "confidence": 0.74,
+      "contact": "전화: 02-3016-7944, 02-3016-7945 / 이메일: info@radianeng.co.kr / 홈페이지: http://www.radianeng.co.kr",
+      "phone": "02-3016-7944, 02-3016-7945",
+      "email": "info@radianeng.co.kr",
+      "confidence": "high",
       "source": "source_file:simtos_2028_exhibitor_homepage",
       "source_page": "https://simtos.org/eng/exhibitors/exhibitor_list.do",
       "representative": "",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "02A810",
       "source_note": "SIMTOS official list row with .kr homepage",
       "country": "",
       "source_category": "SIMTOS 2028",
       "domestic_proof": "kr_homepage",
       "source_id": "518",
-      "id": "94652"
+      "id": "94652",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.radianeng.co.kr/default/customer/02.php?top=5&sub=1; title=라디안이엔지_계측장비 및 센서; body_bytes=10967; name_score=5; phones=02-3016-7944,02-3016-7945; emails=info@radianeng.co.kr; checked_urls=https://www.radianeng.co.kr/default/,https://www.radianeng.co.kr/default/company/02.php?top=1&sub=0,https://www.radianeng.co.kr/default/company/03.php?top=1&sub=1,https://www.radianeng.co.kr/default/customer/01.php?top=5&sub=0,https://www.radianeng.co.kr/default/customer/02.php?top=5&sub=1; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "SIC MARKING KOREA",
@@ -46308,15 +46334,15 @@
       "region": "전국",
       "address": "(03736)53 Chungjeong-ro, Seodaemun-gu, Seoul, Republic of Korea 4F 402",
       "homepage": "http://www.medicom-korea.com",
-      "contact": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list_view.asp?idx=3731&didx=2658",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-393-7105, 02-393-8105 / 이메일: cs@medicom-korea.com, info@medicom-korea.com / 홈페이지: http://www.medicom-korea.com",
+      "phone": "02-393-7105, 02-393-8105",
+      "email": "cs@medicom-korea.com, info@medicom-korea.com",
       "confidence": "high",
       "source": "source_file:kiss_2026_exhibitor_homepage",
       "source_page": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list.asp",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "8F208",
       "source_id": "kiss-2026:3731:2658:a-r-medicom-inc-korea-ltd",
       "country": "Korea, South",
@@ -46324,7 +46350,9 @@
       "category_names": [
         "Safety Goods & Personal Protective Equipment / [1.13] Disposable clothing",
         "Safety Goods & Personal Protective Equipment / [1.6] Arm protection"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.medicom-korea.com/contact-medicom/; title=A. R. Medicom Inc. (Korea) Ltd. - Pride in Protection - Masks, Gloves, PPE, etc.; body_bytes=11841; name_score=13; phones=02-393-7105,02-393-8105; emails=cs@medicom-korea.com,info@medicom-korea.com; checked_urls=https://www.medicom-korea.com/,https://www.medicom-korea.com/about-medicom/the-medicom-story/,https://www.medicom-korea.com/about-medicom/retail-partners/,https://www.medicom-korea.com/about-medicom/retail-partners/faqs/,https://www.medicom-korea.com/contact-medicom/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95215",
@@ -46615,15 +46643,15 @@
       "region": "전국",
       "address": "(34016)65 Techno 3-ro, Yuseong-gu, Daejeon, Republic of Korea 435",
       "homepage": "http://www.elssen.com",
-      "contact": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list_view.asp?idx=4190&didx=2493",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 070-7793-2020, 042-931-2618 / 이메일: smart@elssen.kr / 홈페이지: http://www.elssen.com",
+      "phone": "070-7793-2020, 042-931-2618",
+      "email": "smart@elssen.kr",
       "confidence": "high",
       "source": "source_file:kiss_2026_exhibitor_homepage",
       "source_page": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list.asp",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "8A91",
       "source_id": "kiss-2026:4190:2493:elssen-inc",
       "country": "Korea, South",
@@ -46635,7 +46663,9 @@
         "Safety Technology(IoT",
         "VR/AR",
         "AI) / [5.5] Others"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.elssen.com/bbs/login.php?url=http%3A%2F%2Fwww.elssen.com%2Fshop%2Forderinquiry.php; title=elssen; body_bytes=4853; name_score=5; phones=070-7793-2020,042-931-2618; emails=smart@elssen.kr; checked_urls=http://www.elssen.com/index.php,http://www.elssen.com/bbs/board.php?bo_table=notice,http://www.elssen.com/theme/sturc/contents/file/sub_04a.php,http://www.elssen.com/bbs/login.php?url=http%3A%2F%2Fwww.elssen.com%2Fshop%2Forderinquiry.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95227",
@@ -46647,22 +46677,24 @@
       "region": "전국",
       "address": "(06628)311 Gangnam-daero, Seocho-gu, Seoul, Republic of Korea 12F, 1222",
       "homepage": "http://everex.co.kr",
-      "contact": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list_view.asp?idx=4045&didx=2663",
+      "contact": "이메일: contact@everex.co.kr / 홈페이지: http://everex.co.kr",
       "phone": "",
-      "email": "",
+      "email": "contact@everex.co.kr",
       "confidence": "high",
       "source": "source_file:kiss_2026_exhibitor_homepage",
       "source_page": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list.asp",
       "ksic_major_code": "Q",
       "ksic_major_name": "보건업 및 사회복지 서비스업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "8L215",
       "source_id": "kiss-2026:4045:2663:everex",
       "country": "Korea, South",
       "source_category": "KISS 2026",
       "category_names": [
         "Occupational Health Managerment / [4.6] Workplace Health Promotion"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://everex.co.kr/contact/; title=EverEx | 근골격계 건강의 미래, AI로 재해석하다; body_bytes=7666; name_score=5; phones=; emails=contact@everex.co.kr; checked_urls=https://everex.co.kr/,https://everex.co.kr/about/,https://everex.co.kr/contact/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95228",
@@ -46730,15 +46762,15 @@
       "region": "전국",
       "address": "(05836)11 Beobwon-ro 11-gil, Songpa-gu, Seoul, Republic of Korea Room 1004, 10th Floor, Building A, Munjeong Hyundai IT Valley (Knowledge Industry Center)",
       "homepage": "http://www.hiworker.com/",
-      "contact": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list_view.asp?idx=4441&didx=2735",
-      "phone": "",
+      "contact": "전화: 062-5239-5680 / 홈페이지: http://www.hiworker.com/",
+      "phone": "062-5239-5680",
       "email": "",
       "confidence": "high",
       "source": "source_file:kiss_2026_exhibitor_homepage",
       "source_page": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list.asp",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "7E307",
       "source_id": "kiss-2026:4441:2735:hilokal-co-ltd",
       "country": "Korea, South",
@@ -46748,7 +46780,9 @@
         "VR/AR",
         "AI) / [5.4] Software (Digital application and solutions",
         "Training / schooling)"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.hiworker.com/contact; title=하이워커; body_bytes=5545; name_score=10; phones=062-5239-5680; emails=; checked_urls=https://www.hiworker.com/,https://www.hiworker.com/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95231",
@@ -47149,22 +47183,24 @@
       "region": "전국",
       "address": "(06193)48 Seolleung-ro 90-gil, Gangnam-gu, Seoul, Republic of Korea btq tower",
       "homepage": "http://lingerwatershop.com/",
-      "contact": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list_view.asp?idx=4211&didx=2723",
+      "contact": "이메일: info@lingtea.co.kr, biz@lingtea.co.kr / 홈페이지: http://lingerwatershop.com/",
       "phone": "",
-      "email": "",
+      "email": "info@lingtea.co.kr, biz@lingtea.co.kr",
       "confidence": "high",
       "source": "source_file:kiss_2026_exhibitor_homepage",
       "source_page": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list.asp",
       "ksic_major_code": "Q",
       "ksic_major_name": "보건업 및 사회복지 서비스업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "7LB01",
       "source_id": "kiss-2026:4211:2723:lingtea",
       "country": "Korea, South",
       "source_category": "KISS 2026",
       "category_names": [
         "Occupational Health Managerment / [4.11] Others"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://lingerwatershop.com/board/%EA%B8%B0%EC%97%85%EC%A3%BC%EB%AC%B8/16/; title=의사가 만든 링티 공식몰; body_bytes=12546; name_score=5; phones=; emails=info@lingtea.co.kr,biz@lingtea.co.kr; checked_urls=https://lingerwatershop.com/,https://lingerwatershop.com/skin-skin38/board/free/list.html?board_no=6,https://lingerwatershop.com/skin-skin38/board/free/list.html?board_no=16,https://lingerwatershop.com/product/list.html?cate_no=42,https://lingerwatershop.com/board/%EA%B8%B0%EC%97%85%EC%A3%BC%EB%AC%B8/16/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95249",
@@ -47176,22 +47212,24 @@
       "region": "전국",
       "address": "(276000)No100 1210-029,Lingong Road, Linyi city,  Shandong, China",
       "homepage": "http://www.jlygloves.com",
-      "contact": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list_view.asp?idx=4918&didx=2683",
-      "phone": "",
+      "contact": "전화: 063-314-9511 / 홈페이지: http://www.jlygloves.com",
+      "phone": "063-314-9511",
       "email": "",
       "confidence": "high",
       "source": "source_file:kiss_2026_exhibitor_homepage",
       "source_page": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list.asp",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "7F305",
       "source_id": "kiss-2026:4918:2683:linyi-golden-dragon-source-safety-technology-co-ltd",
       "country": "China(P.R.C)",
       "source_category": "KISS 2026",
       "category_names": [
         "Safety Goods & Personal Protective Equipment / [1.22] PPE suppliers"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.jlygloves.com/Company-News-ic5105776.html; title=Industrial gloves, Working gloves, Safety gloves, Latex gloves, Nylon gloves – LINYI GOLDEN DRAGON SOURCE SAFETY TECHNOLOGY CO., LTD.; body_bytes=8136; name_score=40; phones=063-314-9511; emails=; checked_urls=https://www.jlygloves.com/,https://www.jlygloves.com/aboutus.html,https://www.jlygloves.com/contactus.html,https://www.jlygloves.com/Company-News-ic5105776.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95250",
@@ -47378,15 +47416,15 @@
       "region": "전국",
       "address": "(315111)37 Baozhan Road, Nanshan, Minglun Village,  Wuxiang Town, Yinzhou District, Ningbo, Zhejiang Province, China",
       "homepage": "http://www.cnfallprotect.com",
-      "contact": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list_view.asp?idx=4505&didx=2746",
-      "phone": "",
+      "contact": "전화: 02-4516-3862 / 홈페이지: http://www.cnfallprotect.com",
+      "phone": "02-4516-3862",
       "email": "",
       "confidence": "high",
       "source": "source_file:kiss_2026_exhibitor_homepage",
       "source_page": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list.asp",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "7D209",
       "source_id": "kiss-2026:4505:2746:ningbo-henglong-machinery-co-ltd",
       "country": "China(P.R.C)",
@@ -47394,7 +47432,9 @@
       "category_names": [
         "Safety Goods & Personal Protective Equipment / [1.26] Harnesses / fall protection",
         "Safety Goods & Personal Protective Equipment / [1.27] Scaffolding Safety"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.cnfallprotect.com/contact/; title=Wholesale Safety Protection Accessories Manufacturers, Suppliers; body_bytes=11891; name_score=25; phones=02-4516-3862; emails=; checked_urls=https://www.cnfallprotect.com/,https://www.cnfallprotect.com/about/,https://www.cnfallprotect.com/factory/,https://www.cnfallprotect.com/news/company-news/,https://www.cnfallprotect.com/contact/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95259",
@@ -47774,15 +47814,15 @@
       "region": "전국",
       "address": "(276000)Zhangdian,Zibo City,Shandong Province .",
       "homepage": "http://www.qshsafety.com",
-      "contact": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list_view.asp?idx=4499&didx=2630",
+      "contact": "이메일: qsh@qshsafety.com / 홈페이지: http://www.qshsafety.com",
       "phone": "",
-      "email": "",
+      "email": "qsh@qshsafety.com",
       "confidence": "high",
       "source": "source_file:kiss_2026_exhibitor_homepage",
       "source_page": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list.asp",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "8G314",
       "source_id": "kiss-2026:4499:2630:shandong-qsh-safety-co-ltd",
       "country": "China(P.R.C)",
@@ -47790,7 +47830,9 @@
       "category_names": [
         "Safety Goods & Personal Protective Equipment / [1.5] Hand protection",
         "gloves"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.qshsafety.com/inquiry; title=China Pu Coated Gloves Manufacturers, Nitrile Coated Gloves Suppliers, Cut Resistant Gloves Factory - QSH; body_bytes=7709; name_score=23; phones=; emails=qsh@qshsafety.com; checked_urls=https://www.qshsafety.com/,https://www.qshsafety.com/about-us,https://www.qshsafety.com/contact-us,https://www.qshsafety.com/inquiry; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95276",
@@ -47829,22 +47871,24 @@
       "region": "전국",
       "address": "(46702)45 Daejeojungang-ro 394beonga-gil, Gangseo-gu, Busan, Republic of Korea shoemax",
       "homepage": "http://www.shoemax.co.kr",
-      "contact": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list_view.asp?idx=3677&didx=2489",
-      "phone": "",
+      "contact": "전화: 051-973-0980, 051-973-0983 / 홈페이지: http://www.shoemax.co.kr",
+      "phone": "051-973-0980, 051-973-0983",
       "email": "",
       "confidence": "high",
       "source": "source_file:kiss_2026_exhibitor_homepage",
       "source_page": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list.asp",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "B",
+      "lead_quality_grade": "A",
       "booth": "8D201",
       "source_id": "kiss-2026:3677:2489:shoemax",
       "country": "Korea, South",
       "source_category": "KISS 2026",
       "category_names": [
         "Safety Goods & Personal Protective Equipment / [1.8] Safety shoes / Protective shoes"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.shoemax.co.kr/?act=info.page&pcode=location; title=SHOEMAX; body_bytes=4302; name_score=5; phones=051-973-0980,051-973-0983; emails=; checked_urls=https://www.shoemax.co.kr/,https://www.shoemax.co.kr/?act=info.page&pcode=vision,https://www.shoemax.co.kr/?act=info.page&pcode=location; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95278",
@@ -120933,9 +120977,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://hygen.kr/",
-      "contact": "https://h2korea.or.kr/ko/membership/page03",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 051-317-2777, 063-818-8050 / 이메일: ddenergy@naver.com / 홈페이지: http://hygen.kr/",
+      "phone": "051-317-2777, 063-818-8050",
+      "email": "ddenergy@naver.com",
       "confidence": "high",
       "source": "source_file:h2korea_hydrogen_member_homepage",
       "ksic_major_code": "D",
@@ -120944,7 +120988,9 @@
       "industry_type": "한국수소연합 회원사",
       "source_page": "https://h2korea.or.kr/ko/membership/page03",
       "product": "수소·연료전지",
-      "id": "99016"
+      "id": "99016",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.hygen.kr/34; title=대도하이젠(주); body_bytes=4651; name_score=5; phones=051-317-2777,063-818-8050; emails=ddenergy@naver.com; checked_urls=http://www.hygen.kr/,http://www.hygen.kr/index,http://www.hygen.kr/25,http://www.hygen.kr/26,http://www.hygen.kr/34; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "㈜엘켐텍",

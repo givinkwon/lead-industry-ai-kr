@@ -28030,9 +28030,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.seegene.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2240-4000 / 이메일: info@seegene.com, sgg@seegene.com, marketing.mx@seegene.com, sgme@seegene.com / 홈페이지: http://www.seegene.co.kr",
+      "phone": "02-2240-4000",
+      "email": "info@seegene.com, sgg@seegene.com, marketing.mx@seegene.com, sgme@seegene.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79096",
@@ -28040,7 +28040,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "096530",
-      "product": "호흡기성 병원체 검사제품, 성감염증원인균 검사제품"
+      "product": "호흡기성 병원체 검사제품, 성감염증원인균 검사제품",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://kr.seegene.com/company/technology-sharing; title=메인 | Seegene; body_bytes=52172; name_score=3; phones=02-2240-4000; emails=info@seegene.com,sgg@seegene.com,marketing.mx@seegene.com,sgme@seegene.com; checked_urls=https://kr.seegene.com/,https://kr.seegene.com/company/about-seegene,https://kr.seegene.com/company/technology,https://kr.seegene.com/company/global-network,https://kr.seegene.com/company/technology-sharing; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "와이솔",
@@ -30284,8 +30286,8 @@
       "region": "인천광역시",
       "address": "",
       "homepage": "http://www.icgas.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 032-576-2710 / 홈페이지: http://www.icgas.co.kr",
+      "phone": "032-576-2710",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -30294,7 +30296,9 @@
       "ksic_major_name": "전기, 가스, 증기 및 공기조절 공급업",
       "lead_quality_grade": "A",
       "stock_code": "034590",
-      "product": "도시가스 공급/가스설비공사"
+      "product": "도시가스 공급/가스설비공사",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.icgas.co.kr/2016/invest/business_1.asp; title=인천도시가스(주); body_bytes=6163; name_score=5; phones=032-576-2710; emails=; checked_urls=http://www.icgas.co.kr/2016/start.asp,http://www.icgas.co.kr/2016/icgas/think_1.asp,http://www.icgas.co.kr/2016/icgas/history.asp,http://www.icgas.co.kr/2016/icgas/map_bonsa.asp,http://www.icgas.co.kr/2016/invest/business_1.asp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "성창오토텍",
@@ -30766,8 +30770,8 @@
       "region": "전라남도",
       "address": "",
       "homepage": "http://www.y-entec.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 061-690-6900, 061-690-6940, 061-804-1000, 061-804-1099, 061-682-1700, 061-682-1705 / 홈페이지: http://www.y-entec.co.kr",
+      "phone": "061-690-6900, 061-690-6940, 061-804-1000, 061-804-1099, 061-682-1700, 061-682-1705",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -30776,7 +30780,9 @@
       "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
       "lead_quality_grade": "A",
       "stock_code": "067900",
-      "product": "사업장폐기물중간및최종처리,전문건설,골재제조"
+      "product": "사업장폐기물중간및최종처리,전문건설,골재제조",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.y-entec.co.kr/?page_id=1089; title=(주)와이엔텍 – YENTEC; body_bytes=4579; name_score=3; phones=061-690-6900,061-690-6940,061-804-1000,061-804-1099,061-682-1700,061-682-1705; emails=; checked_urls=http://www.y-entec.co.kr/,http://www.y-entec.co.kr/?page_id=1048,http://www.y-entec.co.kr/?page_id=1050,http://www.y-entec.co.kr/?page_id=1060,http://www.y-entec.co.kr/?page_id=1089; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "케이엠",
@@ -31150,8 +31156,8 @@
       "region": "경상북도",
       "address": "",
       "homepage": "http://www.dongil.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 054-285-3201, 054-285-4151, 054-285-7251, 054-285-6008 / 홈페이지: http://www.dongil.co.kr",
+      "phone": "054-285-3201, 054-285-4151, 054-285-7251, 054-285-6008",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -31160,7 +31166,9 @@
       "ksic_major_name": "도매 및 소매업",
       "lead_quality_grade": "A",
       "stock_code": "004890",
-      "product": "봉강,합금철,철근,마봉강,냉간압조용선재,주조,지선,주강,다이아몬드공구 제조,도매"
+      "product": "봉강,합금철,철근,마봉강,냉간압조용선재,주조,지선,주강,다이아몬드공구 제조,도매",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.dongil.co.kr/default/menu02/page01.php; title=동일산업주식회사; body_bytes=3568; name_score=3; phones=054-285-3201,054-285-4151,054-285-7251,054-285-6008; emails=; checked_urls=http://www.dongil.co.kr/default/,http://www.dongil.co.kr/default/menu01/page01.php,http://www.dongil.co.kr/default/menu01/page02.php,http://www.dongil.co.kr/default/menu01/page08.php,http://www.dongil.co.kr/default/menu02/page01.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "젬백스",
@@ -32676,8 +32684,8 @@
       "region": "경상북도",
       "address": "",
       "homepage": "http://www.poscocnc.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 054-280-6114 / 홈페이지: http://www.poscocnc.com",
+      "phone": "054-280-6114",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -32686,7 +32694,9 @@
       "ksic_major_name": "도매 및 소매업",
       "lead_quality_grade": "A",
       "stock_code": "058430",
-      "product": "용융아연도금강판,용융알루미늄도금강판,칼라도장강판,냉연강판 가공,제조,도매"
+      "product": "용융아연도금강판,용융알루미늄도금강판,칼라도장강판,냉연강판 가공,제조,도매",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.poscosteeleon.com/kr/about/history.do; title=포스코스틸리온; body_bytes=8151; name_score=5; phones=054-280-6114; emails=; checked_urls=https://www.poscosteeleon.com/kr/main.do,https://www.poscosteeleon.com/kr/about/vision1.do,https://www.poscosteeleon.com/kr/about/vision2.do,https://www.poscosteeleon.com/kr/about/greetings.do,https://www.poscosteeleon.com/kr/about/history.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "삼성출판사",
@@ -32876,9 +32886,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.insun.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-969-1500, 031-966-3607, 02-207-2022, 02-506-2025, 041-605-2009 / 이메일: dhjeong@insun.com / 홈페이지: http://www.insun.co.kr",
+      "phone": "031-969-1500, 031-966-3607, 02-207-2022, 02-506-2025, 041-605-2009",
+      "email": "dhjeong@insun.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79380",
@@ -32886,7 +32896,9 @@
       "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
       "lead_quality_grade": "A",
       "stock_code": "060150",
-      "product": "건축폐기물처리"
+      "product": "건축폐기물처리",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.insun.co.kr/kr/sub/company/certification.asp; title=인선이엔티주식회사; body_bytes=16836; name_score=5; phones=031-969-1500,031-966-3607,02-207-2022,02-506-2025,041-605-2009; emails=dhjeong@insun.com; checked_urls=https://www.insun.co.kr/kr/index.asp,https://www.insun.co.kr/kr/sub/company/summary.asp,https://www.insun.co.kr/kr/sub/company/history.asp,https://www.insun.co.kr/kr/sub/company/greeting.asp,https://www.insun.co.kr/kr/sub/company/certification.asp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "우신시스템",
@@ -33358,8 +33370,8 @@
       "region": "충청북도",
       "address": "",
       "homepage": "http://www.iljindisplay.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-680-0112, 043-879-4747 / 홈페이지: http://www.iljindisplay.co.kr",
+      "phone": "031-680-0112, 043-879-4747",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -33368,7 +33380,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "020760",
-      "product": "박막액정표시장치(TFT-LCD) 패널,LT(리튬탄탈에이트)웨이퍼,분말야금제품(초고압용공구),보석다이아몬드 제조,판매/종합건설"
+      "product": "박막액정표시장치(TFT-LCD) 패널,LT(리튬탄탈에이트)웨이퍼,분말야금제품(초고압용공구),보석다이아몬드 제조,판매/종합건설",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.iljindisplay.co.kr/product/prd_intro_02.jsp; title=일진디스플레이; body_bytes=6584; name_score=5; phones=031-680-0112,043-879-4747; emails=; checked_urls=http://www.iljindisplay.co.kr/main.jsp,http://www.iljindisplay.co.kr/pr/public_view.jsp?currentPage=1&currentGroup=1&searchword=&keyword=0&list_cnt=&mode=&nb_sral=996&cd_lang_gubn=1,http://www.iljindisplay.co.kr/product/prd_intro_01.jsp,http://www.iljindisplay.co.kr/product/prd_intro_02.jsp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "스타코링크",
@@ -35686,9 +35700,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.haesungind.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-528-1236, 02-528-1243, 02-528-1234, 02-528-1301, 02-755-1271, 02-3472-1011, 051-462-5209, 02-528-1224 / 이메일: ijkim83@haesungind.co.kr / 홈페이지: http://www.haesungind.co.kr",
+      "phone": "02-528-1236, 02-528-1243, 02-528-1234, 02-528-1301, 02-755-1271, 02-3472-1011, 051-462-5209, 02-528-1224",
+      "email": "ijkim83@haesungind.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79539",
@@ -35696,7 +35710,9 @@
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
       "stock_code": "034810",
-      "product": "시설관리 용역 및 부동산 임대"
+      "product": "시설관리 용역 및 부동산 임대",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.haesungind.co.kr/ko/web/about/about03_history.php; title=HAESUNG INDUSTRIAL; body_bytes=10580; name_score=3; phones=02-528-1236,02-528-1243,02-528-1234,02-528-1301,02-755-1271,02-3472-1011,051-462-5209,02-528-1224; emails=ijkim83@haesungind.co.kr; checked_urls=http://www.haesungind.co.kr/ko/web/main.php,http://www.haesungind.co.kr/ko/web/about/about01_overview.php,http://www.haesungind.co.kr/ko/web/business/business02.php,http://www.haesungind.co.kr/ko/web/about/about02_ceo.php,http://www.haesungind.co.kr/ko/web/about/about03_history.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "자화전자",
@@ -36106,8 +36122,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://wonikcorp.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-8038-9000, 031-8038-9098, 031-8038-9097, 031-8038-9075, 031-8038-9099, 031-8038-9021, 054-472-8201, 054-472-8204, 070-7774-3101 / 홈페이지: http://wonikcorp.com",
+      "phone": "031-8038-9000, 031-8038-9098, 031-8038-9097, 031-8038-9075, 031-8038-9099, 031-8038-9021, 054-472-8201, 054-472-8204, 070-7774-3101",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -36116,7 +36132,9 @@
       "ksic_major_name": "도매 및 소매업",
       "lead_quality_grade": "A",
       "stock_code": "032940",
-      "product": "Quartz, HIC, 의료기기"
+      "product": "Quartz, HIC, 의료기기",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://wonikcorp.com/home/sub.php?menukey=291; title=(주)원익; body_bytes=9169; name_score=3; phones=031-8038-9000,031-8038-9098,031-8038-9097,031-8038-9075,031-8038-9099,031-8038-9021,054-472-8201,054-472-8204,070-7774-3101; emails=; checked_urls=http://wonikcorp.com/home/main.php,http://wonikcorp.com/home/sub.php?menukey=61,http://wonikcorp.com/home/sub.php?menukey=62,http://wonikcorp.com/home/sub.php?menukey=65,http://wonikcorp.com/home/sub.php?menukey=291; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "원풍물산",
@@ -37072,8 +37090,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.aprogen.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-625-4045, 031-625-4049, 043-716-5200, 043-716-5201, 054-278-9721, 054-278-9720 / 홈페이지: http://www.aprogen.com",
+      "phone": "031-625-4045, 031-625-4049, 043-716-5200, 043-716-5201, 054-278-9721, 054-278-9720",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -37082,7 +37100,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "007460",
-      "product": "단열장치,철구조물,가열로,특수단열재(금속표면경화육성,원자로용) 제조/단열공사/부동산 임대"
+      "product": "단열장치,철구조물,가열로,특수단열재(금속표면경화육성,원자로용) 제조/단열공사/부동산 임대",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.aprogen.com/ko/v.do?m=MUesctBWs5&&a=BbsAdd&c=BgQbHnlOe5; title=APROGEN; body_bytes=6825; name_score=5; phones=031-625-4045,031-625-4049,043-716-5200,043-716-5201,054-278-9721,054-278-9720; emails=; checked_urls=https://www.aprogen.com/ko/v.do?a=Main,https://www.aprogen.com/ko/v.do?m=M8OszQqQX&c=CcZ!ImY9v1,https://www.aprogen.com/ko/v.do?m=Mx2BSF3Sv1&c=CYxVKheir3,https://www.aprogen.com/ko/v.do?m=MUesctBWs5&&a=BbsAdd&c=BgQbHnlOe5; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "차AI헬스케어",
@@ -37532,8 +37552,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.moonbaesteel.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-758-6600, 02-758-6666 / 홈페이지: http://www.moonbaesteel.co.kr",
+      "phone": "02-758-6600, 02-758-6666",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -37542,7 +37562,9 @@
       "ksic_major_name": "도매 및 소매업",
       "lead_quality_grade": "A",
       "stock_code": "008420",
-      "product": "철강재중 판재류(후판,박판,무늬강판) 제조,도매"
+      "product": "철강재중 판재류(후판,박판,무늬강판) 제조,도매",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.moonbaesteel.co.kr/mb/company/manage?code=1300; title=문배철강; body_bytes=6721; name_score=3; phones=02-758-6600,02-758-6666; emails=; checked_urls=http://www.moonbaesteel.co.kr/mb/main/main,http://www.moonbaesteel.co.kr/mb/company/ceo?code=1300,http://www.moonbaesteel.co.kr/mb/company/history?code=1300,http://www.moonbaesteel.co.kr/mb/company/location?code=1300,http://www.moonbaesteel.co.kr/mb/company/manage?code=1300; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "웅진",
@@ -37938,8 +37960,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.prsb.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-545-9000 / 홈페이지: http://www.prsb.co.kr",
+      "phone": "02-545-9000",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -37948,7 +37970,9 @@
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
       "stock_code": "007330",
-      "product": "대출이자"
+      "product": "대출이자",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.prsb.co.kr/prsb/prwww.html?w2xPath=/w2/itb/main.xml&menu=3; title=푸른저축은행; body_bytes=2471; name_score=5; phones=02-545-9000; emails=; checked_urls=https://www.prsb.co.kr/prsb/prwww.html?w2xPath=/w2/itb/main.xml&menu=3; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "피제이전자",
@@ -38466,8 +38490,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.shinhung.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-773-2523 / 홈페이지: http://www.shinhung.co.kr",
+      "phone": "02-773-2523",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -38476,7 +38500,9 @@
       "ksic_major_name": "도매 및 소매업",
       "lead_quality_grade": "A",
       "stock_code": "004080",
-      "product": "치과용기자재(방사선장치,전기진단장치),주사침 도소매,제조/부동산 임대"
+      "product": "치과용기자재(방사선장치,전기진단장치),주사침 도소매,제조/부동산 임대",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.shinhung.co.kr/04_Company/05_News_View.aspx?seq=1154&pg=1&par13=&par14=; title=Welcome to Shinhung!!; body_bytes=15769; name_score=3; phones=02-773-2523; emails=; checked_urls=http://www.shinhung.co.kr/,http://www.shinhung.co.kr/04_Company/05_News_View.aspx?seq=1157&pg=1&par13=&par14=,http://www.shinhung.co.kr/04_Company/05_News_View.aspx?seq=1156&pg=1&par13=&par14=,http://www.shinhung.co.kr/04_Company/05_News_View.aspx?seq=1155&pg=1&par13=&par14=,http://www.shinhung.co.kr/04_Company/05_News_View.aspx?seq=1154&pg=1&par13=&par14=; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "화승인더스트리",
@@ -38668,8 +38694,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.iljin.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-707-9114, 02-707-9250 / 홈페이지: http://www.iljin.co.kr",
+      "phone": "02-707-9114, 02-707-9250",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -38678,7 +38704,9 @@
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
       "stock_code": "015860",
-      "product": "전기산업용기기(개폐기,차단기,배전반),자동화시스템,자동차엔진부품,절연전선,금구류,고압선,저압선 제조,판매/전기공사,가스절연차단기"
+      "product": "전기산업용기기(개폐기,차단기,배전반),자동화시스템,자동차엔진부품,절연전선,금구류,고압선,저압선 제조,판매/전기공사,가스절연차단기",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.iljin.co.kr/kor/about/greetings.asp; title=일진그룹; body_bytes=11353; name_score=5; phones=02-707-9114,02-707-9250; emails=; checked_urls=https://www.iljin.co.kr/kor/main.asp,https://www.iljin.co.kr/kor/etc/ethics_about.asp,https://www.iljin.co.kr/kor/about/intro.asp,https://www.iljin.co.kr/kor/about/philosophy.asp,https://www.iljin.co.kr/kor/about/greetings.asp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "영화금속",
@@ -38728,9 +38756,9 @@
       "region": "대전광역시",
       "address": "",
       "homepage": "http://www.hanall.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-550-8400, 042-867-2042, 042-867-2045, 042-932-5997, 042-932-6427, 062-9041-7637 / 이메일: sales.info@hanall.co.kr, ir@hanall.co.kr, hanallpr@hanall.co.kr / 홈페이지: http://www.hanall.co.kr",
+      "phone": "02-550-8400, 042-867-2042, 042-867-2045, 042-932-5997, 042-932-6427, 062-9041-7637",
+      "email": "sales.info@hanall.co.kr, ir@hanall.co.kr, hanallpr@hanall.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79717",
@@ -38738,7 +38766,9 @@
       "ksic_major_name": "도매 및 소매업",
       "lead_quality_grade": "A",
       "stock_code": "009420",
-      "product": "의약품 제조,도매/부동산 임대"
+      "product": "의약품 제조,도매/부동산 임대",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://hanall.com/kr/board_view.php?bo_table=press&idx=102; title=HANALL; body_bytes=4567; name_score=5; phones=02-550-8400,042-867-2042,042-867-2045,042-932-5997,042-932-6427,062-9041-7637; emails=sales.info@hanall.co.kr,ir@hanall.co.kr,hanallpr@hanall.co.kr; checked_urls=https://hanall.com/kr/,https://hanall.com/kr/m11.php,https://hanall.com/kr/contacts.php,https://hanall.com/kr/board_view.php?bo_table=press&idx=102; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "하이록코리아",
@@ -39436,8 +39466,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.sangsanginib.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-3779-3813 / 홈페이지: http://www.sangsanginib.com",
+      "phone": "02-3779-3813",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -39446,7 +39476,9 @@
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
       "stock_code": "001290",
-      "product": "유가증권 매매"
+      "product": "유가증권 매매",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.sangsanginib.com/info/company02_1View; title=상상인증권; body_bytes=7737; name_score=5; phones=02-3779-3813; emails=; checked_urls=https://www.sangsanginib.com/main/mainView,https://www.sangsanginib.com/customer/notice/noticeDetailView?ntNo=1997,https://www.sangsanginib.com/customer/notice/noticeDetailView?ntNo=2019,https://www.sangsanginib.com/info/company01View,https://www.sangsanginib.com/info/company02_1View; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "혜인",
@@ -39496,8 +39528,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.youlchon.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-822-0022, 02-3774-3016, 02-2073-8121, 02-820-8374, 02-824-0957, 02-821-0956, 02-820-7114, 02-820-7828, 02-827-2602, 02-827-2699, 051-550-2100, 051-550-2105 / 홈페이지: http://www.youlchon.com",
+      "phone": "02-822-0022, 02-3774-3016, 02-2073-8121, 02-820-8374, 02-824-0957, 02-821-0956, 02-820-7114, 02-820-7828, 02-827-2602, 02-827-2699, 051-550-2100, 051-550-2105",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -39506,7 +39538,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "008730",
-      "product": "연포장재,필름,골판지상자,합성수지,플라스틱일반성형제품 제조"
+      "product": "연포장재,필름,골판지상자,합성수지,플라스틱일반성형제품 제조",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.youlchon.com/busi/mate/outlPage.do; title=율촌화학 홈페이지에 오신 것을 환영합니다.; body_bytes=9665; name_score=3; phones=02-822-0022,02-3774-3016,02-2073-8121,02-820-8374,02-824-0957,02-821-0956,02-820-7114,02-820-7828,02-827-2602,02-827-2699,051-550-2100,051-550-2105; emails=; checked_urls=https://www.youlchon.com/main.do,https://www.youlchon.com/intr/about/headPage.do,https://www.youlchon.com/intr/grouPage.do,https://www.youlchon.com/recr/recr/recuPage.do,https://www.youlchon.com/busi/mate/outlPage.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "신원",
@@ -39596,8 +39630,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.bookook.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-368-9200, 031-757-3777, 031-966-2020, 032-324-1133 / 홈페이지: http://www.bookook.co.kr",
+      "phone": "02-368-9200, 031-757-3777, 031-966-2020, 032-324-1133",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -39606,7 +39640,9 @@
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
       "stock_code": "001270",
-      "product": "유가증권 매매,위탁매매,인수,주선"
+      "product": "유가증권 매매,위탁매매,인수,주선",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.bookook.co.kr/view/customers/customers_3; title=부국증권; body_bytes=12534; name_score=3; phones=02-368-9200,031-757-3777,031-966-2020,032-324-1133; emails=; checked_urls=http://www.bookook.co.kr/,http://www.bookook.co.kr/view/company/company_5,http://www.bookook.co.kr/view/customers/customers_1,http://www.bookook.co.kr/view/company/company_4,http://www.bookook.co.kr/view/customers/customers_3; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "한미사이언스",
@@ -39656,8 +39692,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.dongkuk.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-317-1111, 032-830-6216, 041-351-4984, 041-351-4952, 054-271-2710, 054-278-6111, 051-640-5114 / 홈페이지: http://www.dongkuk.co.kr",
+      "phone": "02-317-1111, 032-830-6216, 041-351-4984, 041-351-4952, 054-271-2710, 054-278-6111, 051-640-5114",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -39666,7 +39702,9 @@
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
       "stock_code": "001230",
-      "product": "후판,철근,강판,형강,앵글,찬넬,평철 제조,판매"
+      "product": "후판,철근,강판,형강,앵글,찬넬,평철 제조,판매",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.dongkuk.com/ko/company/network; title=동국홀딩스; body_bytes=10213; name_score=5; phones=02-317-1111,032-830-6216,041-351-4984,041-351-4952,054-271-2710,054-278-6111,051-640-5114; emails=; checked_urls=https://www.dongkuk.com/ko/index,https://www.dongkuk.com/ko/company/principle,https://www.dongkuk.com/ko/company/leadership,https://www.dongkuk.com/ko/company/history,https://www.dongkuk.com/ko/company/network; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "대원전선",
@@ -39936,8 +39974,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.shinyoung.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-2004-9000, 02-788-7500 / 홈페이지: http://www.shinyoung.com",
+      "phone": "02-2004-9000, 02-788-7500",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -39946,7 +39984,9 @@
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
       "stock_code": "001720",
-      "product": "증권업"
+      "product": "증권업",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.shinyoung.com/?page=00000; title=신영증권; body_bytes=2407; name_score=3; phones=02-2004-9000,02-788-7500; emails=; checked_urls=https://www.shinyoung.com/?page=00000; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "유진증권",
@@ -40136,8 +40176,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.koreastock.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-3772-7100 / 홈페이지: http://www.koreastock.co.kr",
+      "phone": "02-3772-7100",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -40146,7 +40186,9 @@
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
       "stock_code": "003530",
-      "product": "유가증권 위탁매매,자기매매,인수주선"
+      "product": "유가증권 위탁매매,자기매매,인수주선",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.hanwhawm.com/main/customer/customer/CU156_1.cmd; title=메인 > 한화투자증권; body_bytes=17830; name_score=5; phones=02-3772-7100; emails=; checked_urls=https://www.hanwhawm.com/main/main/index.cmd,https://www.hanwhawm.com/main/login/login/index.cmd?redirect=/main/customer/customer/CU131_1.cmd&secure=true&menuIndex=0010080000&fromLogin=true,https://www.hanwhawm.com/main/login/login/index.cmd?redirect=/main/customer/customer/CU132_1.cmd&secure=true&menuIndex=0010080001&fromLogin=true,https://www.hanwhawm.com/main/login/login/index.cmd?redirect=/main/customer/customer/CU133_1.cmd&secure=true&menuIndex=0010080002&fromLogin=true,https://www.hanwhawm.com/main/customer/customer/CU156_1.cmd; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "평화홀딩스",
@@ -40216,9 +40258,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.kcg.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-491-3061, 031-492-0575 / 이메일: insa@kcg.co.kr, sales@kcg.co.kr / 홈페이지: http://www.kcg.co.kr",
+      "phone": "031-491-3061, 031-492-0575",
+      "email": "insa@kcg.co.kr, sales@kcg.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79803",
@@ -40226,7 +40268,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "007810",
-      "product": "인쇄회로기판,Module 제조/부동산(건물) 임대"
+      "product": "인쇄회로기판,Module 제조/부동산(건물) 임대",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.kcg.co.kr/kor/company/history.asp; title=코리아써키트; body_bytes=11317; name_score=5; phones=031-491-3061,031-492-0575; emails=insa@kcg.co.kr,sales@kcg.co.kr; checked_urls=https://www.kcg.co.kr/kor/main.asp,https://www.kcg.co.kr/kor/company/greeting.asp,https://www.kcg.co.kr/kor/company/summary.asp,https://www.kcg.co.kr/kor/company/management_policy.asp,https://www.kcg.co.kr/kor/company/history.asp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "신세계",
@@ -40296,8 +40340,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.aprogen-pharm.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-561-4011 / 홈페이지: http://www.aprogen-pharm.com",
+      "phone": "02-561-4011",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -40306,7 +40350,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "003060",
-      "product": "의약품(항생제,영양수액제,드링크제,철결핍성빈혈예방치료제,경옥동충하초) 제조,판매"
+      "product": "의약품(항생제,영양수액제,드링크제,철결핍성빈혈예방치료제,경옥동충하초) 제조,판매",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.aprogen-biologics.com/standard/04contact/sub05.do; title=에이프로젠바이오로직스; body_bytes=6689; name_score=5; phones=02-561-4011; emails=; checked_urls=https://www.aprogen-biologics.com/index.do,https://www.aprogen-biologics.com/standard/04contact/sub05.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "아남전자",
@@ -40436,8 +40482,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.hkcosm.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-724-3700, 02-724-3715, 02-6360-0603, 02-6360-0683, 043-879-7500, 043-879-7501 / 홈페이지: http://www.hkcosm.com",
+      "phone": "02-724-3700, 02-724-3715, 02-6360-0603, 02-6360-0683, 043-879-7500, 043-879-7501",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -40446,7 +40492,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "003350",
-      "product": "화장품(OEM,ODM)"
+      "product": "화장품(OEM,ODM)",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.hkcosm.com/01_aboutus/07_01_management_eco.jsp; title=(주)한국화장품제조; body_bytes=8670; name_score=5; phones=02-724-3700,02-724-3715,02-6360-0603,02-6360-0683,043-879-7500,043-879-7501; emails=; checked_urls=http://www.hkcosm.com/00_main/main.jsp,http://www.hkcosm.com/01_aboutus/01_about.jsp,http://www.hkcosm.com/01_aboutus/02_ceo.jsp,http://www.hkcosm.com/01_aboutus/03_history.jsp,http://www.hkcosm.com/01_aboutus/07_01_management_eco.jsp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "현대코퍼레이션",
@@ -40736,8 +40784,8 @@
       "region": "부산광역시",
       "address": "",
       "homepage": "http://www.chokwangpaint.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 051-304-7744, 051-304-7701 / 홈페이지: http://www.chokwangpaint.co.kr",
+      "phone": "051-304-7744, 051-304-7701",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -40746,7 +40794,9 @@
       "ksic_major_name": "도매 및 소매업",
       "lead_quality_grade": "A",
       "stock_code": "004910",
-      "product": "도료(우레탄,에나멜,락카,특수도료) 제조,도매"
+      "product": "도료(우레탄,에나멜,락카,특수도료) 제조,도매",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=chrome-error://chromewebdata/; title=조광페인트; body_bytes=20774; name_score=5; phones=051-304-7744,051-304-7701; emails=; checked_urls=https://www.chokwangpaint.co.kr/kr/main/index,https://www.chokwangpaint.co.kr/kr/company/introduce,https://www.chokwangpaint.co.kr/kr/brandinfo/jayeon-n; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "SB성보",
@@ -40796,8 +40846,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.vivien.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-3780-1114, 02-2780-1114, 051-442-1800, 042-252-9307, 053-421-4750, 062-529-9135, 031-371-1600 / 홈페이지: http://www.vivien.co.kr",
+      "phone": "02-3780-1114, 02-2780-1114, 051-442-1800, 042-252-9307, 053-421-4750, 062-529-9135, 031-371-1600",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -40806,7 +40856,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "002070",
-      "product": "여성내의류(스타킹,화운데이숀,란제리),카바링사 제조,수출입/부동산 매매,임대"
+      "product": "여성내의류(스타킹,화운데이숀,란제리),카바링사 제조,수출입/부동산 매매,임대",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.vivien.co.kr/company/directions.php; title=VIVIEN; body_bytes=7359; name_score=3; phones=02-3780-1114,02-2780-1114,051-442-1800,042-252-9307,053-421-4750,062-529-9135,031-371-1600; emails=; checked_urls=https://www.vivien.co.kr/,https://www.vivien.co.kr/company/ideology.php,https://www.vivien.co.kr/company/history.php,https://www.vivien.co.kr/company/brand.php,https://www.vivien.co.kr/company/directions.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "한신공영",
@@ -40856,8 +40908,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.sungshincement.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-3782-7000, 02-3782-7129 / 홈페이지: http://www.sungshincement.co.kr",
+      "phone": "02-3782-7000, 02-3782-7129",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -40866,7 +40918,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "004980",
-      "product": "시멘트,레미콘 제조"
+      "product": "시멘트,레미콘 제조",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.sungshincement.co.kr/kor/about/vision.html; title=성신양회주식회사; body_bytes=47391; name_score=3; phones=02-3782-7000,02-3782-7129; emails=; checked_urls=http://www.sungshincement.co.kr/kor/main/,http://www.sungshincement.co.kr/kor/main/index.html,http://www.sungshincement.co.kr/kor/about/about.html,http://www.sungshincement.co.kr/kor/about/history01.html,http://www.sungshincement.co.kr/kor/about/vision.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "신라교역",
@@ -41136,8 +41190,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.taekwang.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-3406-0200, 02-3406-0300, 02-3406-0428, 053-567-0416, 053-556-7815 / 홈페이지: http://www.taekwang.co.kr",
+      "phone": "02-3406-0200, 02-3406-0300, 02-3406-0428, 053-567-0416, 053-556-7815",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -41146,7 +41200,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "003240",
-      "product": "석유화학제품(PTA,AN),화섬사,직물 등"
+      "product": "석유화학제품(PTA,AN),화섬사,직물 등",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=http://www.taekwang.co.kr/about/platform.asp; title=태광산업; body_bytes=6392; name_score=3; phones=02-3406-0200,02-3406-0300,02-3406-0428,053-567-0416,053-556-7815; emails=; checked_urls=http://www.taekwang.co.kr/,http://www.taekwang.co.kr/about/introduction.asp,http://www.taekwang.co.kr/about/history1.asp,http://www.taekwang.co.kr/about/network_kr1.asp,http://www.taekwang.co.kr/about/platform.asp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "부산주공",
@@ -41176,8 +41232,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.dbhitek.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-6000-0228 / 홈페이지: http://www.dbhitek.co.kr",
+      "phone": "02-6000-0228",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -41186,7 +41242,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "000990",
-      "product": "반도체 제조"
+      "product": "반도체 제조",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.dbhitek.com/kr/customer-support/yourfab/pdk; title=DB HiTek; body_bytes=16142; name_score=5; phones=02-6000-0228; emails=; checked_urls=https://www.dbhitek.com/kr/index,https://www.dbhitek.com/kr/technology/overview,https://www.dbhitek.com/kr/customer-support/yourfab/overview,https://www.dbhitek.com/kr/customer-support/yourfab/shuttlechip,https://www.dbhitek.com/kr/customer-support/yourfab/pdk; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "대림통상",
@@ -41216,8 +41274,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.daishin.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-2239-5477, 02-769-3400, 02-769-3333, 02-769-3888 / 홈페이지: http://www.daishin.com",
+      "phone": "02-2239-5477, 02-769-3400, 02-769-3333, 02-769-3888",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -41226,7 +41284,9 @@
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
       "stock_code": "003540",
-      "product": "유가증권 위탁매매,인수주선,자기매매 기타 금융서비스"
+      "product": "유가증권 위탁매매,인수주선,자기매매 기타 금융서비스",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:industry_next7_enrichment; final_url=https://www.daishin.com/g.ds?p=3979&v=2983&m=4027; title=대신증권; body_bytes=3458; name_score=3; phones=02-2239-5477,02-769-3400,02-769-3333,02-769-3888; emails=; checked_urls=https://www.daishin.com/g.ds?p=3979&v=2983&m=4027; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "NH투자증권",
