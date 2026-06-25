@@ -1160,15 +1160,17 @@
       "region": "서울특별시",
       "address": "서울특별시 강남구 테헤란로 443, 애플트리타워 3층 (삼성동)",
       "homepage": "http://www.berlitz.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 02-3453-4266 / 이메일: sslc@berlitz.co.kr / 홈페이지: http://www.berlitz.co.kr",
+      "phone": "02-3453-4266",
+      "email": "sslc@berlitz.co.kr",
+      "confidence": "high",
       "source": "source_file:j_sw_business_db",
       "id": "75987",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:sw_next3_enrichment; final_url=https://berlitzkoreaonline.com/; title=벌리츠 코리아 | Online & Offline 1:1 Language Courses – berlitzkorea; body_bytes=5650; name_score=5; phones=02-3453-4266,02-775-1441; emails=sslc@berlitz.co.kr; checked_urls=https://berlitzkoreaonline.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "새한데이타시스템",
