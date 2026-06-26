@@ -61603,8 +61603,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.bycmp.com/",
-      "contact": "이정한",
-      "phone": "",
+      "contact": "전화: 031-497-5400, 031-497-5405 / 홈페이지: http://www.bycmp.com/",
+      "phone": "031-497-5400, 031-497-5405",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -61612,7 +61612,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2028-04-18",
-      "id": "109898"
+      "id": "109898",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next25_enrichment; final_url=http://www.bycmp.com/default/00/01.php; title=(주)비와이인더스트리; body_bytes=2278; name_score=3; phones=031-497-5400,031-497-5405; emails=; checked_urls=http://www.bycmp.com/default/00/01.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "동주에이피주식회사",
@@ -61987,16 +61989,18 @@
       "region": "부산",
       "address": "부산",
       "homepage": "http://www.hyundairb.com/",
-      "contact": "이수창,이상철",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 051-260-7000, 051-727-6800 / 이메일: sales@hyundairb.com / 홈페이지: http://www.hyundairb.com/",
+      "phone": "051-260-7000, 051-727-6800",
+      "email": "sales@hyundairb.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2028-08-15",
-      "id": "109921"
+      "id": "109921",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next25_enrichment; final_url=http://eng.hyundairb.com/eng/html/00_main/main.php; title=현대RB; body_bytes=1921; name_score=3; phones=051-260-7000,051-727-6800; emails=sales@hyundairb.com; checked_urls=http://eng.hyundairb.com/eng/html/00_main/main.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "해동고분자산업(주)",
@@ -62025,8 +62029,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.ilsungauto.com/",
-      "contact": "정상기",
-      "phone": "",
+      "contact": "전화: 031-767-1730, 031-767-1732 / 홈페이지: http://www.ilsungauto.com/",
+      "phone": "031-767-1730, 031-767-1732",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -62034,7 +62038,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2028-03-24",
-      "id": "109924"
+      "id": "109924",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next25_enrichment; final_url=http://www.ilsungauto.com/main_ilsung.html; title=(주)일성자동화; body_bytes=500; name_score=3; phones=031-767-1730,031-767-1732; emails=; checked_urls=http://www.ilsungauto.com/main_ilsung.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)혜송",
@@ -67527,16 +67533,18 @@
       "region": "경북",
       "address": "경북",
       "homepage": "http://www.yulim-mc.com/",
-      "contact": "오경춘",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 053-854-2447, 053-854-2441 / 이메일: yulim-mc@hanmail.net / 홈페이지: http://www.yulim-mc.com/",
+      "phone": "053-854-2447, 053-854-2441",
+      "email": "yulim-mc@hanmail.net",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-11-04",
-      "id": "110273"
+      "id": "110273",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next25_enrichment; final_url=http://www.yulim-mc.com/contents/main/; title=유림기계; body_bytes=453; name_score=3; phones=053-854-2447,053-854-2441; emails=yulim-mc@hanmail.net; checked_urls=http://www.yulim-mc.com/contents/main/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "시그마전기(주)",
@@ -68534,16 +68542,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.samilplating.com/",
-      "contact": "임명규",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-438-0580, 031-501-3882 / 이메일: samil0580@hanmail.net / 홈페이지: http://www.samilplating.com/",
+      "phone": "031-438-0580, 031-501-3882",
+      "email": "samil0580@hanmail.net",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2029-05-07",
-      "id": "110343"
+      "id": "110343",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next25_enrichment; final_url=http://www.samilplating.com/main; title=삼일금속; body_bytes=1801; name_score=3; phones=031-438-0580,031-501-3882; emails=samil0580@hanmail.net; checked_urls=http://www.samilplating.com/main; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)명진",
@@ -71478,8 +71488,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.samjungco.com/",
-      "contact": "김기중",
-      "phone": "",
+      "contact": "전화: 031-941-6591, 031-941-6594 / 홈페이지: http://www.samjungco.com/",
+      "phone": "031-941-6591, 031-941-6594",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -71487,7 +71497,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2029-05-18",
-      "id": "110543"
+      "id": "110543",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next25_enrichment; final_url=http://www.samjungco.com/; title=삼중기업 – 용접시스템의리더; body_bytes=2345; name_score=3; phones=031-941-6591,031-941-6594; emails=; checked_urls=http://www.samjungco.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)코피코",
@@ -71898,8 +71910,8 @@
       "region": "인천",
       "address": "인천",
       "homepage": "http://www.igksco.com/",
-      "contact": "안광복",
-      "phone": "",
+      "contact": "전화: 032-575-9093, 032-579-9095 / 홈페이지: http://www.igksco.com/",
+      "phone": "032-575-9093, 032-579-9095",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -71907,7 +71919,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2028-12-12",
-      "id": "110570"
+      "id": "110570",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next25_enrichment; final_url=http://www.igksco.com/document/; title=GKS CO., LTD.; body_bytes=935; name_score=3; phones=032-575-9093,032-579-9095; emails=; checked_urls=http://www.igksco.com/document/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "피티케이(주)",
@@ -72772,16 +72786,18 @@
       "region": "광주",
       "address": "광주",
       "homepage": "http://www.optonest.com/",
-      "contact": "정창윤",
+      "contact": "이메일: sales@optonest.com / 홈페이지: http://www.optonest.com/",
       "phone": "",
-      "email": "",
+      "email": "sales@optonest.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "product": "제조업 / 정보통신 / 인증만료 2028-05-03",
-      "id": "110622"
+      "id": "110622",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next25_enrichment; final_url=http://www.optonest.com/e_index2.php; title=옵토네스트; body_bytes=610; name_score=3; phones=; emails=sales@optonest.com; checked_urls=http://www.optonest.com/e_index2.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)신일퍼니처",
@@ -78247,16 +78263,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://expantel.com/",
-      "contact": "오재정",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-998-6526, 031-998-6528 / 이메일: expantel@expantel.com / 홈페이지: http://expantel.com/",
+      "phone": "031-998-6526, 031-998-6528",
+      "email": "expantel@expantel.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "product": "제조업 / 정보통신 / 인증만료 2028-06-28",
-      "id": "110971"
+      "id": "110971",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next25_enrichment; final_url=http://expantel.com/default/00/01.php; title=(주)익스팬텔; body_bytes=1633; name_score=3; phones=031-998-6526,031-998-6528; emails=expantel@expantel.com; checked_urls=http://expantel.com/default/00/01.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "광호정밀",

@@ -43466,9 +43466,9 @@
       "region": "전국",
       "address": "Korea, Republic of",
       "homepage": "https://www.zefit.co.kr/en",
-      "contact": "https://www.biokorea.org/en/busiPrtnr/company.do?key=2511140001",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 053-716-0816 / 이메일: info@zefit.co.kr / 홈페이지: https://www.zefit.co.kr/en",
+      "phone": "053-716-0816",
+      "email": "info@zefit.co.kr",
       "confidence": "high",
       "source": "source_file:biokorea_2026_partnering_company_homepage",
       "source_page": "https://www.biokorea.org/en/busiPrtnr/company.do?key=2511140001",
@@ -43479,7 +43479,9 @@
       "source_id": "biokorea-2026:583:zefit",
       "country": "Korea, Republic of",
       "source_category": "BIO KOREA 2026",
-      "domestic_proof": "biokorea_country_republic_of_korea"
+      "domestic_proof": "biokorea_country_republic_of_korea",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next25_enrichment; final_url=https://zefit.co.kr/en; title=Preclinical Contract Research for Drug Development | ZEFIT; body_bytes=974; name_score=3; phones=053-716-0816; emails=info@zefit.co.kr; checked_urls=https://zefit.co.kr/en; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95029",

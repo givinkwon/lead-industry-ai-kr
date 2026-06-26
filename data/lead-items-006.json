@@ -82236,7 +82236,7 @@
       "region": "서울",
       "address": "서울 강남구 논현로 4 4층 401",
       "homepage": "http://www.btrcommerce.com",
-      "contact": "https://www.foodweek.co.kr/company-directories/4135?year=2025&hl=ko",
+      "contact": "",
       "phone": "",
       "email": "",
       "confidence": "high",
@@ -82250,7 +82250,9 @@
       "country": "KR",
       "business_type": "도소매",
       "industry_type": "주류수입및판매",
-      "ceo": "차은우"
+      "ceo": "차은우",
+      "verification": "",
+      "evidence": ""
     },
     {
       "id": "91056",
@@ -111779,8 +111781,8 @@
       "region": "전국",
       "address": "South Korea",
       "homepage": "https://www.vasflex.com",
-      "contact": "https://www.bioplusinterphex.co.kr/en-us/visitor/exhibitor_directory/Exhibitor_detail.exh-7c9920ab-dc9b-4b05-b83f-9285139fceb2.html",
-      "phone": "",
+      "contact": "전화: 054-335-4246, 054-335-4247, 053-964-4249, 053-964-4245 / 홈페이지: https://www.vasflex.com",
+      "phone": "054-335-4246, 054-335-4247, 053-964-4249, 053-964-4245",
       "email": "",
       "confidence": "high",
       "source": "source_file:bioplus_interphex_korea_2026_exhibitor_homepage",
@@ -111797,7 +111799,9 @@
         "Contract Manufacturing & Services",
         "Medical Devices, Wellness"
       ],
-      "id": "92393"
+      "id": "92393",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next25_enrichment; final_url=https://www.vasflex.com/; title=바스플렉스; body_bytes=1641; name_score=3; phones=054-335-4246,054-335-4247,053-964-4249,053-964-4245; emails=; checked_urls=https://www.vasflex.com/intro.php,https://www.vasflex.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "BIONUTRION",

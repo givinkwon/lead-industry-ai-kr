@@ -42454,8 +42454,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.bccard.com/",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-950-8510 / 홈페이지: http://www.bccard.com/",
+      "phone": "02-950-8510",
       "email": "",
       "confidence": "high",
       "source": "source_file:fsc_financial_institution_links",
@@ -42463,7 +42463,9 @@
       "ksic_major_code": "K",
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
-      "source_page": "https://www.fsc.go.kr/pa070103"
+      "source_page": "https://www.fsc.go.kr/pa070103",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next25_enrichment; final_url=http://www.bccard.com/; title=BCcard; body_bytes=938; name_score=3; phones=02-950-8510; emails=; checked_urls=http://www.bccard.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "신한카드",
@@ -43005,8 +43007,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.hanwhawm.com/",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-3772-7100 / 홈페이지: http://www.hanwhawm.com/",
+      "phone": "02-3772-7100",
       "email": "",
       "confidence": "high",
       "source": "source_file:fsc_financial_institution_links",
@@ -43014,7 +43016,9 @@
       "ksic_major_code": "K",
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
-      "source_page": "https://www.fsc.go.kr/pa070103"
+      "source_page": "https://www.fsc.go.kr/pa070103",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next25_enrichment; final_url=https://www.hanwhawm.com/main/main/index.cmd; title=메인 > 한화투자증권; body_bytes=4120; name_score=3; phones=02-3772-7100; emails=; checked_urls=https://www.hanwhawm.com/main/main/index.cmd; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "피데스투자자문",
@@ -43043,8 +43047,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://esop.ksfc.co.kr//",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-3770-8800 / 홈페이지: http://esop.ksfc.co.kr//",
+      "phone": "02-3770-8800",
       "email": "",
       "confidence": "high",
       "source": "source_file:fsc_financial_institution_links",
@@ -43052,7 +43056,9 @@
       "ksic_major_code": "K",
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
-      "source_page": "https://www.fsc.go.kr/pa070103"
+      "source_page": "https://www.fsc.go.kr/pa070103",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next25_enrichment; final_url=https://esop.ksfc.co.kr/index.jsp; title=한국증권금융 우리사주뱅킹; body_bytes=943; name_score=3; phones=02-3770-8800; emails=; checked_urls=https://esop.ksfc.co.kr/index.jsp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "한국투자증권",
