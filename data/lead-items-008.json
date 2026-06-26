@@ -41237,16 +41237,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.motherkmall.co.kr/",
-      "contact": "김민정",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 070-4706-1472 / 이메일: salesteam@motherk.co.kr, overseas@motherk.co.kr, marketing@motherk.co.kr, planning@motherk.co.kr / 홈페이지: http://www.motherkmall.co.kr/",
+      "phone": "070-4706-1472",
+      "email": "salesteam@motherk.co.kr, overseas@motherk.co.kr, marketing@motherk.co.kr, planning@motherk.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2027-06-12",
-      "id": "102323"
+      "id": "102323",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.motherkmall.co.kr/; title=마더케이, 엄마의 행복을 위한 새로운 생각; body_bytes=40400; name_score=4; phones=070-4706-1472; emails=salesteam@motherk.co.kr,overseas@motherk.co.kr,marketing@motherk.co.kr,planning@motherk.co.kr; checked_urls=https://www.motherkmall.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "농부플러스 농업회사법인 주식회사",
@@ -42113,8 +42115,8 @@
       "region": "부산",
       "address": "부산",
       "homepage": "http://dsfckorea.co.kr/",
-      "contact": "유수용",
-      "phone": "",
+      "contact": "전화: 051-941-8280 / 홈페이지: http://dsfckorea.co.kr/",
+      "phone": "051-941-8280",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -42122,7 +42124,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2029-03-01",
-      "id": "102375"
+      "id": "102375",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://dsfckorea.co.kr/; title=동승정밀화학; body_bytes=1231; name_score=4; phones=051-941-8280; emails=; checked_urls=http://dsfckorea.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)부건애드",

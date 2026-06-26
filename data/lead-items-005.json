@@ -16264,9 +16264,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://lenic.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2038-3999, 02-2038-0074 / 이메일: miju@lenic.co.kr / 홈페이지: http://lenic.co.kr",
+      "phone": "02-2038-3999, 02-2038-0074",
+      "email": "miju@lenic.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78442",
@@ -16274,7 +16274,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "351020",
-      "product": "여성의류, 골프의류 등"
+      "product": "여성의류, 골프의류 등",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.lenic.co.kr/contact/direction; title=오시는 길 – LeNIC & McCOY, Repen Studio, LeNIC & Golf | MIJU Korea; body_bytes=707; name_score=3; phones=02-2038-3999,02-2038-0074; emails=miju@lenic.co.kr; checked_urls=https://www.lenic.co.kr/,https://www.lenic.co.kr/#,https://www.lenic.co.kr/company/overview,https://www.lenic.co.kr/company/history,https://www.lenic.co.kr/company/greeting,https://www.lenic.co.kr/company/esg,https://www.lenic.co.kr/contact/direction; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "워트",
@@ -18724,9 +18726,9 @@
       "region": "충청남도",
       "address": "",
       "homepage": "http://gitec.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 041-543-1316 / 이메일: gi@gitech.com / 홈페이지: http://gitec.kr",
+      "phone": "041-543-1316",
+      "email": "gi@gitech.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78566",
@@ -18734,7 +18736,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "382480",
-      "product": "SLOT DIE, SLIT NOZZLE, REPAIR, 기타"
+      "product": "SLOT DIE, SLIT NOZZLE, REPAIR, 기타",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.gitech.com/kor/sub1_2.php; title=GITECH; body_bytes=2273; name_score=3; phones=041-543-1316; emails=gi@gitech.com; checked_urls=https://www.gitech.com/kor/,https://www.gitech.com/kor/sub1_1.php,https://www.gitech.com/kor/sub1_2.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "씨유테크",
@@ -21774,8 +21778,8 @@
       "region": "경상북도",
       "address": "",
       "homepage": "http://wonbiogen.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 054-462-7965, 054-471-7963 / 홈페이지: http://wonbiogen.co.kr",
+      "phone": "054-462-7965, 054-471-7963",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -21784,7 +21788,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "307280",
-      "product": "창상피복제, 습윤드레싱제"
+      "product": "창상피복제, 습윤드레싱제",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://wonbiogen.co.kr/kor/main/?; title=원바이오젠; body_bytes=1940; name_score=4; phones=054-462-7965,054-471-7963; emails=; checked_urls=http://wonbiogen.co.kr/kor/main/?; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "엠아이텍",
@@ -21996,9 +22002,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.creas.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-3409-3000, 02-3409-3023, 031-761-4500 / 이메일: marketing@creas.co.kr / 홈페이지: http://www.creas.co.kr",
+      "phone": "02-3409-3000, 02-3409-3023, 031-761-4500",
+      "email": "marketing@creas.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78751",
@@ -22006,7 +22012,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "110790",
-      "product": "골프웨어"
+      "product": "골프웨어",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://www.creas.co.kr/about/contact_us.asp; title=CONTACT US | CREAS F&C; body_bytes=539; name_score=4; phones=02-3409-3000,02-3409-3023,031-761-4500; emails=marketing@creas.co.kr; checked_urls=http://www.creas.co.kr/main/main.asp,http://www.creas.co.kr/about/profile.asp,http://www.creas.co.kr/about/overview.asp,http://www.creas.co.kr/about/history.asp,http://www.creas.co.kr/about/contact_us.asp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "더블유에스아이",
@@ -23146,8 +23154,8 @@
       "region": "인천광역시",
       "address": "",
       "homepage": "http://www.hims.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 032-821-2511, 032-819-1660 / 홈페이지: http://www.hims.co.kr",
+      "phone": "032-821-2511, 032-819-1660",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -23156,7 +23164,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "238490",
-      "product": "OLED Mask 인장기, OLED Mask 검사기 등"
+      "product": "OLED Mask 인장기, OLED Mask 검사기 등",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://www.hims.co.kr/kor/main.asp; title=(주)힘스에 오신 것을 환영합니다 > 힘스; body_bytes=2461; name_score=3; phones=032-821-2511,032-819-1660; emails=; checked_urls=http://www.hims.co.kr/kor/main.asp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "아우딘퓨쳐스",
@@ -23268,8 +23278,8 @@
       "region": "인천광역시",
       "address": "",
       "homepage": "http://www.elensys.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 032-573-7542 / 홈페이지: http://www.elensys.co.kr",
+      "phone": "032-573-7542",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -23278,7 +23288,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "264850",
-      "product": "비데도어락부품"
+      "product": "비데도어락부품",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.elensys.co.kr/index.php?menu_code1=1&menu_code2=235; title=오시는 길 - 이랜시스 홈페이지에 오신 것을 환영합니다.:::; body_bytes=1031; name_score=4; phones=032-573-7542; emails=; checked_urls=https://www.elensys.co.kr/index.php?userAgent=PC&,https://www.elensys.co.kr/index.php?menu_code1=membership&menu_code2=sitemap,https://www.elensys.co.kr/index.php?menu_code1=1,https://www.elensys.co.kr/index.php?menu_code1=1&menu_code2=232,https://www.elensys.co.kr/index.php?menu_code1=1&menu_code2=235; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "필옵틱스",
@@ -24614,8 +24626,8 @@
       "region": "강원특별자치도",
       "address": "",
       "homepage": "http://www.hugel.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 033-815-5200, 02-6966-1600 / 홈페이지: http://www.hugel.co.kr",
+      "phone": "033-815-5200, 02-6966-1600",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -24624,7 +24636,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "145020",
-      "product": "보툴리눔톡신, 필러"
+      "product": "보툴리눔톡신, 필러",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.hugel-inc.com/kr; title=휴젤; body_bytes=2918; name_score=2; phones=033-815-5200,02-6966-1600; emails=; checked_urls=https://www.hugel-inc.com/kr; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "한국맥널티",
@@ -30032,8 +30046,8 @@
       "region": "부산광역시",
       "address": "",
       "homepage": "http://www.hanlalevel.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 051-601-7000, 051-831-1850, 061-798-7690, 061-798-7676, 051-601-7339, 051-831-1856 / 홈페이지: http://www.hanlalevel.co.kr",
+      "phone": "051-601-7000, 051-831-1850, 061-798-7690, 061-798-7676, 051-601-7339, 051-831-1856",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -30042,7 +30056,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "092460",
-      "product": "선용원격자동측정시스템,선용원격자동경보시스템"
+      "product": "선용원격자동측정시스템,선용원격자동경보시스템",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://www.hanlaims.com/bbs/board.php?bo_table=notice; title=NOTICE 1 Page | HANLA IMS; body_bytes=3367; name_score=3; phones=051-601-7000,051-831-1850,061-798-7690,061-798-7676,051-601-7339,051-831-1856; emails=; checked_urls=http://www.hanlaims.com/,http://www.hanlaims.com/page/sub_01_01.php,http://www.hanlaims.com/page/sub_01_02.php,http://www.hanlaims.com/page/sub_01_07.php,http://www.hanlaims.com/bbs/board.php?bo_table=notice; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "이엠텍",
@@ -30052,9 +30068,9 @@
       "region": "경상남도",
       "address": "",
       "homepage": "http://www.em-tech.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 055-710-6000, 070-4030-6800, 070-4776-1416 / 이메일: emtech@em-tech.co.kr / 홈페이지: http://www.em-tech.co.kr",
+      "phone": "055-710-6000, 070-4030-6800, 070-4776-1416",
+      "email": "emtech@em-tech.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79212",
@@ -30062,7 +30078,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "091120",
-      "product": "마이크로스피커,리시버"
+      "product": "마이크로스피커,리시버",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.em-tech.co.kr/page/ceo.html; title=Company | EM-Tech; body_bytes=1529; name_score=3; phones=055-710-6000,070-4030-6800,070-4776-1416; emails=emtech@em-tech.co.kr; checked_urls=https://www.em-tech.co.kr/page/index.html,https://www.em-tech.co.kr/page/ceo.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "참좋은여행",
@@ -30132,8 +30150,8 @@
       "region": "충청남도",
       "address": "",
       "homepage": "http://www.jastech.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 041-421-5000, 041-421-5099, 041-410-2000, 041-410-2099, 041-411-2600, 041-411-2599, 02-6942-6700, 02-6942-6799 / 홈페이지: http://www.jastech.co.kr",
+      "phone": "041-421-5000, 041-421-5099, 041-410-2000, 041-410-2099, 041-411-2600, 041-411-2599, 02-6942-6700, 02-6942-6799",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -30142,7 +30160,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "090470",
-      "product": "기계장비(디스플레이장비)"
+      "product": "기계장비(디스플레이장비)",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://jasrobotics.co.kr/company-directions.html; title=(주)제이스로보틱스입니다.; body_bytes=1513; name_score=3; phones=041-421-5000,041-421-5099,041-410-2000,041-410-2099,041-411-2600,041-411-2599,02-6942-6700,02-6942-6799; emails=; checked_urls=https://jasrobotics.co.kr/,https://jasrobotics.co.kr/index.html,https://jasrobotics.co.kr/company-overview.html,https://jasrobotics.co.kr/company-ceo-message.html,https://jasrobotics.co.kr/company-history.html,https://jasrobotics.co.kr/company-ci.html,https://jasrobotics.co.kr/company-management-philosophy.html,https://jasrobotics.co.kr/company-ethics-management.html,https://jasrobotics.co.kr/company-contact-us.html,https://jasrobotics.co.kr/company-directions.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "동아엘텍",
@@ -30394,9 +30414,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.kec.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2025-5000, 02-527-4170 / 이메일: sales@kec.co.kr, kec_sh@kec.co.kr, kec_hk@kec.co.kr, kec_jp@kec.co.kr, kec_twn@kec.co.kr, kec_th@kec.co.kr, kec_sg@kec.co.kr, kec_a@kec.co.kr / 홈페이지: http://www.kec.co.kr",
+      "phone": "02-2025-5000, 02-527-4170",
+      "email": "sales@kec.co.kr, kec_sh@kec.co.kr, kec_hk@kec.co.kr, kec_jp@kec.co.kr, kec_twn@kec.co.kr, kec_th@kec.co.kr, kec_sg@kec.co.kr, kec_a@kec.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79232",
@@ -30404,7 +30424,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "092220",
-      "product": "반도체 제조"
+      "product": "반도체 제조",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.keccorp.com/kr/company/location.asp; title=사업장 소개 - About KEC - KEC Corporation | Trusted Power Semiconductor Company; body_bytes=2081; name_score=2; phones=02-2025-5000,02-527-4170; emails=sales@kec.co.kr,kec_sh@kec.co.kr,kec_hk@kec.co.kr,kec_jp@kec.co.kr,kec_twn@kec.co.kr,kec_th@kec.co.kr,kec_sg@kec.co.kr,kec_a@kec.co.kr; checked_urls=https://www.keccorp.com/kr/index.asp,https://www.keccorp.com/kr/application/application_list.asp?part1_idx=142,https://www.keccorp.com/kr/support/support_finder.asp,https://www.keccorp.com/kr/support/reference.asp,https://www.keccorp.com/kr/support/packaging.asp,https://www.keccorp.com/kr/support/webinar_list.asp,https://www.keccorp.com/kr/company/overview.asp,https://www.keccorp.com/kr/company/location.asp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "바텍",
@@ -30614,8 +30636,8 @@
       "region": "인천광역시",
       "address": "",
       "homepage": "http://www.aceantenna.co.kr/kor/",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 032-458-1700, 032-458-1701 / 홈페이지: http://www.aceantenna.co.kr/kor/",
+      "phone": "032-458-1700, 032-458-1701",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -30624,7 +30646,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "088800",
-      "product": "단말기용안테나,기지국용안테나"
+      "product": "단말기용안테나,기지국용안테나",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://www.aceantenna.co.kr/; title=에이스안테나; body_bytes=3548; name_score=4; phones=032-458-1700,032-458-1701; emails=; checked_urls=http://html.iceserver.co.kr/404.html,http://www.aceantenna.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "맥쿼리인프라",
@@ -31848,9 +31872,9 @@
       "region": "경상남도",
       "address": "",
       "homepage": "http://www.estec.co.kr",
-      "contact": "",
+      "contact": "이메일: qna@estec.co.kr / 홈페이지: http://www.estec.co.kr",
       "phone": "",
-      "email": "",
+      "email": "qna@estec.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79317",
@@ -31858,7 +31882,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "069510",
-      "product": "스피커 및 스피커시스템"
+      "product": "스피커 및 스피커시스템",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.estec.co.kr/kr/index.php?pCode=inquiry; title=문의하기>고객지원 | 에스텍; body_bytes=2085; name_score=3; phones=; emails=qna@estec.co.kr; checked_urls=https://www.estec.co.kr/kr/index.php,https://www.estec.co.kr/kr/index.php?pCode=sitemap,https://www.estec.co.kr/kr/index.php?pCode=greeting,https://www.estec.co.kr/kr/index.php?pCode=location1,https://www.estec.co.kr/kr/index.php?pCode=prod01,https://www.estec.co.kr/kr/index.php?pCode=news,https://www.estec.co.kr/kr/index.php?pCode=inquiry; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "오텍",
@@ -33236,8 +33262,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.ilya.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-332-1927 / 홈페이지: http://www.ilya.co.kr",
+      "phone": "02-332-1927",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -33246,7 +33272,9 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "stock_code": "058450",
-      "product": "컴퓨터, 복사기 등의 부품"
+      "product": "컴퓨터, 복사기 등의 부품",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://hanjooart.com/; title=한주에이알티 주식회사; body_bytes=1923; name_score=3; phones=02-332-1927; emails=; checked_urls=https://hanjooart.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "미코",
@@ -33522,8 +33550,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.sfa.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 041-421-3902, 041-421-3951, 041-520-6400, 053-539-1552 / 홈페이지: http://www.sfa.co.kr",
+      "phone": "041-421-3902, 041-421-3951, 041-520-6400, 053-539-1552",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -33532,7 +33560,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "056190",
-      "product": "디스플레이, 2차전지, 반도체 제조설비 및 공장자동화기기"
+      "product": "디스플레이, 2차전지, 반도체 제조설비 및 공장자동화기기",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.sfa.co.kr/company06/; title=SFA Family - SFA; body_bytes=2535; name_score=4; phones=041-421-3902,041-421-3951,041-520-6400,053-539-1552; emails=; checked_urls=https://www.sfa.co.kr/,https://www.sfa.co.kr/#,https://www.sfa.co.kr/company01/,https://www.sfa.co.kr/service01/,https://www.sfa.co.kr/company02/,https://www.sfa.co.kr/company03/,https://www.sfa.co.kr/company04/,https://www.sfa.co.kr/company05/,https://www.sfa.co.kr/company06/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "신화인터텍",
@@ -34008,8 +34038,8 @@
       "region": "충청남도",
       "address": "",
       "homepage": "http://sungroup.kr/taeyangsun/",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-2186-1114, 02-2186-1249, 041-621-9810, 041-621-9821 / 홈페이지: http://sungroup.kr/taeyangsun/",
+      "phone": "02-2186-1114, 02-2186-1249, 041-621-9810, 041-621-9821",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -34018,7 +34048,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "053620",
-      "product": "휴대용 부탄가스, 에어졸캔, 외주수탁품"
+      "product": "휴대용 부탄가스, 에어졸캔, 외주수탁품",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://www.sungroup.kr/taeyangsun/sub0101.jsp; title=태양산업 방문을 환영합니다.; body_bytes=1564; name_score=3; phones=02-2186-1114,02-2186-1249,041-621-9810,041-621-9821; emails=; checked_urls=http://sungroup.kr/taeyangsun/,http://www.sungroup.kr/taeyangsun/sub0101.jsp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "오션인더블유",
@@ -34090,9 +34122,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://joongangdnm.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 070-5015-4884, 02-6953-7629 / 이메일: lki@joongangdnm.com / 홈페이지: http://joongangdnm.co.kr",
+      "phone": "070-5015-4884, 02-6953-7629",
+      "email": "lki@joongangdnm.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79445",
@@ -34100,7 +34132,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "051980",
-      "product": "통신장비 등"
+      "product": "통신장비 등",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://joongangdnm.co.kr/home/; title=㈜중앙첨단소재; body_bytes=3668; name_score=4; phones=070-5015-4884,02-6953-7629; emails=lki@joongangdnm.com; checked_urls=http://joongangdnm.co.kr/home/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "세아홀딩스",
@@ -34150,8 +34184,8 @@
       "region": "인천광역시",
       "address": "",
       "homepage": "http://www.kortek.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 032-860-3000 / 홈페이지: http://www.kortek.co.kr",
+      "phone": "032-860-3000",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -34160,7 +34194,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "052330",
-      "product": "산업용 모니터"
+      "product": "산업용 모니터",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://www.kortek.co.kr/kor/index.do; title=코텍; body_bytes=1917; name_score=3; phones=032-860-3000; emails=; checked_urls=http://www.kortek.co.kr/kor/index.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "큐로홀딩스",
@@ -34492,8 +34528,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.cands.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-550-0800, 02-6969-5147, 02-550-0900, 063-536-7885, 02-550-0907, 031-794-0225 / 홈페이지: http://www.cands.co.kr",
+      "phone": "02-550-0800, 02-6969-5147, 02-550-0900, 063-536-7885, 02-550-0907, 031-794-0225",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -34502,7 +34538,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "045520",
-      "product": "자동차용 여과지"
+      "product": "자동차용 여과지",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://www.cands.co.kr/about-us-contact-us/; title=[ About Us ] Contact Us – Clean & Science; body_bytes=1055; name_score=4; phones=02-550-0800,02-6969-5147,02-550-0900,063-536-7885,02-550-0907,031-794-0225; emails=; checked_urls=http://www.cands.co.kr/,http://www.cands.co.kr/about-cs/,http://www.cands.co.kr/aboutus-history/,http://www.cands.co.kr/about-us-notice/,http://www.cands.co.kr/about-us-contact-us/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "이글벳",
@@ -35302,8 +35340,8 @@
       "region": "인천광역시",
       "address": "",
       "homepage": "http://www.sun-kwang.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 032-880-6500, 032-880-6632, 032-770-0070 / 홈페이지: http://www.sun-kwang.co.kr",
+      "phone": "032-880-6500, 032-880-6632, 032-770-0070",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -35312,7 +35350,9 @@
       "ksic_major_name": "운수 및 창고업",
       "lead_quality_grade": "A",
       "stock_code": "003100",
-      "product": "항만하역, 해사(바다모래)"
+      "product": "항만하역, 해사(바다모래)",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://www.sun-kwang.co.kr/; title=선광; body_bytes=4332; name_score=3; phones=032-880-6500,032-880-6632,032-770-0070; emails=; checked_urls=http://www.sun-kwang.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "에이치엠넥스",
@@ -35444,9 +35484,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.yoosungtns.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-3416-6600 / 이메일: elsystems@daum.net / 홈페이지: http://www.yoosungtns.co.kr",
+      "phone": "02-3416-6600",
+      "email": "elsystems@daum.net",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79523",
@@ -35454,7 +35494,9 @@
       "ksic_major_name": "운수 및 창고업",
       "lead_quality_grade": "A",
       "stock_code": "024800",
-      "product": "운송,C형강,차량정비"
+      "product": "운송,C형강,차량정비",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://www.yoosungtns.co.kr/home/tns/base/sub004/sub001.php; title=유성TNS; body_bytes=1882; name_score=4; phones=02-3416-6600; emails=elsystems@daum.net; checked_urls=http://www.yoosungtns.co.kr/home/tns/base/index.php,http://www.yoosungtns.co.kr/home/tns/base/sub001/sub003.php,http://www.yoosungtns.co.kr/home/tns/base/sub001/sub008.php,http://www.yoosungtns.co.kr/home/tns/base/sub001/sub009.php,http://www.yoosungtns.co.kr/home/tns/base/sub004/sub001.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "코리아나",
@@ -36232,9 +36274,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.bit.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 051-920-6700, 02-3486-0050, 02-3486-0987, 02-3486-5432, 02-3486-1068, 02-3487-8585, 02-3443-5314, 02-3486-1061 / 이메일: kh2@bit.kr, hib@bit.kr, drbit@bit.kr, bitdigitalhealth@gmail.com, medigent@bit.kr, job@bit.kr, bitcampus@bit.kr, b-time@bit.kr / 홈페이지: http://www.bit.co.kr",
+      "phone": "051-920-6700, 02-3486-0050, 02-3486-0987, 02-3486-5432, 02-3486-1068, 02-3487-8585, 02-3443-5314, 02-3486-1061",
+      "email": "kh2@bit.kr, hib@bit.kr, drbit@bit.kr, bitdigitalhealth@gmail.com, medigent@bit.kr, job@bit.kr, bitcampus@bit.kr, b-time@bit.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79565",
@@ -36242,7 +36284,9 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "stock_code": "032850",
-      "product": "의료정보시스템"
+      "product": "의료정보시스템",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://www.bit.co.kr/contents/customer_support.php; title=BIT; body_bytes=2207; name_score=4; phones=051-920-6700,02-3486-0050,02-3486-0987,02-3486-5432,02-3486-1068,02-3487-8585,02-3443-5314,02-3486-1061; emails=kh2@bit.kr,hib@bit.kr,drbit@bit.kr,bitdigitalhealth@gmail.com,medigent@bit.kr,job@bit.kr,bitcampus@bit.kr,b-time@bit.kr; checked_urls=http://www.bit.co.kr/,http://www.bit.co.kr/contents/company_introduce.php,http://www.bit.co.kr/contents/company_history.php,http://www.bit.co.kr/contents/company_management.php,http://www.bit.co.kr/contents/company_business.php,http://www.bit.co.kr/contents/company_location.php,http://www.bit.co.kr/contents/products_0101.php,http://www.bit.co.kr/contents/customer_support.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "판타지오",
@@ -36292,9 +36336,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.inzi.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-496-1700, 031-499-8760, 031-496-1726, 031-496-7623, 031-496-1760 / 이메일: finance@inzi.co.kr, sales1@inzi.co.kr, esgtft@inzi.co.kr / 홈페이지: http://www.inzi.co.kr",
+      "phone": "031-496-1700, 031-499-8760, 031-496-1726, 031-496-7623, 031-496-1760",
+      "email": "finance@inzi.co.kr, sales1@inzi.co.kr, esgtft@inzi.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79569",
@@ -36302,7 +36346,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "023800",
-      "product": "자동차부품(터머스위치,터머스탯) 제조"
+      "product": "자동차부품(터머스위치,터머스탯) 제조",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://www.inzi.co.kr/kr/sub/company/map.asp; title=인지컨트롤스; body_bytes=680; name_score=4; phones=031-496-1700,031-499-8760,031-496-1726,031-496-7623,031-496-1760; emails=finance@inzi.co.kr,sales1@inzi.co.kr,esgtft@inzi.co.kr; checked_urls=http://www.inzi.co.kr/kr/,http://www.inzi.co.kr/kr/sub/product/list.asp,http://www.inzi.co.kr/kr/sub/company/about.asp,http://www.inzi.co.kr/kr/sub/company/greeting.asp,http://www.inzi.co.kr/kr/sub/company/vision.asp,http://www.inzi.co.kr/kr/sub/company/history.asp,http://www.inzi.co.kr/kr/sub/company/global.asp,http://www.inzi.co.kr/kr/sub/company/map.asp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "피델릭스",
@@ -36794,8 +36840,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.handsome.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-6078-2856 / 홈페이지: http://www.handsome.co.kr",
+      "phone": "02-6078-2856",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -36804,7 +36850,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "020000",
-      "product": "여성의류,금속 액세서리,신발,가방,선글라스 제조,판매"
+      "product": "여성의류,금속 액세서리,신발,가방,선글라스 제조,판매",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.handsome.co.kr/ko/company/wayToCome.do; title=한섬 ｜ HANDSOME Corp.; body_bytes=800; name_score=3; phones=02-6078-2856; emails=; checked_urls=https://www.handsome.co.kr/ko/main.do,https://www.handsome.co.kr/ko/company/aboutHandsome.do,https://www.handsome.co.kr/ko/company/ceoMessage.do,https://www.handsome.co.kr/ko/company/history.do,https://www.handsome.co.kr/ko/company/wayToCome.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "삼목에스폼",
@@ -36854,9 +36902,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.swbrass.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-365-8700, 031-491-6577 / 이메일: seowon@swbrass.co.kr / 홈페이지: http://www.swbrass.co.kr",
+      "phone": "031-365-8700, 031-491-6577",
+      "email": "seowon@swbrass.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79605",
@@ -36864,7 +36912,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "021050",
-      "product": "비철금속(황동 빌레트,인코트) 제조,재생원료생산"
+      "product": "비철금속(황동 빌레트,인코트) 제조,재생원료생산",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://www.swbrass.co.kr/kor/index.asp; title=주식회사 서원; body_bytes=1753; name_score=3; phones=031-365-8700,031-491-6577; emails=seowon@swbrass.co.kr; checked_urls=http://www.swbrass.co.kr/kor/index.asp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "태경산업",
@@ -37016,8 +37066,8 @@
       "region": "부산광역시",
       "address": "",
       "homepage": "http://www.swhitech.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 070-7477-5000, 055-366-5900, 051-728-3516 / 홈페이지: http://www.swhitech.co.kr",
+      "phone": "070-7477-5000, 055-366-5900, 051-728-3516",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -37026,7 +37076,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "015750",
-      "product": "자동차범퍼"
+      "product": "자동차범퍼",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.swhitech.co.kr/kr/; title=성우하이텍; body_bytes=6232; name_score=4; phones=070-7477-5000,055-366-5900,051-728-3516; emails=; checked_urls=https://www.swhitech.co.kr/kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "서울도시가스",
@@ -39006,8 +39058,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.mwc.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 000-2010-2020 / 홈페이지: http://www.mwc.co.kr",
+      "phone": "000-2010-2020",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -39016,7 +39068,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "002840",
-      "product": "계면활성제,분황,황산,도료첨가제,프라스틱첨가제 제조"
+      "product": "계면활성제,분황,황산,도료첨가제,프라스틱첨가제 제조",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.mwc.co.kr/kor/Company/sub3.php; title=Miwon Commercial Co., Ltd.; body_bytes=3326; name_score=4; phones=000-2010-2020; emails=; checked_urls=https://www.mwc.co.kr/kor/,https://www.mwc.co.kr/kor/?#CONTACTUS,https://www.mwc.co.kr/kor/Company/sub1.php,https://www.mwc.co.kr/kor/Company/sub2.php,https://www.mwc.co.kr/kor/Company/sub3.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "서연",

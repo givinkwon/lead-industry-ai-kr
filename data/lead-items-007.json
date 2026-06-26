@@ -22892,8 +22892,8 @@
       "region": "경기도",
       "address": "Icheon-si, Gyeonggi-do, Korea (South)",
       "homepage": "http://www.bcnc.co.kr/en",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 000-341-5413, 035-5224-6642, 031-638-8434, 031-638-8436 / 홈페이지: http://www.bcnc.co.kr/en",
+      "phone": "000-341-5413, 035-5224-6642, 031-638-8434, 031-638-8436",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -22906,7 +22906,9 @@
       "source_note": "",
       "country": "Korea, Republic of",
       "source_id": "semicon-2026-bcnc-bcnc.co.kr",
-      "id": "94045"
+      "id": "94045",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.bcnc.co.kr/kr/index.php; title=비씨엔씨; body_bytes=5962; name_score=4; phones=000-341-5413,035-5224-6642,031-638-8434,031-638-8436; emails=; checked_urls=https://www.bcnc.co.kr/en/,https://www.bcnc.co.kr/en/company/greeting.php,https://www.bcnc.co.kr/en/company/esg.php,https://www.bcnc.co.kr/en/company/ci.php,https://www.bcnc.co.kr/en/company/intro.php,https://www.bcnc.co.kr/en/company/history.php,https://www.bcnc.co.kr/en/company/partners.php,https://www.bcnc.co.kr/en/company/location.php,https://www.bcnc.co.kr/en/company/report.php,https://www.bcnc.co.kr/kr/index.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "BISTELLIGENCE",
@@ -25068,8 +25070,8 @@
       "region": "대전",
       "address": "Daejeon City, Korea (South)",
       "homepage": "http://www.spacesolutions.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 042-936-0444, 042-936-0449 / 홈페이지: http://www.spacesolutions.co.kr",
+      "phone": "042-936-0444, 042-936-0449",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -25082,7 +25084,9 @@
       "source_note": "A Leading Company in Fluid Control Products & Solutions",
       "country": "Korea, Republic of",
       "source_id": "semicon-2026-spacesolutions-spacesolutions.co.kr",
-      "id": "94135"
+      "id": "94135",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://www.spacesolutions.co.kr/contact; title=(주)스페이스솔루션; body_bytes=4941; name_score=10; phones=042-936-0444,042-936-0449; emails=; checked_urls=http://www.spacesolutions.co.kr/main,http://www.spacesolutions.co.kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "SUNJE",
@@ -42579,8 +42583,8 @@
       "region": "전국",
       "address": "Korea, Republic of",
       "homepage": "https://en.medi-post.co.kr/",
-      "contact": "https://www.biokorea.org/en/busiPrtnr/company.do?key=2511140001",
-      "phone": "",
+      "contact": "전화: 015-2006-2010 / 홈페이지: https://en.medi-post.co.kr/",
+      "phone": "015-2006-2010",
       "email": "",
       "confidence": "high",
       "source": "source_file:biokorea_2026_partnering_company_homepage",
@@ -42592,7 +42596,9 @@
       "source_id": "biokorea-2026:362:medipost",
       "country": "Korea, Republic of",
       "source_category": "BIO KOREA 2026",
-      "domestic_proof": "biokorea_country_republic_of_korea"
+      "domestic_proof": "biokorea_country_republic_of_korea",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://en.medi-post.co.kr/intro/; title=COMPANY – MEDIPOST; body_bytes=2956; name_score=4; phones=015-2006-2010; emails=; checked_urls=https://en.medi-post.co.kr/,https://en.medi-post.co.kr/support/#location,https://en.medi-post.co.kr/intro/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "94986",
@@ -61484,9 +61490,9 @@
       "region": "전국",
       "address": "815 DAEWANGPANGYO-RO, SUJEONG-GU, SEONGNAM-SI, GYEONGGI-DO, REPUBLIC OF KOREA 858 HO",
       "homepage": "https://kidstopia.co.kr",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
+      "contact": "이메일: contact@inculabplus.com / 홈페이지: https://kidstopia.co.kr",
       "phone": "",
-      "email": "",
+      "email": "contact@inculabplus.com",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
@@ -61500,7 +61506,9 @@
       "category_names": [
         "KMF",
         "물류자동화·운반장비"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://kidstopia.co.kr/; title=키즈토피아 홈; body_bytes=1986; name_score=13; phones=; emails=contact@inculabplus.com; checked_urls=https://kidstopia.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95901",
@@ -62130,9 +62138,9 @@
       "region": "전국",
       "address": "108-105 BANCHEONSANEOP-RO, EONYANG-EUP, ULJU-GUN, ULSAN, REPUBLIC OF KOREA K-ROAD ROBOTICS",
       "homepage": "https://www.k-roadrobotics.com",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
+      "contact": "이메일: kjs87222@hanmail.net / 홈페이지: https://www.k-roadrobotics.com",
       "phone": "",
-      "email": "",
+      "email": "kjs87222@hanmail.net",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
@@ -62146,7 +62154,9 @@
       "category_names": [
         "Robot Tech Show",
         "물류자동화·운반장비"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.k-roadrobotics.com/index2.htm; title=숙취해소에 좋은 헛개나무 - 헛개나무농장; body_bytes=630; name_score=7; phones=; emails=kjs87222@hanmail.net; checked_urls=https://www.k-roadrobotics.com/index2.htm; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95928",
@@ -62610,9 +62620,9 @@
       "region": "전국",
       "address": "35 BAEKBEOM-RO, MAPO-GU, SEOUL, REPUBLIC OF KOREA RM. 405, TEILHARD HALL",
       "homepage": "https://mpwav.com",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
+      "contact": "이메일: contact@mpwav.com / 홈페이지: https://mpwav.com",
       "phone": "",
-      "email": "",
+      "email": "contact@mpwav.com",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
@@ -62626,7 +62636,9 @@
       "category_names": [
         "Smart Tech Show",
         "디지털헬스케어"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://mpwav.com/; title=mpWAV; body_bytes=19411; name_score=4; phones=; emails=contact@mpwav.com; checked_urls=https://mpwav.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95951",
@@ -63002,9 +63014,9 @@
       "region": "전국",
       "address": "108 YEOUI-DAERO, YEONGDEUNGPO-GU, SEOUL, REPUBLIC OF KOREA 4F, 405",
       "homepage": "https://www.orbitsecurity.io",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
+      "contact": "이메일: contact@orbitsecurity.io / 홈페이지: https://www.orbitsecurity.io",
       "phone": "",
-      "email": "",
+      "email": "contact@orbitsecurity.io",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
@@ -63018,7 +63030,9 @@
       "category_names": [
         "Secu Tech Show",
         "정보보호·보안"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.orbitsecurity.io/introduce; title=Orbit Security; body_bytes=1592; name_score=4; phones=; emails=contact@orbitsecurity.io; checked_urls=https://www.orbitsecurity.io/home,https://www.orbitsecurity.io/introduce; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95968",

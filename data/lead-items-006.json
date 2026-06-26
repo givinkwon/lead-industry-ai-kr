@@ -43164,8 +43164,8 @@
       "region": "충청남도",
       "address": "31045 충남 천안시 서북구 성거읍 정자1길 10 세라젬",
       "homepage": "http://www.ceragem.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 055-736-0325, 031-8027-9325, 053-716-4325, 031-994-7325, 041-400-7325, 02-6951-4325, 062-710-0325, 062-716-4325 / 홈페이지: http://www.ceragem.co.kr",
+      "phone": "055-736-0325, 031-8027-9325, 053-716-4325, 031-994-7325, 041-400-7325, 02-6951-4325, 062-710-0325, 062-716-4325",
       "email": "",
       "confidence": "high",
       "source": "source_file:gokea_member_company_homepage",
@@ -43174,7 +43174,9 @@
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "B",
-      "member_type": "임원사"
+      "member_type": "임원사",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.ceragem.co.kr/wellcafe/experience.asp#experience_map; title=세라젬; body_bytes=11999; name_score=3; phones=055-736-0325,031-8027-9325,053-716-4325,031-994-7325,041-400-7325,02-6951-4325,062-710-0325,062-716-4325; emails=; checked_urls=https://www.ceragem.co.kr/index.asp,https://www.ceragem.co.kr/aboutus/announce-view.asp?seq=722,https://www.ceragem.co.kr/wellcafe/experience.asp#experience_map; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "88959",
@@ -46041,9 +46043,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.mec.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2194-3300, 02-2194-3398 / 이메일: mec@mec.co.kr / 홈페이지: http://www.mec.co.kr",
+      "phone": "02-2194-3300, 02-2194-3398",
+      "email": "mec@mec.co.kr",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=295&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=633653",
@@ -46052,7 +46054,9 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "B",
       "booth": "A640",
-      "source_note": "Founded in March of 1984, Mahani Electric Co,. ltd is one of the leading distributors of imported parts of electric, electricity. We supply devices in various markets such as sensors and connectors industries. We serve the new devices with certified quality to domestic customers. Moreover, we devote to acquire new advanced applied technology and also introduce them to users for development product localization. Furthermore, we focus on providing prompt service all parts of Korea by building agen"
+      "source_note": "Founded in March of 1984, Mahani Electric Co,. ltd is one of the leading distributors of imported parts of electric, electricity. We supply devices in various markets such as sensors and connectors industries. We serve the new devices with certified quality to domestic customers. Moreover, we devote to acquire new advanced applied technology and also introduce them to users for development product localization. Furthermore, we focus on providing prompt service all parts of Korea by building agen",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.mecsen.kr/company/02/; title=공지사항 | (주)만희기전; body_bytes=24252; name_score=6; phones=02-2194-3300,02-2194-3398; emails=mec@mec.co.kr; checked_urls=https://www.mecsen.kr/,https://www.mecsen.kr/company/01/,https://www.mecsen.kr/company/02/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "89092",
@@ -46321,9 +46325,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.mstechcorp.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 070-4482-4493, 070-4438-0910, 070-4446-5405, 070-4285-4050, 070-4900-3506, 031-454-6486 / 이메일: dskim@mstechcorp.co.kr, taehunk@mstechcorp.co.kr, leokim@mstechcorp.co.kr, hbjang@mstechcorp.co.kr, msoh@mstechcorp.co.kr, cdhoang@mstechcorp.co.kr / 홈페이지: http://www.mstechcorp.co.kr",
+      "phone": "070-4482-4493, 070-4438-0910, 070-4446-5405, 070-4285-4050, 070-4900-3506, 031-454-6486",
+      "email": "dskim@mstechcorp.co.kr, taehunk@mstechcorp.co.kr, leokim@mstechcorp.co.kr, hbjang@mstechcorp.co.kr, msoh@mstechcorp.co.kr, cdhoang@mstechcorp.co.kr",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=319&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=659855",
@@ -46332,7 +46336,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "B",
       "booth": "W004",
-      "source_note": "MSTECH Co., Ltd. will showcase core equipment for next-generation semiconductor and PCB processes at the upcoming exhibition. Founded in 1994, MSTECH specializes in PCB depaneling routers and automation equipment, earning long-standing trust from major domestic corporations and global automotive electronics companies. Key exhibits include a next-generation memory module router and a laser cutting system. The memory module router supports advanced memory semiconductor production and provides inte"
+      "source_note": "MSTECH Co., Ltd. will showcase core equipment for next-generation semiconductor and PCB processes at the upcoming exhibition. Founded in 1994, MSTECH specializes in PCB depaneling routers and automation equipment, earning long-standing trust from major domestic corporations and global automotive electronics companies. Key exhibits include a next-generation memory module router and a laser cutting system. The memory module router supports advanced memory semiconductor production and provides inte",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.mstechcorp.co.kr/support/contact.php; title=Contact | MSTECH; body_bytes=6794; name_score=7; phones=070-4482-4493,070-4438-0910,070-4446-5405,070-4285-4050,070-4900-3506,031-454-6486; emails=dskim@mstechcorp.co.kr,taehunk@mstechcorp.co.kr,leokim@mstechcorp.co.kr,hbjang@mstechcorp.co.kr,msoh@mstechcorp.co.kr,cdhoang@mstechcorp.co.kr; checked_urls=https://www.mstechcorp.co.kr/,https://www.mstechcorp.co.kr/company/profile.php,https://www.mstechcorp.co.kr/company/vision.php,https://www.mstechcorp.co.kr/company/location.php,https://www.mstechcorp.co.kr/company/global-network.php,https://www.mstechcorp.co.kr/support/qna.php,https://www.mstechcorp.co.kr/support/contact.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "89104",
@@ -47901,9 +47907,9 @@
       "region": "충청남도",
       "address": "",
       "homepage": "https://www.witzenmann.com/en",
-      "contact": "",
+      "contact": "이메일: marketing@witzenmann.com / 홈페이지: https://www.witzenmann.com/en",
       "phone": "",
-      "email": "",
+      "email": "marketing@witzenmann.com",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=514&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=657322",
@@ -47912,7 +47918,9 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "B",
       "booth": "W615",
-      "source_note": "Technology that connects. Perfection that moves. As a global technology leader in the safe transmission of media, we set standards worldwide. Our solutions are used wherever flows need to be guided precisely and reliably in industrial systems, buildings, or vehicles. Our unique product portfolio ranges from metal hoses, expansion joints, metal bellows and pipe supports to complex vehicle components and piping systems aimed specifically at key future markets: ● Industry and energy ● Building serv"
+      "source_note": "Technology that connects. Perfection that moves. As a global technology leader in the safe transmission of media, we set standards worldwide. Our solutions are used wherever flows need to be guided precisely and reliably in industrial systems, buildings, or vehicles. Our unique product portfolio ranges from metal hoses, expansion joints, metal bellows and pipe supports to complex vehicle components and piping systems aimed specifically at key future markets: ● Industry and energy ● Building serv",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.witzenmann.com/en/contact/contact-form/; title=Contact form; body_bytes=6095; name_score=7; phones=; emails=marketing@witzenmann.com; checked_urls=https://www.witzenmann.com/en/,https://www.witzenmann.com/en/contact/contact-form/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "89177",
@@ -63982,9 +63990,9 @@
       "region": "전국",
       "address": "Korea, Republic of",
       "homepage": "https://intro.coolinic-on.com",
-      "contact": "https://www.koreapack.org/eng/about/company_detail.asp?api_key=3EE1E2B5-50EA-4578-AEB3-8757BADDC05C",
+      "contact": "이메일: info@coolinic.com / 홈페이지: https://intro.coolinic-on.com",
       "phone": "",
-      "email": "",
+      "email": "info@coolinic.com",
       "confidence": "high",
       "source": "source_file:icpi_week_2026_exhibitor_homepage",
       "source_page": "https://www.koreapack.org/eng/about/company_search.asp",
@@ -63994,7 +64002,9 @@
       "booth": "10B107 ( Hall 9-10, KINTEX 2 )",
       "source_id": "3EE1E2B5-50EA-4578-AEB3-8757BADDC05C",
       "country": "Korea, Republic of",
-      "source_category": "KOREA COLD CHAIN"
+      "source_category": "KOREA COLD CHAIN",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://intro.coolinic-on.com/home/; title=쿨리닉온 - 모든것이 가능한 솔루션(온도 모니터링, 습도 모니터링, 전력량 모니터링, 실시간 이상알림, 고장 시 제일 빠른 AS 대응, 냉동창고 모니터링, 에너지 절약 솔루션); body_bytes=13281; name_score=4; phones=; emails=info@coolinic.com; checked_urls=https://intro.coolinic-on.com/home/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "89948",
@@ -68232,9 +68242,9 @@
       "region": "전국",
       "address": "Korea, Republic of",
       "homepage": "https://www.propakasia.com",
-      "contact": "https://www.koreapack.org/eng/about/company_detail.asp?api_key=038A2D51-5F47-496A-8EEC-F2A841B4B6F7",
+      "contact": "이메일: propakasiateam@informa.com, jeffrey.au@informa.com, simei.voon@informa.com, andrea.boccellini@informa.com / 홈페이지: https://www.propakasia.com",
       "phone": "",
-      "email": "",
+      "email": "propakasiateam@informa.com, jeffrey.au@informa.com, simei.voon@informa.com, andrea.boccellini@informa.com",
       "confidence": "high",
       "source": "source_file:icpi_week_2026_exhibitor_homepage",
       "source_page": "https://www.koreapack.org/eng/about/company_search.asp",
@@ -68244,7 +68254,9 @@
       "booth": "1B304 ( Hall 1-5, KINTEX 1 )",
       "source_id": "038A2D51-5F47-496A-8EEC-F2A841B4B6F7",
       "country": "Korea, Republic of",
-      "source_category": "KOREA PACK"
+      "source_category": "KOREA PACK",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.propakasia.com/ppka/2027/en/index.asp; title=ProPak Asia 2027 | ProPak Asia; body_bytes=30068; name_score=7; phones=; emails=propakasiateam@informa.com,jeffrey.au@informa.com,simei.voon@informa.com,andrea.boccellini@informa.com; checked_urls=https://www.propakasia.com/ppka/2027/en/index.asp; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90211",
@@ -71380,8 +71392,8 @@
       "region": "전국",
       "address": "Korea, Republic of",
       "homepage": "https://www.ypl21.co.kr",
-      "contact": "https://www.koreapack.org/eng/about/company_detail.asp?api_key=F061DE38-5B67-40A1-B6F6-2438AA43579E",
-      "phone": "",
+      "contact": "전화: 032-579-0342 / 홈페이지: https://www.ypl21.co.kr",
+      "phone": "032-579-0342",
       "email": "",
       "confidence": "high",
       "source": "source_file:icpi_week_2026_exhibitor_homepage",
@@ -71392,7 +71404,9 @@
       "booth": "3D601 ( Hall 1-5, KINTEX 1 )",
       "source_id": "F061DE38-5B67-40A1-B6F6-2438AA43579E",
       "country": "Korea, Republic of",
-      "source_category": "KOREA PACK"
+      "source_category": "KOREA PACK",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.ypl21.co.kr/; title=인쇄후가공전문 (주)와이피엘 본사 - 디지털 프린팅 인쇄후가공장비 글로벌기업 (주)와이피엘에 오신걸 환영합니다!; body_bytes=1027; name_score=3; phones=032-579-0342; emails=; checked_urls=https://www.ypl21.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90402",
@@ -77878,10 +77892,10 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.kyoritsukorea.co.kr",
-      "contact": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 02-2267-0327, 02-2269-9907 / 이메일: sejin-info@naver.com / 홈페이지: https://www.kyoritsukorea.co.kr",
+      "phone": "02-2267-0327, 02-2269-9907",
+      "email": "sejin-info@naver.com",
+      "confidence": "high",
       "source": "source_file:elecs_exhibitor_homepage",
       "source_page": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
       "ksic_major_code": "C",
@@ -77889,7 +77903,9 @@
       "lead_quality_grade": "B",
       "booth": "F503",
       "source_id": "elecs-2024-0-SEJIN INSTRUMENT CO., LTD.",
-      "country": "KR-inferred"
+      "country": "KR-inferred",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=http://xn--9d0bk8u22g.xn--3e0b707e/; title=세진계기(주); body_bytes=2301; name_score=3; phones=02-2267-0327,02-2269-9907; emails=sejin-info@naver.com; checked_urls=http://xn--9d0bk8u22g.xn--3e0b707e/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90752",
@@ -78177,10 +78193,10 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.neostack.co.kr",
-      "contact": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
+      "contact": "이메일: support@neostack.co.kr / 홈페이지: https://www.neostack.co.kr",
       "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "email": "support@neostack.co.kr",
+      "confidence": "high",
       "source": "source_file:elecs_exhibitor_homepage",
       "source_page": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
       "ksic_major_code": "C",
@@ -78188,7 +78204,9 @@
       "lead_quality_grade": "B",
       "booth": "I100",
       "source_id": "elecs-2024-0-NEOSTACK",
-      "country": "KR-inferred"
+      "country": "KR-inferred",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://emblaze.co.kr/; title=emblaze; body_bytes=4147; name_score=6; phones=; emails=support@neostack.co.kr; checked_urls=https://emblaze.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90778",
@@ -78752,10 +78770,10 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.bio-circle.co.kr",
-      "contact": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
+      "contact": "이메일: srmin@web3.nsclover.com / 홈페이지: https://www.bio-circle.co.kr",
       "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "email": "srmin@web3.nsclover.com",
+      "confidence": "high",
       "source": "source_file:elecs_exhibitor_homepage",
       "source_page": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
       "ksic_major_code": "C",
@@ -78763,7 +78781,9 @@
       "lead_quality_grade": "B",
       "booth": "",
       "source_id": "elecs-2023-1-BIO CIRCLE Korea",
-      "country": "KR-inferred"
+      "country": "KR-inferred",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://www.bio-circle.co.kr/contact; title=; body_bytes=441; name_score=6; phones=; emails=srmin@web3.nsclover.com; checked_urls=https://www.bio-circle.co.kr/,https://www.bio-circle.co.kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90817",
@@ -78867,10 +78887,10 @@
       "region": "전국",
       "address": "",
       "homepage": "http://dselectric.co.kr",
-      "contact": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 051-996-0411, 051-996-0418 / 이메일: dsemc@daum.net / 홈페이지: http://dselectric.co.kr",
+      "phone": "051-996-0411, 051-996-0418",
+      "email": "dsemc@daum.net",
+      "confidence": "high",
       "source": "source_file:elecs_exhibitor_homepage",
       "source_page": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
       "ksic_major_code": "C",
@@ -78878,7 +78898,9 @@
       "lead_quality_grade": "B",
       "booth": "",
       "source_id": "elecs-2022-2-DS Electric",
-      "country": "KR-inferred"
+      "country": "KR-inferred",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://dselectric.co.kr/ko/; title=DS ELECTRIC; body_bytes=2289; name_score=12; phones=051-996-0411,051-996-0418; emails=dsemc@daum.net; checked_urls=https://dselectric.co.kr/ko/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90831",
@@ -79170,10 +79192,10 @@
       "region": "전국",
       "address": "",
       "homepage": "https://nexsys.kr",
-      "contact": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
+      "contact": "이메일: dhkim@nex-sys.co.kr / 홈페이지: https://nexsys.kr",
       "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "email": "dhkim@nex-sys.co.kr",
+      "confidence": "high",
       "source": "source_file:elecs_exhibitor_homepage",
       "source_page": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
       "ksic_major_code": "C",
@@ -79181,7 +79203,9 @@
       "lead_quality_grade": "B",
       "booth": "",
       "source_id": "elecs-2017-6-Nexsys Co., Ltd.",
-      "country": "KR-inferred"
+      "country": "KR-inferred",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next19_enrichment; final_url=https://nexsys.kr/default/product/iothelmet.php; title=넥시스 IoT 스마트 안전모; body_bytes=6015; name_score=4; phones=; emails=dhkim@nex-sys.co.kr; checked_urls=https://nexsys.kr/default/product/iothelmet.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90853",
