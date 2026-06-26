@@ -49060,8 +49060,8 @@
       "region": "강원",
       "address": "강원",
       "homepage": "http://www.altismulti.com/",
-      "contact": "박훈웅",
-      "phone": "",
+      "contact": "전화: 033-731-3329, 033-731-3338 / 홈페이지: http://www.altismulti.com/",
+      "phone": "033-731-3329, 033-731-3338",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -49069,7 +49069,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2028-12-01",
-      "id": "102811"
+      "id": "102811",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=http://www.altismulti.com/default/; title=(주)알티스멀티; body_bytes=498; name_score=3; phones=033-731-3329,033-731-3338; emails=; checked_urls=http://www.altismulti.com/default/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)케이마린",
@@ -50746,16 +50748,18 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://0to1partners.com/",
-      "contact": "권성은",
+      "contact": "이메일: zero2one@0to1partners.com / 홈페이지: http://0to1partners.com/",
       "phone": "",
-      "email": "",
+      "email": "zero2one@0to1partners.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "product": "비제조업 / 정보통신 / 인증만료 2028-06-06",
-      "id": "102930"
+      "id": "102930",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=https://0to1partners.com/; title=제로투원 파트너스; body_bytes=428; name_score=3; phones=; emails=zero2one@0to1partners.com; checked_urls=https://0to1partners.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "에이지밸브 주식회사",
@@ -51240,16 +51244,18 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.hameeglobal.com/",
-      "contact": "KONOSEIJI",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-757-7311 / 이메일: domestic.sales@hameeglobal.com / 홈페이지: http://www.hameeglobal.com/",
+      "phone": "02-757-7311",
+      "email": "domestic.sales@hameeglobal.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2027-11-28",
-      "id": "102969"
+      "id": "102969",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=https://hameeglobal.com/contact-us/; title=Contact us - HameeGlobal; body_bytes=1385; name_score=3; phones=02-757-7311; emails=domestic.sales@hameeglobal.com; checked_urls=https://hameeglobal.com/,https://hameeglobal.com/contact/,https://hameeglobal.com/contact-us/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)상보",
@@ -59618,8 +59624,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.farmzonesnc.com/",
-      "contact": "천승우",
-      "phone": "",
+      "contact": "전화: 031-8039-4896, 031-348-5556 / 홈페이지: http://www.farmzonesnc.com/",
+      "phone": "031-8039-4896, 031-348-5556",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -59627,7 +59633,9 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "product": "SW / 정보통신 / 인증만료 2027-09-29",
-      "id": "103508"
+      "id": "103508",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=https://www.farmzonesnc.com/dt/; title=(주)팜존에스엔씨; body_bytes=5165; name_score=3; phones=031-8039-4896,031-348-5556; emails=; checked_urls=https://www.farmzonesnc.com/dt/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "홍주리더스 주식회사",
@@ -63797,8 +63805,8 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://v2.cocktailfunding.com/",
-      "contact": "김운하",
-      "phone": "",
+      "contact": "전화: 02-3101-9120, 02-3092-1160, 02-3081-4132, 02-5031-2163, 02-5020-4105, 02-4112-0112, 02-785-2016, 070-8282-6888 / 홈페이지: http://v2.cocktailfunding.com/",
+      "phone": "02-3101-9120, 02-3092-1160, 02-3081-4132, 02-5031-2163, 02-5020-4105, 02-4112-0112, 02-785-2016, 070-8282-6888",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -63806,7 +63814,9 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "product": "SW / S/W / 인증만료 2029-06-01",
-      "id": "103785"
+      "id": "103785",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=https://v2.cocktailfunding.com/; title=칵테일펀딩 - 리더를 위한 쉬운 투자; body_bytes=22226; name_score=3; phones=02-3101-9120,02-3092-1160,02-3081-4132,02-5031-2163,02-5020-4105,02-4112-0112,02-785-2016,070-8282-6888; emails=; checked_urls=https://v2.cocktailfunding.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)엘피케이하이테크",
@@ -78497,8 +78507,8 @@
       "region": "충북",
       "address": "충북",
       "homepage": "http://dae-chan.com/",
-      "contact": "이상진",
-      "phone": "",
+      "contact": "전화: 043-882-2715, 043-882-2716 / 홈페이지: http://dae-chan.com/",
+      "phone": "043-882-2715, 043-882-2716",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -78506,7 +78516,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2027-07-01",
-      "id": "104738"
+      "id": "104738",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=http://dae-chan.com/main; title=대찬테크; body_bytes=3278; name_score=3; phones=043-882-2715,043-882-2716; emails=; checked_urls=http://dae-chan.com/main; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "메이크박스",

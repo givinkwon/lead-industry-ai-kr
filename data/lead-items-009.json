@@ -88095,8 +88095,8 @@
       "region": "경북",
       "address": "경북",
       "homepage": "http://www.dypyoon.co.kr/",
-      "contact": "윤진필",
-      "phone": "",
+      "contact": "전화: 053-854-1707, 053-854-0456, 053-857-9860 / 홈페이지: http://www.dypyoon.co.kr/",
+      "phone": "053-854-1707, 053-854-0456, 053-857-9860",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -88104,7 +88104,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2028-11-25",
-      "id": "111581"
+      "id": "111581",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=http://dypyoon.co.kr/www/main; title=동양정밀; body_bytes=3053; name_score=3; phones=053-854-1707,053-854-0456,053-857-9860; emails=; checked_urls=http://dypyoon.co.kr/www/main; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "한길정공",
@@ -88152,16 +88154,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.dongbangchem.co.kr/",
-      "contact": "정헌석, 김남기(각자대표)",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-354-1114, 031-354-4120, 02-741-7516, 02-741-7525 / 이메일: secretary@dongbangchem.co.kr / 홈페이지: http://www.dongbangchem.co.kr/",
+      "phone": "031-354-1114, 031-354-4120, 02-741-7516, 02-741-7525",
+      "email": "secretary@dongbangchem.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2028-11-25",
-      "id": "111584"
+      "id": "111584",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=http://dongbangftl.com/; title=동방에프티엘; body_bytes=5375; name_score=3; phones=031-354-1114,031-354-4120,02-741-7516,02-741-7525; emails=secretary@dongbangchem.co.kr; checked_urls=http://dongbangftl.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)금창",
@@ -88247,16 +88251,18 @@
       "region": "대구",
       "address": "대구",
       "homepage": "http://www.bmic.co.kr/",
-      "contact": "어강택",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 053-592-0047 / 이메일: bmic@bmic.co.kr / 홈페이지: http://www.bmic.co.kr/",
+      "phone": "053-592-0047",
+      "email": "bmic@bmic.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2028-12-20",
-      "id": "111589"
+      "id": "111589",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=http://www.bmic.co.kr/inquiry; title=온라인문의; body_bytes=795; name_score=3; phones=053-592-0047; emails=bmic@bmic.co.kr; checked_urls=http://www.bmic.co.kr/,http://www.bmic.co.kr/contact,http://www.bmic.co.kr/contact-us,http://www.bmic.co.kr/contacts,http://www.bmic.co.kr/inquiry; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)이노쎄라",
@@ -88494,16 +88500,18 @@
       "region": "대구",
       "address": "대구",
       "homepage": "http://www.wooyangmc.co.kr/",
-      "contact": "이남수",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 053-354-4431, 053-355-7013 / 이메일: wooyang@wooyangmc.co.kr / 홈페이지: http://www.wooyangmc.co.kr/",
+      "phone": "053-354-4431, 053-355-7013",
+      "email": "wooyang@wooyangmc.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2028-12-02",
-      "id": "111603"
+      "id": "111603",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=https://wooyangmc.co.kr/wp/; title=(주)우양기계 – 염색기,정련기,감량기 제작; body_bytes=1904; name_score=3; phones=053-354-4431,053-355-7013; emails=wooyang@wooyangmc.co.kr; checked_urls=https://wooyangmc.co.kr/wp/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)미래인더스",
@@ -88931,16 +88939,18 @@
       "region": "충남",
       "address": "충남",
       "homepage": "http://www.jakyung.co.kr/",
-      "contact": "이기석",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 041-622-0774, 041-622-0777, 031-426-1772, 031-8084-3772 / 이메일: sales@jakyung.co.kr, dhchai@jakyung.co.kr / 홈페이지: http://www.jakyung.co.kr/",
+      "phone": "041-622-0774, 041-622-0777, 031-426-1772, 031-8084-3772",
+      "email": "sales@jakyung.co.kr, dhchai@jakyung.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2026-09-14",
-      "id": "111630"
+      "id": "111630",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=http://www.jakyung.co.kr/; title=자경케미칼㈜; body_bytes=1790; name_score=3; phones=041-622-0774,041-622-0777,031-426-1772,031-8084-3772; emails=sales@jakyung.co.kr,dhchai@jakyung.co.kr; checked_urls=http://www.jakyung.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)유니온바이오메트릭스",
@@ -89444,8 +89454,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.willtechnology.co.kr/",
-      "contact": "이윤정",
-      "phone": "",
+      "contact": "전화: 031-240-5500, 031-240-5501 / 홈페이지: http://www.willtechnology.co.kr/",
+      "phone": "031-240-5500, 031-240-5501",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -89453,7 +89463,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2028-08-03",
-      "id": "111663"
+      "id": "111663",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=http://www.willtechnology.co.kr/main; title=윌테크놀러지(주); body_bytes=1882; name_score=3; phones=031-240-5500,031-240-5501; emails=; checked_urls=http://www.willtechnology.co.kr/main; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)엠이티",
@@ -89596,8 +89608,8 @@
       "region": "경남",
       "address": "경남",
       "homepage": "http://www.keosan21.co.kr/",
-      "contact": "박용기",
-      "phone": "",
+      "contact": "전화: 055-343-4343, 055-343-5445, 055-345-6800, 055-344-2255, 055-343-7755, 055-343-7373 / 홈페이지: http://www.keosan21.co.kr/",
+      "phone": "055-343-4343, 055-343-5445, 055-345-6800, 055-344-2255, 055-343-7755, 055-343-7373",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -89605,7 +89617,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2029-02-21",
-      "id": "111674"
+      "id": "111674",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=http://www.keosan21.co.kr/ko/; title=(주)거산기계; body_bytes=2703; name_score=3; phones=055-343-4343,055-343-5445,055-345-6800,055-344-2255,055-343-7755,055-343-7373; emails=; checked_urls=http://www.keosan21.co.kr/ko/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)필엔지니어링",
@@ -89786,16 +89800,18 @@
       "region": "경북",
       "address": "경북",
       "homepage": "http://www.wsflanges.co.kr/",
-      "contact": "이봉기",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 053-852-8497, 053-852-8498, 053-604-1574, 053-604-1575 / 이메일: ws9912@hanmail.net / 홈페이지: http://www.wsflanges.co.kr/",
+      "phone": "053-852-8497, 053-852-8498, 053-604-1574, 053-604-1575",
+      "email": "ws9912@hanmail.net",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-12-01",
-      "id": "111690"
+      "id": "111690",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=http://www.wsflanges.co.kr/default/; title=(주)우성금속은 항상 고객을 먼저 생각합니다.; body_bytes=1335; name_score=3; phones=053-852-8497,053-852-8498,053-604-1574,053-604-1575; emails=ws9912@hanmail.net; checked_urls=http://www.wsflanges.co.kr/default/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)테크라인",
@@ -89843,8 +89859,8 @@
       "region": "인천",
       "address": "인천",
       "homepage": "http://www.pgu.co.kr/",
-      "contact": "조희남",
-      "phone": "",
+      "contact": "전화: 032-812-0777, 032-812-8333 / 홈페이지: http://www.pgu.co.kr/",
+      "phone": "032-812-0777, 032-812-8333",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -89852,7 +89868,9 @@
       "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
       "lead_quality_grade": "A",
       "product": "환경 / 환경 / 인증만료 2029-02-21",
-      "id": "111693"
+      "id": "111693",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=http://www.pgu.co.kr/kr/; title=지앤지테크놀러지 – GnG TECHNOLOGY; body_bytes=1689; name_score=3; phones=032-812-0777,032-812-8333; emails=; checked_urls=http://www.pgu.co.kr/kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 케이.디",
@@ -90014,8 +90032,8 @@
       "region": "충남",
       "address": "충남",
       "homepage": "http://www.hanbon.co.kr/",
-      "contact": "강전숙",
-      "phone": "",
+      "contact": "전화: 041-532-1707, 041-532-1755, 02-593-4390, 02-593-5477 / 홈페이지: http://www.hanbon.co.kr/",
+      "phone": "041-532-1707, 041-532-1755, 02-593-4390, 02-593-5477",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -90023,7 +90041,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2027-12-01",
-      "id": "111705"
+      "id": "111705",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=http://www.hanbon.co.kr/hanbon/index.php; title=한본인더스트리; body_bytes=2213; name_score=3; phones=041-532-1707,041-532-1755,02-593-4390,02-593-5477; emails=; checked_urls=http://www.hanbon.co.kr/hanbon/index.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)크루디앤피",
@@ -90147,8 +90167,8 @@
       "region": "전남",
       "address": "전남",
       "homepage": "http://www.yj-c.co.kr/",
-      "contact": "배지수",
-      "phone": "",
+      "contact": "전화: 061-320-9000, 061-322-9888 / 홈페이지: http://www.yj-c.co.kr/",
+      "phone": "061-320-9000, 061-322-9888",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -90156,7 +90176,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2027-09-03",
-      "id": "111714"
+      "id": "111714",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=http://yj-c.kr/; title=(주)와이제이씨; body_bytes=1017; name_score=3; phones=061-320-9000,061-322-9888; emails=; checked_urls=http://yj-c.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)바이텔",
@@ -90432,8 +90454,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.spcpharm.co.kr/",
-      "contact": "이건호",
-      "phone": "",
+      "contact": "전화: 031-681-4670, 031-681-4673, 02-2225-8400, 02-2225-8405 / 홈페이지: http://www.spcpharm.co.kr/",
+      "phone": "031-681-4670, 031-681-4673, 02-2225-8400, 02-2225-8405",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -90441,7 +90463,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2027-09-03",
-      "id": "111730"
+      "id": "111730",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next24_enrichment; final_url=http://www.spcpharm.co.kr/ko/main/main.html; title=에스피씨(주); body_bytes=1721; name_score=3; phones=031-681-4670,031-681-4673,02-2225-8400,02-2225-8405; emails=; checked_urls=http://www.spcpharm.co.kr/ko/main/main.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "에프씨산업 주식회사",
