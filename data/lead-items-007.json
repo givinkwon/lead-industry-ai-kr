@@ -48096,8 +48096,8 @@
       "region": "전국",
       "address": "(06543)26 Juheung 1-gil, Seocho-gu, Seoul, Republic of Korea 2F",
       "homepage": "http://www.theplanetsafety.co.kr/",
-      "contact": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list_view.asp?idx=3995&didx=2696",
-      "phone": "",
+      "contact": "전화: 02-6205-1468 / 홈페이지: http://www.theplanetsafety.co.kr/",
+      "phone": "02-6205-1468",
       "email": "",
       "confidence": "high",
       "source": "source_file:kiss_2026_exhibitor_homepage",
@@ -48114,7 +48114,9 @@
         "Safety Technology(IoT",
         "VR/AR",
         "AI) / [5.3] Software (Occupational safety management / Risk assessment)"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next27_enrichment; final_url=http://www.theplanetsafety.co.kr/; title=더플래닛세이프티; body_bytes=1908; name_score=3; phones=02-6205-1468; emails=; checked_urls=http://www.theplanetsafety.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95285",
@@ -48126,8 +48128,8 @@
       "region": "전국",
       "address": "(05243)43 Olympic-ro 91-gil, Gangdong-gu, Seoul, Republic of Korea 4층",
       "homepage": "http://tropiantech.co.kr",
-      "contact": "https://www.safetyshow.co.kr/eng/intro/exhibitor_list_view.asp?idx=4467&didx=2599",
-      "phone": "",
+      "contact": "전화: 02-402-6315, 02-402-6310 / 홈페이지: http://tropiantech.co.kr",
+      "phone": "02-402-6315, 02-402-6310",
       "email": "",
       "confidence": "high",
       "source": "source_file:kiss_2026_exhibitor_homepage",
@@ -48141,7 +48143,9 @@
       "source_category": "KISS 2026",
       "category_names": [
         "Occupational Health Managerment / [4.3] Occupational Health Management / Prevention"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next27_enrichment; final_url=https://tropiantech.co.kr/layout/pc/home.php?go=main; title=트로피안테크; body_bytes=533; name_score=3; phones=02-402-6315,02-402-6310; emails=; checked_urls=https://tropiantech.co.kr/layout/pc/home.php?go=main; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95286",

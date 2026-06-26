@@ -68883,16 +68883,18 @@
       "region": "광주",
       "address": "광주",
       "homepage": "http://www.humanelec.com/",
-      "contact": "최윤식",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 062-600-7600, 062-600-7588 / 이메일: human@humanelec.com / 홈페이지: http://www.humanelec.com/",
+      "phone": "062-600-7600, 062-600-7588",
+      "email": "human@humanelec.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2028-04-25",
-      "id": "110365"
+      "id": "110365",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next27_enrichment; final_url=https://www.humanelec.com/default/; title=휴먼전자 주식회사; body_bytes=1940; name_score=3; phones=062-600-7600,062-600-7588; emails=human@humanelec.com; checked_urls=https://www.humanelec.com/default/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)유진이엔씨텍",
@@ -70487,8 +70489,8 @@
       "region": "인천",
       "address": "인천",
       "homepage": "http://www.heum.com/",
-      "contact": "김영준",
-      "phone": "",
+      "contact": "전화: 032-552-0233, 032-556-1175 / 홈페이지: http://www.heum.com/",
+      "phone": "032-552-0233, 032-556-1175",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -70496,7 +70498,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2027-09-05",
-      "id": "110472"
+      "id": "110472",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next27_enrichment; final_url=http://www.heum.com/main/main.php; title=맛있는 요리, 안전하고 아름다운 주방문화를 열어가는 신 감각 주방가전 전문업체- HEUM; body_bytes=1437; name_score=3; phones=032-552-0233,032-556-1175; emails=; checked_urls=http://www.heum.com/main/main.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 지디",
@@ -72038,16 +72042,18 @@
       "region": "대구",
       "address": "대구",
       "homepage": "http://sunvitech.com/",
-      "contact": "양승현",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 053-592-5878, 053-582-5879 / 이메일: svt-1@sunvitech.com / 홈페이지: http://sunvitech.com/",
+      "phone": "053-592-5878, 053-582-5879",
+      "email": "svt-1@sunvitech.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2027-12-25",
-      "id": "110579"
+      "id": "110579",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next27_enrichment; final_url=http://sunvitech.com/renew/main/main.html?chk=404; title=선비테크; body_bytes=1471; name_score=3; phones=053-592-5878,053-582-5879; emails=svt-1@sunvitech.com; checked_urls=http://sunvitech.com/,http://sunvitech.com/renew/main/main.html?chk=404; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "일신테크(주)",
@@ -72627,8 +72633,8 @@
       "region": "경북",
       "address": "경북",
       "homepage": "http://www.sangsung.net/",
-      "contact": "한명원",
-      "phone": "",
+      "contact": "전화: 054-977-5500, 054-977-1900 / 홈페이지: http://www.sangsung.net/",
+      "phone": "054-977-5500, 054-977-1900",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -72636,7 +72642,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2029-05-22",
-      "id": "110612"
+      "id": "110612",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next27_enrichment; final_url=http://www.sangsung.net/default/; title=상성산업; body_bytes=1147; name_score=3; phones=054-977-5500,054-977-1900; emails=; checked_urls=http://www.sangsung.net/default/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)엠에스쎌텍",
@@ -72760,8 +72768,8 @@
       "region": "충북",
       "address": "충북",
       "homepage": "http://www.shinhanwool.com/",
-      "contact": "변상기",
-      "phone": "",
+      "contact": "전화: 043-881-8231, 043-881-7720, 031-743-8023, 031-743-8026 / 홈페이지: http://www.shinhanwool.com/",
+      "phone": "043-881-8231, 043-881-7720, 031-743-8023, 031-743-8026",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -72769,7 +72777,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 섬유 / 인증만료 2028-11-07",
-      "id": "110620"
+      "id": "110620",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next27_enrichment; final_url=http://www.shstextile.com/; title=SHS 신한 :: 신한모방; body_bytes=2975; name_score=3; phones=043-881-8231,043-881-7720,031-743-8023,031-743-8026; emails=; checked_urls=http://www.shstextile.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사하트만",
@@ -73982,8 +73992,8 @@
       "region": "전남",
       "address": "전남",
       "homepage": "http://www.eppscore.com/",
-      "contact": "박성철",
-      "phone": "",
+      "contact": "전화: 061-333-5995, 061-333-5994 / 홈페이지: http://www.eppscore.com/",
+      "phone": "061-333-5995, 061-333-5994",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -73991,7 +74001,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2028-06-20",
-      "id": "110696"
+      "id": "110696",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next27_enrichment; final_url=http://www.eppscore.com/ko/; title=엡스코어; body_bytes=1862; name_score=3; phones=061-333-5995,061-333-5994; emails=; checked_urls=http://www.eppscore.com/ko/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "현대파워시스템(주)",
@@ -74001,8 +74013,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.thehdps.com/",
-      "contact": "전용곤",
-      "phone": "",
+      "contact": "전화: 031-764-0780, 031-764-0785 / 홈페이지: http://www.thehdps.com/",
+      "phone": "031-764-0780, 031-764-0785",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -74010,7 +74022,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2028-02-11",
-      "id": "110697"
+      "id": "110697",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next27_enrichment; final_url=http://www.thehdps.com/inc_html/index.html; title=현대파워시스템; body_bytes=2422; name_score=3; phones=031-764-0780,031-764-0785; emails=; checked_urls=http://www.thehdps.com/inc_html/index.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)건국이엔아이",
@@ -74269,16 +74283,18 @@
       "region": "대구",
       "address": "대구",
       "homepage": "http://www.hdrail.com/",
-      "contact": "이성로",
+      "contact": "이메일: handock@hdrail.com / 홈페이지: http://www.hdrail.com/",
       "phone": "",
-      "email": "",
+      "email": "handock@hdrail.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-07-09",
-      "id": "110714"
+      "id": "110714",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next27_enrichment; final_url=http://www.hdrail.com/kr/home/index.htm; title=HAN DOCK; body_bytes=1666; name_score=3; phones=; emails=handock@hdrail.com; checked_urls=http://www.hdrail.com/kr/home/index.htm; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "엔티이엔지주식회사",
@@ -74539,8 +74555,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://bespon.net/",
-      "contact": "이종덕",
-      "phone": "",
+      "contact": "전화: 031-497-5700, 031-497-6700 / 홈페이지: http://bespon.net/",
+      "phone": "031-497-5700, 031-497-6700",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -74548,7 +74564,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2027-03-17",
-      "id": "110731"
+      "id": "110731",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next27_enrichment; final_url=http://bespon.net/default/; title=금호화성(주); body_bytes=1203; name_score=3; phones=031-497-5700,031-497-6700; emails=; checked_urls=http://bespon.net/default/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)세원특수금속",
@@ -75755,16 +75773,18 @@
       "region": "부산",
       "address": "부산",
       "homepage": "http://www.dongjinmotor.com/",
-      "contact": "이인혁",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 051-503-4587 / 이메일: sales@dongjinmotor.com, jsbaek@dongjinmotor.com / 홈페이지: http://www.dongjinmotor.com/",
+      "phone": "051-503-4587",
+      "email": "sales@dongjinmotor.com, jsbaek@dongjinmotor.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2026-09-28",
-      "id": "110808"
+      "id": "110808",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next27_enrichment; final_url=http://www.dongjinmotor.com/main; title=동진모타 - HVAC Blower Motor, BLDC Blower Motor, Engine Cooling Motor, Engine Cooling Motor, BLDC Engine Cooling Motor, 산업용 전력차단기 Geared Motor, 전동스쿠터, 휠체어 Motor, 냉동기 Blower Motor; body_bytes=2142; name_score=3; phones=051-503-4587; emails=sales@dongjinmotor.com,jsbaek@dongjinmotor.com; checked_urls=http://www.dongjinmotor.com/main; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)엘엠에이티",
@@ -75947,8 +75967,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://kactech.net/",
-      "contact": "이건수",
-      "phone": "",
+      "contact": "전화: 02-802-2438 / 홈페이지: http://kactech.net/",
+      "phone": "02-802-2438",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -75956,7 +75976,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2028-02-19",
-      "id": "110821"
+      "id": "110821",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next27_enrichment; final_url=http://kactech.net/home/; title=한국공조기술개발; body_bytes=2101; name_score=3; phones=02-802-2438; emails=; checked_urls=http://kactech.net/home/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)케디엠",

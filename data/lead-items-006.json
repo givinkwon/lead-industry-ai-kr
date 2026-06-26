@@ -115578,8 +115578,8 @@
       "region": "전국",
       "address": "644, Yeongdong-daero 2nd fl.(Won-il building)",
       "homepage": "https://www.healthmax.co.kr/",
-      "contact": "https://www.safetyshow.co.kr/eng/intro/history-list-view.asp?midx=1698",
-      "phone": "",
+      "contact": "전화: 02-581-8151, 02-581-8153 / 홈페이지: https://www.healthmax.co.kr/",
+      "phone": "02-581-8151, 02-581-8153",
       "email": "",
       "confidence": "high",
       "source": "source_file:kiss_2024_exhibitor_homepage",
@@ -115594,7 +115594,9 @@
       "category_names": [
         "Occupational Health Managerment"
       ],
-      "id": "92577"
+      "id": "92577",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next27_enrichment; final_url=https://healthmax.co.kr/; title=헬스맥스(HealthMax); body_bytes=441; name_score=3; phones=02-581-8151,02-581-8153; emails=; checked_urls=https://healthmax.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "HEUNGJE INTERNATIONAL CORP.",
