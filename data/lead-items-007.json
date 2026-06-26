@@ -937,8 +937,8 @@
       "region": "서울",
       "address": "본사: 01751 서울시 노원구 노해로 494, 고려빌딩 504호",
       "homepage": "http://www.tgy.kr",
-      "contact": "https://envex.or.kr/online/kor/images/ENVEX2024_Exhibitor_Directory.pdf#page=232",
-      "phone": "",
+      "contact": "전화: 02-933-8896, 02-933-8897, 031-988-7805, 031-988-7806 / 홈페이지: http://www.tgy.kr",
+      "phone": "02-933-8896, 02-933-8897, 031-988-7805, 031-988-7806",
       "email": "",
       "confidence": "high",
       "source": "source_file:envex_2024_exhibitor_homepage",
@@ -955,7 +955,9 @@
       ],
       "domestic_proof": "address",
       "ko_name": "㈜티지와이",
-      "id": "93095"
+      "id": "93095",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next18_enrichment; final_url=http://tgy.kr/kor/main/index.html; title=폐전자제품 및 재생금속 임가공 전문기업 | TGY 티지와이; body_bytes=2425; name_score=2; phones=02-933-8896,02-933-8897,031-988-7805,031-988-7806; emails=; checked_urls=http://tgy.kr/kor/main/index.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "PARKOR KOREA INDUS CO.,LTD.",
@@ -5152,9 +5154,9 @@
       "region": "울산",
       "address": "19-8 Wondong 1-gil, Onyang-eup, Ulju-gun, Ulsan, Republic of Korea",
       "homepage": "http://www.revoltix.co.kr",
-      "contact": "https://kbatteryshow.com/en/exhibitor/detail/6448802830_2025_kor",
+      "contact": "이메일: company@revoltix.co.kr / 홈페이지: http://www.revoltix.co.kr",
       "phone": "",
-      "email": "",
+      "email": "company@revoltix.co.kr",
       "confidence": "high",
       "source": "source_file:kbattery_show_2025_exhibitor_homepage",
       "source_page": "https://kbatteryshow.com/en/visitor/exhibitor-search",
@@ -5172,7 +5174,9 @@
       ],
       "domestic_proof": "address",
       "ko_name": "리볼틱스 주식회사",
-      "id": "93252"
+      "id": "93252",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next18_enrichment; final_url=https://www.revoltix.co.kr/ko; title=Revoltix | AI 기반 BMS 배터리 솔루션; body_bytes=2181; name_score=3; phones=; emails=company@revoltix.co.kr; checked_urls=https://www.revoltix.co.kr/ko; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "KRYON RUBBER Co., Ltd.",
@@ -37423,9 +37427,9 @@
       "region": "경기도",
       "address": "401, (SH TIMESQUARE Ⅰ), 635 Dongtan-daero, Dongtan-gu, Hwaseong-si, Gyeonggi-do",
       "homepage": "http://www.jlabcompany.com",
-      "contact": "https://www.k-display.org/fairOnline.do?FAIRMENU_IDX=15074&SYSTEM_IDX=112&hl=ENG&selAction=single_page#/detail?CFAIR_IDX=35950",
+      "contact": "이메일: jlab@jlabcompany.com / 홈페이지: http://www.jlabcompany.com",
       "phone": "",
-      "email": "",
+      "email": "jlab@jlabcompany.com",
       "confidence": "high",
       "source": "source_file:kdisplay_2026_exhibitor_homepage",
       "source_page": "https://www.k-display.org/fairOnline.do?FAIRMENU_IDX=15074&SYSTEM_IDX=112&hl=ENG&selAction=single_page",
@@ -37437,7 +37441,9 @@
       "country": "Korea, Republic of",
       "source_category": "K-Display 2026",
       "domestic_proof": "kdisplay_country_republic_of_korea",
-      "source_note": "- It is a digital hologram company that produces digitized computer-generated holographic data into various holographic products using a lithographic process. - It has digital holograms, holographic stereograms, diffractive optical element…"
+      "source_note": "- It is a digital hologram company that produces digitized computer-generated holographic data into various holographic products using a lithographic process. - It has digital holograms, holographic stereograms, diffractive optical element…",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next18_enrichment; final_url=http://www.jlabcompany.com/ko/index.html; title=제이랩; body_bytes=1280; name_score=3; phones=; emails=jlab@jlabcompany.com; checked_urls=http://www.jlabcompany.com/ko/index.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "94761",
@@ -85814,7 +85820,7 @@
       "product": "지능형교통체계(ITS) 제품·서비스",
       "region": "전국",
       "homepage": "https://www.samsong.com",
-      "contact": "https://itskorea.kr/memberList.do",
+      "contact": "전화: 02-784-3251, 02-784-3258, 055-284-8661, 055-284-8660 / 이메일: kevin@samsong.com, jang-youngsu@samsong.co.kr / 홈페이지: https://www.samsong.com",
       "source": "source_file:its_korea_member_homepage",
       "source_page": "https://itskorea.kr/memberList.do?currentPage=8",
       "ksic_major_code": "J",
@@ -85830,7 +85836,11 @@
       "id": "96968",
       "confidence": "high",
       "lead_quality_grade": "B",
-      "country": "Korea, South"
+      "country": "Korea, South",
+      "phone": "02-784-3251, 02-784-3258, 055-284-8661, 055-284-8660",
+      "email": "kevin@samsong.com, jang-youngsu@samsong.co.kr",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next18_enrichment; final_url=https://www.samsong.com/main/?skin=about.html; title=SAMSONG; body_bytes=2127; name_score=2; phones=02-784-3251,02-784-3258,055-284-8661,055-284-8660; emails=kevin@samsong.com,jang-youngsu@samsong.co.kr; checked_urls=https://www.samsong.com/main/?load_popup=1,https://www.samsong.com/main/?skin=en_about.html,https://www.samsong.com/main/?skin=about.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "㈜동성아이텍",

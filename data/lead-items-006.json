@@ -82526,8 +82526,8 @@
       "region": "경기",
       "address": "경기 광주시 절골길 109 태전동",
       "homepage": "http://www.instem.co.kr",
-      "contact": "https://www.foodweek.co.kr/company-directories/3913?year=2025&hl=ko",
-      "phone": "",
+      "contact": "전화: 031-752-9627, 031-763-9627 / 홈페이지: http://www.instem.co.kr",
+      "phone": "031-752-9627, 031-763-9627",
       "email": "",
       "confidence": "high",
       "source": "source_file:foodweek_korea_2025_company_directory",
@@ -82540,7 +82540,9 @@
       "country": "KR",
       "business_type": "제조업 외",
       "industry_type": "인덕션렌지 외",
-      "ceo": "권명숙"
+      "ceo": "권명숙",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next18_enrichment; final_url=http://www.instem.co.kr/default/; title=대한민국 대표 인덕션 인스템; body_bytes=2196; name_score=2; phones=031-752-9627,031-763-9627; emails=; checked_urls=http://www.instem.co.kr/default/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "91072",
@@ -82604,9 +82606,9 @@
       "region": "경기",
       "address": "경기 남양주시 수동면 지둔로 87-7",
       "homepage": "http://www.kingsens.co.kr",
-      "contact": "https://www.foodweek.co.kr/company-directories/3847?year=2025&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-593-5668 / 이메일: kingsens5600@naver.com / 홈페이지: http://www.kingsens.co.kr",
+      "phone": "031-593-5668",
+      "email": "kingsens5600@naver.com",
       "confidence": "high",
       "source": "source_file:foodweek_korea_2025_company_directory",
       "source_page": "https://www.foodweek.co.kr/company-directories?year=2025&hl=en",
@@ -82618,7 +82620,9 @@
       "country": "KR",
       "business_type": "제조업 외",
       "industry_type": "철만물 외",
-      "ceo": "양준호"
+      "ceo": "양준호",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next18_enrichment; final_url=http://www.kingsens.co.kr/default/; title=(주)킹센스 홈페이지를 방문하신 고객여러분 환영합니다.; body_bytes=1292; name_score=2; phones=031-593-5668; emails=kingsens5600@naver.com; checked_urls=http://www.kingsens.co.kr/default/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "91075",
@@ -88142,8 +88146,8 @@
       "region": "서울",
       "address": "07057 서울 동작구 여의대방로 112 (신대방동, 농심신대방사옥) 도연관 13층",
       "homepage": "https://www.nongshimtk.com",
-      "contact": "https://seoulfood.kotra.or.kr/fairOnline.do?FAIRMENU_IDX=15830&SYSTEM_IDX=80&hl=ENG&selAction=single_page#/detail?cfair_idx=24431",
-      "phone": "",
+      "contact": "전화: 02-820-8700, 02-820-8749, 02-820-8796 / 홈페이지: https://www.nongshimtk.com",
+      "phone": "02-820-8700, 02-820-8749, 02-820-8796",
       "email": "",
       "confidence": "high",
       "source": "source_file:seoulfood_2026_exhibitor_homepage",
@@ -88156,7 +88160,9 @@
       "country": "KR",
       "source_category": "SEOUL FOOD & HOTEL",
       "representative": "천영규",
-      "contact_name": "YOUNGKYU CHEON"
+      "contact_name": "YOUNGKYU CHEON",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next18_enrichment; final_url=https://www.nongshimtk.com/main.do; title=메인 | 농심태경; body_bytes=3813; name_score=3; phones=02-820-8700,02-820-8749,02-820-8796; emails=; checked_urls=https://www.nongshimtk.com/main.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "91387",
@@ -88376,9 +88382,9 @@
       "region": "경기",
       "address": "13207 경기도 성남시 중원구 사기막골로 124 (상대원동) SKn테",
       "homepage": "https://www.omogary.net",
-      "contact": "https://seoulfood.kotra.or.kr/fairOnline.do?FAIRMENU_IDX=15830&SYSTEM_IDX=80&hl=ENG&selAction=single_page#/detail?cfair_idx=24734",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2157-6888 / 이메일: omogarycfo@gmail.com / 홈페이지: https://www.omogary.net",
+      "phone": "02-2157-6888",
+      "email": "omogarycfo@gmail.com",
       "confidence": "high",
       "source": "source_file:seoulfood_2026_exhibitor_homepage",
       "source_page": "https://seoulfood.kotra.or.kr/fairOnline.do?FAIRMENU_IDX=15830&SYSTEM_IDX=80&hl=ENG&selAction=single_page",
@@ -88390,7 +88396,9 @@
       "country": "KR",
       "source_category": "SEOUL FOOD & HOTEL",
       "representative": "이홍규",
-      "contact_name": "Tony Lee"
+      "contact_name": "Tony Lee",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next18_enrichment; final_url=https://www.omogary.net/; title=오모가리 | 정직한 묵은지와 김치찌개의 맛; body_bytes=8570; name_score=3; phones=02-2157-6888; emails=omogarycfo@gmail.com; checked_urls=https://www.omogary.net/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "91402",

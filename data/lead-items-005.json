@@ -50955,15 +50955,17 @@
       "region": "전국",
       "address": "",
       "homepage": "http://vroongcorp.com",
-      "contact": "",
+      "contact": "이메일: sales@meshkorea.net / 홈페이지: http://vroongcorp.com",
       "phone": "",
-      "email": "",
+      "email": "sales@meshkorea.net",
       "confidence": "high",
       "source": "source_file:nlic_logistics_industry_directory",
       "source_page": "https://www.nlic.go.kr/nlic/LgistEntrInfoList.action",
       "ksic_major_code": "H",
       "ksic_major_name": "운수 및 창고업",
-      "lead_quality_grade": "A"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next18_enrichment; final_url=https://vroongcorp.com/kr/index.html; title=VROONG; body_bytes=1960; name_score=2; phones=; emails=sales@meshkorea.net; checked_urls=https://vroongcorp.com/kr/index.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "80501",
@@ -52135,15 +52137,17 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.temu.com/kr",
-      "contact": "",
+      "contact": "이메일: dispute@temu.com / 홈페이지: http://www.temu.com/kr",
       "phone": "",
-      "email": "",
+      "email": "dispute@temu.com",
       "confidence": "high",
       "source": "source_file:nlic_logistics_industry_directory",
       "source_page": "https://www.nlic.go.kr/nlic/LgistEntrInfoList.action",
       "ksic_major_code": "H",
       "ksic_major_name": "운수 및 창고업",
-      "lead_quality_grade": "A"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next18_enrichment; final_url=https://www.temu.com/kr/about-temu.html; title=Temu | 테무 소개; body_bytes=4723; name_score=2; phones=; emails=dispute@temu.com; checked_urls=https://www.temu.com/kr,https://www.temu.com/kr/about-temu.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "80572",
