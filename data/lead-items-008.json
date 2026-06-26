@@ -3476,8 +3476,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.guju.co.kr/",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-2672-1122, 02-2679-7567, 031-352-3424 / 홈페이지: http://www.guju.co.kr/",
+      "phone": "02-2672-1122, 02-2679-7567, 031-352-3424",
       "email": "",
       "confidence": "high",
       "source": "source_file:kpico_pharma_member_homepage",
@@ -3485,7 +3485,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제약·의약품",
-      "id": "99916"
+      "id": "99916",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://www.guju.co.kr/; title=잘 듣는 회사! 구주제약 - 홈페이지; body_bytes=881; name_score=3; phones=02-2672-1122,02-2679-7567,031-352-3424; emails=; checked_urls=https://www.guju.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)다림티센",

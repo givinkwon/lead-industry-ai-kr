@@ -2712,13 +2712,15 @@
       "region": "",
       "address": "",
       "homepage": "https://iacloud.kr/",
-      "contact": "",
+      "contact": "이메일: sales@iacloud.kr / 홈페이지: https://iacloud.kr/",
       "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "email": "sales@iacloud.kr",
+      "confidence": "high",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://iacloud.kr/; title=(주)아이에이클라우드; body_bytes=5141; name_score=3; phones=; emails=sales@iacloud.kr; checked_urls=https://iacloud.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "37325",
@@ -2785,13 +2787,15 @@
       "region": "",
       "address": "",
       "homepage": "https://alycehealth.com/",
-      "contact": "",
+      "contact": "이메일: support@alycehealth.com / 홈페이지: https://alycehealth.com/",
       "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "email": "support@alycehealth.com",
+      "confidence": "high",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://alycehealth.com/; title=VIVO; body_bytes=2190; name_score=3; phones=; emails=support@alycehealth.com; checked_urls=https://alycehealth.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "37333",
@@ -3095,13 +3099,15 @@
       "region": "",
       "address": "",
       "homepage": "https://alllayer.com/",
-      "contact": "",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 02-6677-7450 / 이메일: all-sales@alllayer.com, all-tech@alllayer.com / 홈페이지: https://alllayer.com/",
+      "phone": "02-6677-7450",
+      "email": "all-sales@alllayer.com, all-tech@alllayer.com",
+      "confidence": "high",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://www.alllayer.com/page/main.php; title=(주)올레이어; body_bytes=865; name_score=3; phones=02-6677-7450; emails=all-sales@alllayer.com,all-tech@alllayer.com; checked_urls=https://www.alllayer.com/page/main.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "37361",
@@ -3332,13 +3338,15 @@
       "region": "",
       "address": "",
       "homepage": "https://youyoung.net/",
-      "contact": "",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 02-784-4623, 02-6455-4623 / 이메일: support@youyoung.net / 홈페이지: https://youyoung.net/",
+      "phone": "02-784-4623, 02-6455-4623",
+      "email": "support@youyoung.net",
+      "confidence": "high",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://youyoung.net/; title=유영인포테크; body_bytes=1084; name_score=3; phones=02-784-4623,02-6455-4623; emails=support@youyoung.net; checked_urls=https://youyoung.net/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "37385",
@@ -3405,13 +3413,15 @@
       "region": "",
       "address": "",
       "homepage": "https://emotion.co.kr/",
-      "contact": "",
+      "contact": "이메일: inquiry@emotion.co.kr / 홈페이지: https://emotion.co.kr/",
       "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "email": "inquiry@emotion.co.kr",
+      "confidence": "high",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://emotion.co.kr/; title=이모션글로벌 | Full service Digital Agency; body_bytes=2284; name_score=3; phones=; emails=inquiry@emotion.co.kr; checked_urls=https://emotion.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "37392",
@@ -3625,12 +3635,14 @@
       "region": "",
       "address": "",
       "homepage": "https://jpocom.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 063-251-5114 / 이메일: jpocom@hiworks.kr / 홈페이지: https://jpocom.com",
+      "phone": "063-251-5114",
+      "email": "jpocom@hiworks.kr",
+      "confidence": "high",
       "lead_quality_grade": "B",
-      "source": "seed:registry_seed"
+      "source": "seed:registry_seed",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://jpocom.com/default/; title=(주)제이포콤; body_bytes=1758; name_score=3; phones=063-251-5114; emails=jpocom@hiworks.kr; checked_urls=https://jpocom.com/default/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "37411",
@@ -3769,13 +3781,15 @@
       "region": "",
       "address": "",
       "homepage": "https://gsdlab.co.kr/",
-      "contact": "",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 02-597-9630, 02-597-9631 / 이메일: kim@gsdlab.co.kr / 홈페이지: https://gsdlab.co.kr/",
+      "phone": "02-597-9630, 02-597-9631",
+      "email": "kim@gsdlab.co.kr",
+      "confidence": "high",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://gsdlab.co.kr/; title=GSDLAB; body_bytes=3827; name_score=3; phones=02-597-9630,02-597-9631; emails=kim@gsdlab.co.kr; checked_urls=https://gsdlab.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "37420",
@@ -4042,13 +4056,15 @@
       "region": "",
       "address": "",
       "homepage": "https://phis.co.kr/",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-2258-4600, 02-2258-4700, 02-2258-4626 / 홈페이지: https://phis.co.kr/",
+      "phone": "02-2258-4600, 02-2258-4700, 02-2258-4626",
       "email": "",
-      "confidence": "medium",
+      "confidence": "high",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://www.phis.co.kr/main.do; title=평화이즈; body_bytes=4301; name_score=3; phones=02-2258-4600,02-2258-4700,02-2258-4626; emails=; checked_urls=https://www.phis.co.kr/main.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "37450",
@@ -4151,13 +4167,15 @@
       "region": "",
       "address": "",
       "homepage": "https://ecreditkorea.co.kr/",
-      "contact": "https://www.ecreditkorea.co.kr/",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 02-362-1114, 02-362-2117 / 이메일: ecfn@ecreditkorea.co.kr, koreaecredit@naver.com / 홈페이지: https://ecreditkorea.co.kr/",
+      "phone": "02-362-1114, 02-362-2117",
+      "email": "ecfn@ecreditkorea.co.kr, koreaecredit@naver.com",
+      "confidence": "high",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed",
-      "source_page": "https://www.ecreditkorea.co.kr/"
+      "source_page": "https://www.ecreditkorea.co.kr/",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://www.ecreditkorea.co.kr/; title=(주)한국이크레딧테크놀로지; body_bytes=1768; name_score=3; phones=02-362-1114,02-362-2117; emails=ecfn@ecreditkorea.co.kr,koreaecredit@naver.com; checked_urls=https://www.ecreditkorea.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "37456",

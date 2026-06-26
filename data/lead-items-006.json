@@ -30622,8 +30622,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "https://www.kjimc.com",
-      "contact": "전화: 02-2107-7820~28",
-      "phone": "",
+      "contact": "전화: 02-2107-7820, 02-2107-7831, 02-2107-7829, 051-796-1033, 051-796-1037 / 홈페이지: https://www.kjimc.com",
+      "phone": "02-2107-7820, 02-2107-7831, 02-2107-7829, 051-796-1033, 051-796-1037",
       "email": "",
       "confidence": "high",
       "source": "source_file:koami_machinery_industry_member_homepages",
@@ -30632,7 +30632,9 @@
       "company_no": "15,113",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "A"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=http://www.kjimc.com/main.html; title=국제산업기계; body_bytes=696; name_score=3; phones=02-2107-7820,02-2107-7831,02-2107-7829,051-796-1033,051-796-1037; emails=; checked_urls=http://www.kjimc.com/main.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "87003",
@@ -81636,8 +81638,8 @@
       "region": "경기",
       "address": "경기 성남시 중원구 갈마치로 302 B동 1101호",
       "homepage": "https://h9int.com",
-      "contact": "https://www.foodweek.co.kr/company-directories/3876?year=2025&hl=ko",
-      "phone": "",
+      "contact": "전화: 031-750-0489, 031-750-0488 / 홈페이지: https://h9int.com",
+      "phone": "031-750-0489, 031-750-0488",
       "email": "",
       "confidence": "high",
       "source": "source_file:foodweek_korea_2025_company_directory",
@@ -81650,7 +81652,9 @@
       "country": "KR",
       "business_type": "제조업, 도매 및 소매업, 서비스",
       "industry_type": "식품재료 판매, 식품유통",
-      "ceo": "김용준"
+      "ceo": "김용준",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://h9int.com/index_en.php; title=H9 인터내셔널; body_bytes=2873; name_score=3; phones=031-750-0489,031-750-0488; emails=; checked_urls=https://h9int.com/index_en.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "91027",
@@ -82234,8 +82238,8 @@
       "region": "충남",
       "address": "충남 천안시 동남구 성남면 석곡2길 80",
       "homepage": "https://www.soulnaturefood.com",
-      "contact": "https://www.foodweek.co.kr/company-directories/3898?year=2025&hl=ko",
-      "phone": "",
+      "contact": "전화: 070-8677-2777 / 홈페이지: https://www.soulnaturefood.com",
+      "phone": "070-8677-2777",
       "email": "",
       "confidence": "high",
       "source": "source_file:foodweek_korea_2025_company_directory",
@@ -82248,7 +82252,9 @@
       "country": "KR",
       "business_type": "제조업",
       "industry_type": "기타식료품(기타)",
-      "ceo": "김병기"
+      "ceo": "김병기",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://www.soulnaturefood.com/kor/main/main.html; title=소울네이처푸드; body_bytes=3791; name_score=3; phones=070-8677-2777; emails=; checked_urls=https://www.soulnaturefood.com/kor/main/main.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "91058",
@@ -92611,9 +92617,9 @@
       "region": "전국",
       "address": "Korea, Republic of",
       "homepage": "https://www.polaris3d.com",
-      "contact": "https://www.koreamat.org/eng/about/company_detail.asp?api_key=CBD37179-4F28-4C8E-998A-59BA446BDD9C",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 054-275-0224 / 이메일: help@polaris3d.co / 홈페이지: https://www.polaris3d.com",
+      "phone": "054-275-0224",
+      "email": "help@polaris3d.co",
       "confidence": "high",
       "source": "source_file:koreamat_2026_exhibitor_homepage",
       "source_page": "https://www.koreamat.org/eng/about/company_search.asp",
@@ -92624,7 +92630,9 @@
       "source_id": "CBD37179-4F28-4C8E-998A-59BA446BDD9C",
       "country": "Korea, Republic of",
       "source_category": "KOREA MAT 2026",
-      "id": "91648"
+      "id": "91648",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://polaris3d.com/; title=국내 생산 자율주행 AMR 물류로봇 SMAR & 서빙로봇 이리온 | 폴라리스쓰리디; body_bytes=5609; name_score=8; phones=054-275-0224; emails=help@polaris3d.co; checked_urls=https://polaris3d.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "Roiindus",
@@ -92659,8 +92667,8 @@
       "region": "전국",
       "address": "Korea, Republic of",
       "homepage": "https://www.samineng.com",
-      "contact": "https://www.koreamat.org/eng/about/company_detail.asp?api_key=8A99FD90-7CC2-4948-977C-E5AAB9BD8905",
-      "phone": "",
+      "contact": "전화: 062-972-7012, 062-972-7013, 031-430-6014, 031-286-6013, 055-544-7012, 030-434-7013 / 홈페이지: https://www.samineng.com",
+      "phone": "062-972-7012, 062-972-7013, 031-430-6014, 031-286-6013, 055-544-7012, 030-434-7013",
       "email": "",
       "confidence": "high",
       "source": "source_file:koreamat_2026_exhibitor_homepage",
@@ -92672,7 +92680,9 @@
       "source_id": "8A99FD90-7CC2-4948-977C-E5AAB9BD8905",
       "country": "Korea, Republic of",
       "source_category": "KOREA MAT 2026",
-      "id": "91651"
+      "id": "91651",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://www.samineng.com/; title=(주)삼인이엔지; body_bytes=4772; name_score=8; phones=062-972-7012,062-972-7013,031-430-6014,031-286-6013,055-544-7012,030-434-7013; emails=; checked_urls=https://www.samineng.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "SAMSONGCASTER",

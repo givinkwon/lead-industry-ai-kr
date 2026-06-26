@@ -36256,10 +36256,10 @@
       "region": "서울특별시",
       "address": "103-1301, Magok jungang-ro 111, kangseo-gu, seoul",
       "homepage": "https://hikaritech-kr.com",
-      "contact": "https://www.kes.org/eng/search/company_view.asp?user_no=6779&admission=2026&pagesize=15&page=5",
+      "contact": "이메일: sales@hikaritech.biz / 홈페이지: https://hikaritech-kr.com",
       "phone": "",
-      "email": "",
-      "confidence": 0.88,
+      "email": "sales@hikaritech.biz",
+      "confidence": "high",
       "source": "source_file:kes_2026_exhibitor_homepage",
       "source_page": "https://www.kes.org/eng/search/company_list.asp",
       "representative": "",
@@ -36273,7 +36273,9 @@
       "domestic_proof": "korean_phone",
       "fax": "---",
       "source_id": "kes-2026-6779",
-      "id": "94693"
+      "id": "94693",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://hikaritech-kr.com/; title=HIKARI TECH | 주식회사 토리엔지니어링; body_bytes=1926; name_score=6; phones=; emails=sales@hikaritech.biz; checked_urls=https://hikaritech-kr.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "HYBO inc.",
@@ -37183,9 +37185,9 @@
       "region": "경기도",
       "address": "21, Mayu-ro 238beon-gil, Siheung-si, Gyeonggi-do, Korea 15079",
       "homepage": "https://www.lcd.co.kr",
-      "contact": "https://www.k-display.org/fairOnline.do?FAIRMENU_IDX=15074&SYSTEM_IDX=112&hl=ENG&selAction=single_page#/detail?CFAIR_IDX=34482",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-892-5088, 02-892-5090 / 이메일: shindo@lcd.co.kr / 홈페이지: https://www.lcd.co.kr",
+      "phone": "02-892-5088, 02-892-5090",
+      "email": "shindo@lcd.co.kr",
       "confidence": "high",
       "source": "source_file:kdisplay_2026_exhibitor_homepage",
       "source_page": "https://www.k-display.org/fairOnline.do?FAIRMENU_IDX=15074&SYSTEM_IDX=112&hl=ENG&selAction=single_page",
@@ -37197,7 +37199,9 @@
       "country": "Korea, Republic of",
       "source_category": "K-Display 2026",
       "domestic_proof": "kdisplay_country_republic_of_korea",
-      "source_note": "SHINDO, established in 1989, is a KOSDAQ-listed global company that has grown by continuously delivering innovative solutions based on its core technologies. We provide customized equipment by designing process lines optimized for customer…"
+      "source_note": "SHINDO, established in 1989, is a KOSDAQ-listed global company that has grown by continuously delivering innovative solutions based on its core technologies. We provide customized equipment by designing process lines optimized for customer…",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://www.lcd.co.kr/ko/; title=shindo; body_bytes=854; name_score=7; phones=02-892-5088,02-892-5090; emails=shindo@lcd.co.kr; checked_urls=https://www.lcd.co.kr/ko/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "94747",
@@ -37365,8 +37369,8 @@
       "region": "충청남도",
       "address": "7, Pungsesandan-ro, Pungse-myeon, Dongnam-gu, Cheonan-si, Chungcheongnam-do, Republic of Korea",
       "homepage": "https://megasen.co.kr/",
-      "contact": "https://www.k-display.org/fairOnline.do?FAIRMENU_IDX=15074&SYSTEM_IDX=112&hl=ENG&selAction=single_page#/detail?CFAIR_IDX=35740",
-      "phone": "",
+      "contact": "전화: 041-411-7100, 041-411-7199 / 홈페이지: https://megasen.co.kr/",
+      "phone": "041-411-7100, 041-411-7199",
       "email": "",
       "confidence": "high",
       "source": "source_file:kdisplay_2026_exhibitor_homepage",
@@ -37379,7 +37383,9 @@
       "country": "Korea, Republic of",
       "source_category": "K-Display 2026",
       "domestic_proof": "kdisplay_country_republic_of_korea",
-      "source_note": "Megasen provides innovative solutions in the fields of Display (OLED/Micro-OLED) and Semiconductor inspection equipment."
+      "source_note": "Megasen provides innovative solutions in the fields of Display (OLED/Micro-OLED) and Semiconductor inspection equipment.",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://megasen.co.kr/; title=MEGASEN; body_bytes=795; name_score=3; phones=041-411-7100,041-411-7199; emails=; checked_urls=https://megasen.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "94758",
@@ -56696,9 +56702,9 @@
       "region": "전국",
       "address": "KOREA",
       "homepage": "https://www.dntmotor.com",
-      "contact": "https://exhibitors.informamarkets-info.com/event/2025KOFAS/en-US/exhibitor/429304/m-tech",
+      "contact": "이메일: x2motor.kr@gmail.com / 홈페이지: https://www.dntmotor.com",
       "phone": "",
-      "email": "",
+      "email": "x2motor.kr@gmail.com",
       "confidence": "high",
       "source": "source_file:kofas_2025_digital_showroom_homepage",
       "source_page": "https://exhibitors.informamarkets-info.com/event/2025KOFAS/en-US/exhibitspreview",
@@ -56711,7 +56717,9 @@
       "source_category": "KOFAS 2025",
       "category_names": [
         "Manufacturer"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://www.dntmotor.com/; title=M TECH; body_bytes=928; name_score=3; phones=; emails=x2motor.kr@gmail.com; checked_urls=https://www.dntmotor.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "95704",
@@ -85359,7 +85367,7 @@
       "product": "지능형교통체계(ITS) 제품·서비스",
       "region": "전국",
       "homepage": "http://www.sdsystem.com",
-      "contact": "https://itskorea.kr/memberList.do",
+      "contact": "전화: 031-739-6500 / 홈페이지: http://www.sdsystem.com",
       "source": "source_file:its_korea_member_homepage",
       "source_page": "https://itskorea.kr/memberList.do?currentPage=1",
       "ksic_major_code": "J",
@@ -85375,7 +85383,11 @@
       "id": "96950",
       "confidence": "high",
       "lead_quality_grade": "B",
-      "country": "Korea, South"
+      "country": "Korea, South",
+      "phone": "031-739-6500",
+      "email": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://www.sdsystem.co.kr/; title=(주)SD시스템; body_bytes=1972; name_score=3; phones=031-739-6500; emails=; checked_urls=https://www.sdsystem.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "㈜대로",
@@ -85603,7 +85615,7 @@
       "product": "지능형교통체계(ITS) 제품·서비스",
       "region": "전국",
       "homepage": "http://www.laonroad.com",
-      "contact": "https://itskorea.kr/memberList.do",
+      "contact": "전화: 02-507-8207 / 이메일: sales@laonroad.com / 홈페이지: http://www.laonroad.com",
       "source": "source_file:its_korea_member_homepage",
       "source_page": "https://itskorea.kr/memberList.do?currentPage=6",
       "ksic_major_code": "J",
@@ -85619,7 +85631,11 @@
       "id": "96960",
       "confidence": "high",
       "lead_quality_grade": "B",
-      "country": "Korea, South"
+      "country": "Korea, South",
+      "phone": "02-507-8207",
+      "email": "sales@laonroad.com",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://www.laonroad.com/; title=Laon Road; body_bytes=10517; name_score=3; phones=02-507-8207; emails=sales@laonroad.com; checked_urls=https://www.laonroad.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "㈜엔슨소프트",
@@ -85629,7 +85645,7 @@
       "product": "지능형교통체계(ITS) 제품·서비스",
       "region": "전국",
       "homepage": "http://www.ensonsoft.com",
-      "contact": "https://itskorea.kr/memberList.do",
+      "contact": "전화: 070-4350-7400, 033-440-7400 / 이메일: enson@ensonsoft.com / 홈페이지: http://www.ensonsoft.com",
       "source": "source_file:its_korea_member_homepage",
       "source_page": "https://itskorea.kr/memberList.do?currentPage=6",
       "ksic_major_code": "J",
@@ -85645,7 +85661,11 @@
       "id": "96961",
       "confidence": "high",
       "lead_quality_grade": "B",
-      "country": "Korea, South"
+      "country": "Korea, South",
+      "phone": "070-4350-7400, 033-440-7400",
+      "email": "enson@ensonsoft.com",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://www.ensonsoft.com/default/; title=엔슨소프트; body_bytes=4019; name_score=3; phones=070-4350-7400,033-440-7400; emails=enson@ensonsoft.com; checked_urls=https://www.ensonsoft.com/default/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "㈜이미지그룹",
