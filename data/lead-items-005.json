@@ -23485,9 +23485,9 @@
       "segment": "코스닥",
       "region": "경기도",
       "address": "",
-      "homepage": "http://seojinsystem.net",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://www.seojinsystem.net",
+      "contact": "전화: 032-506-2760, 032-506-5760, 070-4263-3643 / 홈페이지: https://www.seojinsystem.net",
+      "phone": "032-506-2760, 032-506-5760, 070-4263-3643",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -23496,7 +23496,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "178320",
-      "product": "통신장비부품,휴대폰부품(메탈케이스 등)"
+      "product": "통신장비부품,휴대폰부품(메탈케이스 등)",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next28_enrichment; final_url=https://www.seojinsystem.net/main/ko/; title=서진시스템; body_bytes=2445; name_score=2; phones=032-506-2760,032-506-5760,070-4263-3643; emails=; checked_urls=https://www.seojinsystem.net/main/ko/|https://www.seojinsystem.net/main/ko/sub03_01.html|https://www.seojinsystem.net/main/ko/sub05_02.html|https://www.seojinsystem.net/main/ko/sub06_01.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "코미코",
@@ -25967,9 +25969,9 @@
       "segment": "유가",
       "region": "서울특별시",
       "address": "",
-      "homepage": "http://www.cswind.com",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://www.cswind.com",
+      "contact": "전화: 02-6480-1800, 02-6285-1257, 02-6205-3678 / 홈페이지: https://www.cswind.com",
+      "phone": "02-6480-1800, 02-6285-1257, 02-6205-3678",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -25978,7 +25980,9 @@
       "ksic_major_name": "전기, 가스, 증기 및 공기조절 공급업",
       "lead_quality_grade": "A",
       "stock_code": "112610",
-      "product": "풍력발전타워 제조"
+      "product": "풍력발전타워 제조",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next28_enrichment; final_url=https://www.cswind.com/business/subsidiary_company/; title=CS WIND; body_bytes=862; name_score=2; phones=02-6480-1800,02-6285-1257,02-6205-3678,020-2021-2022; emails=; checked_urls=https://www.cswind.com/|https://www.cswind.com/company_information/about_us/|https://www.cswind.com/company_information/way_to_come/|https://www.cswind.com/business/subsidiary_company/|https://www.cswind.com/esg/customer_oriented_management/quality_management_policy/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "텔콘RF제약",

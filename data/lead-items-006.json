@@ -71913,10 +71913,10 @@
       "product": "ETD410T, ETD210T, UTE210T & UTE210T-I, 임베디드 카메라 모듈, Embedded Camera Modules, Embedded DRAM Modules DDR5, 반도체, 도소매",
       "region": "서울",
       "address": "서울특별시 양천구 목동서로 159-1 CBS 빌딩 12층",
-      "homepage": "http://kr.transcend-info.com",
-      "contact": "https://www.automationworld.co.kr/company-directories/1911?year=2026&hl=ko",
+      "homepage": "https://kr.transcend-info.com",
+      "contact": "이메일: sales-kr@transcend-info.com / 홈페이지: https://kr.transcend-info.com",
       "phone": "",
-      "email": "",
+      "email": "sales-kr@transcend-info.com",
       "confidence": "high",
       "source": "source_file:automation_world_2026_company_directory",
       "source_page": "https://www.automationworld.co.kr/company-directories?year=2026&hl=en",
@@ -71928,7 +71928,9 @@
       "country": "KR",
       "business_type": "도소매",
       "industry_type": "반도체",
-      "ceo": "심동훈"
+      "ceo": "심동훈",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next28_enrichment; final_url=https://kr.transcend-info.com/support/contact; title=트랜센드에 문의하기 - 트랜센드 코리아 공식 홈페이지; body_bytes=869; name_score=2; phones=; emails=sales-kr@transcend-info.com; checked_urls=https://kr.transcend-info.com/|https://kr.transcend-info.com/about/company|https://kr.transcend-info.com/support/contact|https://kr.transcend-info.com/support/service|https://kr.transcend-info.com/products/oem.aspx; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90436",
