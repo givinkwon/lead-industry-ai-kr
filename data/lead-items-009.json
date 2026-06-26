@@ -69777,8 +69777,8 @@
       "region": "경북",
       "address": "경북",
       "homepage": "http://www.remotesolution.co.kr/",
-      "contact": "신홍범",
-      "phone": "",
+      "contact": "전화: 054-420-4512, 054-437-5520 / 홈페이지: http://www.remotesolution.co.kr/",
+      "phone": "054-420-4512, 054-437-5520",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -69786,7 +69786,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2027-12-28",
-      "id": "110425"
+      "id": "110425",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=https://www.remotesolution.co.kr/; title=리모트솔루션에 오신것을 환영합니다.; body_bytes=1310; name_score=5; phones=054-420-4512,054-437-5520; emails=; checked_urls=http://www.remotesolution.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)지.엠",
@@ -70176,16 +70178,18 @@
       "region": "경남",
       "address": "경남",
       "homepage": "http://www.tongmyung.kr/",
-      "contact": "최인우",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 055-256-3671 / 이메일: pkm@tm.co.kr / 홈페이지: http://www.tongmyung.kr/",
+      "phone": "055-256-3671",
+      "email": "pkm@tm.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-07-09",
-      "id": "110451"
+      "id": "110451",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://tm.co.kr/kor/main/main.html; title=동명산업기계(주); body_bytes=2966; name_score=5; phones=055-256-3671; emails=pkm@tm.co.kr; checked_urls=http://www.tongmyung.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)포인트",
@@ -70708,16 +70712,18 @@
       "region": "대구",
       "address": "대구",
       "homepage": "http://www.g-e-t.co.kr/",
-      "contact": "김광석",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 053-263-0550, 053-263-0071 / 이메일: info@g-e-t.co.kr / 홈페이지: http://www.g-e-t.co.kr/",
+      "phone": "053-263-0550, 053-263-0071",
+      "email": "info@g-e-t.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2028-07-04",
-      "id": "110488"
+      "id": "110488",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.g-e-t.co.kr/main/?load_popup=1; title=지이티 주식회사; body_bytes=2023; name_score=4; phones=053-263-0550,053-263-0071; emails=info@g-e-t.co.kr; checked_urls=http://www.g-e-t.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "오성시스템",
@@ -70803,16 +70809,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.rheotex.co.kr/",
-      "contact": "김철홍",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-499-0785, 031-499-0788 / 이메일: 1ra510@hanmail.net / 홈페이지: http://www.rheotex.co.kr/",
+      "phone": "031-499-0785, 031-499-0788",
+      "email": "1ra510@hanmail.net",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2027-11-14",
-      "id": "110498"
+      "id": "110498",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.rheotex.co.kr/main.php?userAgent=PC; title=원영산업(주); body_bytes=621; name_score=5; phones=031-499-0785,031-499-0788; emails=1ra510@hanmail.net; checked_urls=http://www.rheotex.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "동하코퍼레이션(주)",
@@ -71316,8 +71324,8 @@
       "region": "대전",
       "address": "대전",
       "homepage": "http://www.fiberpia.co.kr/",
-      "contact": "최영복",
-      "phone": "",
+      "contact": "전화: 042-867-6800, 042-867-6802 / 홈페이지: http://www.fiberpia.co.kr/",
+      "phone": "042-867-6800, 042-867-6802",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -71325,7 +71333,9 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "product": "제조업 / 정보통신 / 인증만료 2026-07-05",
-      "id": "110534"
+      "id": "110534",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=https://www.fiberpia.co.kr/; title=파이버피아 | 정확한 빛, 확실한 연결; body_bytes=21046; name_score=5; phones=042-867-6800,042-867-6802; emails=; checked_urls=http://www.fiberpia.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 태성계전",
@@ -71829,8 +71839,8 @@
       "region": "부산",
       "address": "부산",
       "homepage": "http://www.hanano.co.kr/",
-      "contact": "김영환",
-      "phone": "",
+      "contact": "전화: 051-831-1693, 051-831-1696 / 홈페이지: http://www.hanano.co.kr/",
+      "phone": "051-831-1693, 051-831-1696",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -71838,7 +71848,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2028-03-10",
-      "id": "110566"
+      "id": "110566",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.hanano.co.kr/kor/index.html; title=(주)하나노; body_bytes=1053; name_score=4; phones=051-831-1693,051-831-1696; emails=; checked_urls=http://www.hanano.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)대성테크",
@@ -72969,16 +72981,18 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.gasholder.co.kr/",
-      "contact": "정옥채",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2671-4613, 02-2679-5065 / 이메일: gasholder1@naver.com / 홈페이지: http://www.gasholder.co.kr/",
+      "phone": "02-2671-4613, 02-2679-5065",
+      "email": "gasholder1@naver.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "E",
       "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
       "lead_quality_grade": "A",
       "product": "환경 / 환경 / 인증만료 2028-03-16",
-      "id": "110633"
+      "id": "110633",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.gasholder.co.kr/default/; title=진명환경산업(주); body_bytes=1925; name_score=5; phones=02-2671-4613,02-2679-5065; emails=gasholder1@naver.com; checked_urls=http://www.gasholder.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)기흥에프에이",
@@ -73140,16 +73154,18 @@
       "region": "경남",
       "address": "경남",
       "homepage": "http://www.spaceone.kr/",
-      "contact": "손인태",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 055-339-2111 / 이메일: 1990sp@daum.net / 홈페이지: http://www.spaceone.kr/",
+      "phone": "055-339-2111",
+      "email": "1990sp@daum.net",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2029-07-21",
-      "id": "110644"
+      "id": "110644",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.spaceone.kr/default/; title=스페이스원; body_bytes=3278; name_score=5; phones=055-339-2111; emails=1990sp@daum.net; checked_urls=http://www.spaceone.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)건홍지오메트",
@@ -73995,8 +74011,8 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.digitalpa.co.kr/",
-      "contact": "최종만",
-      "phone": "",
+      "contact": "전화: 02-855-5052, 02-855-5053 / 홈페이지: http://www.digitalpa.co.kr/",
+      "phone": "02-855-5052, 02-855-5053",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -74004,7 +74020,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2026-12-22",
-      "id": "110699"
+      "id": "110699",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.digitalpa.co.kr/niabbs5/index.php; title=하이텍영상; body_bytes=3281; name_score=5; phones=02-855-5052,02-855-5053; emails=; checked_urls=http://www.digitalpa.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)대영프로파일",
@@ -74318,8 +74336,8 @@
       "region": "전남",
       "address": "전남",
       "homepage": "http://www.fuso.co.kr/",
-      "contact": "이경섭",
-      "phone": "",
+      "contact": "전화: 062-676-9231, 062-676-9158, 061-373-5373, 061-373-5385, 061-324-6481 / 홈페이지: http://www.fuso.co.kr/",
+      "phone": "062-676-9231, 062-676-9158, 061-373-5373, 061-373-5385, 061-324-6481",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -74327,7 +74345,9 @@
       "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
       "lead_quality_grade": "A",
       "product": "제조업 / 환경 / 인증만료 2028-12-04",
-      "id": "110721"
+      "id": "110721",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.fuso.co.kr/wp_main/index.html; title=(주)후소엔지니어링; body_bytes=1265; name_score=5; phones=062-676-9231,062-676-9158,061-373-5373,061-373-5385,061-324-6481; emails=; checked_urls=http://www.fuso.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)이노셈코리아",
@@ -74356,16 +74376,18 @@
       "region": "인천",
       "address": "인천",
       "homepage": "http://www.toiler.co.kr/",
-      "contact": "곽노희",
+      "contact": "이메일: toiler0070@hanmail.net / 홈페이지: http://www.toiler.co.kr/",
       "phone": "",
-      "email": "",
+      "email": "toiler0070@hanmail.net",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2026-07-16",
-      "id": "110723"
+      "id": "110723",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=https://www.toiler.co.kr/default/; title=(주)토일러; body_bytes=1151; name_score=4; phones=; emails=toiler0070@hanmail.net; checked_urls=http://www.toiler.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)삼명테크",
@@ -75743,16 +75765,18 @@
       "region": "충북",
       "address": "충북",
       "homepage": "http://www.newgreen.kr/",
-      "contact": "김기환",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 043-873-9991, 043-873-9988, 031-701-5352, 031-701-5362, 051-464-0870, 051-464-0872 / 이메일: newgreen@newgreen.kr / 홈페이지: http://www.newgreen.kr/",
+      "phone": "043-873-9991, 043-873-9988, 031-701-5352, 031-701-5362, 051-464-0870, 051-464-0872",
+      "email": "newgreen@newgreen.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2028-03-05",
-      "id": "110811"
+      "id": "110811",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.newgreen.kr/main/main.htm; title=; body_bytes=940; name_score=5; phones=043-873-9991,043-873-9988,031-701-5352,031-701-5362,051-464-0870,051-464-0872; emails=newgreen@newgreen.kr; checked_urls=http://www.newgreen.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)설텍",
@@ -76408,8 +76432,8 @@
       "region": "대전",
       "address": "대전",
       "homepage": "http://www.rigas.co.kr/",
-      "contact": "서동기",
-      "phone": "",
+      "contact": "전화: 042-934-6900, 042-935-8814 / 홈페이지: http://www.rigas.co.kr/",
+      "phone": "042-934-6900, 042-935-8814",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -76417,7 +76441,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2028-06-27",
-      "id": "110850"
+      "id": "110850",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.rigas.co.kr/kr/; title=리가스; body_bytes=2221; name_score=4; phones=042-934-6900,042-935-8814; emails=; checked_urls=http://www.rigas.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "삼우시스템(주)",
@@ -77909,16 +77935,18 @@
       "region": "충북",
       "address": "충북",
       "homepage": "http://www.daehyunmetal.co.kr/",
-      "contact": "김태영",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 043-881-5060, 043-881-9070 / 이메일: account@daehyunmetal.co.kr / 홈페이지: http://www.daehyunmetal.co.kr/",
+      "phone": "043-881-5060, 043-881-9070",
+      "email": "account@daehyunmetal.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2028-08-01",
-      "id": "110951"
+      "id": "110951",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.daehyunmetal.co.kr/main; title=(주) 대현금속; body_bytes=499; name_score=5; phones=043-881-5060,043-881-9070; emails=account@daehyunmetal.co.kr; checked_urls=http://www.daehyunmetal.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)나인벨",
@@ -77928,8 +77956,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.ninebell.co.kr/",
-      "contact": "최문수, 최동원(각자대표)",
-      "phone": "",
+      "contact": "전화: 031-707-9362, 031-705-9365 / 홈페이지: http://www.ninebell.co.kr/",
+      "phone": "031-707-9362, 031-705-9365",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -77937,7 +77965,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2029-08-16",
-      "id": "110952"
+      "id": "110952",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.ninebell.co.kr/default/00/01.php; title=주식회사 나인벨; body_bytes=4808; name_score=4; phones=031-707-9362,031-705-9365; emails=; checked_urls=http://www.ninebell.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "영진화학(주)",
@@ -78004,8 +78034,8 @@
       "region": "대전",
       "address": "대전",
       "homepage": "http://www.esolutions.kr/",
-      "contact": "이은형",
-      "phone": "",
+      "contact": "전화: 042-825-8775 / 홈페이지: http://www.esolutions.kr/",
+      "phone": "042-825-8775",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -78013,7 +78043,9 @@
       "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
       "lead_quality_grade": "A",
       "product": "비제조업 / 환경 / 인증만료 2028-02-12",
-      "id": "110957"
+      "id": "110957",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.esolutions.kr/home/main.php; title=이솔루션즈; body_bytes=2803; name_score=5; phones=042-825-8775; emails=; checked_urls=http://www.esolutions.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "에코바이오텍주식회사",
@@ -78080,8 +78112,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://bbtech.co.kr/",
-      "contact": "성진규",
-      "phone": "",
+      "contact": "전화: 031-8009-0777 / 홈페이지: http://bbtech.co.kr/",
+      "phone": "031-8009-0777",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -78089,7 +78121,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2028-10-15",
-      "id": "110962"
+      "id": "110962",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=https://bbtech.co.kr/; title=(주)비비테크; body_bytes=3187; name_score=5; phones=031-8009-0777; emails=; checked_urls=http://bbtech.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)하나플랜트",
@@ -78783,8 +78817,8 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.refreshsystem.co.kr/",
-      "contact": "이홍원,이희원",
-      "phone": "",
+      "contact": "전화: 02-480-3800 / 홈페이지: http://www.refreshsystem.co.kr/",
+      "phone": "02-480-3800",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -78792,7 +78826,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2026-09-11",
-      "id": "111005"
+      "id": "111005",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=https://www.refreshsystem.co.kr/default/; title=리플래시기술(주); body_bytes=1194; name_score=5; phones=02-480-3800; emails=; checked_urls=http://www.refreshsystem.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)대한식품",
@@ -79106,16 +79142,18 @@
       "region": "전남",
       "address": "전남",
       "homepage": "http://www.dureco.co.kr/",
-      "contact": "여준호",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 061-793-1633, 061-793-1637 / 이메일: dureco@dureco.co.kr / 홈페이지: http://www.dureco.co.kr/",
+      "phone": "061-793-1633, 061-793-1637",
+      "email": "dureco@dureco.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2028-03-20",
-      "id": "111025"
+      "id": "111025",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.dureco.co.kr/dureco/; title=(주)두레엔지니어링; body_bytes=926; name_score=5; phones=061-793-1633,061-793-1637; emails=dureco@dureco.co.kr; checked_urls=http://www.dureco.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)유니테크",
@@ -79125,8 +79163,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.uni-tech.co.kr/",
-      "contact": "김승겸",
-      "phone": "",
+      "contact": "전화: 031-668-2697, 031-667-1751, 061-692-0461, 041-622-9780 / 홈페이지: http://www.uni-tech.co.kr/",
+      "phone": "031-668-2697, 031-667-1751, 061-692-0461, 041-622-9780",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -79134,7 +79172,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2026-10-23",
-      "id": "111027"
+      "id": "111027",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.uni-tech.co.kr/; title=유니테크-불소처리제,과수처리제,구리처리제; body_bytes=2639; name_score=5; phones=031-668-2697,031-667-1751,061-692-0461,041-622-9780; emails=; checked_urls=http://www.uni-tech.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 하이맥스",
@@ -80436,16 +80476,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.spinasys.co.kr/",
-      "contact": "최훈규",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-625-4801, 031-625-4803 / 이메일: cs@spinasys.co.kr / 홈페이지: http://www.spinasys.co.kr/",
+      "phone": "031-625-4801, 031-625-4803",
+      "email": "cs@spinasys.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "product": "SW / 정보통신 / 인증만료 2028-02-21",
-      "id": "111107"
+      "id": "111107",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.spinasys.co.kr/main; title=SPINA SYSTEMS; body_bytes=2744; name_score=5; phones=031-625-4801,031-625-4803; emails=cs@spinasys.co.kr; checked_urls=http://www.spinasys.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "광진프랜지",
@@ -80702,8 +80744,8 @@
       "region": "울산",
       "address": "울산",
       "homepage": "http://www.mopam.co.kr/",
-      "contact": "김성대,윤경섭",
-      "phone": "",
+      "contact": "전화: 052-255-2300, 052-254-0106 / 홈페이지: http://www.mopam.co.kr/",
+      "phone": "052-255-2300, 052-254-0106",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -80711,7 +80753,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-09-29",
-      "id": "111124"
+      "id": "111124",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.mopam.co.kr/contact-us/; title=Contact US – 주식회사 모팜; body_bytes=932; name_score=4; phones=052-255-2300,052-254-0106; emails=; checked_urls=http://www.mopam.co.kr/,http://www.mopam.co.kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)엠파워",
@@ -81652,8 +81696,8 @@
       "region": "경북",
       "address": "경북",
       "homepage": "http://www.goodstick.co.kr/",
-      "contact": "이은숙",
-      "phone": "",
+      "contact": "전화: 054-334-9192, 054-334-9195 / 홈페이지: http://www.goodstick.co.kr/",
+      "phone": "054-334-9192, 054-334-9195",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -81661,7 +81705,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-06-17",
-      "id": "111183"
+      "id": "111183",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=https://goodstick.co.kr/renew/main/main.html; title=(주)극동; body_bytes=1231; name_score=4; phones=054-334-9192,054-334-9195; emails=; checked_urls=http://www.goodstick.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)탑드릴",
@@ -81937,16 +81983,18 @@
       "region": "전남",
       "address": "전남",
       "homepage": "http://www.bstpipe.co.kr/",
-      "contact": "김성식",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 061-857-9900, 061-857-7570 / 이메일: bst9900@hanmail.net / 홈페이지: http://www.bstpipe.co.kr/",
+      "phone": "061-857-9900, 061-857-7570",
+      "email": "bst9900@hanmail.net",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2027-07-09",
-      "id": "111203"
+      "id": "111203",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.bstpipe.co.kr/; title=보성포리테크(주); body_bytes=2419; name_score=5; phones=061-857-9900,061-857-7570; emails=bst9900@hanmail.net; checked_urls=http://www.bstpipe.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "동재공업(주)",
@@ -82032,8 +82080,8 @@
       "region": "경북",
       "address": "경북",
       "homepage": "http://www.wschemical.co.kr/",
-      "contact": "박병욱",
-      "phone": "",
+      "contact": "전화: 054-333-1767, 054-335-7234, 054-338-2767, 054-338-7234, 054-336-1767, 054-336-1769 / 홈페이지: http://www.wschemical.co.kr/",
+      "phone": "054-333-1767, 054-335-7234, 054-338-2767, 054-338-7234, 054-336-1767, 054-336-1769",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -82041,7 +82089,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2027-09-03",
-      "id": "111210"
+      "id": "111210",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.wschemical.co.kr/main/; title=우성케미칼; body_bytes=5008; name_score=5; phones=054-333-1767,054-335-7234,054-338-2767,054-338-7234,054-336-1767,054-336-1769; emails=; checked_urls=http://www.wschemical.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사디엠씨테크",
@@ -82146,16 +82196,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.hnfood.co.kr/",
-      "contact": "오승훈",
+      "contact": "이메일: hnf7318@hanmail.net / 홈페이지: http://www.hnfood.co.kr/",
       "phone": "",
-      "email": "",
+      "email": "hnf7318@hanmail.net",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 식품 / 인증만료 2027-12-13",
-      "id": "111218"
+      "id": "111218",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.hnfood.co.kr/contact; title=CONTACT; body_bytes=500; name_score=5; phones=; emails=hnf7318@hanmail.net; checked_urls=http://www.hnfood.co.kr/,http://www.hnfood.co.kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)금부치아",
@@ -82184,16 +82236,18 @@
       "region": "경남",
       "address": "경남",
       "homepage": "http://www.hysg.co.kr/",
-      "contact": "김동범",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 055-274-2581, 055-266-5096 / 이메일: segaeh@daum.net / 홈페이지: http://www.hysg.co.kr/",
+      "phone": "055-274-2581, 055-266-5096",
+      "email": "segaeh@daum.net",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-09-11",
-      "id": "111220"
+      "id": "111220",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.hysg.co.kr/kor/main/main.html; title=하이에스지; body_bytes=2353; name_score=5; phones=055-274-2581,055-266-5096; emails=segaeh@daum.net; checked_urls=http://www.hysg.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)익스톨",
@@ -82488,16 +82542,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.catech.kr/",
-      "contact": "최병옥",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-355-0369, 031-355-3166, 053-851-7023, 053-851-5590 / 이메일: cas1@catech.kr, cas3@catech.kr / 홈페이지: http://www.catech.kr/",
+      "phone": "031-355-0369, 031-355-3166, 053-851-7023, 053-851-5590",
+      "email": "cas1@catech.kr, cas3@catech.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2028-04-25",
-      "id": "111241"
+      "id": "111241",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.catech.kr/main/index.html; title=CATECH; body_bytes=2587; name_score=5; phones=031-355-0369,031-355-3166,053-851-7023,053-851-5590; emails=cas1@catech.kr,cas3@catech.kr; checked_urls=http://www.catech.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)베스텍",
@@ -82659,16 +82715,18 @@
       "region": "부산",
       "address": "부산",
       "homepage": "http://www.pentatech.co.kr/",
-      "contact": "권영괄",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 051-403-1245, 051-403-1246 / 이메일: company@pentatech.co.kr / 홈페이지: http://www.pentatech.co.kr/",
+      "phone": "051-403-1245, 051-403-1246",
+      "email": "company@pentatech.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2026-12-17",
-      "id": "111252"
+      "id": "111252",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.pentatech.co.kr/eng/; title=(주)펜타텍; body_bytes=2025; name_score=4; phones=051-403-1245,051-403-1246; emails=company@pentatech.co.kr; checked_urls=http://www.pentatech.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)컴테크케미칼",
@@ -83134,16 +83192,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.expantech.co.kr/",
-      "contact": "김성열",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-297-3537, 031-297-3539 / 이메일: expantech@expantech.co.kr / 홈페이지: http://www.expantech.co.kr/",
+      "phone": "031-297-3537, 031-297-3539",
+      "email": "expantech@expantech.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2027-05-21",
-      "id": "111281"
+      "id": "111281",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.expantech.co.kr/main.php?userAgent=PC; title=익스팬테크; body_bytes=920; name_score=5; phones=031-297-3537,031-297-3539; emails=expantech@expantech.co.kr; checked_urls=http://www.expantech.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)지코",
@@ -83438,16 +83498,18 @@
       "region": "전남",
       "address": "전남",
       "homepage": "http://www.chemport.co.kr/",
-      "contact": "김영주",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 061-330-9700, 061-330-9710, 061-330-9733, 061-330-9730, 02-3439-2270, 02-3439-2266 / 이메일: sales@chemport.co.kr, torks@chemport.co.kr / 홈페이지: http://www.chemport.co.kr/",
+      "phone": "061-330-9700, 061-330-9710, 061-330-9733, 061-330-9730, 02-3439-2270, 02-3439-2266",
+      "email": "sales@chemport.co.kr, torks@chemport.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 바이오 / 인증만료 2026-12-17",
-      "id": "111298"
+      "id": "111298",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=https://www.chemport.co.kr/kor/; title=켐포트; body_bytes=2142; name_score=4; phones=061-330-9700,061-330-9710,061-330-9733,061-330-9730,02-3439-2270,02-3439-2266; emails=sales@chemport.co.kr,torks@chemport.co.kr; checked_urls=http://www.chemport.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)장생도라지",
@@ -84217,8 +84279,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.finepolymer.co.kr/",
-      "contact": "김봉주",
-      "phone": "",
+      "contact": "전화: 031-299-8700, 031-299-8701 / 홈페이지: http://www.finepolymer.co.kr/",
+      "phone": "031-299-8700, 031-299-8701",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -84226,7 +84288,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2027-01-19",
-      "id": "111346"
+      "id": "111346",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.finepolymer.co.kr/default/; title=화인폴리머(주); body_bytes=2346; name_score=5; phones=031-299-8700,031-299-8701; emails=; checked_urls=http://www.finepolymer.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)거양금속",
@@ -84559,8 +84623,8 @@
       "region": "부산",
       "address": "부산",
       "homepage": "http://www.twp.co.kr/",
-      "contact": "김준영",
-      "phone": "",
+      "contact": "전화: 051-972-6646, 051-972-6649 / 홈페이지: http://www.twp.co.kr/",
+      "phone": "051-972-6646, 051-972-6649",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -84568,7 +84632,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-08-11",
-      "id": "111368"
+      "id": "111368",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=https://www.twp.co.kr/about; title=About TW | taewon-precision-co; body_bytes=1813; name_score=5; phones=051-972-6646,051-972-6649; emails=; checked_urls=http://www.twp.co.kr/,http://www.twp.co.kr/contact,http://www.twp.co.kr/contact-us,http://www.twp.co.kr/contacts,http://www.twp.co.kr/inquiry,http://www.twp.co.kr/support,http://www.twp.co.kr/customer,http://www.twp.co.kr/cs,http://www.twp.co.kr/about; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)엠바이넥스",
@@ -84749,16 +84815,18 @@
       "region": "경남",
       "address": "경남",
       "homepage": "http://www.dongu.co.kr/",
-      "contact": "류병현",
+      "contact": "이메일: dge@dongu.co.kr / 홈페이지: http://www.dongu.co.kr/",
       "phone": "",
-      "email": "",
+      "email": "dge@dongu.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2026-12-26",
-      "id": "111379"
+      "id": "111379",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.dongu.co.kr/ko/main/main.php; title=동구기업; body_bytes=988; name_score=5; phones=; emails=dge@dongu.co.kr; checked_urls=http://www.dongu.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)자동기",
@@ -85262,8 +85330,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.eionia.co.kr/",
-      "contact": "권록희",
-      "phone": "",
+      "contact": "전화: 032-720-8000, 032-683-6033 / 홈페이지: http://www.eionia.co.kr/",
+      "phone": "032-720-8000, 032-683-6033",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -85271,7 +85339,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2027-01-19",
-      "id": "111411"
+      "id": "111411",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.eionia.co.kr/home/; title=이오니아; body_bytes=620; name_score=5; phones=032-720-8000,032-683-6033; emails=; checked_urls=http://www.eionia.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "신라이앤티(주)",
@@ -85414,8 +85484,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.nnptech.co.kr/",
-      "contact": "송상헌",
-      "phone": "",
+      "contact": "전화: 02-2083-1827, 02-2083-1800, 02-2083-1830 / 홈페이지: http://www.nnptech.co.kr/",
+      "phone": "02-2083-1827, 02-2083-1800, 02-2083-1830",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -85423,7 +85493,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2026-12-26",
-      "id": "111420"
+      "id": "111420",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.nnptech.co.kr/default/; title=(주)엔앤피테크놀러지즈; body_bytes=2653; name_score=5; phones=02-2083-1827,02-2083-1800,02-2083-1830; emails=; checked_urls=http://www.nnptech.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)아이티시에스",
@@ -85471,16 +85543,18 @@
       "region": "울산",
       "address": "울산",
       "homepage": "http://www.isptfe.co.kr/",
-      "contact": "김원배",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 052-262-4447, 052-262-4449 / 이메일: ilshin@isptfe.co.kr / 홈페이지: http://www.isptfe.co.kr/",
+      "phone": "052-262-4447, 052-262-4449",
+      "email": "ilshin@isptfe.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2027-11-27",
-      "id": "111424"
+      "id": "111424",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.isptfe.co.kr/main/main.php; title=일신피티에프이공업(주) - IL SHIN PTFE IND. CO., LTD.; body_bytes=2059; name_score=5; phones=052-262-4447,052-262-4449; emails=ilshin@isptfe.co.kr; checked_urls=http://www.isptfe.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "대안화학주식회사",
@@ -86250,16 +86324,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.woodmetal.co.kr/",
-      "contact": "김춘수",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-594-9900, 031-594-3400 / 이메일: wm@woodmetal.co.kr / 홈페이지: http://www.woodmetal.co.kr/",
+      "phone": "031-594-9900, 031-594-3400",
+      "email": "wm@woodmetal.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2027-12-20",
-      "id": "111474"
+      "id": "111474",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.woodmetal.co.kr/default/; title=(주)우드메탈에 방문해주셔서 감사합니다!; body_bytes=5860; name_score=5; phones=031-594-9900,031-594-3400; emails=wm@woodmetal.co.kr; checked_urls=http://www.woodmetal.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)정신전자",
@@ -86288,8 +86364,8 @@
       "region": "대구",
       "address": "대구",
       "homepage": "http://www.wintech21.co.kr/",
-      "contact": "최경성",
-      "phone": "",
+      "contact": "전화: 053-582-5314, 053-582-5317 / 홈페이지: http://www.wintech21.co.kr/",
+      "phone": "053-582-5314, 053-582-5317",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -86297,7 +86373,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2026-10-09",
-      "id": "111476"
+      "id": "111476",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next23_enrichment; final_url=http://www.wintech21.co.kr/main/; title=(주)윈텍; body_bytes=877; name_score=4; phones=053-582-5314,053-582-5317; emails=; checked_urls=http://www.wintech21.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)화인",
