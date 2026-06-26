@@ -75538,15 +75538,17 @@
       "region": "광주광역시",
       "address": "광주광역시 북구 첨단과기로208번길 43-22, 6층 에프에이-612호(오룡동, 와이어스파크)",
       "homepage": "http://xmecca.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 062-374-9986 / 이메일: xmcustomer@gmail.com / 홈페이지: http://xmecca.com",
+      "phone": "062-374-9986",
+      "email": "xmcustomer@gmail.com",
+      "confidence": "high",
       "source": "source_file:j_sw_business_db",
       "id": "62110",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next33_domain_propagation; propagated_from_id=113345; propagated_from_name=엑스메카; domain=xmecca.com; source_verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 나옴 (naom lnc.)",
