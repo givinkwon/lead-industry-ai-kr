@@ -62145,8 +62145,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.hysfa.com/",
-      "contact": "김태훈",
-      "phone": "",
+      "contact": "전화: 031-434-7300, 031-434-7310 / 홈페이지: http://www.hysfa.com/",
+      "phone": "031-434-7300, 031-434-7310",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -62154,7 +62154,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2028-03-18",
-      "id": "109930"
+      "id": "109930",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next26_enrichment; final_url=http://hysfa.com/layout/res/home.php?go=main; title=한양시스템; body_bytes=1340; name_score=3; phones=031-434-7300,031-434-7310; emails=; checked_urls=http://hysfa.com/layout/res/home.php?go=main; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)케이엠씨",
@@ -62278,8 +62280,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://cheongseokelectric.com/",
-      "contact": "노공환,김성룡(각자대표)",
-      "phone": "",
+      "contact": "전화: 031-969-2390, 031-969-2395 / 홈페이지: http://cheongseokelectric.com/",
+      "phone": "031-969-2390, 031-969-2395",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -62287,7 +62289,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2028-03-14",
-      "id": "109937"
+      "id": "109937",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next26_enrichment; final_url=http://cheongseokelectric.com/main; title=주식회사 청석전기; body_bytes=1973; name_score=3; phones=031-969-2390,031-969-2395; emails=; checked_urls=http://cheongseokelectric.com/main; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)에스피씨",
@@ -63498,16 +63502,18 @@
       "region": "대구",
       "address": "대구",
       "homepage": "http://www.rbart.net/",
-      "contact": "김휘자",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 053-585-3966, 053-585-3967 / 이메일: mgg3966@hanmail.net / 홈페이지: http://www.rbart.net/",
+      "phone": "053-585-3966, 053-585-3967",
+      "email": "mgg3966@hanmail.net",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2028-04-03",
-      "id": "110014"
+      "id": "110014",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next26_enrichment; final_url=http://www.rbart.net/default/; title=무지개산업; body_bytes=1348; name_score=3; phones=053-585-3966,053-585-3967; emails=mgg3966@hanmail.net; checked_urls=http://www.rbart.net/default/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)테크유니온",
@@ -65600,8 +65606,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.infovion.com/",
-      "contact": "김용환",
-      "phone": "",
+      "contact": "전화: 02-2672-7287, 02-2672-7290 / 홈페이지: http://www.infovion.com/",
+      "phone": "02-2672-7287, 02-2672-7290",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -65609,7 +65615,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2028-06-11",
-      "id": "110154"
+      "id": "110154",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next26_enrichment; final_url=http://www.infovion.com/main; title=infovion; body_bytes=2386; name_score=3; phones=02-2672-7287,02-2672-7290; emails=; checked_urls=http://www.infovion.com/main; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)중일테크",
@@ -65961,8 +65969,8 @@
       "region": "부산",
       "address": "부산",
       "homepage": "http://www.occ21.com/",
-      "contact": "심정섭",
-      "phone": "",
+      "contact": "전화: 051-266-7110, 051-266-7113 / 홈페이지: http://www.occ21.com/",
+      "phone": "051-266-7110, 051-266-7113",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -65970,7 +65978,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2027-12-13",
-      "id": "110174"
+      "id": "110174",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next26_enrichment; final_url=http://www.occ21.com/kor/; title=오리엔탈코머스; body_bytes=2138; name_score=3; phones=051-266-7110,051-266-7113; emails=; checked_urls=http://www.occ21.com/kor/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "월탑전자",
@@ -66155,16 +66165,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.icorona.net/",
-      "contact": "최재용",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-515-2800, 02-515-2801, 031-491-0271, 031-491-0274 / 이메일: hkcorona@nate.com / 홈페이지: http://www.icorona.net/",
+      "phone": "02-515-2800, 02-515-2801, 031-491-0271, 031-491-0274",
+      "email": "hkcorona@nate.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-11-27",
-      "id": "110187"
+      "id": "110187",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next26_enrichment; final_url=http://koreacorona.com/; title=한국코로나; body_bytes=3315; name_score=3; phones=02-515-2800,02-515-2801,031-491-0271,031-491-0274; emails=hkcorona@nate.com; checked_urls=http://koreacorona.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)화영",
@@ -85139,8 +85151,8 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.autobrain.net/",
-      "contact": "최지홍",
-      "phone": "",
+      "contact": "전화: 02-2040-0101, 02-2040-0100 / 홈페이지: http://www.autobrain.net/",
+      "phone": "02-2040-0101, 02-2040-0100",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -85148,7 +85160,9 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "product": "비제조업 / S/W / 인증만료 2026-12-06",
-      "id": "111397"
+      "id": "111397",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next26_enrichment; final_url=https://www.autobrain.net/index.do; title=(주)오토브레인; body_bytes=614; name_score=3; phones=02-2040-0101,02-2040-0100; emails=; checked_urls=https://www.autobrain.net/index.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사고려이엔시",
