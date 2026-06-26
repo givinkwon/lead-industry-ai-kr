@@ -50189,9 +50189,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.hanwhamomentum.com",
-      "contact": "전화: 031-780-1359, 041-538-4800, 041-538-4809, 055-280-8834, 055-280-4664 / 이메일: saleseurope@hanwha.de, ywlee@hanwha.de / 홈페이지: http://www.hanwhamomentum.com",
+      "contact": "전화: 031-780-1359, 041-538-4800, 041-538-4809, 055-280-8834, 055-280-4664 / 홈페이지: http://www.hanwhamomentum.com",
       "phone": "031-780-1359, 041-538-4800, 041-538-4809, 055-280-8834, 055-280-4664",
-      "email": "saleseurope@hanwha.de, ywlee@hanwha.de",
+      "email": "",
       "confidence": "high",
       "source": "source_file:nlic_logistics_industry_directory",
       "source_page": "https://www.nlic.go.kr/nlic/LgistEntrInfoList.action",
@@ -50199,7 +50199,7 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://www.hanwhamomentum.com/company/place.do; title=사업장 정보 | 회사소개 | 한화모멘텀 | 글로벌 기계설비 산업 【한화모멘텀】; body_bytes=2232; name_score=3; phones=031-780-1359,041-538-4800,041-538-4809,055-280-8834,055-280-4664; emails=saleseurope@hanwha.de,ywlee@hanwha.de; checked_urls=https://www.hanwhamomentum.com/,https://www.hanwhamomentum.com/company/overview.do,https://www.hanwhamomentum.com/company/history1.do,https://www.hanwhamomentum.com/company/place.do; verification=homepage_rendered_contact_enriched"
+      "evidence": "verified_export:b2b_next17_enrichment; final_url=https://www.hanwhamomentum.com/company/place.do; title=사업장 정보 | 회사소개 | 한화모멘텀 | 글로벌 기계설비 산업 【한화모멘텀】; body_bytes=2232; name_score=3; phones=031-780-1359,041-538-4800,041-538-4809,055-280-8834,055-280-4664; emails=; checked_urls=https://www.hanwhamomentum.com/,https://www.hanwhamomentum.com/company/overview.do,https://www.hanwhamomentum.com/company/history1.do,https://www.hanwhamomentum.com/company/place.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "80454",
