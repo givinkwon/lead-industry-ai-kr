@@ -23874,11 +23874,11 @@
       "product": "Deep RIE etching; Dry Etching, Etching; Stripping; Ashing - Dry and Wet Equipment",
       "region": "경기도",
       "address": "Hwaseong-si, Gyeonggi-do, Korea (South)",
-      "homepage": "http://www.gigalane.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
-      "confidence": "high",
+      "homepage": "http://www.gigalane.com/ko/business_sem_network.html",
+      "contact": "전화: 031-233-7325 / 이메일: jh@gigalane.com / 홈페이지: http://www.gigalane.com/ko/business_sem_network.html",
+      "phone": "031-233-7325",
+      "email": "jh@gigalane.com",
+      "confidence": "medium",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=174&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=634792",
       "representative": "",
@@ -23889,7 +23889,10 @@
       "source_note": "",
       "country": "Korea, Republic of",
       "source_id": "semicon-2026-gigalane-gigalane.com",
-      "id": "94084"
+      "id": "94084",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next87_enrichment; result=direct_verification; final_url=http://www.gigalane.com/ko/business_sem_network.html; title=Gigalane semiconductor equipment sales network Korea contact; phones=031-233-7325; emails=jh@gigalane.com; contact_form=sales_network_korea_contact; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-28T01:44:44.448+09:00"
     },
     {
       "name": "GLOBAL STANDARD TECHNOLOGY CO., LTD.",
