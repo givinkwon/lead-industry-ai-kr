@@ -27614,8 +27614,8 @@
       "region": "전북특별자치도",
       "address": "",
       "homepage": "http://www.lotteenergymaterials.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-707-9314 / 홈페이지: http://www.lotteenergymaterials.com",
+      "phone": "02-707-9314",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -27624,7 +27624,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "020150",
-      "product": "인쇄회로기판(PCB)용 전해동박(ACF,UCF),에폭시용 동박,전해콘덴서용 알루미늄박 제조,판매"
+      "product": "인쇄회로기판(PCB)용 전해동박(ACF,UCF),에폭시용 동박,전해콘덴서용 알루미늄박 제조,판매",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next37_enrichment; final_url=https://www.lotteenergymaterials.com/company/; title=롯데에너지머티리얼즈; body_bytes=1665; name_score=7; manual_review=official_footer_representative_ars; phones=02-707-9314; emails=; checked_urls=https://www.lotteenergymaterials.com/|https://www.lotteenergymaterials.com/company/|https://www.lotteenergymaterials.com/company/introduce.do|https://www.lotteenergymaterials.com/company/ceo.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "미원화학",
@@ -27756,8 +27758,8 @@
       "region": "충청남도",
       "address": "",
       "homepage": "http://www.tse21.com",
-      "contact": "이메일: hosting@gabia.com",
-      "phone": "",
+      "contact": "전화: 041-580-9955 / 홈페이지: http://www.tse21.com",
+      "phone": "041-580-9955",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -27766,7 +27768,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "131290",
-      "product": "Probe Card, Test Interface Board, OLED Test Equipment, Test Socket"
+      "product": "Probe Card, Test Interface Board, OLED Test Equipment, Test Socket",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next37_enrichment; final_url=https://www.tse21.com/eng/product/customersupport.html; title=TSE | Enabling Tomorrow's Semiconductor; body_bytes=3978; name_score=0; manual_review=official_contactsales_page_korea_tel_only_excluded_foreign_partner_numbers; phones=041-580-9955; emails=; checked_urls=https://www.tse21.com/eng/main/index.html|https://www.tse21.com/eng/product/customersupport.html|https://www.tse21.com/eng/product/customersupport_contactsales.html|https://www.tse21.com/eng/product/customersupport_faq.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "한화엔진",
@@ -28402,9 +28406,9 @@
       "region": "충청남도",
       "address": "",
       "homepage": "http://www.samkee.com",
-      "contact": "",
+      "contact": "이메일: samkee@samkee.com / 홈페이지: http://www.samkee.com",
       "phone": "",
-      "email": "",
+      "email": "samkee@samkee.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79115",
@@ -28412,7 +28416,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "122350",
-      "product": "자동차부품"
+      "product": "자동차부품",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next37_enrichment; final_url=https://www.samkee.com/kor/company/company.asp; title=Samkee Corp.; body_bytes=2185; name_score=6; manual_review=official_company_page_domain_email; phones=; emails=samkee@samkee.com; checked_urls=https://www.samkee.com/kor/main/|https://www.samkee.com/kor/company/company.asp|https://www.samkee.com/kor/company/vision.asp|https://www.samkee.com/kor/company/preview.asp; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "케이이엠텍",

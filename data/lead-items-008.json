@@ -9265,8 +9265,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://bitgeul.kr/",
-      "contact": "노지효",
-      "phone": "",
+      "contact": "전화: 031-343-8611 / 홈페이지: http://bitgeul.kr/",
+      "phone": "031-343-8611",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -9274,7 +9274,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2029-02-08",
-      "id": "100294"
+      "id": "100294",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next37_enrichment; final_url=https://www.bitgeul.kr/company/location; title=빛글 찾아오시는길; body_bytes=437; name_score=6; manual_review=official_location_page_tel; phones=031-343-8611; emails=; checked_urls=https://www.bitgeul.kr/|https://www.bitgeul.kr/company/company|https://www.bitgeul.kr/company/awards|https://www.bitgeul.kr/company/location; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "삼정전기산업(주)",
@@ -14155,16 +14157,18 @@
       "region": "경남",
       "address": "경남",
       "homepage": "http://www.ivtkorea.com/",
-      "contact": "김진문",
+      "contact": "이메일: ivtkorea@ivtkorea.com / 홈페이지: http://www.ivtkorea.com/",
       "phone": "",
-      "email": "",
+      "email": "ivtkorea@ivtkorea.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2028-08-12",
-      "id": "100602"
+      "id": "100602",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next37_enrichment; final_url=https://www.ivtkorea.com/?param=company_location; title=IVT KOREA; body_bytes=636; name_score=0; manual_review=official_location_page_domain_email_english_brand; phones=; emails=ivtkorea@ivtkorea.com; checked_urls=https://www.ivtkorea.com/|https://www.ivtkorea.com/?param=company_ceo|https://www.ivtkorea.com/?param=company_location; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "티에프(주)",
@@ -18689,8 +18693,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.lty.co.kr/",
-      "contact": "양경모",
-      "phone": "",
+      "contact": "전화: 031-354-6328 / 홈페이지: http://www.lty.co.kr/",
+      "phone": "031-354-6328",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -18698,7 +18702,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2027-11-18",
-      "id": "100877"
+      "id": "100877",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next37_enrichment; final_url=http://www.lty.co.kr/en/sub_1_2.php; title=LTY; body_bytes=1838; name_score=7; manual_review=official_company_page_tel; phones=031-354-6328; emails=; checked_urls=http://www.lty.co.kr/index_en.php|http://www.lty.co.kr/en/sub_1_2.php|http://www.lty.co.kr/bbs/board.php?bo_table=history_en|http://www.lty.co.kr/en/sub_1_7.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "비에프텍",
