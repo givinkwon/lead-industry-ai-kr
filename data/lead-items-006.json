@@ -7434,8 +7434,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "https://robros.co.kr",
-      "contact": "전화: -",
-      "phone": "",
+      "contact": "전화: 02-2641-0081 / 홈페이지: https://robros.co.kr",
+      "phone": "02-2641-0081",
       "email": "",
       "confidence": "high",
       "source": "source_file:korea_ai_robot_industry_association_members",
@@ -7445,7 +7445,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "member_type": "정회원일반사",
-      "business_area": "제조업용"
+      "business_area": "제조업용",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next34_enrichment; final_url=https://www.robros.co.kr/ko/about-us; title=회사소개 | 로브로스; body_bytes=1581; name_score=5; phones=02-2641-0081; emails=; checked_urls=https://www.robros.co.kr/ko|https://www.robros.co.kr/ko/faq|https://www.robros.co.kr/ko/about-us; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "83912",
@@ -7503,9 +7505,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.storant.co.kr",
-      "contact": "전화: -",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 042-931-2008 / 이메일: st@storant.co.kr / 홈페이지: http://www.storant.co.kr",
+      "phone": "042-931-2008",
+      "email": "st@storant.co.kr",
       "confidence": "high",
       "source": "source_file:korea_ai_robot_industry_association_members",
       "source_page": "https://www.korearobot.or.kr/member/status.htm?page=14",
@@ -7514,7 +7516,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "member_type": "정회원일반사",
-      "business_area": "로봇시스템"
+      "business_area": "로봇시스템",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next34_enrichment; final_url=http://www.storant.co.kr/main; title=무인 로봇카페, 스마트 바리스타 로봇이 커피제조부터 서빙까지 - 스토랑트; body_bytes=1534; name_score=5; phones=042-931-2008; emails=st@storant.co.kr; checked_urls=http://www.storant.co.kr/main|http://www.storant.co.kr/policy/sitemap|http://www.storant.co.kr/about-us; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "83915",
@@ -7825,9 +7829,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "https://uel.co.kr",
-      "contact": "전화: -",
+      "contact": "이메일: uel@uel.co.kr / 홈페이지: https://uel.co.kr",
       "phone": "",
-      "email": "",
+      "email": "uel@uel.co.kr",
       "confidence": "high",
       "source": "source_file:korea_ai_robot_industry_association_members",
       "source_page": "https://www.korearobot.or.kr/member/status.htm?page=17",
@@ -7836,7 +7840,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "member_type": "정회원일반사",
-      "business_area": "서비스로봇"
+      "business_area": "서비스로봇",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next34_enrichment; final_url=https://uel.co.kr/; title=UEL - Unmanned Exploration Laboratory; body_bytes=5050; name_score=3; phones=; emails=uel@uel.co.kr; checked_urls=https://uel.co.kr/|https://uel.co.kr/about; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "83936",
@@ -9090,9 +9096,9 @@
       "region": "대전광역시",
       "address": "",
       "homepage": "https://lemtics.com",
-      "contact": "전화: -",
+      "contact": "이메일: lemtics@lemtics.com / 홈페이지: https://lemtics.com",
       "phone": "",
-      "email": "",
+      "email": "lemtics@lemtics.com",
       "confidence": "high",
       "source": "source_file:korea_ai_robot_industry_association_members",
       "source_page": "https://www.korearobot.or.kr/member/status.htm?page=28",
@@ -9101,7 +9107,9 @@
       "ksic_major_name": "교육 서비스업",
       "lead_quality_grade": "A",
       "member_type": "정회원일반사",
-      "business_area": "로봇시스템"
+      "business_area": "로봇시스템",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next34_enrichment; final_url=https://lemtics.com/; title=Lemtics – 렘틱스; body_bytes=2514; name_score=5; phones=; emails=lemtics@lemtics.com; checked_urls=https://lemtics.com/|https://lemtics.com/startup-about/|https://lemtics.com/contact/; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "84005",

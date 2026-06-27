@@ -278,15 +278,17 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.hyundai-kefico.com/",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-450-9015 / 홈페이지: https://www.hyundai-kefico.com/",
+      "phone": "031-450-9015",
       "email": "",
       "confidence": "high",
       "source": "source_file:kpca_pcb_semiconductor_packaging_member_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
-      "id": "99669"
+      "id": "99669",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next34_enrichment; final_url=https://www.hyundai-kefico.com/ko/main/index.do; title=현대케피코; body_bytes=1389; name_score=5; phones=031-450-9015; emails=; checked_urls=https://www.hyundai-kefico.com/ko/main/index.do|https://www.hyundai-kefico.com/ko/footer/contact/write.do|https://www.hyundai-kefico.com/ko/company/overview/content.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)이앤엘코리아",
