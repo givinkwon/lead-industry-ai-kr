@@ -14903,8 +14903,8 @@
       "region": "경상남도",
       "address": "",
       "homepage": "http://www.mncsolution.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 055-269-5114",
+      "phone": "055-269-5114",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -14913,7 +14913,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "484870",
-      "product": "방위산업용 유압식/전기식 부품 및 시스템"
+      "product": "방위산업용 유압식/전기식 부품 및 시스템",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=https://visit.mncsolution.com/; title=㈜MNC솔루션 출입시스템; source=source_file:krx_listed_company_homepage; manual_review=official_homepage_contact_visible; phones=055-269-5114|055-269-5151; emails=gunil.seo@mncsolution.com|yuri.myung@mncsolution.com; checked_urls=http://www.mncsolution.com|https://www.mncsolution.com/kr/about-us/introduction|https://www.mncsolution.com/kr/about-us/vision|https://www.mncsolution.com/kr/about-us/history|https://irpage.mncsolution.com/|https://visit.mncsolution.com/|https://www.mncsolution.com/kr/contact-us/location|https://www.mncsolution.com/kr/contact-us/contact-us|https://m2b.mncsolution.com/|https://spc.mncsolution.com/|https://www.mncsolution.com/contact|https://www.mncsolution.com/contact/|https://www.mncsolution.com/contact-us|https://www.mncsolution.com/inquiry|https://www.mncsolution.com/support|https://www.mncsolution.com/company/contact|https://www.mncsolution.com/company/location|https://www.mncsolution.com/company/about; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "name": "셀로맥스사이언스",
@@ -25832,8 +25835,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.dtnc.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-321-2664",
+      "phone": "031-321-2664",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -25842,7 +25845,10 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
       "stock_code": "187220",
-      "product": "전기전자규격 인증서비스"
+      "product": "전기전자규격 인증서비스",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=https://www.dtnc.co.kr/inquiry/quote/; title=시험 견적 문의 (온라인 접수실) · Dt&C; source=source_file:krx_listed_company_homepage; manual_review=official_homepage_contact_visible; phones=031-321-2664; emails=; checked_urls=http://www.dtnc.co.kr|https://www.dtnc.co.kr/about/|https://www.dtnc.co.kr/about/#vision|https://www.dtnc.co.kr/about/#ceo|https://www.dtnc.co.kr/about/#strengths|https://www.dtnc.co.kr/about/#accreditation-scope|https://www.dtnc.co.kr/about/#history|https://www.dtnc.co.kr/about/#labs|https://www.dtnc.co.kr/inquiry/quote/|https://www.dtnc.co.kr/inquiry/cert_verify/|https://www.dtnc.co.kr/inquiry/voc/|https://www.dtnc.co.kr/contact/|https://www.dtnc.co.kr/inquiry/ir/|https://www.dtnc.co.kr/product-certification/about/|https://www.dtnc.co.kr/ethics/|https://www.dtnc.co.kr/contact|https://www.dtnc.co.kr/contact-us|https://www.dtnc.co.kr/inquiry; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "name": "하이로닉",
@@ -27803,8 +27809,8 @@
       "region": "경상남도",
       "address": "",
       "homepage": "http://www.hanwha-engine.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 055-260-6000",
+      "phone": "055-260-6000",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -27813,7 +27819,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "082740",
-      "product": "대형선박용엔진,내연발전엔진"
+      "product": "대형선박용엔진,내연발전엔진",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=https://www.hanwha-engine.com/company/global-network.do; title=Global Network | Who We Are | 한화엔진; source=source_file:krx_listed_company_homepage; manual_review=official_homepage_contact_visible; phones=055-260-6000|055-682-2261|055-637-5165|051-669-6781; emails=; checked_urls=http://www.hanwha-engine.com|https://www.hanwha-engine.com/company/introduction.do|https://www.hanwha-engine.com/company/why-hg.do|https://www.hanwha-engine.com/company/history.do|https://www.hanwha-engine.com/company/global-network.do|https://www.hanwha-engine.com/company/media-room/pr.do|https://www.hanwha-engine.com/company/careers.do|https://e-hams.hanwha-engine.com/login.do|https://www.hanwha-engine.com/sitemap.do|https://www.hanwha-engine.com/contact|https://www.hanwha-engine.com/contact/|https://www.hanwha-engine.com/contact-us|https://www.hanwha-engine.com/inquiry|https://www.hanwha-engine.com/support|https://www.hanwha-engine.com/company/contact|https://www.hanwha-engine.com/company/location|https://www.hanwha-engine.com/company/about|https://www.hanwha-engine.com/about; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "name": "대성에너지",
@@ -87860,16 +87869,19 @@
       "region": "경기도",
       "address": "경기 성남시 분당구 정자일로 162 (정자동, 젤존타워2)",
       "homepage": "https://pacomprinting.com/en/index.php",
-      "contact": "",
+      "contact": "이메일: ybk27@pacomprinting.com",
       "phone": "",
-      "email": "",
+      "email": "ybk27@pacomprinting.com",
       "confidence": "high",
       "source": "source_file:kova_member_company_homepage",
       "source_page": "https://venture.or.kr/home/kor/M318196487/membership/status/all/index.do?pageIndex=172",
       "representative": "김경수",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "A"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=https://pacomprinting.com/en/contact/location.php; title=Location - Contact - Pacom Korea; source=source_file:kova_member_company_homepage; manual_review=official_homepage_contact_visible; phones=; emails=ybk27@pacomprinting.com|sabra@pacomprinting.com|petrice@pacomprinting.com|lydagadu@pacomprinting.com|cecilecaronna@pacomprinting.com|bookmake@pacomprinting.com|lonestar@pacomprinting.com|sampi@pacomprinting.com|jskook@pacomprinting.com|h2o@pacomprinting.com; checked_urls=https://pacomprinting.com/en/index.php|https://pacomprinting.com/en/about/bridge.php|https://pacomprinting.com/en/about/history.php|https://pacomprinting.com/en/about/ceo.php|https://pacomprinting.com/en/about/audits.php|https://pacomprinting.com/en/about/csr.php|https://pacomprinting.com/en/about/story.php|https://pacomprinting.com/en/ctact/contact_2405.php|https://pacomprinting.com/en/contact/location.php|https://pacomprinting.com/en/contact/team.php|https://pacomprinting.com/en/contact/questionnaire.php|https://pacomprinting.com/en/etc/sitemap.php|https://pacomprinting.com/en/about/story.php/#slider_target|https://pacomprinting.com/contact|https://pacomprinting.com/contact/|https://pacomprinting.com/contact-us|https://pacomprinting.com/inquiry|https://pacomprinting.com/support; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "id": "82681",
@@ -89603,16 +89615,19 @@
       "region": "서울특별시",
       "address": "서울 용산구 한남대로40길 45 (한남동)",
       "homepage": "http://www.vyoova.com",
-      "contact": "",
+      "contact": "이메일: contact@vyoova.com",
       "phone": "",
-      "email": "",
+      "email": "contact@vyoova.com",
       "confidence": "high",
       "source": "source_file:kova_member_company_homepage",
       "source_page": "https://venture.or.kr/home/kor/M318196487/membership/status/all/index.do?pageIndex=203",
       "representative": "연제민",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "A"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=https://www.vyoova.com/; title=VYOOVA(뷰바) - 브랜디드 콘텐츠 프로덕션 | 광고·브랜드필름·디지털 콘텐츠 제작; source=source_file:kova_member_company_homepage; manual_review=official_homepage_contact_visible; phones=; emails=contact@vyoova.com; checked_urls=http://www.vyoova.com|https://www.vyoova.com/about|https://www.vyoova.com/|https://www.vyoova.com/contact|https://www.vyoova.com/contact/|https://www.vyoova.com/contact-us|https://www.vyoova.com/inquiry|https://www.vyoova.com/support|https://www.vyoova.com/company/contact|https://www.vyoova.com/company/location|https://www.vyoova.com/company/about|https://www.vyoova.com/about/|https://www.vyoova.com/kr/contact|https://www.vyoova.com/ko/contact|https://www.vyoova.com/html/company/location.php|https://www.vyoova.com/sub/company/location.php|https://www.vyoova.com/bbs/content.php?co_id=company|https://www.vyoova.com/customer/qna; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "id": "82786",
@@ -90449,16 +90464,19 @@
       "region": "부산광역시",
       "address": "부산 강서구 유통단지1로57번길 34 (대저2동)",
       "homepage": "http://www.gtrkorea.co.kr",
-      "contact": "",
+      "contact": "이메일: info@gtrkorea.co.kr",
       "phone": "",
-      "email": "",
+      "email": "info@gtrkorea.co.kr",
       "confidence": "high",
       "source": "source_file:kova_member_company_homepage",
       "source_page": "https://venture.or.kr/home/kor/M318196487/membership/status/all/index.do?pageIndex=216",
       "representative": "김민수",
       "ksic_major_code": "G",
       "ksic_major_name": "도매 및 소매업",
-      "lead_quality_grade": "A"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=http://gtrkorea.co.kr/?page_id=59; title=CONTACT &#8211; GTR KOREA; source=source_file:kova_member_company_homepage; manual_review=official_homepage_contact_visible; phones=; emails=info@gtrkorea.co.kr; checked_urls=http://www.gtrkorea.co.kr|http://gtrkorea.co.kr/?page_id=40|http://gtrkorea.co.kr/?page_id=59|http://gtrkorea.co.kr/contact|http://gtrkorea.co.kr/contact/|http://gtrkorea.co.kr/contact-us|http://gtrkorea.co.kr/inquiry|http://gtrkorea.co.kr/support|http://gtrkorea.co.kr/company/contact|http://gtrkorea.co.kr/company/location|http://gtrkorea.co.kr/company/about|http://gtrkorea.co.kr/about|http://gtrkorea.co.kr/about/|http://gtrkorea.co.kr/kr/contact|http://gtrkorea.co.kr/ko/contact|http://gtrkorea.co.kr/html/company/location.php|http://gtrkorea.co.kr/sub/company/location.php|http://gtrkorea.co.kr/bbs/content.php?co_id=company; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "id": "82836",

@@ -88905,8 +88905,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.ricoblinds.kr/",
-      "contact": "김상곤",
-      "phone": "",
+      "contact": "전화: 031-798-3123",
+      "phone": "031-798-3123",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -88914,7 +88914,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2029-07-12",
-      "id": "105383"
+      "id": "105383",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=http://www.ricoblinds.kr/contact.php; title=Rico Blinds; source=source_file:innobiz_certified_company_homepage; manual_review=official_homepage_contact_visible; phones=031-798-3123; emails=; checked_urls=http://www.ricoblinds.kr/|http://www.ricoblinds.kr/about/aboutus.php|http://www.ricoblinds.kr/about/company.php|http://www.ricoblinds.kr/about/organization.php|http://www.ricoblinds.kr/about/history.php|http://www.ricoblinds.kr/about/catalog.php|http://www.ricoblinds.kr/contact.php|http://www.ricoblinds.kr/#|http://www.ricoblinds.kr/contact|http://www.ricoblinds.kr/contact/|http://www.ricoblinds.kr/contact-us|http://www.ricoblinds.kr/inquiry|http://www.ricoblinds.kr/support|http://www.ricoblinds.kr/company/contact|http://www.ricoblinds.kr/company/location|http://www.ricoblinds.kr/company/about|http://www.ricoblinds.kr/about|http://www.ricoblinds.kr/about/; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "name": "디케이프리텍(주)",

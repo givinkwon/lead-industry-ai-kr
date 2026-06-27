@@ -45648,8 +45648,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.kla.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-728-9000",
+      "phone": "031-728-9000",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -45659,7 +45659,10 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "B",
       "booth": "D104",
-      "source_note": "KLA Corporation is a leading supplier of wafer processing, process control and yield management solutions for the semiconductor and related nanoelectronics industries. KLA’s products and services are used by bare wafer, IC, reticle and other manufacturers of materials and equipment around the world, from research and development to final volume manufacturing. Products and services include etch and deposition processes, inline unpatterned and patterned wafer defect inspection, review and classifi"
+      "source_note": "KLA Corporation is a leading supplier of wafer processing, process control and yield management solutions for the semiconductor and related nanoelectronics industries. KLA’s products and services are used by bare wafer, IC, reticle and other manufacturers of materials and equipment around the world, from research and development to final volume manufacturing. Products and services include etch and deposition processes, inline unpatterned and patterned wafer defect inspection, review and classifi",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=https://www.kla.com/locations; title=Worldwide Locations | KLA; source=source_file:semicon_korea_2026_exhibitor_homepage; manual_review=official_homepage_contact_visible; phones=031-728-9000|031-783-0101; emails=talent.acquisition@kla.com; checked_urls=http://www.kla.com|https://www.kla.com/company|https://www.kla.com/company#how-we-do-it|https://ir.kla.com/company-information/management-team|https://www.kla.com/company/environmental-social-governance|https://www.kla.com/company/inclusion-for-all|https://www.kla.com/company/environmental-social-governance/kla-foundation|https://www.kla.com/company#compliance|https://www.kla.com/company/supplier|https://www.kla.com/company/events|https://www.kla.com/locations|https://www.kla.com/locations#mainland-china|https://www.kla.com/locations#international|https://www.kla.com/locations#india|https://www.kla.com/locations#israel|https://www.kla.com/contact|https://www.kla.com/contact/|https://www.kla.com/contact-us; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "id": "89072",
@@ -47611,8 +47614,8 @@
       "region": "부산광역시",
       "address": "",
       "homepage": "http://www.tk-fujikin.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-633-6750",
+      "phone": "031-633-6750",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -47622,7 +47625,10 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "B",
       "booth": "A110",
-      "source_note": "UHP(Ultra High Purity) Products -Application- TK-FUJIKIN's products are mainly applied to industries requiring high purity level such as Semiconductors, Fab Utilities, FPD lines, Clean Room manufacturing lines etc. -Products- We have specialized in manufacturing Ultra High Purity Valves, Fittings, Regulators, Gas Filters, IGS etc. and Gas Boxes with systematic quality control. General Industrial Products -Application- TK-FUJIKIN has been providing its products to a number of industries, from pow"
+      "source_note": "UHP(Ultra High Purity) Products -Application- TK-FUJIKIN's products are mainly applied to industries requiring high purity level such as Semiconductors, Fab Utilities, FPD lines, Clean Room manufacturing lines etc. -Products- We have specialized in manufacturing Ultra High Purity Valves, Fittings, Regulators, Gas Filters, IGS etc. and Gas Boxes with systematic quality control. General Industrial Products -Application- TK-FUJIKIN has been providing its products to a number of industries, from pow",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=https://www.tk-fujikin.com/customer-support/sales-network/domestic-sales-network/; title=국내영업망 | 태광 후지킨; source=source_file:semicon_korea_2026_exhibitor_homepage; manual_review=official_homepage_contact_visible; phones=031-633-6750|031-278-5721|031-373-7713|031-224-4250|031-281-2181|031-664-1501|031-548-1779|043-216-9300; emails=; checked_urls=http://www.tk-fujikin.com|https://www.tk-fujikin.com/customer-support/product-inquiry/|https://www.tk-fujikin.com/product-support/product-catalog/|https://www.tk-fujikin.com/product-support/|https://www.tk-fujikin.com/customer-support/|https://www.tk-fujikin.com/company/|https://www.tk-fujikin.com/product-support/production-process/|https://www.tk-fujikin.com/product-support/product-guide/|https://www.tk-fujikin.com/product-support/certification/|https://www.tk-fujikin.com/product-support/patent/|https://www.tk-fujikin.com/customer-support/customer-service/|https://www.tk-fujikin.com/customer-support/sales-network/|https://www.tk-fujikin.com/management-system/logistics-management/|https://www.tk-fujikin.com/company/company-overview/|https://www.tk-fujikin.com/company/business-areas/|https://www.tk-fujikin.com/contact|https://www.tk-fujikin.com/contact/|https://www.tk-fujikin.com/contact-us; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "id": "89161",
@@ -77038,8 +77044,8 @@
       "region": "경기",
       "address": "경기 안양시 동안구 흥안대로 415 1001호(평촌동, 두산벤처다임)",
       "homepage": "https://www.appliedspectra.com",
-      "contact": "https://interbattery.or.kr/company-directories/4434?year=2026&hl=ko",
-      "phone": "",
+      "contact": "전화: 070-4334-7760",
+      "phone": "070-4334-7760",
       "email": "",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
@@ -77052,7 +77058,10 @@
       "country": "KR",
       "business_type": "제조업",
       "industry_type": "반도체연구개발",
-      "ceo": "박경숙"
+      "ceo": "박경숙",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=https://appliedspectra.com/contact-us/meet-our-technical-sales-team.html; title=Technical Sales Team; source=source_file:interbattery_2026_company_directory; manual_review=official_homepage_contact_visible; phones=070-4334-7760|070-4334-4161; emails=; checked_urls=https://www.appliedspectra.com|https://appliedspectra.com/support.html|https://appliedspectra.com/about-us.html|https://appliedspectra.com/about-us/corporate-background.html|https://appliedspectra.com/about-us/mission-statement.html|https://appliedspectra.com/about-us/management-team.html|https://appliedspectra.com/about-us/scientific-team.html|https://appliedspectra.com/about-us/career-opportunities.html|https://appliedspectra.com/contact-us.html|https://appliedspectra.com/contact-us/contact-form.html|https://appliedspectra.com/contact-us/meet-our-technical-sales-team.html|https://appliedspectra.com/contact-us/north-south-america-sales.html|https://appliedspectra.com/contact-us/asia-sales.html|https://appliedspectra.com/contact-us/australia-and-europe-sales.html|https://appliedspectra.com/contact-us/international-distributor-network.html|https://appliedspectra.com/contact|https://appliedspectra.com/contact/|https://appliedspectra.com/contact-us; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "id": "90703",

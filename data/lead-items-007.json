@@ -25066,8 +25066,8 @@
       "region": "인천",
       "address": "Incheon, Korea (South)",
       "homepage": "http://www.shinhandia.co.kr",
-      "contact": "이메일: webmaster@shinhandia.co.kr",
-      "phone": "",
+      "contact": "전화: 032-810-3300",
+      "phone": "032-810-3300",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -25080,7 +25080,10 @@
       "source_note": "",
       "country": "Korea, Republic of",
       "source_id": "semicon-2026-shinhandiamondindustrial-shinhandia.co.kr",
-      "id": "94134"
+      "id": "94134",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=http://www.shinhandia.co.kr/?page_id=5248; title=Shinhan Diamond &#8211; Contact; source=source_file:semicon_korea_2026_exhibitor_homepage; manual_review=official_homepage_contact_visible; phones=032-810-3300; emails=; checked_urls=http://www.shinhandia.co.kr|http://www.shinhandia.co.kr/?page_id=4858|http://www.shinhandia.co.kr/?page_id=5248|http://www.shinhandia.co.kr/contact|http://www.shinhandia.co.kr/contact/|http://www.shinhandia.co.kr/contact-us|http://www.shinhandia.co.kr/inquiry|http://www.shinhandia.co.kr/support|http://www.shinhandia.co.kr/company/contact|http://www.shinhandia.co.kr/company/location|http://www.shinhandia.co.kr/company/about|http://www.shinhandia.co.kr/about|http://www.shinhandia.co.kr/about/|http://www.shinhandia.co.kr/kr/contact|http://www.shinhandia.co.kr/ko/contact|http://www.shinhandia.co.kr/html/company/location.php|http://www.shinhandia.co.kr/sub/company/location.php|http://www.shinhandia.co.kr/bbs/content.php?co_id=company; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "name": "SPACE SOLUTIONS CO., LTD.",
@@ -25653,8 +25656,8 @@
       "region": "경상북도",
       "address": "Gyeongsangbuk-do, Korea (South)",
       "homepage": "http://www.ycchem.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 054-930-2500",
+      "phone": "054-930-2500",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -25667,7 +25670,10 @@
       "source_note": "Experienced, Assurance, Innovation",
       "country": "Korea, Republic of",
       "source_id": "semicon-2026-ycchem-ycchem.co.kr",
-      "id": "94157"
+      "id": "94157",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=http://www.ycchem.co.kr/; title=와이씨켐; source=source_file:semicon_korea_2026_exhibitor_homepage; manual_review=official_homepage_contact_visible; phones=054-930-2500|031-702-3941|054-930-2800; emails=; checked_urls=http://www.ycchem.co.kr|http://www.ycchem.co.kr/contact|http://www.ycchem.co.kr/contact/|http://www.ycchem.co.kr/contact-us|http://www.ycchem.co.kr/inquiry|http://www.ycchem.co.kr/support|http://www.ycchem.co.kr/company/contact|http://www.ycchem.co.kr/company/location|http://www.ycchem.co.kr/company/about|http://www.ycchem.co.kr/about|http://www.ycchem.co.kr/about/|http://www.ycchem.co.kr/kr/contact|http://www.ycchem.co.kr/ko/contact|http://www.ycchem.co.kr/html/company/location.php|http://www.ycchem.co.kr/sub/company/location.php|http://www.ycchem.co.kr/bbs/content.php?co_id=company|http://www.ycchem.co.kr/customer/qna|http://www.ycchem.co.kr/product/contact; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "name": "YEST",
@@ -53629,8 +53635,8 @@
       "region": "해외",
       "address": "Seoul,, Japan",
       "homepage": "http://www.advantest.com",
-      "contact": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=17&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=634553",
-      "phone": "",
+      "contact": "전화: 041-901-3900",
+      "phone": "041-901-3900",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -53642,7 +53648,10 @@
       "source_id": "semicon-korea-2026:634553",
       "country": "Japan",
       "source_category": "SEMICON Korea 2026",
-      "id": "95556"
+      "id": "95556",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=https://www.advantest.com/en/contact/; title=Contact | ADVANTEST CORPORATION; source=source_file:semicon_korea_2026_exhibitor_homepage; manual_review=official_homepage_contact_visible; phones=041-901-3900; emails=; checked_urls=http://www.advantest.com|https://www.advantest.com/en/contact/|https://www.advantest.com/en/about/|https://www.advantest.com/en/about/governance/|https://www.advantest.com/en/about/sustainability/|https://www.advantest.com/en/about/career-na/|https://www.advantest.com/en/about/ceo-message/|https://www.advantest.com/en/about/the-advantest-way/|https://www.advantest.com/en/about/management-policy/|https://www.advantest.com/en/about/why-advantest/|https://www.advantest.com/en/about/overview/|https://www.advantest.com/en/about/business/|https://www.advantest.com/en/about/history/|https://www.advantest.com/en/about/offices/|https://www.advantest.com/en/about/management/|https://www.advantest.com/contact|https://www.advantest.com/contact/|https://www.advantest.com/contact-us; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "name": "AKRIBIS SYSTEMS KOREA",
@@ -53800,8 +53809,8 @@
       "region": "해외",
       "address": "Kyungki-do,, Israel",
       "homepage": "http://www.camtek.com",
-      "contact": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=57&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=642967",
-      "phone": "",
+      "contact": "전화: 033-740-3390",
+      "phone": "033-740-3390",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -53813,7 +53822,10 @@
       "source_id": "semicon-korea-2026:642967",
       "country": "Israel",
       "source_category": "SEMICON Korea 2026",
-      "id": "95564"
+      "id": "95564",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=https://www.camtek.com/contact/asia/; title=Asia - Camtek; source=source_file:semicon_korea_2026_exhibitor_homepage; manual_review=official_homepage_contact_visible; phones=033-740-3390; emails=; checked_urls=http://www.camtek.com|https://www.camtek.com/about-us/about-us/|https://www.camtek.com/about-us/managment-board/|https://www.camtek.com/about-us/esg/|https://www.camtek.com/support/|https://www.camtek.com/contact/headquarters/|https://www.camtek.com/contact/asia/|https://www.camtek.com/contact/usa/|https://www.camtek.com/contact/europe/|https://www.camtek.com/contact/frt-metrology/|https://www.camtek.com/contact/information-request/|https://www.camtek.com/investors/#top|https://www.camtek.com/investors/#contact|https://www.camtek.com/solutions/inspection-metrology/|https://www.camtek.com/innovations/|https://www.camtek.com/contact|https://www.camtek.com/contact/|https://www.camtek.com/contact-us; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "name": "CENTROTHERM INTERNATIONAL AG",
@@ -54139,8 +54151,8 @@
       "region": "해외",
       "address": "Suwon,, United States",
       "homepage": "http://www.entegris.com",
-      "contact": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=134&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=634985",
-      "phone": "",
+      "contact": "전화: 031-8065-8300",
+      "phone": "031-8065-8300",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -54152,7 +54164,10 @@
       "source_id": "semicon-korea-2026:634985",
       "country": "United States",
       "source_category": "SEMICON Korea 2026",
-      "id": "95579"
+      "id": "95579",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=https://www.entegris.com/en/home/customer-service/contact-us.html; title=Contact Us | Entegris; source=source_file:semicon_korea_2026_exhibitor_homepage; manual_review=official_homepage_contact_visible; phones=031-8065-8300|031-8036-9800|031-8053-2200|033-737-8434; emails=jesse.sandoval@entegris.com|guillaume.charlet@entegris.com|jessica.emond@entegris.com|jeffrey.schnell@entegris.com; checked_urls=http://www.entegris.com|https://www.entegris.com/en/home/about-us/legal-trademark-notices/privacy-policy.html|https://www.entegris.com/en/home/about-us/legal-trademark-notices/terms-and-conditions-of-sale.html|https://www.entegris.com/en/home/about-us/legal-trademark-notices.html|https://www.entegris.com/en/home/customer-service/contact-us.html|https://www.entegris.com/en/home/about-us/careers.html|https://www.entegris.com/en/home/about-us/corporate-overview.html|https://www.entegris.com/en/home/about-us/corporate-social-responsibility.html?utm_campaign=15835728-corporate-social-responsibility&utm_source=home-page&utm_medium=website&utm_content=hero-cta|https://www.entegris.com/en/home/about-us/events/farnborough-international-airshow-2026.html|https://www.entegris.com/en/home/about-us/events/ald-ale-2026.html|https://www.entegris.com/en/home/about-us/news/entegris-and-jsr-corporation-inpria-corporation-announce-non-exclusive-cross-licensing-to-euv-lithography.html|https://www.entegris.com/en/home/about-us/news/entegris-announces-appointment-of-sukhi-nagesh-as-chief-financia.html|https://www.entegris.com/en/home/about-us/news/entegris-reports-results-for-first-quarter-2026.html|https://www.entegris.com/en/home/about-us/news.html|https://www.entegris.com/en/home/about-us/locations.html|https://www.entegris.com/contact|https://www.entegris.com/contact/|https://www.entegris.com/contact-us; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "name": "EV GROUP KOREA LTD.",
@@ -56063,8 +56078,8 @@
       "region": "해외",
       "address": "Stuttgart,, Germany",
       "homepage": "http://www.tss.trelleborg.com",
-      "contact": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=483&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=665881",
-      "phone": "",
+      "contact": "전화: 063-248-4818",
+      "phone": "063-248-4818",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -56076,7 +56091,10 @@
       "source_id": "semicon-korea-2026:665881",
       "country": "Germany",
       "source_category": "SEMICON Korea 2026",
-      "id": "95668"
+      "id": "95668",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=https://www.trelleborg.com/en/engineered-coated-fabrics; title=Trelleborg | Engineered Coated Fabrics | Serving Customers Worldwide; source=source_file:semicon_korea_2026_exhibitor_homepage; manual_review=official_homepage_contact_visible; phones=063-248-4818; emails=ecf@trelleborg.com|tss.cad@trelleborg.com; checked_urls=http://www.tss.trelleborg.com|https://www.trelleborg.com/en/seals/contact-form|https://www.trelleborg.com/en/engineered-coated-fabrics|https://www.trelleborg.com/en/medical|https://www.trelleborg.com/cs-cz/seals|https://www.trelleborg.com/en/seals/news-and-events/films-and-animations/company-information|https://www.trelleborg.com/en/seals/about-us/pfas-free-materials|https://www.trelleborg.com/en/seals/about-us/development-partner|https://www.trelleborg.com/en/seals/about-us/experienced-manufacturer|https://www.trelleborg.com/en/seals/about-us/near-sourcing|https://www.trelleborg.com/en/seals/resources/design-support-and-engineering-tools/area-volume-calculator|https://www.trelleborg.com/en/seals/resources/design-support-and-engineering-tools/cad-service|https://www.trelleborg.com/en/seals/resources/design-support-and-engineering-tools/o-ring-calculator|https://www.trelleborg.com/en/seals/resources/design-support-and-engineering-tools/seal-configurator|https://www.trelleborg.com/en/seals/resources/design-support-and-engineering-tools/chemical-compatibility|https://www.trelleborg.com/contact|https://www.trelleborg.com/contact/|https://www.trelleborg.com/contact-us; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "name": "UC COMPONENTS INC",
@@ -61003,8 +61021,8 @@
       "region": "전국",
       "address": "20 YEONGDONG-DAERO 96-GIL, GANGNAM-GU, SEOUL, REPUBLIC OF KOREA 6F FLITTO",
       "homepage": "https://about.flitto.com/ko/main",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
-      "phone": "",
+      "contact": "전화: 02-512-0142",
+      "phone": "02-512-0142",
       "email": "",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
@@ -61019,7 +61037,10 @@
       "category_names": [
         "AI&Big Data Show",
         "물류자동화·운반장비"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=https://about.flitto.com/ko/contact; title=플리토: AI 실시간 통역 솔루션, 인공지능 학습을 위한 언어 데이터 및 전문번역 기업; source=source_file:smart_tech_korea_2026_exhibitor_homepage; manual_review=official_homepage_contact_visible; phones=02-512-0142; emails=ir@flitto.com|pr@flitto.com; checked_urls=https://about.flitto.com/ko/main|https://support.flitto.com/hc/|https://support.flitto.com/hc/ko/requests/new?ticket_form_id=900001736986|https://support.flitto.com/hc/ko|https://about.flitto.com/contact|https://about.flitto.com/contact/|https://about.flitto.com/contact-us|https://about.flitto.com/inquiry|https://about.flitto.com/support|https://about.flitto.com/company/contact|https://about.flitto.com/company/location|https://about.flitto.com/company/about|https://about.flitto.com/about|https://about.flitto.com/about/|https://about.flitto.com/kr/contact|https://about.flitto.com/ko/contact|https://about.flitto.com/html/company/location.php|https://about.flitto.com/sub/company/location.php; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "id": "95874",
@@ -63038,9 +63059,9 @@
       "region": "해외",
       "address": "32/F, 118 Connaught Road West, Sai Ying Pun, Hong Kong",
       "homepage": "https://www.odoo.com",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-9994-4460 / 이메일: info@odoo.com",
+      "phone": "02-9994-4460",
+      "email": "info@odoo.com",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
@@ -63054,7 +63075,10 @@
       "category_names": [
         "AI&Big Data Show",
         "로봇·AI 자동화"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=https://www.odoo.com/contactus; title=Contact Us | Odoo; source=source_file:smart_tech_korea_2026_exhibitor_homepage; manual_review=official_homepage_contact_visible; phones=02-9994-4460; emails=info@odoo.com; checked_urls=https://www.odoo.com|https://www.odoo.com/industries/it-hardware-support|https://www.odoo.com/page/docs|https://www.odoo.com/blog/customer-reviews-6|https://www.odoo.com/help|https://www.odoo.com/appointment/4497|https://www.odoo.com/page/about-us|https://www.odoo.com/contactus|https://www.odoo.com/blog/6|https://www.odoo.com/cs_CZ|https://www.odoo.com/contact|https://www.odoo.com/contact/|https://www.odoo.com/contact-us|https://www.odoo.com/inquiry|https://www.odoo.com/support|https://www.odoo.com/company/contact|https://www.odoo.com/company/location|https://www.odoo.com/company/about; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "id": "95964",
@@ -65402,9 +65426,9 @@
       "region": "전국",
       "address": "16678 경기 수원시 영통구 삼성로 130 삼성전자 종합기술원",
       "homepage": "https://semiconductor.samsung.com/",
-      "contact": "https://nanokorea.or.kr/visit/cp_pop.php?num=3928",
+      "contact": "이메일: gost.info@samsung.com",
       "phone": "",
-      "email": "",
+      "email": "gost.info@samsung.com",
       "confidence": "high",
       "source": "source_file:nano_korea_2026_exhibitor_homepage",
       "source_page": "https://nanokorea.or.kr/visit/search.php",
@@ -65418,7 +65442,10 @@
       "category_names": [
         "NANO KOREA 2026",
         "반도체·디스플레이 소재·장비"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=https://semiconductor.samsung.com/support/collaboration-hub/ds-open-ecosystem/; title=DS Open-Ecosystem | Support | Samsung Semiconductor Global; source=source_file:nano_korea_2026_exhibitor_homepage; manual_review=official_homepage_contact_visible; phones=; emails=gost.info@samsung.com; checked_urls=https://semiconductor.samsung.com/|https://semiconductor.samsung.com/#none|https://semiconductor.samsung.com/support/quality-support/quality-management/|https://semiconductor.samsung.com/support/quality-support/customer-service/|https://semiconductor.samsung.com/support/quality-support/regulatory-information/|https://semiconductor.samsung.com/support/quality-support/product-security-updates/|https://semiconductor.samsung.com/support/tools-resources/technical-resources/|https://semiconductor.samsung.com/support/tools-resources/fabrication-process/|https://semiconductor.samsung.com/support/tools-resources/dictionary/|https://semiconductor.samsung.com/consumer-storage/support/|https://semiconductor.samsung.com/consumer-storage/support/tools/|https://semiconductor.samsung.com/consumer-storage/support/documents/|https://semiconductor.samsung.com/consumer-storage/support/faqs/|https://semiconductor.samsung.com/consumer-storage/support/warranty/|https://semiconductor.samsung.com/support/collaboration-hub/ds-open-ecosystem/|https://semiconductor.samsung.com/contact|https://semiconductor.samsung.com/contact/|https://semiconductor.samsung.com/contact-us; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "id": "96062",
@@ -69535,9 +69562,9 @@
       "region": "전국",
       "address": "34016 대전 유성구 테크노3로 65 520호",
       "homepage": "http://www.lightcon.com",
-      "contact": "https://nanokorea.or.kr/visit/cp_pop.php?num=3543",
+      "contact": "이메일: jungsik.seo@lightcon.com",
       "phone": "",
-      "email": "",
+      "email": "jungsik.seo@lightcon.com",
       "confidence": "high",
       "source": "source_file:nano_korea_2026_exhibitor_homepage",
       "source_page": "https://nanokorea.or.kr/visit/search.php",
@@ -69551,7 +69578,10 @@
       "category_names": [
         "NANO KOREA 2026",
         "반도체·디스플레이 소재·장비"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next63_enrichment; final_url=https://lightcon.com/contacts/; title=Headquarters &#8211; LIGHT CONVERSION; source=source_file:nano_korea_2026_exhibitor_homepage; manual_review=official_homepage_contact_visible; phones=; emails=jf.poisson@lightcon.com|frederic.berthillier@lightcon.com|u.hoechner@lightcon.com|stefan.piontek@lightcon.com|sales.china@lightcon.com|jungsik.seo@lightcon.com; checked_urls=http://www.lightcon.com|https://lightcon.com/about-us/|https://lightcon.com/support/|https://lightcon.com/contacts/|https://lightcon.com/news/allan-ashmead-board/|https://lightcon.com/news/light-conversion-acquires-class-5-photonics-gmbh/|https://lightcon.com/news/martynas-barkauskas-epic-ceo-award/|https://lightcon.com/contact|https://lightcon.com/contact/|https://lightcon.com/contact-us|https://lightcon.com/inquiry|https://lightcon.com/support|https://lightcon.com/company/contact|https://lightcon.com/company/location|https://lightcon.com/company/about|https://lightcon.com/about|https://lightcon.com/about/|https://lightcon.com/kr/contact; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:44:22.910+09:00"
     },
     {
       "id": "96224",
