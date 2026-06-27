@@ -26098,8 +26098,8 @@
       "region": "강원",
       "address": "강원",
       "homepage": "http://www.bereum.com/",
-      "contact": "한권일",
-      "phone": "",
+      "contact": "전화: 033-733-0419, 02-561-1185 / 홈페이지: https://bereum.com/company/contactUS?lang=ko-KR",
+      "phone": "033-733-0419, 02-561-1185",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -26107,7 +26107,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 식품 / 인증만료 2027-05-07",
-      "id": "101354"
+      "id": "101354",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next76_enrichment; result=tmp_b2b_next72_innobiz0_0_100_browser_enriched_filtered_final.json; final_url=https://bereum.com/company/contactUS?lang=ko-KR; title=Bereum Contact US; phones=033-733-0419, 02-561-1185; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T22:34:33.000+09:00"
     },
     {
       "name": "주식회사 아이프리즘",

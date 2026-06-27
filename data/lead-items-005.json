@@ -21477,8 +21477,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.kpartners.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-568-8470 / 홈페이지: https://kpartners.co.kr/wordpress/",
+      "phone": "02-568-8470",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -21487,7 +21487,10 @@
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
       "stock_code": "307930",
-      "product": "중소 벤처기업 투자"
+      "product": "중소 벤처기업 투자",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next76_enrichment; result=tmp_b2b_next72_krx0_0_100_browser_enriched_filtered_final.json; final_url=https://kpartners.co.kr/wordpress/; title=CompanyK Partners; phones=02-568-8470; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T22:34:33.000+09:00"
     },
     {
       "name": "피에스케이",

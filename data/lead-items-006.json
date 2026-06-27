@@ -8582,9 +8582,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "https://daedongrobotics.ai",
-      "contact": "전화: -",
+      "contact": "이메일: robot@daedong.co.kr / 홈페이지: https://daedongrobotics.ai/contact/inquiry",
       "phone": "",
-      "email": "",
+      "email": "robot@daedong.co.kr",
       "confidence": "high",
       "source": "source_file:korea_ai_robot_industry_association_members",
       "source_page": "https://www.korearobot.or.kr/member/status.htm?page=23",
@@ -8593,7 +8593,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "member_type": "정회원일반사",
-      "business_area": "서비스로봇"
+      "business_area": "서비스로봇",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next76_enrichment; result=tmp_b2b_next73_robot0_0_60_browser_enriched_filtered_final.json; final_url=https://daedongrobotics.ai/contact/inquiry; title=Daedong Robotics inquiry; phones=; emails=robot@daedong.co.kr; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T22:34:33.000+09:00"
     },
     {
       "id": "83973",

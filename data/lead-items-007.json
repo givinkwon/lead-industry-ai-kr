@@ -82044,8 +82044,8 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.suprema-id.com/",
-      "contact": "https://kisia.or.kr/membership/member_company_guide/",
-      "phone": "",
+      "contact": "전화: 031-710-5629 / 홈페이지: https://www.suprema-id.com/en/contents/Contact",
+      "phone": "031-710-5629",
       "email": "",
       "confidence": "high",
       "source": "source_file:kisia_member_company_homepage",
@@ -82059,7 +82059,10 @@
       "category_names": [
         "한국정보보호산업협회 회원사안내",
         "정보보안·사이버보안"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next76_enrichment; result=tmp_b2b_next73_kisia0_0_60_browser_enriched_filtered_final.json; final_url=https://www.suprema-id.com/en/contents/Contact; title=Suprema ID contact; phones=031-710-5629; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T22:34:33.000+09:00"
     },
     {
       "id": "96730",
@@ -85467,7 +85470,7 @@
       "product": "AI·클라우드 서비스",
       "region": "전국",
       "homepage": "http://www.kr.redhat.com",
-      "contact": "https://kcloud.or.kr/page/?M2_IDX=25874",
+      "contact": "전화: 02-6105-4390 / 홈페이지: https://www.redhat.com/ko/contact/sales",
       "source": "source_file:kaci_cloud_ai_member_homepage",
       "source_page": "https://kcloud.or.kr/page/?M2_IDX=25874",
       "ksic_major_code": "J",
@@ -85482,7 +85485,12 @@
       "id": "96948",
       "confidence": "high",
       "lead_quality_grade": "B",
-      "country": "Korea, South"
+      "country": "Korea, South",
+      "phone": "02-6105-4390",
+      "email": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next76_enrichment; result=tmp_b2b_next73_kaci0_0_60_browser_enriched_filtered_final.json; final_url=https://www.redhat.com/ko/contact/sales; title=Red Hat Korea sales contact; phones=02-6105-4390; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T22:34:33.000+09:00"
     },
     {
       "name": "한전KDN㈜",
