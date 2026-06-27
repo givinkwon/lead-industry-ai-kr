@@ -41599,16 +41599,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://spolkorea.com/",
-      "contact": "김영욱",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 070-7835-4065 / 이메일: kinematics@spolkorea.com / 홈페이지: http://spolkorea.com/",
+      "phone": "070-7835-4065",
+      "email": "kinematics@spolkorea.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2028-06-04",
-      "id": "102341"
+      "id": "102341",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next41_enrichment; final_url=http://spolkorea.com/default/; title=SPOL Co.Ltd; body_bytes=2482; name_score=0; manual_review=official_homepage_tel_email_visible; phones=070-7835-4065; emails=kinematics@spolkorea.com; checked_urls=http://spolkorea.com/default/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)비앤케이",
@@ -43394,16 +43396,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.atechsns.com/",
-      "contact": "김경영",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-8059-1072 / 이메일: atechsns1@atechsns.com / 홈페이지: http://www.atechsns.com/",
+      "phone": "031-8059-1072",
+      "email": "atechsns1@atechsns.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2028-05-24",
-      "id": "102448"
+      "id": "102448",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next41_enrichment; final_url=https://www.atechsns.com/; title=ATECH SNS / Alternative Fuel Engine Solutions; body_bytes=2308; name_score=0; manual_review=official_homepage_tel_email_visible; phones=031-8059-1072; emails=atechsns1@atechsns.com; checked_urls=https://www.atechsns.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 제이월드산업",
@@ -45926,8 +45930,8 @@
       "region": "부산",
       "address": "부산",
       "homepage": "http://taeilmtech.com/",
-      "contact": "김인수",
-      "phone": "",
+      "contact": "전화: 051-262-7165, 051-717-3686 / 홈페이지: http://taeilmtech.com/",
+      "phone": "051-262-7165, 051-717-3686",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -45935,7 +45939,9 @@
       "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
       "lead_quality_grade": "A",
       "product": "환경 / 기타 / 인증만료 2028-04-27",
-      "id": "102610"
+      "id": "102610",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next41_enrichment; final_url=http://taeilmtech.com/eng/html/00_main/; title=TAEIL M-TECH; body_bytes=5747; name_score=0; manual_review=official_homepage_domestic_and_overseas_tel_visible_excluded_fax_051-262-7168; phones=051-262-7165,051-717-3686; emails=; checked_urls=http://taeilmtech.com/eng/html/00_main/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 메뉴잇",
@@ -47466,8 +47472,8 @@
       "region": "부산",
       "address": "부산",
       "homepage": "http://www.dleco.co.kr/",
-      "contact": "박안진",
-      "phone": "",
+      "contact": "전화: 051-714-1162 / 홈페이지: http://www.dleco.co.kr/",
+      "phone": "051-714-1162",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -47475,7 +47481,9 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
       "product": "비제조업 / 기타 / 인증만료 2027-12-02",
-      "id": "102703"
+      "id": "102703",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next41_enrichment; final_url=http://www.dleco.co.kr/; title=대륜엔지니어링; body_bytes=1618; name_score=5; manual_review=official_homepage_tel_visible_excluded_faxes_070-8290-0051_070-7966-1162; phones=051-714-1162; emails=; checked_urls=http://www.dleco.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 엔에스테크닉스",
@@ -48734,8 +48742,8 @@
       "region": "경북",
       "address": "경북",
       "homepage": "http://btoz.kr/",
-      "contact": "신정훈",
-      "phone": "",
+      "contact": "전화: 054-751-3211, 02-830-8936 / 홈페이지: http://btoz.kr/",
+      "phone": "054-751-3211, 02-830-8936",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -48743,7 +48751,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2027-11-29",
-      "id": "102788"
+      "id": "102788",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next41_enrichment; final_url=http://btoz.kr/; title=BTOZ; body_bytes=734; name_score=0; manual_review=official_homepage_two_business_unit_tel_visible_excluded_faxes_054-751-3212_02-830-8947; phones=054-751-3211,02-830-8936; emails=; checked_urls=http://btoz.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "케이에스랩 주식회사",
@@ -51243,8 +51253,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.dhib.co.kr/",
-      "contact": "정정훈",
-      "phone": "",
+      "contact": "전화: 031-683-4633 / 홈페이지: http://www.dhib.co.kr/",
+      "phone": "031-683-4633",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -51252,7 +51262,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2027-11-29",
-      "id": "102964"
+      "id": "102964",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next41_enrichment; final_url=https://dhib.co.kr/; title=Home - DaeHeung IBN; body_bytes=810; name_score=0; manual_review=official_homepage_tel_visible; phones=031-683-4633; emails=; checked_urls=https://dhib.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)엘시스코리아",
