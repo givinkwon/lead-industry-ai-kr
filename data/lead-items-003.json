@@ -54293,16 +54293,19 @@
       "segment": "소프트웨어사업자",
       "region": "인천광역시",
       "address": "인천광역시 서구 보듬로 158, 공존 1010호(오류동, 블루텍)",
-      "homepage": "http://thenextinc.com",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://thenextinc.com/",
+      "contact": "전화: 032-561-1022 / 홈페이지: https://thenextinc.com/",
+      "phone": "032-561-1022",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "60244",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next77_enrichment; result=direct_verification; final_url=https://thenextinc.com/customer_service/a-s%ea%b7%9c%ec%a0%95%ec%95%88%eb%82%b4/; title=NEXT Inc A/S guide; phones=032-561-1022; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T23:07:07.858+09:00"
     },
     {
       "name": "주식회사 포티",

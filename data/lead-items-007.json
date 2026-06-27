@@ -25716,10 +25716,10 @@
       "product": "Low Pressure Plasma Spray (LPPS) Equipment, Heating; Annealing; Curing Equipment - Furnaces; Conveyors; Ovens; Test Chambers; Heat Treating, Spectrometers; Fourier Transform Infrared (FTIR); Attenuated Total Reflectance FTIR (ATR-FTIR); Auge, Cells, Integration and Automation, Modules",
       "region": "경기도",
       "address": "Hwaseong-si, Korea (South)",
-      "homepage": "http://www.globalzeus.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "https://www.globalzeus.com/kr/",
+      "contact": "전화: 031-377-9500 / 이메일: zero@globalzeus.com / 홈페이지: https://www.globalzeus.com/kr/",
+      "phone": "031-377-9500",
+      "email": "zero@globalzeus.com",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=534&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=635020",
@@ -25731,7 +25731,10 @@
       "source_note": "Leading Provider of Wet Process Equipment",
       "country": "Korea, Republic of",
       "source_id": "semicon-2026-zeus-globalzeus.com",
-      "id": "94159"
+      "id": "94159",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next77_enrichment; result=direct_verification; final_url=https://www.globalzeus.com/kr/; title=Global ZEUS; phones=031-377-9500; emails=zero@globalzeus.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T23:07:07.858+09:00"
     },
     {
       "name": "APPLIED PLASMA INC",
