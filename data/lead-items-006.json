@@ -48061,8 +48061,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.yieldengineering.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-740-7179 / 홈페이지: http://www.yieldengineering.com",
+      "phone": "02-740-7179",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -48072,7 +48072,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "B",
       "booth": "W408",
-      "source_note": "Yield Engineering Systems, Inc. (YES) is a leading provider of advanced process equipment for surface and materials engineering, with a strong focus on wafer-level packaging (WLP) and panel-level packaging (PLP) applications. The company offers a comprehensive portfolio of thermal processing, chemical vapor deposition (CVD), and wet process systems designed for precise surface modification and process control. YES solutions are widely used in advanced packaging processes such as cure, anneal, de"
+      "source_note": "Yield Engineering Systems, Inc. (YES) is a leading provider of advanced process equipment for surface and materials engineering, with a strong focus on wafer-level packaging (WLP) and panel-level packaging (PLP) applications. The company offers a comprehensive portfolio of thermal processing, chemical vapor deposition (CVD), and wet process systems designed for precise surface modification and process control. YES solutions are widely used in advanced packaging processes such as cure, anneal, de",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next51_enrichment; final_url=https://www.yes.tech/; title=Yield Engineering Systems Process Engineering Equipment; body_bytes=199255; name_score=4; manual_review=official_homepage_html_rendered_korea_or_domestic_contact_visible_filtered_for_b2b_sales_use; phones=02-740-7179; emails=; used Korea office phone visible in official homepage render; checked_urls=https://www.yes.tech/ | https://www.yes.tech/contact | https://www.yes.tech/contact-us | https://www.yes.tech/contacts | https://www.yes.tech/support/contact | https://www.yes.tech/inquiry | https://www.yes.tech/company/contact | https://www.yes.tech/about/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "89183",
@@ -63546,9 +63548,9 @@
       "region": "전국",
       "address": "Korea, Republic of",
       "homepage": "https://www.eppendorf.com/kr-ko/",
-      "contact": "https://www.koreapack.org/eng/about/company_detail.asp?api_key=40BD7C5A-4342-4FA4-A4E7-9331A99F2FFE",
+      "contact": "이메일: cs@eppendorf.kr, service@eppendorf.kr / 홈페이지: https://www.eppendorf.com/kr-ko/",
       "phone": "",
-      "email": "",
+      "email": "cs@eppendorf.kr, service@eppendorf.kr",
       "confidence": "high",
       "source": "source_file:icpi_week_2026_exhibitor_homepage",
       "source_page": "https://www.koreapack.org/eng/about/company_search.asp",
@@ -63558,7 +63560,9 @@
       "booth": "8L101 ( Hall 7-8, KINTEX 2 )",
       "source_id": "40BD7C5A-4342-4FA4-A4E7-9331A99F2FFE",
       "country": "Korea, Republic of",
-      "source_category": "KOREA LAB"
+      "source_category": "KOREA LAB",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next51_enrichment; final_url=https://www.eppendorf.com/kr-ko/service-support/support-center/; title=고객 지원 센터 - Eppendorf 대한민국; body_bytes=889976; name_score=3; manual_review=official_homepage_html_rendered_korea_or_domestic_contact_visible_filtered_for_b2b_sales_use; phones=; emails=cs@eppendorf.kr,service@eppendorf.kr; excluded 1577 service numbers and fax 02-2190-7799; checked_urls=https://www.eppendorf.com/kr-ko/ | https://www.eppendorf.com/kr-ko | https://www.eppendorf.com/kr-ko/service-support/support-center/ | https://www.eppendorf.com/contact-us | https://www.eppendorf.com/contacts | https://www.eppendorf.com/support/contact | https://www.eppendorf.com/inquiry | https://www.eppendorf.com/company/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "89926",
@@ -66862,8 +66866,8 @@
       "region": "전국",
       "address": "Korea, Republic of",
       "homepage": "https://lindstromgroup.com/ko/",
-      "contact": "https://www.koreapack.org/eng/about/company_detail.asp?api_key=EE7F2994-BF83-4B8D-8F8D-70E1388A6ACD",
-      "phone": "",
+      "contact": "전화: 044-4868-1114 / 홈페이지: https://lindstromgroup.com/ko/",
+      "phone": "044-4868-1114",
       "email": "",
       "confidence": "high",
       "source": "source_file:icpi_week_2026_exhibitor_homepage",
@@ -66874,7 +66878,9 @@
       "booth": "5D602 ( Hall 1-5, KINTEX 1 )",
       "source_id": "EE7F2994-BF83-4B8D-8F8D-70E1388A6ACD",
       "country": "Korea, Republic of",
-      "source_category": "COPHEX"
+      "source_category": "COPHEX",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next51_enrichment; final_url=https://lindstromgroup.com/contact/; title=Contact - Lindström Group; body_bytes=326575; name_score=5; manual_review=official_homepage_html_rendered_korea_or_domestic_contact_visible_filtered_for_b2b_sales_use; phones=044-4868-1114; emails=; used Korea page/contact phone; excluded global personal/template emails; checked_urls=https://lindstromgroup.com/ko/ | https://lindstromgroup.com/ | https://lindstromgroup.com/contact/ | https://lindstromgroup.com/contact-us | https://lindstromgroup.com/contacts | https://lindstromgroup.com/inquiry; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "90125",
@@ -92329,9 +92335,9 @@
       "region": "전국",
       "address": "Korea, Republic of",
       "homepage": "https://www.growmaps.io",
-      "contact": "https://www.koreamat.org/eng/about/company_detail.asp?api_key=8DAE7AB6-9A61-431E-B318-DAB6872BD2F3",
+      "contact": "이메일: contact@freegrow.io / 홈페이지: https://www.growmaps.io",
       "phone": "",
-      "email": "",
+      "email": "contact@freegrow.io",
       "confidence": "high",
       "source": "source_file:koreamat_2026_exhibitor_homepage",
       "source_page": "https://www.koreamat.org/eng/about/company_search.asp",
@@ -92342,7 +92348,9 @@
       "source_id": "8DAE7AB6-9A61-431E-B318-DAB6872BD2F3",
       "country": "Korea, Republic of",
       "source_category": "KOREA MAT 2026",
-      "id": "91626"
+      "id": "91626",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next51_enrichment; final_url=https://grow-space.io/; title=메인페이지_v2.0.0 - GROWSPACE; body_bytes=194110; name_score=4; manual_review=official_homepage_html_rendered_korea_or_domestic_contact_visible_filtered_for_b2b_sales_use; phones=; emails=contact@freegrow.io; checked_urls=https://grow-space.io/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "FRT ROBOTICS",

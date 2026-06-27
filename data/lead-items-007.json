@@ -15317,9 +15317,9 @@
       "region": "전국",
       "address": "-",
       "homepage": "http://misoinfo.co.kr",
-      "contact": "https://www.kes.org/eng/search/company_view.asp?user_no=6508&admission=2025&pagesize=100&page=4",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2205-0551 / 이메일: miso@misoinfo.co.kr / 홈페이지: http://misoinfo.co.kr",
+      "phone": "02-2205-0551",
+      "email": "miso@misoinfo.co.kr",
       "confidence": "high",
       "source": "source_file:kes_2025_exhibitor_homepage",
       "source_page": "https://www.kes.org/eng/search/company_list.asp",
@@ -15332,7 +15332,9 @@
       "source_category": "KES 2025",
       "pavilion": "XR",
       "domestic_proof": "homepage_kr",
-      "id": "93665"
+      "id": "93665",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next51_enrichment; final_url=https://misoinfo.co.kr/; title=(주)미소정보기술; body_bytes=1339505; name_score=5; manual_review=official_homepage_html_rendered_korea_or_domestic_contact_visible_filtered_for_b2b_sales_use; phones=02-2205-0551; emails=miso@misoinfo.co.kr; excluded fax 02-2205-0552; checked_urls=https://misoinfo.co.kr/ | https://misoinfo.co.kr/contact | https://misoinfo.co.kr/contact-us | https://misoinfo.co.kr/contacts | https://misoinfo.co.kr/support/contact | https://misoinfo.co.kr/inquiry | https://misoinfo.co.kr/company/contact | https://misoinfo.co.kr/about/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "mkor",
@@ -24345,8 +24347,8 @@
       "region": "경기도",
       "address": "Anseong-si, Gyeonggi-do, Korea (South)",
       "homepage": "http://www.komico.com/en/company/idea.php",
-      "contact": "이메일: webmaster@komico.com",
-      "phone": "",
+      "contact": "전화: 031-670-5800 / 홈페이지: http://www.komico.com/en/company/idea.php",
+      "phone": "031-670-5800",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -24359,7 +24361,9 @@
       "source_note": "",
       "country": "Korea, Republic of",
       "source_id": "semicon-2026-komico-komico.com",
-      "id": "94104"
+      "id": "94104",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next51_enrichment; final_url=https://www.komico.com/kr/index.php; title=코미코; body_bytes=52602; name_score=5; manual_review=official_homepage_html_rendered_korea_or_domestic_contact_visible_filtered_for_b2b_sales_use; phones=031-670-5800; emails=; used official inquiry phone; excluded webmaster/personal admin emails and fax 031-677-8830; checked_urls=https://www.komico.com/en/company/idea.php | https://www.komico.com/kr/index.php | https://www.komico.com/contact | https://www.komico.com/contact-us | https://www.komico.com/contacts | https://www.komico.com/support/contact | https://www.komico.com/inquiry | https://www.komico.com/company/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "LEENO INDUSTRIAL INC.",
@@ -35117,10 +35121,10 @@
       "region": "전국",
       "address": "",
       "homepage": "http://cofacs.co.kr",
-      "contact": "https://simtos.org/eng/exhibitors/exhibitor_list.do",
-      "phone": "",
-      "email": "",
-      "confidence": 0.74,
+      "contact": "전화: 02-521-5288 / 이메일: cofacs@cofacs.co.kr / 홈페이지: http://cofacs.co.kr",
+      "phone": "02-521-5288",
+      "email": "cofacs@cofacs.co.kr",
+      "confidence": "high",
       "source": "source_file:simtos_2028_exhibitor_homepage",
       "source_page": "https://simtos.org/eng/exhibitors/exhibitor_list.do",
       "representative": "",
@@ -35133,7 +35137,9 @@
       "source_category": "SIMTOS 2028",
       "domestic_proof": "kr_homepage",
       "source_id": "803",
-      "id": "94641"
+      "id": "94641",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next51_enrichment; final_url=https://cofacs.co.kr/inquiry/; title=코펙스코리아; body_bytes=28825; name_score=4; manual_review=official_homepage_html_rendered_korea_or_domestic_contact_visible_filtered_for_b2b_sales_use; phones=02-521-5288; emails=cofacs@cofacs.co.kr; excluded fax 02-521-5289; checked_urls=https://cofacs.co.kr/ | https://cofacs.co.kr/contact | https://cofacs.co.kr/contact-us | https://cofacs.co.kr/contacts | https://cofacs.co.kr/support/contact | https://cofacs.co.kr/inquiry/ | https://cofacs.co.kr/company/contact | https://cofacs.co.kr/about/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "DOW TRADE CO.",
@@ -40929,9 +40935,9 @@
       "region": "전국",
       "address": "Korea, Republic of",
       "homepage": "https://www.skbp.com/eng.do",
-      "contact": "https://www.biokorea.org/en/busiPrtnr/company.do?key=2511140001",
+      "contact": "이메일: skbp_comm@sk.com / 홈페이지: https://www.skbp.com/eng.do",
       "phone": "",
-      "email": "",
+      "email": "skbp_comm@sk.com",
       "confidence": "high",
       "source": "source_file:biokorea_2026_partnering_company_homepage",
       "source_page": "https://www.biokorea.org/en/busiPrtnr/company.do?key=2511140001",
@@ -40942,7 +40948,9 @@
       "source_id": "biokorea-2026:25:skbiopharmaceuticals",
       "country": "Korea, Republic of",
       "source_category": "BIO KOREA 2026",
-      "domestic_proof": "biokorea_country_republic_of_korea"
+      "domestic_proof": "biokorea_country_republic_of_korea",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next51_enrichment; final_url=https://www.skbp.com/kor.do; title=SK바이오팜; body_bytes=26907; name_score=6; manual_review=official_homepage_html_rendered_korea_or_domestic_contact_visible_filtered_for_b2b_sales_use; phones=; emails=skbp_comm@sk.com; checked_urls=https://www.skbp.com/eng.do | https://www.skbp.com/kor.do | https://www.skbp.com/contact | https://www.skbp.com/contact-us | https://www.skbp.com/contacts | https://www.skbp.com/support/contact | https://www.skbp.com/inquiry | https://www.skbp.com/company/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "94910",

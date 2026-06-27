@@ -19576,9 +19576,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.alchera.ai",
-      "contact": "",
+      "contact": "이메일: contact@alcherainc.com / 홈페이지: http://www.alchera.ai",
       "phone": "",
-      "email": "",
+      "email": "contact@alcherainc.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78615",
@@ -19586,7 +19586,9 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "stock_code": "347860",
-      "product": "얼굴인식 AI, 이상상황 감지 AI 등"
+      "product": "얼굴인식 AI, 이상상황 감지 AI 등",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next51_enrichment; final_url=https://www.alchera.ai/contact-us; title=알체라 문의하기 | AI 솔루션 및 서비스 지원; body_bytes=99374; name_score=5; manual_review=official_homepage_html_rendered_korea_or_domestic_contact_visible_filtered_for_b2b_sales_use; phones=; emails=contact@alcherainc.com; excluded data/privacy and data.science contacts from official contact page; checked_urls=https://www.alchera.ai/ | https://www.alchera.ai/contact | https://www.alchera.ai/contact-us | https://www.alchera.ai/contacts | https://www.alchera.ai/support/contact | https://www.alchera.ai/inquiry | https://www.alchera.ai/company/contact | https://www.alchera.ai/about/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "하이딥",
