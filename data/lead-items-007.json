@@ -111422,9 +111422,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.thecapsule.co.kr/",
-      "contact": "전화: 070-8956-1986 / 이메일: admin@thecapsule.co.kr / 홈페이지: http://www.thecapsule.co.kr/",
-      "phone": "070-8956-1986",
-      "email": "admin@thecapsule.co.kr",
+      "contact": "",
+      "phone": "",
+      "email": "",
       "confidence": "high",
       "source": "source_file:proptech_korea_forum_member_homepage",
       "ksic_major_code": "J",
@@ -111432,9 +111432,7 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원 / IT/TECH/스타트업 / Deco & Interior / 캡슐 호텔 운영",
       "source_page": "https://proptech.or.kr/members",
-      "id": "98464",
-      "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:vertical_next_blank_contact_enrichment; final_url=https://www.thecapsule.co.kr/; title=The Capsule; body_bytes=2673; name_score=3; phones=070-8956-1986,070-8095-4126; emails=admin@thecapsule.co.kr; checked_urls=https://www.thecapsule.co.kr/; verification=homepage_rendered_contact_enriched"
+      "id": "98464"
     },
     {
       "name": "도원그룹",

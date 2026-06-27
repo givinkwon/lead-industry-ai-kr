@@ -59060,17 +59060,15 @@
       "region": "서울특별시",
       "address": "서울특별시 영등포구 국회대로70길 23(여의도동, 용산빌딩)",
       "homepage": "http://sci.co.kr",
-      "contact": "전화: 1588-4753 / 홈페이지: http://sci.co.kr",
-      "phone": "1588-4753",
+      "contact": "",
+      "phone": "",
       "email": "",
       "confidence": "high",
       "source": "source_file:j_sw_business_db",
       "id": "47449",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "A",
-      "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:blank_contact_homepage_enrichment; body_bytes=3496; phones=1588-4753; emails=; verification=homepage_rendered_contact_enriched"
+      "lead_quality_grade": "A"
     },
     {
       "name": "주식회사 그리네타",
@@ -59798,8 +59796,8 @@
       "region": "경기도",
       "address": "경기도 하남시 미사대로 520, 씨동 7층 713호 (덕풍동, 현대지식산업센터 한강미사2차)",
       "homepage": "http://www.intravan.co.kr",
-      "contact": "전화: 1522-3840 / 이메일: intravan@intravan.com / 홈페이지: http://www.intravan.co.kr",
-      "phone": "1522-3840",
+      "contact": "전화: 031-8018-4765 / 이메일: intravan@intravan.com / 홈페이지: http://www.intravan.co.kr",
+      "phone": "031-8018-4765",
       "email": "intravan@intravan.com",
       "confidence": "high",
       "source": "source_file:j_sw_business_db",
@@ -59808,7 +59806,8 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:blank_contact_homepage_enrichment; body_bytes=5899; phones=1522-3840,031-8018-4765; emails=intravan@intravan.com; verification=homepage_rendered_contact_enriched"
+      "evidence": "verified_export:b2b_next74_quality_cleanup; result=service_phone_replaced_with_official_local_phone; removed=1522-3840; phones=031-8018-4765; emails=intravan@intravan.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:53:36.349+09:00"
     },
     {
       "name": "(주)지오시스템리서치",
@@ -60478,8 +60477,8 @@
       "region": "전라남도",
       "address": "전라남도 나주시 그린로 357 6층 601호 (빛가람동, 스카이랜드빌딩)",
       "homepage": "http://kumhatech.com",
-      "contact": "전화: 1600-8054 / 이메일: kumha777@nate.com / 홈페이지: http://kumhatech.com",
-      "phone": "1600-8054",
+      "contact": "전화: 062-443-3300 / 이메일: kumha777@nate.com / 홈페이지: http://kumhatech.com",
+      "phone": "062-443-3300",
       "email": "kumha777@nate.com",
       "confidence": "high",
       "source": "source_file:j_sw_business_db",
@@ -60488,7 +60487,8 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:blank_contact_homepage_enrichment; body_bytes=2648; phones=1600-8054,062-443-3300; emails=kumha777@nate.com; verification=homepage_rendered_contact_enriched"
+      "evidence": "verified_export:b2b_next74_quality_cleanup; result=service_phone_replaced_with_official_local_phone; removed=1600-8054; phones=062-443-3300; emails=kumha777@nate.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:53:36.349+09:00"
     },
     {
       "name": "주식회사 뉴버드",
@@ -61198,8 +61198,8 @@
       "region": "서울특별시",
       "address": "서울특별시 서초구 강남대로 327, 1217호(서초동, 대륭서초타워)",
       "homepage": "http://www.iclave.co.kr",
-      "contact": "전화: 1599-3518 / 이메일: manager@iclave.co.kr / 홈페이지: http://www.iclave.co.kr",
-      "phone": "1599-3518",
+      "contact": "이메일: manager@iclave.co.kr / 홈페이지: http://www.iclave.co.kr",
+      "phone": "",
       "email": "manager@iclave.co.kr",
       "confidence": "high",
       "source": "source_file:j_sw_business_db",
@@ -61208,7 +61208,8 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:blank_contact_homepage_enrichment; body_bytes=3478; phones=1599-3518; emails=manager@iclave.co.kr; verification=homepage_rendered_contact_enriched"
+      "evidence": "verified_export:b2b_next74_quality_cleanup; result=service_phone_removed_email_retained; removed=1599-3518; phones=; emails=manager@iclave.co.kr; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:53:36.349+09:00"
     },
     {
       "name": "(주)현대하이텍",
@@ -61909,8 +61910,8 @@
       "region": "서울특별시",
       "address": "서울특별시 강남구 강남대로 556, 16층 (논현동, 이투데이빌딩)",
       "homepage": "http://www.etbs.co.kr",
-      "contact": "전화: 1899-0522 / 이메일: neojang@etbs.co.kr / 홈페이지: http://www.etbs.co.kr",
-      "phone": "1899-0522",
+      "contact": "전화: 02-360-2100 / 이메일: neojang@etbs.co.kr / 홈페이지: http://www.etbs.co.kr",
+      "phone": "02-360-2100",
       "email": "neojang@etbs.co.kr",
       "confidence": "high",
       "source": "source_file:j_sw_business_db",
@@ -61919,7 +61920,8 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:blank_contact_homepage_enrichment; body_bytes=18986; phones=1899-0522,02-360-2100; emails=neojang@etbs.co.kr,yongsm@etbs.co.kr; verification=homepage_rendered_contact_enriched"
+      "evidence": "verified_export:b2b_next74_quality_cleanup; result=service_phone_replaced_with_official_local_phone; removed=1899-0522; phones=02-360-2100; emails=neojang@etbs.co.kr; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:53:36.349+09:00"
     },
     {
       "name": "(주)오십일퍼센트",
@@ -62620,17 +62622,15 @@
       "region": "서울특별시",
       "address": "서울특별시 금천구 가산디지털1로 225, 14층 1413호 (가산동, 에이스가산포휴)",
       "homepage": "http://arumnet.com",
-      "contact": "전화: 0502-577-2220 / 홈페이지: http://arumnet.com",
-      "phone": "0502-577-2220",
+      "contact": "",
+      "phone": "",
       "email": "",
       "confidence": "high",
       "source": "source_file:j_sw_business_db",
       "id": "47684",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "A",
-      "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:blank_contact_homepage_enrichment; body_bytes=5108; phones=0502-577-2220,1577-2220; emails=; verification=homepage_rendered_contact_enriched"
+      "lead_quality_grade": "A"
     },
     {
       "name": "아이오텔스주식회사",

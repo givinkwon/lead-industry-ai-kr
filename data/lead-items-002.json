@@ -1572,9 +1572,9 @@
       "region": "서울특별시",
       "address": "서울특별시 강남구 테헤란로 501, 7층 724호 (삼성동, 브이플렉스)",
       "homepage": "http://escg.co.kr",
-      "contact": "전화: 02-6207-9160 / 이메일: escgmaster@naver.com / 홈페이지: http://escg.co.kr",
+      "contact": "전화: 02-6207-9160 / 홈페이지: http://escg.co.kr",
       "phone": "02-6207-9160",
-      "email": "escgmaster@naver.com",
+      "email": "",
       "confidence": "high",
       "source": "source_file:j_sw_business_db",
       "id": "49729",
@@ -1582,7 +1582,8 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:sw_next2_blank_contact_enrichment; final_url=https://escg.co.kr/; title=ESCG; body_bytes=4162; name_score=5; phones=02-6207-9160,02-6003-1991; emails=escgmaster@naver.com; checked_urls=https://escg.co.kr/,https://escg.co.kr/sub01/sub01.php; verification=homepage_rendered_contact_enriched"
+      "evidence": "verified_export:b2b_next74_quality_cleanup; result=role_email_removed_phone_retained; phones=02-6207-9160; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:53:36.349+09:00"
     },
     {
       "name": "주식회사 문화나들이",
@@ -17330,9 +17331,9 @@
       "region": "서울특별시",
       "address": "서울특별시 영등포구 여의나루로 67, 506호 (여의도동, 신송빌딩)",
       "homepage": "http://www.goodinvent.com",
-      "contact": "전화: 02-2070-1119 / 이메일: info@goodinvent.com, example@goodinvent.com / 홈페이지: http://www.goodinvent.com",
+      "contact": "전화: 02-2070-1119 / 이메일: info@goodinvent.com / 홈페이지: http://www.goodinvent.com",
       "phone": "02-2070-1119",
-      "email": "info@goodinvent.com, example@goodinvent.com",
+      "email": "info@goodinvent.com",
       "confidence": "high",
       "source": "source_file:j_sw_business_db",
       "id": "50790",
@@ -17340,7 +17341,8 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:sw_next6_enrichment; final_url=https://www.goodinvent.com/landing/inquiry; title=굿인벤트; body_bytes=3348; name_score=3; phones=02-2070-1119; emails=info@goodinvent.com,example@goodinvent.com; checked_urls=https://www.goodinvent.com/landing/home,https://www.goodinvent.com/landing/inquiry; verification=homepage_rendered_contact_enriched"
+      "evidence": "verified_export:b2b_next74_quality_cleanup; result=example_email_removed; phones=02-2070-1119; emails=info@goodinvent.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:53:36.349+09:00"
     },
     {
       "name": "대성네트웍주식회사",

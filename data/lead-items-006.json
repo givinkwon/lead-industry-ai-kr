@@ -45027,8 +45027,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "https://www.hanwhasemitech.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 055-714-0776 / 홈페이지: https://www.hanwhasemitech.com/ko/company/location.asp",
+      "phone": "055-714-0776",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -45038,7 +45038,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "B",
       "booth": "P001",
-      "source_note": "한화세미텍은 DRAM, NAND, CPU 등 핵심 반도체 부품 공정에 투입되는 장비를 30년 이상 개발, 제조하여 글로벌 종합 반도체 기업과 전문 제조사에 공급하고 있습니다. 2024년 후공정 장비인 플립칩 본더와 다이본더 양산에서 한 걸음 더 나아가 전공정 장비 사업 양수로 반도체 전후공정 솔루션을 모두 보유한 종합 반도체 장비 제조 기업으로서 한화세미텍의 새로운 미래를 그리고 있습니다. Hanwha started R&D in semiconductor equipment over 30 years ago. We now provide semiconductor equipments to our global IDM and OSAT partners, for DRAM, NAND and CPU. We started our semiconductor business with the back-end bonding machines, and expanded further by acquiring front-"
+      "source_note": "한화세미텍은 DRAM, NAND, CPU 등 핵심 반도체 부품 공정에 투입되는 장비를 30년 이상 개발, 제조하여 글로벌 종합 반도체 기업과 전문 제조사에 공급하고 있습니다. 2024년 후공정 장비인 플립칩 본더와 다이본더 양산에서 한 걸음 더 나아가 전공정 장비 사업 양수로 반도체 전후공정 솔루션을 모두 보유한 종합 반도체 장비 제조 기업으로서 한화세미텍의 새로운 미래를 그리고 있습니다. Hanwha started R&D in semiconductor equipment over 30 years ago. We now provide semiconductor equipments to our global IDM and OSAT partners, for DRAM, NAND and CPU. We started our semiconductor business with the back-end bonding machines, and expanded further by acquiring front-",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next74_enrichment; result=targeted_b2b_next74_render_check; final_url=https://www.hanwhasemitech.com/ko/company/location.asp; title=한화세미텍 오시는 길; phones=055-714-0776; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:50:42.180+09:00"
     },
     {
       "id": "89042",
@@ -74848,9 +74851,9 @@
       "region": "경북",
       "address": "경북 구미시 1공단로10길 90 경상북도 구미시 1공단로 10길 90",
       "homepage": "http://www.jaeyoungtech.co.kr",
-      "contact": "https://interbattery.or.kr/company-directories/2897?year=2026&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 054-462-4006 / 이메일: jyt@jaeyoungtech.co.kr / 홈페이지: http://www.jaeyoungtech.co.kr/0-jytecc/",
+      "phone": "054-462-4006",
+      "email": "jyt@jaeyoungtech.co.kr",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
       "source_page": "https://interbattery.or.kr/company-directories?year=2026&hl=en",
@@ -74862,7 +74865,10 @@
       "country": "KR",
       "business_type": "제조업",
       "industry_type": "기초무기화학물질",
-      "ceo": "박재호"
+      "ceo": "박재호",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next74_enrichment; result=targeted_b2b_next74_render_check; final_url=http://www.jaeyoungtech.co.kr/0-jytecc/; title=재영텍; phones=054-462-4006; emails=jyt@jaeyoungtech.co.kr; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:50:42.180+09:00"
     },
     {
       "id": "90591",
@@ -75922,9 +75928,9 @@
       "region": "경기",
       "address": "경기 성남시 수정구 수정로214번길 3 B1F",
       "homepage": "http://www.sunraytech.co.kr",
-      "contact": "https://interbattery.or.kr/company-directories/3130?year=2026&hl=ko",
+      "contact": "이메일: info@sunraytech.co.kr / 홈페이지: http://sunraytech.co.kr/main/index.php",
       "phone": "",
-      "email": "",
+      "email": "info@sunraytech.co.kr",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
       "source_page": "https://interbattery.or.kr/company-directories?year=2026&hl=en",
@@ -75936,7 +75942,10 @@
       "country": "KR",
       "business_type": "선레이텍",
       "industry_type": "선레이텍",
-      "ceo": "김형돈"
+      "ceo": "김형돈",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next74_enrichment; result=targeted_b2b_next74_render_check; final_url=http://sunraytech.co.kr/main/index.php; title=선레이텍; phones=; emails=info@sunraytech.co.kr; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:50:42.180+09:00"
     },
     {
       "id": "90642",

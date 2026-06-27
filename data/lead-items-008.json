@@ -7118,8 +7118,8 @@
       "region": "경북",
       "address": "경북",
       "homepage": "http://www.teamfirecrew.com/",
-      "contact": "전화: 0507-1356-6423 / 홈페이지: http://www.teamfirecrew.com/",
-      "phone": "0507-1356-6423",
+      "contact": "",
+      "phone": "",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -7127,9 +7127,7 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 바이오 / 인증만료 2029-05-25",
-      "id": "100157",
-      "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:blank_contact_homepage_enrichment; body_bytes=6980; phones=0507-1356-6423; emails=; verification=homepage_rendered_contact_enriched"
+      "id": "100157"
     },
     {
       "name": "(주)티나뷰티",
@@ -7217,8 +7215,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.ss5292.com/",
-      "contact": "전화: 1599-5292 / 홈페이지: http://www.ss5292.com/",
-      "phone": "1599-5292",
+      "contact": "",
+      "phone": "",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -7226,9 +7224,7 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "비제조업 / 식품 / 인증만료 2029-06-17",
-      "id": "100162",
-      "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:blank_contact_homepage_enrichment; body_bytes=1495; phones=1599-5292; emails=; verification=homepage_rendered_contact_enriched"
+      "id": "100162"
     },
     {
       "name": "(주)이앤알",
@@ -9426,8 +9422,8 @@
       "region": "충남",
       "address": "충남",
       "homepage": "http://www.thomastone.co.kr/",
-      "contact": "전화: 0504-090-7206 / 이메일: dentaljy@thomastone.co.kr / 홈페이지: http://www.thomastone.co.kr/",
-      "phone": "0504-090-7206",
+      "contact": "이메일: dentaljy@thomastone.co.kr / 홈페이지: http://www.thomastone.co.kr/",
+      "phone": "",
       "email": "dentaljy@thomastone.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -9437,7 +9433,8 @@
       "product": "SW / S/W / 인증만료 2029-01-15",
       "id": "100301",
       "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:blank_contact_homepage_enrichment; body_bytes=1025; phones=0504-090-7206; emails=dentaljy@thomastone.co.kr,planus253@naver.com; verification=homepage_rendered_contact_enriched"
+      "evidence": "verified_export:b2b_next74_quality_cleanup; result=service_phone_removed_email_retained; removed=0504-090-7206; phones=; emails=dentaljy@thomastone.co.kr; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:53:36.349+09:00"
     },
     {
       "name": "주식회사강원파이프산업",
@@ -11056,8 +11053,8 @@
       "region": "세종",
       "address": "세종",
       "homepage": "http://www.kvankorea.com/",
-      "contact": "전화: 1600-8708 / 홈페이지: http://www.kvankorea.com/",
-      "phone": "1600-8708",
+      "contact": "전화: 02-6673-5511 / 홈페이지: http://www.kvankorea.com/",
+      "phone": "02-6673-5511",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -11067,7 +11064,8 @@
       "product": "비제조업 / 기타 / 인증만료 2028-12-07",
       "id": "100403",
       "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:blank_contact_homepage_enrichment; body_bytes=3879; phones=1600-8708,02-6673-5511; emails=; verification=homepage_rendered_contact_enriched"
+      "evidence": "verified_export:b2b_next74_quality_cleanup; result=service_phone_replaced_with_official_local_phone; removed=1600-8708; phones=02-6673-5511; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:53:36.349+09:00"
     },
     {
       "name": "예닮건축사사무소주식회사",
@@ -11172,8 +11170,8 @@
       "region": "광주",
       "address": "광주",
       "homepage": "http://www.ggomjirak.kr/",
-      "contact": "전화: 1668-1504 / 홈페이지: http://www.ggomjirak.kr/",
-      "phone": "1668-1504",
+      "contact": "",
+      "phone": "",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -11181,9 +11179,7 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2029-01-21",
-      "id": "100410",
-      "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:blank_contact_homepage_enrichment; body_bytes=2980; phones=1668-1504; emails=; verification=homepage_rendered_contact_enriched"
+      "id": "100410"
     },
     {
       "name": "(주)씨제이티",
@@ -46253,9 +46249,9 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.lee-b.com/",
-      "contact": "전화: 031-351-0601 / 이메일: master@lee-b.com / 홈페이지: http://www.lee-b.com/",
+      "contact": "전화: 031-351-0601 / 홈페이지: http://www.lee-b.com/",
       "phone": "031-351-0601",
-      "email": "master@lee-b.com",
+      "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
@@ -46264,7 +46260,8 @@
       "product": "제조업 / 기타 / 인증만료 2029-01-18",
       "id": "102625",
       "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:innobiz_vertical_next3_enrichment; final_url=http://www.lee-b.com/default/; title=친환경 제품 전문기업, 리앤비; body_bytes=3177; name_score=3; phones=031-351-0601,031-351-0608; emails=master@lee-b.com; checked_urls=http://www.lee-b.com/default/,http://www.lee-b.com/default/product/01.php?top=3&sub=0; verification=homepage_rendered_contact_enriched"
+      "evidence": "verified_export:b2b_next74_quality_cleanup; result=role_email_removed_phone_retained; phones=031-351-0601; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:53:36.349+09:00"
     },
     {
       "name": "주식회사원삼메디",

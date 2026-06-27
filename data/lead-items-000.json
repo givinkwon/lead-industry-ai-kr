@@ -4073,8 +4073,8 @@
       "region": "서울",
       "address": "서울 강남구 학동로42길 21, 3층 (논현동, 규우빌딩)",
       "homepage": "https://pasan119.com",
-      "contact": "전화: 1844-2044 / 이메일: hope5432@naver.com / 홈페이지: https://pasan119.com",
-      "phone": "1844-2044",
+      "contact": "전화: 02-6455-8604 / 이메일: hope5432@naver.com / 홈페이지: https://pasan119.com",
+      "phone": "02-6455-8604",
       "email": "hope5432@naver.com",
       "confidence": "high",
       "source": "seed:association_directory",
@@ -4083,7 +4083,8 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
       "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:blank_contact_homepage_enrichment; body_bytes=5329; phones=1844-2044,02-6455-8604; emails=hope5432@naver.com; verification=homepage_rendered_contact_enriched"
+      "evidence": "verified_export:b2b_next74_quality_cleanup; result=service_phone_replaced_with_official_local_phone; removed=1844-2044; phones=02-6455-8604; emails=hope5432@naver.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:53:36.349+09:00"
     },
     {
       "name": "법무법인 모먼트",
@@ -4219,8 +4220,8 @@
       "region": "서울",
       "address": "서울청 지능범죄수사대장(現 반부패수사대, 금융범죄수사대, 공공범죄수사대 전신)으로 근무하는 등 경찰 내 대표적 특수, 금융 전문 수사관으로 인정받았습니다.",
       "homepage": "https://baekhyunlaw.com/",
-      "contact": "전화: 1899-1522 / 홈페이지: https://baekhyunlaw.com/",
-      "phone": "1899-1522",
+      "contact": "",
+      "phone": "",
       "email": "",
       "confidence": "high",
       "source": "seed:association_directory",
@@ -4228,9 +4229,7 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
-      "source_page": "",
-      "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:blank_contact_homepage_enrichment; body_bytes=5394; phones=1899-1522; emails=; verification=homepage_rendered_contact_enriched"
+      "source_page": ""
     },
     {
       "name": "법무법인 변화",
@@ -9703,8 +9702,8 @@
       "region": "서울",
       "address": "서울 관악구 보라매로5길 5 (봉천동, 보라매우성아파트) 상가1층 104호",
       "homepage": "https://alright.co.kr/",
-      "contact": "전화: 1877-3272 / 홈페이지: https://alright.co.kr/",
-      "phone": "1877-3272",
+      "contact": "",
+      "phone": "",
       "email": "",
       "confidence": "high",
       "source": "seed:association_directory",
@@ -9712,9 +9711,7 @@
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
-      "source_page": "",
-      "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:blank_contact_homepage_enrichment; body_bytes=3038; phones=1877-3272; emails=; verification=homepage_rendered_contact_enriched"
+      "source_page": ""
     },
     {
       "name": "노무법인 글로벌",
