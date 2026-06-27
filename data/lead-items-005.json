@@ -16548,8 +16548,8 @@
       "segment": "코스닥",
       "region": "서울특별시",
       "address": "",
-      "homepage": "http://www.fadu.io/",
-      "contact": "",
+      "homepage": "https://www.fadu.io/contact/",
+      "contact": "홈페이지: https://www.fadu.io/contact/",
       "phone": "",
       "email": "",
       "confidence": "high",
@@ -16559,7 +16559,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "440110",
-      "product": "SSD 컨트롤러"
+      "product": "SSD 컨트롤러",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next78_enrichment; result=direct_verification; final_url=https://www.fadu.io/contact/; title=FADU contact; phones=; emails=; contact_form=sales_partnership; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T23:18:10.391+09:00"
     },
     {
       "name": "에피바이오텍",
@@ -20905,10 +20908,10 @@
       "segment": "유가",
       "region": "전북특별자치도",
       "address": "",
-      "homepage": "http://www.doosanfuelcell.com",
-      "contact": "",
+      "homepage": "https://www.doosanfuelcell.com/en/sustainability/sust-0603/",
+      "contact": "이메일: soohwank@doosan.com / 홈페이지: https://www.doosanfuelcell.com/en/sustainability/sust-0603/",
       "phone": "",
-      "email": "",
+      "email": "soohwank@doosan.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78686",
@@ -20916,7 +20919,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "336260",
-      "product": "연료전지"
+      "product": "연료전지",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next78_enrichment; result=direct_verification; final_url=https://www.doosanfuelcell.com/en/sustainability/sust-0603/; title=Doosan Fuel Cell supplier help desk; phones=; emails=soohwank@doosan.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T23:18:10.391+09:00"
     },
     {
       "name": "솔루스첨단소재",
@@ -22982,8 +22988,8 @@
       "segment": "코스닥",
       "region": "경상남도",
       "address": "",
-      "homepage": "http://www.sangshin-e.com",
-      "contact": "",
+      "homepage": "http://www.sangshin-e.com/%ec%97%85%eb%ac%b4%ec%a0%9c%ed%9c%b4-%eb%ac%b8%ec%9d%98/",
+      "contact": "홈페이지: http://www.sangshin-e.com/%ec%97%85%eb%ac%b4%ec%a0%9c%ed%9c%b4-%eb%ac%b8%ec%9d%98/",
       "phone": "",
       "email": "",
       "confidence": "high",
@@ -22993,7 +22999,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "263810",
-      "product": "노이즈필터(48.81%), 코일(19.33%), 리액터(10.75%)"
+      "product": "노이즈필터(48.81%), 코일(19.33%), 리액터(10.75%)",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next78_enrichment; result=direct_verification; final_url=http://www.sangshin-e.com/%ec%97%85%eb%ac%b4%ec%a0%9c%ed%9c%b4-%eb%ac%b8%ec%9d%98/; title=Sangshin Electronics partnership inquiry; phones=; emails=; contact_form=partnership_inquiry; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T23:18:10.391+09:00"
     },
     {
       "name": "인산가",
@@ -41738,9 +41747,9 @@
       "segment": "유가",
       "region": "서울특별시",
       "address": "",
-      "homepage": "http://hcc.hanwha.co.kr",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://www.hanwhasolutions.com/ko/cs/contactus",
+      "contact": "전화: 02-729-2700, 02-729-2900, 02-729-5810 / 홈페이지: https://www.hanwhasolutions.com/ko/cs/contactus",
+      "phone": "02-729-2700, 02-729-2900, 02-729-5810",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -41749,7 +41758,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "009830",
-      "product": "합성수지,유화부문(LDPE,LLDPE)제품 제조,플라스틱가공품(PVC),CA,무기화학제품,부동산업"
+      "product": "합성수지,유화부문(LDPE,LLDPE)제품 제조,플라스틱가공품(PVC),CA,무기화학제품,부동산업",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next78_enrichment; result=direct_verification; final_url=https://www.hanwhasolutions.com/ko/cs/contactus; title=Hanwha Solutions contact us; phones=02-729-2700,02-729-2900,02-729-5810; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T23:18:10.391+09:00"
     },
     {
       "name": "아세아",

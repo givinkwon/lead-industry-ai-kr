@@ -46244,8 +46244,8 @@
       "segment": "소프트웨어사업자",
       "region": "대전광역시",
       "address": "대전광역시 유성구 문지로 271-23 (문지동)",
-      "homepage": "https://www.kles.kr",
-      "contact": "",
+      "homepage": "https://www.kles.kr/inquiry",
+      "contact": "홈페이지: https://www.kles.kr/inquiry",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -46253,7 +46253,10 @@
       "id": "59554",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next78_enrichment; result=direct_verification; final_url=https://www.kles.kr/inquiry; title=KLES inquiry; phones=; emails=; contact_form=inquiry; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T23:18:10.391+09:00"
     },
     {
       "name": "주식회사 인테라에이브이씨",

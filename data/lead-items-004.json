@@ -57049,8 +57049,8 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강남구 테헤란로 223, 1102호 (역삼동, 큰길타워 1102호 603호)",
-      "homepage": "http://www.bureauveritas.com",
-      "contact": "",
+      "homepage": "https://www.bureauveritas.co.kr/contact-us",
+      "contact": "홈페이지: https://www.bureauveritas.co.kr/contact-us",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -57058,7 +57058,10 @@
       "id": "70032",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next78_enrichment; result=direct_verification; final_url=https://www.bureauveritas.co.kr/contact-us; title=Bureau Veritas Korea contact; phones=; emails=; contact_form=expert_support; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T23:18:10.391+09:00"
     },
     {
       "name": "엠나인 주식회사",
@@ -57232,16 +57235,19 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 강남구 테헤란로108길 22 (대치동, 3서경빌딩2층)",
-      "homepage": "http://www.lexmark.com",
-      "contact": "",
+      "homepage": "https://support.lexmark.com/ko_kr/contact-support.html",
+      "contact": "이메일: korhelpdesk@lexmark.com / 홈페이지: https://support.lexmark.com/ko_kr/contact-support.html",
       "phone": "",
-      "email": "",
+      "email": "korhelpdesk@lexmark.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "70055",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next78_enrichment; result=direct_verification; final_url=https://support.lexmark.com/ko_kr/contact-support.html; title=Lexmark Korea contact support; phones=; emails=korhelpdesk@lexmark.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T23:18:10.391+09:00"
     },
     {
       "name": "(주)아인피아",
