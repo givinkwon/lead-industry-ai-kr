@@ -54926,8 +54926,8 @@
       "region": "해외",
       "address": "Tokyo,, Japan",
       "homepage": "http://www.neo-corp.co.jp",
-      "contact": "전화: 02-2516-8108 / 홈페이지: http://www.neo-corp.co.jp",
-      "phone": "02-2516-8108",
+      "contact": "https://expo.semi.org/korea2026/Public/exhibitors.aspx",
+      "phone": "",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -54939,9 +54939,7 @@
       "source_id": "semicon-korea-2026:668295",
       "country": "Japan",
       "source_category": "SEMICON Korea 2026",
-      "id": "95615",
-      "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:b2b_next9_enrichment; final_url=https://www.neo-corp.co.jp/publics/index/21/; title=ネットワーク｜日新ネオ　株式会社（公式ホームページ）; body_bytes=2178; name_score=5; phones=02-2516-8108; emails=; checked_urls=https://www.neo-corp.co.jp/,https://www.neo-corp.co.jp/,http://www.neo-corp.co.jp/contact,http://www.neo-corp.co.jp/contact-us,https://www.neo-corp.co.jp/publics/index/3/,https://www.neo-corp.co.jp/publics/index/18/,https://www.neo-corp.co.jp/publics/index/21/,https://www.neo-corp.co.jp/publics/index/4/,https://www.neo-corp.co.jp/publics/index/22/; verification=homepage_rendered_contact_enriched"
+      "id": "95615"
     },
     {
       "name": "NIDEC ADVANCE TECHNOLOGY CORPORATION",
@@ -55126,9 +55124,9 @@
       "region": "해외",
       "address": "Osaka,, Japan",
       "homepage": "http://www.osakavacuum.co.jp/en",
-      "contact": "전화: 052-950-3051, 052-950-3062 / 이메일: sales_fmg@fmgvacpump.com / 홈페이지: http://www.osakavacuum.co.jp/en",
-      "phone": "052-950-3051, 052-950-3062",
-      "email": "sales_fmg@fmgvacpump.com",
+      "contact": "https://expo.semi.org/korea2026/Public/exhibitors.aspx",
+      "phone": "",
+      "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/exhibitors.aspx",
@@ -55139,9 +55137,7 @@
       "source_id": "semicon-korea-2026:634200",
       "country": "Japan",
       "source_category": "SEMICON Korea 2026",
-      "id": "95623",
-      "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:b2b_next9_enrichment; final_url=https://www.osakavacuum.co.jp/support/; title=サポート | 株式会社 大阪真空機器製作所; body_bytes=7581; name_score=5; phones=052-950-3051,052-950-3062; emails=sales_fmg@fmgvacpump.com; checked_urls=http://www.osakavacuum.co.jp/en/,http://www.osakavacuum.co.jp/,http://www.osakavacuum.co.jp/contact/,https://www.osakavacuum.co.jp/company_profile/,https://www.osakavacuum.co.jp/company_profile/profile/,https://www.osakavacuum.co.jp/company_profile/base/,https://www.osakavacuum.co.jp/company_profile/history/,https://www.osakavacuum.co.jp/support/,https://www.osakavacuum.co.jp/company_profile/performance/; verification=homepage_rendered_contact_enriched"
+      "id": "95623"
     },
     {
       "name": "PEER GROUP INC.",
@@ -56076,8 +56072,8 @@
       "region": "해외",
       "address": "Kawasaki,, Japan",
       "homepage": "http://www.tok.co.jp/en/index.html",
-      "contact": "전화: 044-435-3000, 044-435-3020 / 홈페이지: http://www.tok.co.jp/en/index.html",
-      "phone": "044-435-3000, 044-435-3020",
+      "contact": "https://expo.semi.org/korea2026/Public/exhibitors.aspx",
+      "phone": "",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -56089,9 +56085,7 @@
       "source_id": "semicon-korea-2026:635005",
       "country": "Japan",
       "source_category": "SEMICON Korea 2026",
-      "id": "95667",
-      "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:b2b_next11_enrichment; final_url=https://www.tok.co.jp/company/outline; title=会社概要 | 東京応化工業株式会社; body_bytes=2555; name_score=5; phones=044-435-3000,044-435-3020; emails=; checked_urls=https://www.tok.co.jp/eng/,https://www.tok.co.jp/,https://www.tok.co.jp/contact,https://www.tok.co.jp/contact-us,https://www.tok.co.jp/company,https://www.tok.co.jp/inquiry,https://www.tok.co.jp/company/greeting,https://www.tok.co.jp/company/philosophy,https://www.tok.co.jp/company/outline; verification=homepage_rendered_contact_enriched"
+      "id": "95667"
     },
     {
       "name": "Trelleborg Sealing Solutions Ltd",
@@ -82839,8 +82833,8 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.facephi.com/en",
-      "contact": "https://kisia.or.kr/membership/member_company_guide/",
-      "phone": "",
+      "contact": "전화: 031-605-2005 / 홈페이지: https://facephi.com/contacta/",
+      "phone": "031-605-2005",
       "email": "",
       "confidence": "high",
       "source": "source_file:kisia_member_company_homepage",
@@ -82854,7 +82848,10 @@
       "category_names": [
         "한국정보보호산업협회 회원사안내",
         "정보보안·사이버보안"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next73_enrichment; result=tmp_b2b_next73_kisia0_0_60_browser_enriched_filtered_final.json; final_url=https://facephi.com/contacta/; title=Facephi Korea contact; phones=031-605-2005; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:40:59.825+09:00"
     },
     {
       "id": "96770",
@@ -91923,8 +91920,8 @@
       "region": "서울",
       "address": "서울 강남구 선릉로 514 (삼성동, 성원타워)16-17층",
       "homepage": "http://sendbird.com",
-      "contact": "https://www.sw.or.kr/site/sw/intro/memberList.do",
-      "phone": "",
+      "contact": "전화: 02-555-4654 / 홈페이지: https://sendbird.com/contact-us",
+      "phone": "02-555-4654",
       "source": "source_file:kosa_ai_sw_member_homepage",
       "source_page": "https://www.sw.or.kr/site/sw/intro/memberView.do?bsnsNum=2648106382",
       "ksic_major_code": "J",
@@ -91942,7 +91939,11 @@
       "id": "97241",
       "confidence": "high",
       "lead_quality_grade": "A",
-      "country": "Korea, South"
+      "country": "Korea, South",
+      "email": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next73_enrichment; result=tmp_b2b_next73_kosaai0_0_60_browser_enriched_filtered_final.json; final_url=https://sendbird.com/contact-us; title=Sendbird contact; phones=02-555-4654; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:40:59.825+09:00"
     },
     {
       "name": "제이소프트웨어 주식회사",

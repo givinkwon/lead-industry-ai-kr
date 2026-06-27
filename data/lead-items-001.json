@@ -84328,17 +84328,15 @@
       "region": "서울특별시",
       "address": "서울특별시 금천구 가산디지털1로 165, 8층 804호 (가산동, 가산비지니스센터)",
       "homepage": "http://www.zionsolution.com",
-      "contact": "전화: 02-597-0980, 02-597-0982 / 이메일: shs@zionsolution.com / 홈페이지: http://www.zionsolution.com",
-      "phone": "02-597-0980, 02-597-0982",
-      "email": "shs@zionsolution.com",
+      "contact": "",
+      "phone": "",
+      "email": "",
       "confidence": "high",
       "source": "source_file:j_sw_business_db",
       "id": "49172",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B",
-      "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:b2b_next16_enrichment; final_url=https://if016004.wixsite.com/mysite; title=메인 | 3D프린터 렌탈; body_bytes=1786; name_score=5; phones=02-597-0980,02-597-0982; emails=shs@zionsolution.com; checked_urls=https://if016004.wixsite.com/mysite; verification=homepage_rendered_contact_enriched"
+      "lead_quality_grade": "B"
     },
     {
       "name": "(주)해솔데이타",

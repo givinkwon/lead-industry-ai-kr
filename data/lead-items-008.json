@@ -579,15 +579,18 @@
       "region": "경기",
       "address": "경기도 오산시 남부대로 374",
       "homepage": "https://www.ehwadia.com",
-      "contact": "김재희",
-      "phone": "",
+      "contact": "전화: 031-370-9000 / 홈페이지: http://ehwadia.com/about-zenesis-2023/",
+      "phone": "031-370-9000",
       "email": "",
       "confidence": "high",
       "source": "source_file:kotic_tool_member_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
-      "id": "99697"
+      "id": "99697",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next73_enrichment; result=tmp_b2b_next73_kotic0_0_60_browser_enriched_filtered_final.json; final_url=http://ehwadia.com/about-zenesis-2023/; title=EHWA DIAMOND contact; phones=031-370-9000; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:40:59.825+09:00"
     },
     {
       "name": "진광산업(주)",
@@ -888,15 +891,18 @@
       "region": "인천",
       "address": "인천광역시 남동구 청능대로 448번길 135,107B-9L",
       "homepage": "https://www.symetal.net",
-      "contact": "정주영",
-      "phone": "",
+      "contact": "전화: 032-812-6540 / 홈페이지: https://www.symetal.net/page/product-info/electrical-contact.php",
+      "phone": "032-812-6540",
       "email": "",
       "confidence": "high",
       "source": "source_file:kotic_tool_member_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
-      "id": "99730"
+      "id": "99730",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next73_enrichment; result=tmp_b2b_next73_kotic0_0_60_browser_enriched_filtered_final.json; final_url=https://www.symetal.net/page/product-info/electrical-contact.php; title=Shinyoung Metal contact; phones=032-812-6540; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:40:59.825+09:00"
     },
     {
       "name": "유미코아코리아(유)",

@@ -73105,8 +73105,8 @@
       "region": "서울",
       "address": "서울 마포구 월드컵북로 21 7층(서교동,풍성빌딩)",
       "homepage": "https://www.edmundoptics.co.kr",
-      "contact": "https://www.automationworld.co.kr/company-directories/1995?year=2026&hl=ko",
-      "phone": "",
+      "contact": "전화: 02-769-4600 / 홈페이지: https://www.edmundoptics.co.kr/contact-support/catalogs",
+      "phone": "02-769-4600",
       "email": "",
       "confidence": "high",
       "source": "source_file:automation_world_2026_company_directory",
@@ -73119,7 +73119,10 @@
       "country": "KR",
       "business_type": "도소매, 도매업",
       "industry_type": "광학기기,산업용재화무역업",
-      "ceo": "RHEE JOONHO(이준호)(단독대표)"
+      "ceo": "RHEE JOONHO(이준호)(단독대표)",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next73_enrichment; result=tmp_b2b_next73_automation0_0_70_browser_enriched_filtered_final.json; final_url=https://www.edmundoptics.co.kr/contact-support/catalogs; title=에드몬드옵틱스코리아 contact; phones=02-769-4600; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:40:59.825+09:00"
     },
     {
       "id": "90508",
