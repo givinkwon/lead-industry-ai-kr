@@ -45869,16 +45869,18 @@
       "region": "부산",
       "address": "부산",
       "homepage": "http://www.suhhani.co.kr/",
-      "contact": "김진호,한영석",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 051-204-1920, 051-608-8300 / 이메일: suhhan@suhhani.onmicrosoft.com / 홈페이지: http://www.suhhani.co.kr/",
+      "phone": "051-204-1920, 051-608-8300",
+      "email": "suhhan@suhhani.onmicrosoft.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2029-06-01",
-      "id": "108873"
+      "id": "108873",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next47_enrichment; final_url=http://suhhani.com/Directions; title=㈜서한공업; body_bytes=410075; name_score=2; manual_review=official_directions_page_html_rendered_head_office_and_factory_tel_email_visible_excluded_faxes; phones=051-204-1920, 051-608-8300; emails=suhhan@suhhani.onmicrosoft.com; excluded=fax 051-204-6303, fax 051-608-8392; checked_urls=http://suhhani.com/ | http://suhhani.com/About | http://suhhani.com/Directions | http://suhhani.com/SERVICECENTER | http://suhhani.com/notice | http://suhhani.com/Onlineinquiry | http://suhhani.com/contact | http://suhhani.com/contact-us | http://suhhani.com/contacts | http://suhhani.com/company/contact | http://suhhani.com/company/location | http://suhhani.com/about/contact | http://suhhani.com/support | http://suhhani.com/customer; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)유성스테이지",
@@ -56850,8 +56852,8 @@
       "region": "경북",
       "address": "경북",
       "homepage": "http://seowoo.co.kr/",
-      "contact": "신동용",
-      "phone": "",
+      "contact": "전화: 054-482-8800, 054-434-8830, 054-775-4184 / 홈페이지: http://seowoo.co.kr/",
+      "phone": "054-482-8800, 054-434-8830, 054-775-4184",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -56859,7 +56861,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2028-05-31",
-      "id": "109587"
+      "id": "109587",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next47_enrichment; final_url=http://seowoo.co.kr/contents/08_cs/sub03.html; title=서우산업; body_bytes=17020; name_score=2; manual_review=official_location_page_html_rendered_factory_tel_visible_excluded_faxes; phones=054-482-8800, 054-434-8830, 054-775-4184; emails=; excluded=fax 054-482-7753, fax 054-434-8831, fax 054-775-4195; checked_urls=http://seowoo.co.kr/ | http://seowoo.co.kr/contents/01_about/sub01.html | http://seowoo.co.kr/contents/01_about/sub02.html | http://seowoo.co.kr/contents/01_about/sub03.html | http://seowoo.co.kr/contents/01_about/sub04.html | http://seowoo.co.kr/contents/01_about/sub05.html | http://seowoo.co.kr/contents/06_company/sub0101.html | http://seowoo.co.kr/contents/08_cs/sub01.html?board_id=board_notice | http://seowoo.co.kr/contents/08_cs/sub03.html | http://seowoo.co.kr/contents/08_cs/sub02.html?board_id=board_counseling | http://seowoo.co.kr/contact | http://seowoo.co.kr/contact-us | http://seowoo.co.kr/contacts | http://seowoo.co.kr/company/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)지비엠아이엔씨",
@@ -60139,16 +60143,18 @@
       "region": "대전",
       "address": "대전",
       "homepage": "http://www.eggtec.com/",
-      "contact": "윤택진,윤홍기",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 042-935-0707 / 이메일: eggtec@eggtec.com / 홈페이지: http://www.eggtec.com/",
+      "phone": "042-935-0707",
+      "email": "eggtec@eggtec.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2029-06-07",
-      "id": "109806"
+      "id": "109806",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next47_enrichment; final_url=https://www.eggtec.com/; title=에그텍; body_bytes=26574; name_score=2; manual_review=official_homepage_footer_html_rendered_tel_email_visible; phones=042-935-0707; emails=eggtec@eggtec.com; excluded=; checked_urls=https://www.eggtec.com/ | https://www.eggtec.com/contact | https://www.eggtec.com/contact-us | https://www.eggtec.com/contacts | https://www.eggtec.com/company/contact | https://www.eggtec.com/company/location | https://www.eggtec.com/about/contact | https://www.eggtec.com/support | https://www.eggtec.com/customer | https://www.eggtec.com/kor/contact | https://www.eggtec.com/kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "나우환경산업(주)",
@@ -60791,16 +60797,18 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.icbanq.com/",
-      "contact": "이성민",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 070-7019-3942, 070-7019-3921 / 이메일: patrick@icbanq.com, lenna@icbanq.com / 홈페이지: http://www.icbanq.com/",
+      "phone": "070-7019-3942, 070-7019-3921",
+      "email": "patrick@icbanq.com, lenna@icbanq.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2028-04-07",
-      "id": "109844"
+      "id": "109844",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next47_enrichment; final_url=https://www.icbanq.com/footer_menu/inquiry.do; title=반도체, 산업용컴퓨터, 피지컬AI_코딩교육 [아이씨뱅큐]; body_bytes=147416; name_score=2; manual_review=official_partnership_inquiry_page_html_rendered_b2b_partner_tel_email_visible; phones=070-7019-3942, 070-7019-3921; emails=patrick@icbanq.com, lenna@icbanq.com; excluded=general_shop_email shop@icbanq.com; checked_urls=https://www.icbanq.com/ | https://www.icbanq.com/A11_customer/index.do | https://www.icbanq.com/footer_menu/inquiry.do | https://www.icbanq.com/A11_customer/deposit.do | https://www.icbanq.com/A10_mypage/B02_myEstimate/inquiryList.do | https://www.icbanq.com/A11_customer/notev.do | https://www.icbanq.com/footer_menu/adad.do | https://www.icbanq.com/A11_customer/notev.do?idx= | https://www.icbanq.com/contact | https://www.icbanq.com/contact-us | https://www.icbanq.com/contacts | https://www.icbanq.com/company/contact | https://www.icbanq.com/company/location | https://www.icbanq.com/about/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "지산특수토건(주)",
@@ -62764,8 +62772,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.clovercooler.com/",
-      "contact": "문일묵",
-      "phone": "",
+      "contact": "전화: 031-453-8288 / 홈페이지: http://www.clovercooler.com/",
+      "phone": "031-453-8288",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -62773,7 +62781,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2028-03-28",
-      "id": "109965"
+      "id": "109965",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next47_enrichment; final_url=https://clovercooler.com/about-us/find-us/; title=CLOVER &#045; clover; body_bytes=358817; name_score=2; manual_review=official_find_us_page_html_rendered_korea_head_office_tel_visible_excluded_overseas_partner_emails; phones=031-453-8288; emails=; excluded=overseas_partner_email justin.pierce@osiml.com, overseas_partner_email sales@waterworksaustralia.com; checked_urls=https://clovercooler.com/ | https://clovercooler.com/about-us/about-clover/ | https://clovercooler.com/about-us/vision-values/ | https://clovercooler.com/about-us/why-clover/ | https://clovercooler.com/about-us/ceo-message/ | https://clovercooler.com/about-us/our-history/ | https://clovercooler.com/about-us/find-us/ | https://clovercooler.com/support/faq/ | https://clovercooler.com/support/technical-inquiry/ | https://clovercooler.com/support/download/ | https://clovercooler.com/contact | https://clovercooler.com/contact-us | https://clovercooler.com/contacts | https://clovercooler.com/company/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)건백",
@@ -63509,8 +63519,8 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://md-x.ai/",
-      "contact": "박종찬",
-      "phone": "",
+      "contact": "전화: 02-6093-5577, 070-8016-7770 / 홈페이지: http://md-x.ai/",
+      "phone": "02-6093-5577, 070-8016-7770",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -63518,7 +63528,9 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "product": "SW / S/W / 인증만료 2027-04-18",
-      "id": "110010"
+      "id": "110010",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next47_enrichment; final_url=https://md-x.ai/company/about/locations-and-support; title=MDX; body_bytes=635124; name_score=2; manual_review=official_locations_support_page_html_rendered_tel_and_customer_support_visible; phones=02-6093-5577, 070-8016-7770; emails=; excluded=; checked_urls=https://md-x.ai/ | https://md-x.ai/company/about/mdx | https://md-x.ai/company/about/locations-and-support | https://md-x.ai/contact-us | https://md-x.ai/contact | https://md-x.ai/contacts | https://md-x.ai/company/contact | https://md-x.ai/company/location | https://md-x.ai/about/contact | https://md-x.ai/support | https://md-x.ai/customer | https://md-x.ai/kor/contact | https://md-x.ai/kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 알엔티엑스",
@@ -63644,16 +63656,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.daesung-tech.co.kr/",
-      "contact": "박길홍",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-839-7501, 031-358-9500 / 이메일: pkj@daesung-tech.co.kr, daesungtech@hanmail.net / 홈페이지: http://www.daesung-tech.co.kr/",
+      "phone": "02-839-7501, 031-358-9500",
+      "email": "pkj@daesung-tech.co.kr, daesungtech@hanmail.net",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2028-02-21",
-      "id": "110020"
+      "id": "110020",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next47_enrichment; final_url=http://daesung-tech.co.kr/contact/; title=DAESUNG &#8211; LINK OF YOUR LIFE; body_bytes=28286; name_score=0; manual_review=official_contact_page_html_rendered_korea_head_office_and_factory_tel_email_visible_excluded_faxes_and_overseas_contact; phones=02-839-7501, 031-358-9500; emails=pkj@daesung-tech.co.kr, daesungtech@hanmail.net; excluded=fax 02-830-5586, fax 031-358-9513, overseas_russia_email info@ecogarant.net; checked_urls=http://www.daesung-tech.co.kr/ | http://daesung-tech.co.kr/about-us/ | http://daesung-tech.co.kr/contact/ | http://www.daesung-tech.co.kr/contact | http://www.daesung-tech.co.kr/contact-us | http://www.daesung-tech.co.kr/contacts | http://www.daesung-tech.co.kr/company/contact | http://www.daesung-tech.co.kr/company/location | http://www.daesung-tech.co.kr/about/contact | http://www.daesung-tech.co.kr/support | http://www.daesung-tech.co.kr/customer | http://www.daesung-tech.co.kr/kor/contact | http://www.daesung-tech.co.kr/kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "선정기계",
@@ -63720,8 +63734,8 @@
       "region": "충남",
       "address": "충남",
       "homepage": "http://www.tickorea.com/",
-      "contact": "임일택",
-      "phone": "",
+      "contact": "전화: 041-558-4252 / 홈페이지: http://www.tickorea.com/",
+      "phone": "041-558-4252",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -63729,7 +63743,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2028-04-02",
-      "id": "110026"
+      "id": "110026",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next47_enrichment; final_url=http://www.tickorea.com/theme/asktheme_b3/at_location.php; title=TICKOREA; body_bytes=76441; name_score=0; manual_review=official_location_page_html_rendered_tel_visible_excluded_fax_041-558-9360; phones=041-558-4252; emails=; excluded=fax 041-558-9360; checked_urls=http://www.tickorea.com/ | http://www.tickorea.com/theme/asktheme_b3/at_introduce.php | http://www.tickorea.com/theme/asktheme_b3/at_location.php | http://www.tickorea.com/theme/asktheme_b3/customer.php | http://www.tickorea.com/bbs/qalist.php | http://www.tickorea.com/contact | http://www.tickorea.com/contact-us | http://www.tickorea.com/contacts | http://www.tickorea.com/company/contact | http://www.tickorea.com/company/location | http://www.tickorea.com/about/contact | http://www.tickorea.com/support | http://www.tickorea.com/customer | http://www.tickorea.com/kor/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)태봉산업",
@@ -63891,8 +63907,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.inotouch.co.kr/",
-      "contact": "김종원",
-      "phone": "",
+      "contact": "전화: 031-322-3171 / 홈페이지: http://www.inotouch.co.kr/",
+      "phone": "031-322-3171",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -63900,7 +63916,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2028-04-15",
-      "id": "110038"
+      "id": "110038",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next47_enrichment; final_url=http://www.inotouch.co.kr/5_1_1.php; title=Inotouch Technology; body_bytes=12284; name_score=0; manual_review=official_contact_page_html_rendered_tel_visible_excluded_fax_and_unexpanded_range; phones=031-322-3171; emails=; excluded=fax 031-322-3170, short_range_not_expanded 031-322-3172_031-322-3173; checked_urls=http://www.inotouch.co.kr/ | http://www.inotouch.co.kr/1_1_1.php | http://www.inotouch.co.kr/bbs/board.php?bo_table=01_board&amp; | http://www.inotouch.co.kr/5_1_1.php | http://www.inotouch.co.kr/contact | http://www.inotouch.co.kr/contact-us | http://www.inotouch.co.kr/contacts | http://www.inotouch.co.kr/company/contact | http://www.inotouch.co.kr/company/location | http://www.inotouch.co.kr/about/contact | http://www.inotouch.co.kr/support | http://www.inotouch.co.kr/customer | http://www.inotouch.co.kr/kor/contact | http://www.inotouch.co.kr/kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)기영포맥스",
@@ -65018,8 +65036,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://jungwonco.co.kr/",
-      "contact": "정주용(각자대표), 정정운(각자대표)",
-      "phone": "",
+      "contact": "전화: 02-786-0451 / 홈페이지: http://jungwonco.co.kr/",
+      "phone": "02-786-0451",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -65027,7 +65045,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-03-21",
-      "id": "110115"
+      "id": "110115",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next47_enrichment; final_url=http://jungwonco.co.kr/sub/sub1_1.html; title=JUNGWON ENGINEERING; body_bytes=10481; name_score=0; manual_review=official_company_page_html_rendered_tel_visible_excluded_fax_02-786-0450; phones=02-786-0451; emails=; excluded=fax 02-786-0450; checked_urls=http://jungwonco.co.kr/ | http://jungwonco.co.kr/sub/sub1_1.html | http://jungwonco.co.kr/sub/sub3_1.html | http://jungwonco.co.kr/sub/sub2_1.html | http://jungwonco.co.kr/sub/sub2_2.html | http://jungwonco.co.kr/sub/sub2_3.html | http://jungwonco.co.kr/sub/sub2_4.html | http://jungwonco.co.kr/sub/sub2_6.html | http://jungwonco.co.kr/contact | http://jungwonco.co.kr/contact-us | http://jungwonco.co.kr/contacts | http://jungwonco.co.kr/company/contact | http://jungwonco.co.kr/company/location | http://jungwonco.co.kr/about/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "농업회사법인 (주)담양한과명진식품",
