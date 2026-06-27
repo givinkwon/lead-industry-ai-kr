@@ -7124,8 +7124,8 @@
       "region": "대전광역시",
       "address": "",
       "homepage": "https://www.magentarobotics.com",
-      "contact": "전화: -",
-      "phone": "",
+      "contact": "전화: 042-320-4743 / 홈페이지: https://www.magentarobotics.com/",
+      "phone": "042-320-4743",
       "email": "",
       "confidence": "high",
       "source": "source_file:korea_ai_robot_industry_association_members",
@@ -7135,7 +7135,10 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "member_type": "정회원일반사",
-      "business_area": "로봇부품"
+      "business_area": "로봇부품",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next68_enrichment; result=tmp_b2b_next68_robot_0_60_browser_enriched_filtered_final.json; final_url=https://www.magentarobotics.com/; title=HOME | Magenta Robotics; phones=042-320-4743; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:47:21.000+09:00"
     },
     {
       "id": "83892",
@@ -72934,8 +72937,8 @@
       "region": "대구",
       "address": "대구 달서구 성서서로 246 (갈산동)",
       "homepage": "https://www.dpinkorea.com",
-      "contact": "https://www.automationworld.co.kr/company-directories/4409?year=2026&hl=ko",
-      "phone": "",
+      "contact": "전화: 053-588-2061 / 홈페이지: http://www.dpinkorea.com/",
+      "phone": "053-588-2061",
       "email": "",
       "confidence": "high",
       "source": "source_file:automation_world_2026_company_directory",
@@ -72948,7 +72951,10 @@
       "country": "KR",
       "business_type": "제조업",
       "industry_type": "반도체조립용장비,정밀측정기기",
-      "ceo": "조광제"
+      "ceo": "조광제",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next68_enrichment; result=tmp_b2b_next68_automation_0_60_browser_enriched_filtered_final.json; final_url=http://www.dpinkorea.com/pg/bbs/board.php?bo_table=support05&amp;wr_id=16; title=자료실 1 페이지 | (주)디피아이엔; phones=053-588-2061; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:47:21.000+09:00"
     },
     {
       "id": "90497",
@@ -78227,10 +78233,10 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.epluselectric.co.kr",
-      "contact": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
-      "phone": "",
+      "contact": "전화: 070-7618-2898 / 홈페이지: http://www.epluselectric.co.kr/page/about02_en",
+      "phone": "070-7618-2898",
       "email": "",
-      "confidence": "medium",
+      "confidence": "high",
       "source": "source_file:elecs_exhibitor_homepage",
       "source_page": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
       "ksic_major_code": "C",
@@ -78238,7 +78244,10 @@
       "lead_quality_grade": "B",
       "booth": "K601",
       "source_id": "elecs-2024-0-EPLUS ELECTRIC CO.,LTD.",
-      "country": "KR-inferred"
+      "country": "KR-inferred",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next68_enrichment; result=tmp_b2b_next68_elecs_0_60_browser_enriched_filtered_final.json; final_url=http://www.epluselectric.co.kr/page/about02_en; title=(주)이플전기; phones=070-7618-2898; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:47:21.000+09:00"
     },
     {
       "id": "90776",
@@ -79690,10 +79699,10 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.jmjkorea.com",
-      "contact": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 070-4165-0160 / 이메일: jmj@jmjkorea.com / 홈페이지: http://www.jmjkorea.com/mod/contact_mail.html",
+      "phone": "070-4165-0160",
+      "email": "jmj@jmjkorea.com",
+      "confidence": "high",
       "source": "source_file:elecs_exhibitor_homepage",
       "source_page": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
       "ksic_major_code": "C",
@@ -79701,7 +79710,10 @@
       "lead_quality_grade": "B",
       "booth": "",
       "source_id": "elecs-2014-9-JMJ KOREA",
-      "country": "KR-inferred"
+      "country": "KR-inferred",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next68_enrichment; result=tmp_b2b_next68_elecs_0_60_browser_enriched_filtered_final.json; final_url=http://www.jmjkorea.com/mod/contact_mail.html; title=제엠제코; phones=070-4165-0160; emails=jmj@jmjkorea.com,chloe@jmjkorea.com,taeheon.lee@jmjkorea.com,stanley@jmjkorea.com,howard@jmjkorea.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:47:21.000+09:00"
     },
     {
       "id": "90908",

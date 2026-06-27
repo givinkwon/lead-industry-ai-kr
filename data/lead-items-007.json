@@ -42114,9 +42114,9 @@
       "region": "전국",
       "address": "Korea, Republic of",
       "homepage": "https://www.immunabs.com",
-      "contact": "https://www.biokorea.org/en/busiPrtnr/company.do?key=2511140001",
+      "contact": "이메일: info@immunabs.com / 홈페이지: http://www.immunabs.com/",
       "phone": "",
-      "email": "",
+      "email": "info@immunabs.com",
       "confidence": "high",
       "source": "source_file:biokorea_2026_partnering_company_homepage",
       "source_page": "https://www.biokorea.org/en/busiPrtnr/company.do?key=2511140001",
@@ -42127,7 +42127,10 @@
       "source_id": "biokorea-2026:274:immunabs",
       "country": "Korea, Republic of",
       "source_category": "BIO KOREA 2026",
-      "domestic_proof": "biokorea_country_republic_of_korea"
+      "domestic_proof": "biokorea_country_republic_of_korea",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next68_enrichment; result=tmp_b2b_next68_biokorea_0_60_browser_enriched_filtered_final.json; final_url=http://www.immunabs.com/; title=ImmunAbs (이뮨앱스); phones=; emails=info@immunabs.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:47:21.000+09:00"
     },
     {
       "id": "94963",
@@ -42741,8 +42744,8 @@
       "region": "전국",
       "address": "Korea, Republic of",
       "homepage": "https://novotech-cro.com/kr",
-      "contact": "https://www.biokorea.org/en/busiPrtnr/company.do?key=2511140001",
-      "phone": "",
+      "contact": "전화: 032-201-8282 / 홈페이지: https://novotech-cro.com/kr/contact",
+      "phone": "032-201-8282",
       "email": "",
       "confidence": "high",
       "source": "source_file:biokorea_2026_partnering_company_homepage",
@@ -42754,7 +42757,10 @@
       "source_id": "biokorea-2026:403:novotech",
       "country": "Korea, Republic of",
       "source_category": "BIO KOREA 2026",
-      "domestic_proof": "biokorea_country_republic_of_korea"
+      "domestic_proof": "biokorea_country_republic_of_korea",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next68_enrichment; result=tmp_b2b_next68_biokorea_0_60_browser_enriched_filtered_final.json; final_url=https://novotech-cro.com/kr/contact; title=연락처 | Novotech CRO; phones=032-201-8282; emails=mediacontact@novotech-cro.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:47:21.000+09:00"
     },
     {
       "id": "94991",
@@ -42841,9 +42847,9 @@
       "region": "전국",
       "address": "Korea, Republic of",
       "homepage": "http://www.parenchymabio.com",
-      "contact": "https://www.biokorea.org/en/busiPrtnr/company.do?key=2511140001",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 051-893-7015 / 이메일: ljh@parenchymabio.com / 홈페이지: http://www.parenchymabio.com/ko/html/contact/contact.php",
+      "phone": "051-893-7015",
+      "email": "ljh@parenchymabio.com",
       "confidence": "high",
       "source": "source_file:biokorea_2026_partnering_company_homepage",
       "source_page": "https://www.biokorea.org/en/busiPrtnr/company.do?key=2511140001",
@@ -42854,7 +42860,10 @@
       "source_id": "biokorea-2026:422:parenchymabiotech",
       "country": "Korea, Republic of",
       "source_category": "BIO KOREA 2026",
-      "domestic_proof": "biokorea_country_republic_of_korea"
+      "domestic_proof": "biokorea_country_republic_of_korea",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next68_enrichment; result=tmp_b2b_next68_biokorea_0_60_browser_enriched_filtered_final.json; final_url=http://www.parenchymabio.com/ko/html/contact/contact.php; title=Parenchyma Biotech; phones=; emails=ljh@parenchymabio.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:47:21.000+09:00"
     },
     {
       "id": "94995",
@@ -43018,9 +43027,9 @@
       "region": "전국",
       "address": "Korea, Republic of",
       "homepage": "https://www.promedigen.com",
-      "contact": "https://www.biokorea.org/en/busiPrtnr/company.do?key=2511140001",
+      "contact": "이메일: contact@promedigen.com / 홈페이지: http://www.promedigen.com/",
       "phone": "",
-      "email": "",
+      "email": "contact@promedigen.com",
       "confidence": "high",
       "source": "source_file:biokorea_2026_partnering_company_homepage",
       "source_page": "https://www.biokorea.org/en/busiPrtnr/company.do?key=2511140001",
@@ -43031,7 +43040,10 @@
       "source_id": "biokorea-2026:451:promedigen",
       "country": "Korea, Republic of",
       "source_category": "BIO KOREA 2026",
-      "domestic_proof": "biokorea_country_republic_of_korea"
+      "domestic_proof": "biokorea_country_republic_of_korea",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next68_enrichment; result=tmp_b2b_next68_biokorea_0_60_browser_enriched_filtered_final.json; final_url=http://www.promedigen.com/; title=프로메디젠 주식회사; phones=; emails=contact@promedigen.com,nicejiryang@promedigen.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:47:21.000+09:00"
     },
     {
       "id": "95002",
@@ -122753,9 +122765,9 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.nhintl.co.kr/",
-      "contact": "https://www.ksga.org/web/company/information.do",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-3409-9568 / 이메일: james@nhintl.co.kr / 홈페이지: https://www.nhintl.co.kr/contact/contact",
+      "phone": "02-3409-9568",
+      "email": "james@nhintl.co.kr",
       "confidence": "high",
       "source": "source_file:ksga_smartgrid_member_homepage",
       "ksic_major_code": "D",
@@ -122764,7 +122776,10 @@
       "industry_type": "일반회원 / 도소매(무역), 재생에너지, 건설 및 설비, ESS / 대표이사: 김호석",
       "source_page": "https://www.ksga.org/web/company/information.do",
       "product": "도소매(무역), 재생에너지, 건설 및 설비, ESS",
-      "id": "99119"
+      "id": "99119",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next68_enrichment; result=tmp_b2b_next68_ksga_0_60_browser_enriched_filtered_final.json; final_url=https://www.nhintl.co.kr/contact/contact; title=NH international; phones=; emails=james@nhintl.co.kr; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:47:21.000+09:00"
     },
     {
       "name": "원광산전(주)",
@@ -128948,15 +128963,18 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.haesungds.co.kr/",
-      "contact": "전화: 070-4761-0000",
-      "phone": "",
+      "contact": "전화: 070-4761-0141 / 홈페이지: https://www.haesungds.co.kr/about/location.php",
+      "phone": "070-4761-0141",
       "email": "",
       "confidence": "high",
       "source": "source_file:kpca_pcb_semiconductor_packaging_member_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
-      "id": "99594"
+      "id": "99594",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next68_enrichment; result=tmp_b2b_next68_kpca_0_60_browser_enriched_filtered_final.json; final_url=https://www.haesungds.co.kr/about/location.php; title=HAESUNG DS; phones=070-4761-0141,070-8270-8813; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:47:21.000+09:00"
     },
     {
       "name": "스템코㈜",
@@ -129166,15 +129184,18 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.schmoll-asia.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-497-8779 / 이메일: sales@schmoll-asia.com / 홈페이지: https://schmoll-asia.com/contact-us/",
+      "phone": "031-497-8779",
+      "email": "sales@schmoll-asia.com",
       "confidence": "high",
       "source": "source_file:kpca_pcb_semiconductor_packaging_member_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
-      "id": "99612"
+      "id": "99612",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next68_enrichment; result=tmp_b2b_next68_kpca_0_60_browser_enriched_filtered_final.json; final_url=https://schmoll-asia.com/contact-us/; title=Contact Us | Schmoll Asia Pacific; phones=031-497-8779; emails=sales@schmoll-asia.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:47:21.000+09:00"
     },
     {
       "name": "슈미드코리아㈜",
