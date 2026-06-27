@@ -25447,16 +25447,19 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.jucosnpackorea.com/",
-      "contact": "이희종,서정우",
+      "contact": "이메일: hakhyun1123@jucosnpackorea.com",
       "phone": "",
-      "email": "",
+      "email": "hakhyun1123@jucosnpackorea.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2029-07-08",
-      "id": "107540"
+      "id": "107540",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next65_enrichment; final_url=http://www.jucosnpackorea.com/bbs/board.php?bo_table=c0; title=COSMETICS 1 페이지 | 제이유코스앤팩코리아; source=source_file:innobiz_certified_company_homepage; manual_review=official_homepage_contact_visible; phones=; emails=hakhyun1123@jucosnpackorea.com; checked_urls=http://www.jucosnpackorea.com/|http://www.jucosnpackorea.com/bbs/board.php?bo_table=c0|http://www.jucosnpackorea.com/contact|http://www.jucosnpackorea.com/contact/|http://www.jucosnpackorea.com/contact-us|http://www.jucosnpackorea.com/inquiry|http://www.jucosnpackorea.com/support|http://www.jucosnpackorea.com/company/contact|http://www.jucosnpackorea.com/company/location|http://www.jucosnpackorea.com/company/about|http://www.jucosnpackorea.com/about|http://www.jucosnpackorea.com/about/|http://www.jucosnpackorea.com/kr/contact|http://www.jucosnpackorea.com/ko/contact|http://www.jucosnpackorea.com/html/company/location.php|http://www.jucosnpackorea.com/sub/company/location.php|http://www.jucosnpackorea.com/bbs/content.php?co_id=company|http://www.jucosnpackorea.com/customer/qna|http://www.jucosnpackorea.com/product/contact|http://www.jucosnpackorea.com/partners; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:08:07.905+09:00"
     },
     {
       "name": "온솔텍 주식회사",
@@ -33551,8 +33554,8 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.daiwha.com/",
-      "contact": "윤대영",
-      "phone": "",
+      "contact": "전화: 02-558-1711",
+      "phone": "02-558-1711",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -33560,7 +33563,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 바이오 / 인증만료 2028-07-08",
-      "id": "108066"
+      "id": "108066",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next65_enrichment; final_url=https://www.daiwha.com/; title=DAIWHA | Medical | Surgical | Infusion | Syringe; source=source_file:innobiz_certified_company_homepage; manual_review=official_homepage_contact_visible; phones=02-558-1711|033-743-9383; emails=; checked_urls=http://www.daiwha.com/|https://www.daiwha.com/%EB%B3%B5%EC%A0%9C-surgical-main-en|https://www.daiwha.com/%EB%B3%B5%EC%A0%9C-pump-main-en-1|https://www.daiwha.com/contact|https://www.daiwha.com/contact/|https://www.daiwha.com/contact-us|https://www.daiwha.com/inquiry|https://www.daiwha.com/support|https://www.daiwha.com/company/contact|https://www.daiwha.com/company/location|https://www.daiwha.com/company/about|https://www.daiwha.com/about|https://www.daiwha.com/about/|https://www.daiwha.com/kr/contact|https://www.daiwha.com/ko/contact|https://www.daiwha.com/html/company/location.php|https://www.daiwha.com/sub/company/location.php|https://www.daiwha.com/bbs/content.php?co_id=company|https://www.daiwha.com/customer/qna|https://www.daiwha.com/product/contact; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:08:07.905+09:00"
     },
     {
       "name": "주식회사 에스밸브",

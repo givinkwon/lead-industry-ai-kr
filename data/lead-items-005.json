@@ -89327,16 +89327,19 @@
       "region": "서울특별시",
       "address": "서울 강서구 공항대로45길 71 (등촌동)",
       "homepage": "https://nexus-pharma.com/",
-      "contact": "",
+      "contact": "이메일: info@nexus-pharma.com",
       "phone": "",
-      "email": "",
+      "email": "info@nexus-pharma.com",
       "confidence": "high",
       "source": "source_file:kova_member_company_homepage",
       "source_page": "https://venture.or.kr/home/kor/M318196487/membership/status/all/index.do?pageIndex=197",
       "representative": "성승제/현유진",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "A"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next65_enrichment; final_url=https://nexus-pharma.com/partner-with-us/; title=Partner with Nexus Pharma | Connect for Global Partnerships; source=source_file:kova_member_company_homepage; manual_review=official_homepage_contact_visible; phones=; emails=info@nexus-pharma.com; checked_urls=https://nexus-pharma.com/|https://nexus-pharma.com/partner-brands/|https://nexus-pharma.com/about-us/|https://nexus-pharma.com/partner-with-us/|https://nexus-pharma.com/#|https://nexus-pharma.com/partner-with-us|https://nexus-pharma.com/about-us|https://nexus-pharma.com/contact|https://nexus-pharma.com/contact/|https://nexus-pharma.com/contact-us|https://nexus-pharma.com/inquiry|https://nexus-pharma.com/support|https://nexus-pharma.com/company/contact|https://nexus-pharma.com/company/location|https://nexus-pharma.com/company/about|https://nexus-pharma.com/about|https://nexus-pharma.com/about/|https://nexus-pharma.com/kr/contact|https://nexus-pharma.com/ko/contact|https://nexus-pharma.com/html/company/location.php; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:08:07.905+09:00"
     },
     {
       "id": "82764",

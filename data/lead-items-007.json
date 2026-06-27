@@ -105986,9 +105986,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.konexus.com",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=36",
+      "contact": "이메일: sales@konexus.com",
       "phone": "",
-      "email": "",
+      "email": "sales@konexus.com",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
       "ksic_major_code": "K",
@@ -105996,7 +105996,10 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 자산관리 / 컨설팅/리서치 / 금융업",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98108"
+      "id": "98108",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next65_enrichment; final_url=https://www.konexus.com/solutions/partners; title=Partners; source=source_file:korfin_fintech_member_homepage; manual_review=official_homepage_contact_visible; phones=; emails=sales@konexus.com; checked_urls=http://www.konexus.com|https://www.konexus.com/company/about|https://www.konexus.com/solutions/partners|https://www.konexus.com/company/careers|https://www.konexus.com/contact-us|https://www.konexus.com/feature/in-app-branding|https://www.konexus.com/feature/advanced-esri-mapping|https://www.konexus.com/feature/recovery-on-the-go|https://www.konexus.com/company/partnerships|https://www.konexus.com/integration/sso-azure-active-directory|https://www.konexus.com/contact|https://www.konexus.com/contact/|https://www.konexus.com/inquiry|https://www.konexus.com/support|https://www.konexus.com/company/contact|https://www.konexus.com/company/location|https://www.konexus.com/about|https://www.konexus.com/about/|https://www.konexus.com/kr/contact|https://www.konexus.com/ko/contact; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:08:07.905+09:00"
     },
     {
       "name": "마이뱅크(주)",
@@ -119889,9 +119892,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.dnhcm.com",
-      "contact": "https://www.kofia.or.kr/members/m_64/sub020202.do?srchCate=8",
+      "contact": "이메일: info@dnhcm.com",
       "phone": "",
-      "email": "",
+      "email": "info@dnhcm.com",
       "confidence": "high",
       "source": "source_file:kofia_financial_investment_member_homepage",
       "ksic_major_code": "K",
@@ -119900,7 +119903,10 @@
       "industry_type": "금융투자협회 회원사 / 자문사",
       "source_page": "https://www.kofia.or.kr/members/m_64/sub020202.do?srchCate=8",
       "product": "투자자문",
-      "id": "98946"
+      "id": "98946",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next65_enrichment; final_url=http://dnhcm.com/contact/; title=Contact Us &#8211; D&H Capital Management; source=source_file:kofia_financial_investment_member_homepage; manual_review=official_homepage_contact_visible; phones=; emails=info@dnhcm.com; checked_urls=http://www.dnhcm.com|http://dnhcm.com/company/|http://dnhcm.com/contact/|http://dnhcm.com/contact|http://dnhcm.com/contact-us|http://dnhcm.com/inquiry|http://dnhcm.com/support|http://dnhcm.com/company/contact|http://dnhcm.com/company/location|http://dnhcm.com/company/about|http://dnhcm.com/about|http://dnhcm.com/about/|http://dnhcm.com/kr/contact|http://dnhcm.com/ko/contact|http://dnhcm.com/html/company/location.php|http://dnhcm.com/sub/company/location.php|http://dnhcm.com/bbs/content.php?co_id=company|http://dnhcm.com/customer/qna|http://dnhcm.com/product/contact|http://dnhcm.com/partners; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:08:07.905+09:00"
     },
     {
       "name": "라자드코리아투자일임",
