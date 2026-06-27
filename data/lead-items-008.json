@@ -51736,8 +51736,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.ciecotech.com/",
-      "contact": "조일호",
-      "phone": "",
+      "contact": "전화: 02-782-1525 / 홈페이지: http://www.ciecotech.com/",
+      "phone": "02-782-1525",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -51745,7 +51745,9 @@
       "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
       "lead_quality_grade": "A",
       "product": "제조업 / 환경 / 인증만료 2027-09-06",
-      "id": "102994"
+      "id": "102994",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next42_enrichment; final_url=https://www.ciecotech.com/; title=씨아이에코텍; body_bytes=2835; name_score=7; manual_review=official_homepage_rendered_contact_visible_fax_filtered; phones=02-782-1525; emails=; checked_urls=https://www.ciecotech.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사코비그룹",
@@ -53097,16 +53099,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://ichems.co.kr/",
-      "contact": "김현창",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 043-760-7083 / 이메일: ichems_sales@ichems.co.kr, info@ichems.co.kr, inquiry@ichems.co.kr / 홈페이지: http://ichems.co.kr/",
+      "phone": "043-760-7083",
+      "email": "ichems_sales@ichems.co.kr, info@ichems.co.kr, inquiry@ichems.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2027-06-16",
-      "id": "103083"
+      "id": "103083",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next42_enrichment; final_url=https://www.ichems.co.kr/contact; title=Contact Us | iCHEMS; body_bytes=1300; name_score=0; manual_review=official_homepage_rendered_contact_visible_fax_filtered; phones=043-760-7083; emails=ichems_sales@ichems.co.kr,info@ichems.co.kr,inquiry@ichems.co.kr; checked_urls=https://www.ichems.co.kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "나코스 유한회사",
@@ -54439,16 +54443,18 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.surgstory.com/",
-      "contact": "김덕석",
+      "contact": "이메일: support@mteg.co.kr / 홈페이지: http://www.surgstory.com/",
       "phone": "",
-      "email": "",
+      "email": "support@mteg.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "product": "바이오 / 정보통신 / 인증만료 2027-09-11",
-      "id": "103170"
+      "id": "103170",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next42_enrichment; final_url=https://www.surgstory.com/support; title=SurgStory; body_bytes=337; name_score=0; manual_review=official_homepage_rendered_contact_visible_fax_filtered; phones=; emails=support@mteg.co.kr; checked_urls=https://www.surgstory.com/support; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 루츠",
@@ -55897,8 +55903,8 @@
       "region": "강원",
       "address": "강원",
       "homepage": "http://www.schumitt.com/",
-      "contact": "강규석,윤두원",
-      "phone": "",
+      "contact": "전화: 02-6080-0235 / 홈페이지: http://www.schumitt.com/",
+      "phone": "02-6080-0235",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -55906,7 +55912,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 바이오 / 인증만료 2028-12-03",
-      "id": "103270"
+      "id": "103270",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next42_enrichment; final_url=https://www.schumitt.com/contact-us; title=문의 | schumitt; body_bytes=1006; name_score=7; manual_review=official_homepage_rendered_contact_visible_fax_filtered; phones=02-6080-0235; emails=; checked_urls=https://www.schumitt.com/contact-us; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "히트산업(주)",
@@ -58319,16 +58327,18 @@
       "region": "전남",
       "address": "전남",
       "homepage": "http://www.biocorp.co.kr/",
-      "contact": "노주완",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 061-844-2465 / 이메일: info@biocorp.co.kr, management@biocorp.co.kr / 홈페이지: http://www.biocorp.co.kr/",
+      "phone": "061-844-2465",
+      "email": "info@biocorp.co.kr, management@biocorp.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 바이오 / 인증만료 2026-12-23",
-      "id": "103424"
+      "id": "103424",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next42_enrichment; final_url=https://www.biocorp.co.kr/contact; title=Krill Oil Manufacturer | Biocorp, Bulk Krill Oil; body_bytes=4210; name_score=0; manual_review=official_homepage_rendered_contact_visible_fax_filtered; phones=061-844-2465; emails=info@biocorp.co.kr,management@biocorp.co.kr; checked_urls=https://www.biocorp.co.kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사모트모트",
@@ -59070,8 +59080,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.mj-t.co.kr/",
-      "contact": "조상훈",
-      "phone": "",
+      "contact": "전화: 031-453-4201 / 홈페이지: http://www.mj-t.co.kr/",
+      "phone": "031-453-4201",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -59079,7 +59089,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2027-01-04",
-      "id": "103469"
+      "id": "103469",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next42_enrichment; final_url=https://www.mj-t.co.kr/; title=HOME | MJ Technology; body_bytes=2597; name_score=0; manual_review=official_homepage_rendered_contact_visible_fax_filtered; phones=031-453-4201; emails=; checked_urls=https://www.mj-t.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)위지원시스템즈",
@@ -61097,8 +61109,8 @@
       "region": "광주",
       "address": "광주",
       "homepage": "http://www.lns-korea.com/",
-      "contact": "정승현",
-      "phone": "",
+      "contact": "전화: 062-433-3554 / 홈페이지: http://www.lns-korea.com/",
+      "phone": "062-433-3554",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -61106,7 +61118,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2029-06-18",
-      "id": "103607"
+      "id": "103607",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next42_enrichment; final_url=https://www.lns-korea.com/contact-us/; title=Contact us - LNS-KOREA; body_bytes=604; name_score=0; manual_review=official_homepage_rendered_contact_visible_fax_filtered; phones=062-433-3554; emails=; checked_urls=https://www.lns-korea.com/contact-us/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)천우티이엠",
@@ -65586,8 +65600,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.jmtmed.com/",
-      "contact": "전상기",
-      "phone": "",
+      "contact": "전화: 031-868-0951 / 홈페이지: http://www.jmtmed.com/",
+      "phone": "031-868-0951",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -65595,7 +65609,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 바이오 / 인증만료 2027-02-15",
-      "id": "103896"
+      "id": "103896",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next42_enrichment; final_url=http://www.jmtmed.com/; title=JMTmed; body_bytes=526; name_score=0; manual_review=official_homepage_rendered_contact_visible_fax_filtered; phones=031-868-0951; emails=; checked_urls=http://www.jmtmed.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "코스모로보틱스 주식회사",
@@ -66670,16 +66686,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.photonwave.co.kr/",
-      "contact": "오명석",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-339-6775, 031-339-6773 / 이메일: info@photonwave.co.kr / 홈페이지: http://www.photonwave.co.kr/",
+      "phone": "031-339-6775, 031-339-6773",
+      "email": "info@photonwave.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2027-06-24",
-      "id": "103959"
+      "id": "103959",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next42_enrichment; final_url=http://www.photonwave.co.kr/contact; title=Korean UV LED manufacturer, UVC UVB Supplier | PhotonWave; body_bytes=1016; name_score=0; manual_review=official_homepage_rendered_contact_visible_fax_filtered; phones=031-339-6775,031-339-6773; emails=info@photonwave.co.kr; checked_urls=http://www.photonwave.co.kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "아이엠에스(주)",
@@ -67767,16 +67785,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://e-power.kr/",
-      "contact": "고정임",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-503-7361 / 이메일: grace@e-power.kr / 홈페이지: http://e-power.kr/",
+      "phone": "031-503-7361",
+      "email": "grace@e-power.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2026-08-06",
-      "id": "104039"
+      "id": "104039",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next42_enrichment; final_url=https://e-power.kr/company; title=LED Power Supplies Manufacturer, E POWER - Leading Provider of Reliable Solutions; body_bytes=1405; name_score=0; manual_review=official_homepage_tel_domestic_email_visible_excluded_overseas_branch_email; phones=031-503-7361; emails=grace@e-power.kr; checked_urls=https://e-power.kr/company; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 에이월드",
@@ -69050,8 +69070,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.tgfire.co.kr/",
-      "contact": "추승호",
-      "phone": "",
+      "contact": "전화: 031-591-1119 / 홈페이지: http://www.tgfire.co.kr/",
+      "phone": "031-591-1119",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -69059,7 +69079,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2028-08-26",
-      "id": "104127"
+      "id": "104127",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next42_enrichment; final_url=https://www.tgfire.co.kr/; title=티지화이어; body_bytes=229; name_score=0; manual_review=official_homepage_rendered_contact_visible_fax_filtered; phones=031-591-1119; emails=; checked_urls=https://www.tgfire.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "신진텍스(주)",
@@ -73619,16 +73641,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.apstech.co.kr/",
-      "contact": "박상길",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-333-5661 / 이메일: overseasaps@gmail.com / 홈페이지: http://www.apstech.co.kr/",
+      "phone": "031-333-5661",
+      "email": "overseasaps@gmail.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "E",
       "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
       "lead_quality_grade": "A",
       "product": "환경 / 기타 / 인증만료 2027-10-04",
-      "id": "104419"
+      "id": "104419",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next42_enrichment; final_url=http://www.apstech.co.kr/contact; title=APS Tech | Korean Water Purifier, OEM Water Purifier; body_bytes=1004; name_score=0; manual_review=official_homepage_rendered_contact_visible_fax_filtered; phones=031-333-5661; emails=overseasaps@gmail.com; checked_urls=http://www.apstech.co.kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "위니코니주식회사",
@@ -73809,8 +73833,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.tissin.co.kr/",
-      "contact": "안선호",
-      "phone": "",
+      "contact": "전화: 031-997-0311 / 홈페이지: http://www.tissin.co.kr/",
+      "phone": "031-997-0311",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -73818,7 +73842,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-04-13",
-      "id": "104430"
+      "id": "104430",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next42_enrichment; final_url=https://www.tissin.co.kr/contact; title=(주)티씬 밸브포지셔너 전문 제조업체; body_bytes=608; name_score=5; manual_review=official_homepage_rendered_contact_visible_fax_filtered; phones=031-997-0311; emails=; checked_urls=https://www.tissin.co.kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)엔바이오",
@@ -76001,8 +76027,8 @@
       "region": "충북",
       "address": "충북",
       "homepage": "http://www.koreahammer.com/",
-      "contact": "박용춘",
-      "phone": "",
+      "contact": "전화: 043-534-5417 / 홈페이지: http://www.koreahammer.com/",
+      "phone": "043-534-5417",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -76010,7 +76036,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-07-11",
-      "id": "104573"
+      "id": "104573",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next42_enrichment; final_url=https://www.koreahammer.com/company; title=JSC; body_bytes=2441; name_score=0; manual_review=official_homepage_rendered_contact_visible_fax_filtered; phones=043-534-5417; emails=; checked_urls=https://www.koreahammer.com/company; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 동원메디칼",
@@ -76573,8 +76601,8 @@
       "region": "전북",
       "address": "전북",
       "homepage": "http://www.vitaltech.co.kr/",
-      "contact": "이도행",
-      "phone": "",
+      "contact": "전화: 063-214-8830 / 홈페이지: http://www.vitaltech.co.kr/",
+      "phone": "063-214-8830",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -76582,7 +76610,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 식품 / 인증만료 2029-01-21",
-      "id": "104612"
+      "id": "104612",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next42_enrichment; final_url=http://vitech.co.kr/eng/; title=VITECH CO.,LTD.; body_bytes=1838; name_score=0; manual_review=official_homepage_rendered_contact_visible_fax_filtered; phones=063-214-8830; emails=; checked_urls=http://vitech.co.kr/eng/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 플라즈맵",
@@ -76959,8 +76989,8 @@
       "region": "인천",
       "address": "인천",
       "homepage": "http://www.btrsoosung.com/",
-      "contact": "김정록",
-      "phone": "",
+      "contact": "전화: 032-575-6136 / 홈페이지: http://www.btrsoosung.com/",
+      "phone": "032-575-6136",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -76968,7 +76998,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "비제조업 / 기계금속 / 인증만료 2029-06-01",
-      "id": "104636"
+      "id": "104636",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next42_enrichment; final_url=http://www.btrsoosung.com/main/main.php; title=(주)비티알수성; body_bytes=1653; name_score=7; manual_review=official_homepage_rendered_contact_visible_fax_filtered; phones=032-575-6136; emails=; checked_urls=http://www.btrsoosung.com/main/main.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사가나이엔지",
