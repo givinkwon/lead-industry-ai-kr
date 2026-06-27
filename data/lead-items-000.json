@@ -12459,15 +12459,17 @@
       "region": "[06233",
       "address": "[06233 ] 서울특별시 강남구 강남대로84길 23, 1601호 (역삼동, 한라클래식)",
       "homepage": "https://dowapp.co.kr",
-      "contact": "전화: 02-555-1979 (FAX:02-6455-6454)",
-      "phone": "",
+      "contact": "전화: 02-555-1979 / 홈페이지: https://dowapp.co.kr",
+      "phone": "02-555-1979",
       "email": "",
       "confidence": "high",
       "source": "seed:association_directory",
       "id": "2291",
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
-      "lead_quality_grade": "A"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next52_enrichment; final_url=https://dowapp.co.kr/; title=다우에셋감정평가 | (주)감정평가법인 다우에셋 강남지사; body_bytes=64648; name_score=6; manual_review=official_homepage_html_rendered_professional_service_contact_visible_filtered_for_b2b_sales_use; phones=02-555-1979; emails=; excluded mobile 010-7195-9126, fax 02-6455-6454 and protected/obfuscated email; checked_urls=https://dowapp.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)대한감정평가법인 경인지사",
@@ -78815,15 +78817,17 @@
       "region": "전국",
       "address": "",
       "homepage": "https://nzia.kr",
-      "contact": "전화: 002-851-3872",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 02-851-3872 / 이메일: info@nzia.kr / 홈페이지: https://nzia.kr",
+      "phone": "02-851-3872",
+      "email": "info@nzia.kr",
+      "confidence": "high",
       "source": "seed:association_directory",
       "id": "36184",
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next52_enrichment; final_url=https://www.nzia.kr/contact; title=Contact l NZIA; body_bytes=715808; name_score=1; manual_review=official_homepage_html_rendered_professional_service_contact_visible_filtered_for_b2b_sales_use; phones=02-851-3872; emails=info@nzia.kr; excluded fax 02-851-3873; checked_urls=https://nzia.kr | https://www.nzia.kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)엘에치이",
