@@ -13627,8 +13627,8 @@
       "segment": "코스닥",
       "region": "경기도",
       "address": "",
-      "homepage": "http://semifive.com",
-      "contact": "",
+      "homepage": "https://semifive.com/contact-us/",
+      "contact": "홈페이지: https://semifive.com/contact-us/",
       "phone": "",
       "email": "",
       "confidence": "high",
@@ -13638,7 +13638,10 @@
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
       "stock_code": "490470",
-      "product": "반도체 설계 서비스"
+      "product": "반도체 설계 서비스",
+      "evidence": "verified_export:b2b_next79_enrichment; result=direct_verification; final_url=https://semifive.com/contact-us/; title=SEMIFIVE contact; phones=; emails=; contact_form=contact_us; verification=homepage_rendered_contact_enriched",
+      "verification": "homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T23:42:04.352+09:00"
     },
     {
       "name": "리브스메드",
@@ -20931,8 +20934,8 @@
       "segment": "유가",
       "region": "전북특별자치도",
       "address": "",
-      "homepage": "http://www.solusadvancedmaterials.com",
-      "contact": "",
+      "homepage": "https://www.solusadvancedmaterials.com/en/contact-us/",
+      "contact": "홈페이지: https://www.solusadvancedmaterials.com/en/contact-us/",
       "phone": "",
       "email": "",
       "confidence": "high",
@@ -20942,7 +20945,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "336370",
-      "product": "동박, 유압기기 등"
+      "product": "동박, 유압기기 등",
+      "evidence": "verified_export:b2b_next79_enrichment; result=direct_verification; final_url=https://www.solusadvancedmaterials.com/en/contact-us/; title=Solus Advanced Materials contact; phones=; emails=; contact_form=contact_us; verification=homepage_rendered_contact_enriched",
+      "verification": "homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T23:42:04.352+09:00"
     },
     {
       "name": "콘텐트리중앙",
@@ -24323,10 +24329,10 @@
       "segment": "코스닥",
       "region": "경기도",
       "address": "",
-      "homepage": "http://www.gclabcell.com",
-      "contact": "",
+      "homepage": "https://www.gccell.com/ko/etc/contactUs.do",
+      "contact": "이메일: gccell_pv@gccorp.com / 홈페이지: https://www.gccell.com/ko/etc/contactUs.do",
       "phone": "",
-      "email": "",
+      "email": "gccell_pv@gccorp.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78881",
@@ -24334,7 +24340,10 @@
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
       "stock_code": "144510",
-      "product": "세포치료제, 검체검사서비스, 제대혈은행"
+      "product": "세포치료제, 검체검사서비스, 제대혈은행",
+      "evidence": "verified_export:b2b_next79_enrichment; result=direct_verification; final_url=https://www.gccell.com/ko/etc/contactUs.do; title=GC Cell contact; phones=; emails=gccell_pv@gccorp.com; contact_form=contact_us; verification=homepage_rendered_contact_enriched",
+      "verification": "homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T23:42:04.352+09:00"
     },
     {
       "name": "이비테크",
@@ -34484,8 +34493,8 @@
       "segment": "코스닥",
       "region": "인천광역시",
       "address": "",
-      "homepage": "http://www.TPCpage.com",
-      "contact": "",
+      "homepage": "https://en.tpcrobotics.com/customer/info_check.asp",
+      "contact": "홈페이지: https://en.tpcrobotics.com/customer/info_check.asp",
       "phone": "",
       "email": "",
       "confidence": "high",
@@ -34495,7 +34504,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "048770",
-      "product": "구동기기(실린더), 방향제어기(밸브)"
+      "product": "구동기기(실린더), 방향제어기(밸브)",
+      "evidence": "verified_export:b2b_next79_enrichment; result=direct_verification; final_url=https://en.tpcrobotics.com/customer/info_check.asp; title=TPC Robotics customer inquiry; phones=; emails=; contact_form=customer_inquiry; verification=homepage_rendered_contact_enriched",
+      "verification": "homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T23:42:04.352+09:00"
     },
     {
       "name": "코메론",
@@ -37811,9 +37823,9 @@
       "segment": "코스닥",
       "region": "경기도",
       "address": "",
-      "homepage": "http://www.mobaseelec.com",
-      "contact": "",
-      "phone": "",
+      "homepage": "http://www.mobaseelec.com/bbs/write.php?bo_table=inquiry",
+      "contact": "전화: 031-5174-3037 / 홈페이지: http://www.mobaseelec.com/bbs/write.php?bo_table=inquiry",
+      "phone": "031-5174-3037",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -37822,7 +37834,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "012860",
-      "product": "스마트키,스위치"
+      "product": "스마트키,스위치",
+      "evidence": "verified_export:b2b_next79_enrichment; result=direct_verification; final_url=http://www.mobaseelec.com/bbs/write.php?bo_table=inquiry; title=Mobase Electronics online inquiry; phones=031-5174-3037; emails=; contact_form=online_inquiry; verification=homepage_rendered_contact_enriched",
+      "verification": "homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T23:42:04.352+09:00"
     },
     {
       "name": "유진기업",
@@ -41890,10 +41905,10 @@
       "segment": "유가",
       "region": "서울특별시",
       "address": "",
-      "homepage": "http://www.doosancorp.co.kr",
-      "contact": "",
+      "homepage": "https://www.doosan.com/kr/contact-us/?menu=doosan-Companies",
+      "contact": "이메일: jihwan4.kim@doosan.com, jongin.jang@doosan.com, jeounghun.park@doosan.com / 홈페이지: https://www.doosan.com/kr/contact-us/?menu=doosan-Companies",
       "phone": "",
-      "email": "",
+      "email": "jihwan4.kim@doosan.com, jongin.jang@doosan.com, jeounghun.park@doosan.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79882",
@@ -41901,7 +41916,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "000150",
-      "product": "동박적층판 등 제조 및 판매, 유압기기 등 제조 및 판매, 지게차 제조 및 판매, IT 시스템 개발/운영 서비스 등, 연료전지 등"
+      "product": "동박적층판 등 제조 및 판매, 유압기기 등 제조 및 판매, 지게차 제조 및 판매, IT 시스템 개발/운영 서비스 등, 연료전지 등",
+      "evidence": "verified_export:b2b_next79_enrichment; result=direct_verification; final_url=https://www.doosan.com/kr/contact-us/?menu=doosan-Companies; title=Doosan Group contact; phones=; emails=jihwan4.kim@doosan.com,jongin.jang@doosan.com,jeounghun.park@doosan.com; contact_form=contact_us; verification=homepage_rendered_contact_enriched",
+      "verification": "homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T23:42:04.352+09:00"
     },
     {
       "name": "휴스틸",
