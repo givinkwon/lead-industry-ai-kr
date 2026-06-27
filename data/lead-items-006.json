@@ -82752,8 +82752,8 @@
       "region": "경기",
       "address": "경기 시흥시 엠티브이24로56번길 3 803호",
       "homepage": "https://4seidon.co.kr",
-      "contact": "https://www.foodweek.co.kr/company-directories/4019?year=2025&hl=ko",
-      "phone": "",
+      "contact": "전화: 031-316-7797 / 홈페이지: http://4seidon.co.kr/",
+      "phone": "031-316-7797",
       "email": "",
       "confidence": "high",
       "source": "source_file:foodweek_korea_2025_company_directory",
@@ -82766,7 +82766,10 @@
       "country": "KR",
       "business_type": "제조 외",
       "industry_type": "자동식기세척기 외",
-      "ceo": "이주현"
+      "ceo": "이주현",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next69_enrichment; result=tmp_b2b_next69_foodweek_0_60_browser_enriched_filtered_final.json; final_url=http://4seidon.co.kr/; title=포세이돈; phones=031-316-7797; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:59:17.000+09:00"
     },
     {
       "id": "91076",

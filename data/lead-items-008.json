@@ -741,15 +741,18 @@
       "region": "인천",
       "address": "인천시 남동구 남동동로 123번길 33(고잔동, 공단95B-3)",
       "homepage": "https://www.royaltc.co.kr",
-      "contact": "유영남",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 032-814-3612 / 이메일: royaltc@royaltc.co.kr / 홈페이지: http://royaltc.co.kr/about/",
+      "phone": "032-814-3612",
+      "email": "royaltc@royaltc.co.kr",
       "confidence": "high",
       "source": "source_file:kotic_tool_member_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
-      "id": "99713"
+      "id": "99713",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next69_enrichment; result=tmp_b2b_next69_kotic_0_40_browser_enriched_filtered_final.json; final_url=http://royaltc.co.kr/about/; title=About Us - 로얄초경; phones=032-814-3612; emails=royaltc@royaltc.co.kr; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:59:17.000+09:00"
     },
     {
       "name": "신생공업(주)",

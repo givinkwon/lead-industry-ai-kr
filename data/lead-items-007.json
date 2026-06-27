@@ -34401,10 +34401,10 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.makino.co.kr",
-      "contact": "https://simtos.org/eng/exhibitors/exhibitor_list.do",
-      "phone": "",
-      "email": "",
-      "confidence": 0.74,
+      "contact": "전화: 031-377-1580 / 이메일: sales@makino.co.kr / 홈페이지: https://www.makino.co.kr/ko-kr/support",
+      "phone": "031-377-1580",
+      "email": "sales@makino.co.kr",
+      "confidence": "high",
       "source": "source_file:simtos_2028_exhibitor_homepage",
       "source_page": "https://simtos.org/eng/exhibitors/exhibitor_list.do",
       "representative": "",
@@ -34417,7 +34417,10 @@
       "source_category": "SIMTOS 2028",
       "domestic_proof": "kr_homepage",
       "source_id": "311",
-      "id": "94610"
+      "id": "94610",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next69_enrichment; result=tmp_b2b_next69_simtos_0_60_browser_enriched_filtered_final.json; final_url=https://www.makino.co.kr/ko-kr/support; title=고객지원 | Makino; phones=031-377-1580; emails=app@makino.co.kr,sales@makino.co.kr,svc@makino.co.kr; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:59:17.000+09:00"
     },
     {
       "name": "Okuma Korea Co., Ltd.",
@@ -82356,8 +82359,8 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.geunnam.com/",
-      "contact": "https://kisia.or.kr/membership/member_company_guide/",
-      "phone": "",
+      "contact": "전화: 042-716-4991 / 홈페이지: http://www.geunnam.com/about",
+      "phone": "042-716-4991",
       "email": "",
       "confidence": "high",
       "source": "source_file:kisia_member_company_homepage",
@@ -82371,7 +82374,10 @@
       "category_names": [
         "한국정보보호산업협회 회원사안내",
         "정보보안·사이버보안"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next69_enrichment; result=tmp_b2b_next69_kisia_0_60_browser_enriched_filtered_final.json; final_url=http://www.geunnam.com/about; title=근남정보기술(주); phones=042-716-4991,063-236-7446; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:59:17.000+09:00"
     },
     {
       "id": "96748",
@@ -85342,7 +85348,7 @@
       "product": "AI·클라우드 서비스",
       "region": "전국",
       "homepage": "http://www.cocktail.io.kr",
-      "contact": "https://kcloud.or.kr/page/?M2_IDX=25874",
+      "contact": "전화: 02-554-0301 / 홈페이지: https://cocktail.io.kr/contact",
       "source": "source_file:kaci_cloud_ai_member_homepage",
       "source_page": "https://kcloud.or.kr/page/?M2_IDX=25874",
       "ksic_major_code": "J",
@@ -85357,7 +85363,12 @@
       "id": "96942",
       "confidence": "high",
       "lead_quality_grade": "B",
-      "country": "Korea, South"
+      "country": "Korea, South",
+      "phone": "02-554-0301",
+      "email": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next69_enrichment; result=tmp_b2b_next69_kaci_0_40_browser_enriched_filtered_final.json; final_url=https://cocktail.io.kr/contact; title=Contact | 칵테일아이오(주); phones=02-554-0301; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:59:17.000+09:00"
     },
     {
       "name": "클라우다이크",
@@ -119190,8 +119201,8 @@
       "region": "서울",
       "address": "서울시 강남구 테헤란로 223, 큰길타워빌딩 15층 하우자산운용(주) (06142)",
       "homepage": "http://www.howasset.com",
-      "contact": "https://www.kofia.or.kr/members/m_61/sub020201.do?srchCate=5",
-      "phone": "",
+      "contact": "전화: 02-2050-4700 / 홈페이지: http://www.howasset.com/document/map",
+      "phone": "02-2050-4700",
       "email": "",
       "confidence": "high",
       "source": "source_file:kofia_financial_investment_member_homepage",
@@ -119201,7 +119212,10 @@
       "industry_type": "금융투자협회 회원사 / 자산운용 / 대표자: 김종욱, 황영만",
       "source_page": "https://www.kofia.or.kr/members/m_61/sub020201.do?srchCate=5",
       "product": "자산운용",
-      "id": "98905"
+      "id": "98905",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next69_enrichment; result=tmp_b2b_next69_kofia_0_60_browser_enriched_filtered_final.json; final_url=http://www.howasset.com/document/map; title=오시는길 - 하우자산운용; phones=02-2050-4700; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:59:17.000+09:00"
     },
     {
       "name": "하이즈에셋자산운용",
@@ -119949,9 +119963,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://russellinvestments.com",
-      "contact": "https://www.kofia.or.kr/members/m_64/sub020202.do?srchCate=8",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-6137-6900 / 이메일: korea-all@russellinvestments.com / 홈페이지: https://russellinvestments.com/kr/about-us",
+      "phone": "02-6137-6900",
+      "email": "korea-all@russellinvestments.com",
       "confidence": "high",
       "source": "source_file:kofia_financial_investment_member_homepage",
       "ksic_major_code": "K",
@@ -119960,7 +119974,10 @@
       "industry_type": "금융투자협회 회원사 / 자문사",
       "source_page": "https://www.kofia.or.kr/members/m_64/sub020202.do?srchCate=8",
       "product": "투자자문",
-      "id": "98948"
+      "id": "98948",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next69_enrichment; result=tmp_b2b_next69_kofia_0_60_browser_enriched_filtered_final.json; final_url=https://russellinvestments.com/kr/about-us; title=Who we are | Russell Investments; phones=02-6137-6900; emails=korea-all@russellinvestments.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:59:17.000+09:00"
     },
     {
       "name": "레이크투자자문(주)",
@@ -121295,9 +121312,9 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.sumitomocorp.com/ko/easia",
-      "contact": "https://h2korea.or.kr/ko/membership/page03",
+      "contact": "이메일: contact-corp.sckr@sumitomocorp.com / 홈페이지: https://www.sumitomocorp.com/ko/easia/sckr/officelocations",
       "phone": "",
-      "email": "",
+      "email": "contact-corp.sckr@sumitomocorp.com",
       "confidence": "high",
       "source": "source_file:h2korea_hydrogen_member_homepage",
       "ksic_major_code": "D",
@@ -121306,7 +121323,10 @@
       "industry_type": "한국수소연합 회원사",
       "source_page": "https://h2korea.or.kr/ko/membership/page03",
       "product": "수소·연료전지",
-      "id": "99022"
+      "id": "99022",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next69_enrichment; result=tmp_b2b_next69_h2korea_0_40_browser_enriched_filtered_final.json; final_url=https://www.sumitomocorp.com/ko/easia/sckr/officelocations; title=찾아오시는길 | 한국 스미토모상사; phones=; emails=contact-corp.sckr@sumitomocorp.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:59:17.000+09:00"
     },
     {
       "name": "에너지경제연구원",
@@ -127829,15 +127849,18 @@
       "region": "서울",
       "address": "서울시 강서구 마곡중앙5로 1길 20, 319호~324호(마곡동, 마곡나루역 보타닉비즈타워)",
       "homepage": "http://www.clebio.com",
-      "contact": "",
+      "contact": "이메일: clebio@clebio.com / 홈페이지: http://clebio.com/page_contactus",
       "phone": "",
-      "email": "",
+      "email": "clebio@clebio.com",
       "confidence": "high",
       "source": "source_file:aerospace_association_member_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
-      "id": "99524"
+      "id": "99524",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next69_enrichment; result=tmp_b2b_next69_aerospace_0_60_browser_enriched_filtered_final.json; final_url=http://clebio.com/page_contactus; title=CONTACT US; phones=; emails=clebio@clebio.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:59:17.000+09:00"
     },
     {
       "name": "키와코리아(주)",

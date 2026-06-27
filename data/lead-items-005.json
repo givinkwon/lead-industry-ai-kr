@@ -52746,15 +52746,18 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.kakaomobility.com",
-      "contact": "",
+      "contact": "이메일: bring@kakaomobility.com / 홈페이지: https://www.kakaomobility.com/robotics",
       "phone": "",
-      "email": "",
+      "email": "bring@kakaomobility.com",
       "confidence": "high",
       "source": "source_file:nlic_logistics_industry_directory",
       "source_page": "https://www.nlic.go.kr/nlic/LgistEntrInfoList.action",
       "ksic_major_code": "H",
       "ksic_major_name": "운수 및 창고업",
-      "lead_quality_grade": "A"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next69_enrichment; result=tmp_b2b_next69_nlic_0_40_browser_enriched_filtered_final.json; final_url=https://www.kakaomobility.com/robotics; title=카카오모빌리티 로보틱스 | 서비스 | 카카오모빌리티; phones=; emails=bring@kakaomobility.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:59:17.000+09:00"
     },
     {
       "id": "80594",
