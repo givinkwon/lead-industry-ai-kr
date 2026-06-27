@@ -74058,9 +74058,9 @@
       "region": "서울",
       "address": "서울시 금천구 가산디지털1로 70, 1112호",
       "homepage": "https://www.bobinc.co.kr",
-      "contact": "https://interbattery.or.kr/company-directories/3291?year=2026&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-861-0092 / 이메일: info@bobinc.co.kr / 홈페이지: http://www.bobinc.co.kr/sub/About.php",
+      "phone": "02-861-0092",
+      "email": "info@bobinc.co.kr",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
       "source_page": "https://interbattery.or.kr/company-directories?year=2026&hl=en",
@@ -74072,7 +74072,10 @@
       "country": "KR",
       "business_type": "도매, 제조, 서비스",
       "industry_type": "측정장비, 자동계측시스템, 오파",
-      "ceo": "이동길"
+      "ceo": "이동길",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next67_enrichment; result=tmp_b2b_next67_interbattery_0_50_browser_enriched_filtered_final.json; final_url=http://www.bobinc.co.kr/sub/About.php; title=㈜비오비엔터프라이즈; phones=02-861-0092; emails=info@bobinc.co.kr; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:39:51.000+09:00"
     },
     {
       "id": "90555",
@@ -74321,8 +74324,8 @@
       "region": "서울",
       "address": "서울 성동구 성수일로 55 405호",
       "homepage": "https://www.sdcs.co.kr",
-      "contact": "https://interbattery.or.kr/company-directories/3021?year=2026&hl=ko",
-      "phone": "",
+      "contact": "전화: 02-461-4390 / 홈페이지: http://www.sdcs.co.kr/kor/main/",
+      "phone": "02-461-4390",
       "email": "",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
@@ -74335,7 +74338,10 @@
       "country": "KR",
       "business_type": "도소매 서비스",
       "industry_type": "정밀기계장비",
-      "ceo": "임국원"
+      "ceo": "임국원",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next67_enrichment; result=tmp_b2b_next67_interbattery_0_50_browser_enriched_filtered_final.json; final_url=http://www.sdcs.co.kr/kor/main/; title=(주)서울다이컷팅; phones=02-461-4390; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:39:51.000+09:00"
     },
     {
       "id": "90569",
@@ -74561,9 +74567,9 @@
       "region": "경기",
       "address": "경기 안양시 동안구 시민대로 401 1912호(관양동, 대륭테크노타운 15차)",
       "homepage": "https://www.ahtech.co.kr",
-      "contact": "https://interbattery.or.kr/company-directories/4459?year=2026&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-346-6036 / 이메일: ahtech@ahtech.co.kr / 홈페이지: http://www.ahtech.co.kr/",
+      "phone": "031-346-6036",
+      "email": "ahtech@ahtech.co.kr",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
       "source_page": "https://interbattery.or.kr/company-directories?year=2026&hl=en",
@@ -74575,7 +74581,10 @@
       "country": "KR",
       "business_type": "도소매, 제조, 서비스",
       "industry_type": "전자, 반도체부품및장비 외",
-      "ceo": "한경희"
+      "ceo": "한경희",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next67_enrichment; result=tmp_b2b_next67_interbattery_0_50_browser_enriched_filtered_final.json; final_url=http://www.ahtech.co.kr/; title=(주) 아텍엘티에스 (AhTech LTS Co., Ltd); phones=031-346-6036,031-346-6037; emails=ahtech@ahtech.co.kr; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:39:51.000+09:00"
     },
     {
       "id": "90579",
@@ -76525,8 +76534,8 @@
       "region": "충남",
       "address": "충남 천안시 서북구 3공단2로 71",
       "homepage": "https://www.umicore.kr/ko",
-      "contact": "https://interbattery.or.kr/company-directories/3134?year=2026&hl=ko",
-      "phone": "",
+      "contact": "전화: 041-620-0200 / 홈페이지: https://www.umicore.kr/ko/our-business/umicore-rbm-korea/",
+      "phone": "041-620-0200",
       "email": "",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
@@ -76539,7 +76548,10 @@
       "country": "KR",
       "business_type": "제조업",
       "industry_type": "기타금속산화물",
-      "ceo": "박상훈"
+      "ceo": "박상훈",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next67_enrichment; result=tmp_b2b_next67_interbattery_0_50_browser_enriched_filtered_final.json; final_url=https://www.umicore.kr/ko/our-business/umicore-rbm-korea/; title=이차전지사업부 | 유미코아; phones=041-620-0200,041-901-0200,041-901-7700,041-901-7900; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:39:51.000+09:00"
     },
     {
       "id": "90676",
@@ -76629,8 +76641,8 @@
       "region": "경기",
       "address": "경기 고양시 일산동구 은마길 79 128-31",
       "homepage": "https://isaacenc.co.kr",
-      "contact": "https://interbattery.or.kr/company-directories/3080?year=2026&hl=ko",
-      "phone": "",
+      "contact": "전화: 031-975-9701 / 홈페이지: http://isaacenc.co.kr/sub/sub01.php",
+      "phone": "031-975-9701",
       "email": "",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
@@ -76643,7 +76655,10 @@
       "country": "KR",
       "business_type": "제조업",
       "industry_type": "산업용기계 및 장비",
-      "ceo": "정병홍"
+      "ceo": "정병홍",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next67_enrichment; result=tmp_b2b_next67_interbattery_0_50_browser_enriched_filtered_final.json; final_url=http://isaacenc.co.kr/sub/sub01.php; title=회사소개 :: 인사말 | 이삭이엔씨; phones=031-975-9701; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:39:51.000+09:00"
     },
     {
       "id": "90680",
@@ -76707,9 +76722,9 @@
       "region": "경기",
       "address": "경기 화성시 정남면 원오일길41번길 14-7",
       "homepage": "https://www.infeed.co.kr",
-      "contact": "https://interbattery.or.kr/company-directories/3339?year=2026&hl=ko",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-8059-4455 / 이메일: infeed@infeed.co.kr / 홈페이지: http://www.infeed.co.kr/page/about03",
+      "phone": "031-8059-4455",
+      "email": "infeed@infeed.co.kr",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
       "source_page": "https://interbattery.or.kr/company-directories?year=2026&hl=en",
@@ -76721,7 +76736,10 @@
       "country": "KR",
       "business_type": "도매 외 3",
       "industry_type": "무역 외 3",
-      "ceo": "김창경외1인"
+      "ceo": "김창경외1인",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next67_enrichment; result=tmp_b2b_next67_interbattery_0_50_browser_enriched_filtered_final.json; final_url=http://www.infeed.co.kr/page/about03; title=인피드상사(주); phones=031-8059-4455; emails=infeed@infeed.co.kr; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T20:39:51.000+09:00"
     },
     {
       "id": "90683",
