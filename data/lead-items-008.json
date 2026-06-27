@@ -89249,8 +89249,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://builsf.com/",
-      "contact": "하태민",
-      "phone": "",
+      "contact": "전화: 031-765-3883",
+      "phone": "031-765-3883",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -89258,7 +89258,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 식품 / 인증만료 2028-12-18",
-      "id": "105408"
+      "id": "105408",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next58_enrichment; final_url=https://builsf.com/sub/introduction/location.php; title=부일 BUIL; name_score=1; manual_review=official_location_page_phone_visible; phones=031-765-3883; emails=; checked_urls=https://builsf.com/sub/introduction/location.php; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:50:33.342+09:00"
     },
     {
       "name": "(주)스페이스업",
@@ -92352,8 +92355,8 @@
       "region": "경북",
       "address": "경북",
       "homepage": "http://www.daejinfilter.com/",
-      "contact": "이봉대",
-      "phone": "",
+      "contact": "전화: 054-973-1968",
+      "phone": "054-973-1968",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -92361,7 +92364,10 @@
       "ksic_major_name": "수도, 하수 및 폐기물 처리, 원료 재생업",
       "lead_quality_grade": "A",
       "product": "제조업 / 환경 / 인증만료 2028-01-12",
-      "id": "105599"
+      "id": "105599",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next58_enrichment; final_url=http://www.daejinfilter.com/company/company-recruitment.html; title=백필터, 카트리지필터, HEPA필터, 마이크로필터, 나노필터, 이에스필터(ES), 카본필터 종합환경부품전문업체; name_score=1; manual_review=official_company_site_phone_visible; phones=054-973-1968; emails=; checked_urls=http://www.daejinfilter.com/company/company-recruitment.html; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:50:33.342+09:00"
     },
     {
       "name": "주식회사 홍석",
