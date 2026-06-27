@@ -1499,16 +1499,19 @@
       "segment": "소프트웨어사업자",
       "region": "서울특별시",
       "address": "서울특별시 서초구 양재천로19길 26, 4, 5층(양재동, 동원빌딩)",
-      "homepage": "http://koreaei.com",
-      "contact": "",
+      "homepage": "http://koreaei.co.kr/?page_id=181",
+      "contact": "이메일: bear@koreaei.com / 홈페이지: http://koreaei.co.kr/?page_id=181",
       "phone": "",
-      "email": "",
+      "email": "bear@koreaei.com",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
       "id": "49724",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next80_enrichment; result=direct_verification; final_url=http://koreaei.co.kr/?page_id=181; title=Korea Enterprise Knowledge Institute location; phones=; emails=bear@koreaei.com; contact_form=contact_page; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T23:52:06.587+09:00"
     },
     {
       "name": "구우정보기술주식회사",
