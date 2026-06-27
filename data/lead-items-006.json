@@ -45188,8 +45188,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.hi-sol.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-721-8771 / 홈페이지: https://www.hi-sol.com/home/contact-us",
+      "phone": "031-721-8771",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -45199,7 +45199,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "B",
       "booth": "C568",
-      "source_note": ""
+      "source_note": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next72_enrichment; result=tmp_b2b_next72_semicon0_0_90_browser_enriched_filtered_final.json; final_url=https://www.hi-sol.com/home/contact-us; title=HS Inc. Contact us; phones=031-721-8771; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:30:17.694+09:00"
     },
     {
       "id": "89049",
@@ -76152,8 +76155,8 @@
       "region": "경기",
       "address": "경기 하남시 미사대로 550 현대미사지식산업센터 에이동 745호",
       "homepage": "https://www.arbin.com",
-      "contact": "https://interbattery.or.kr/company-directories/3074?year=2026&hl=ko",
-      "phone": "",
+      "contact": "전화: 032-321-1431 / 홈페이지: https://www.arbin.com/contact-us.html",
+      "phone": "032-321-1431",
       "email": "",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
@@ -76166,7 +76169,10 @@
       "country": "KR",
       "business_type": "도매",
       "industry_type": "전기,전자계측기",
-      "ceo": "정용운"
+      "ceo": "정용운",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next72_enrichment; result=tmp_b2b_next72_interbattery0_0_80_browser_enriched_filtered_final.json; final_url=https://www.arbin.com/contact-us.html; title=Arbin Korea contact; phones=032-321-1431; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:30:17.694+09:00"
     },
     {
       "id": "90653",

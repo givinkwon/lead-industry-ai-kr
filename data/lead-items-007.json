@@ -23950,8 +23950,8 @@
       "region": "인천",
       "address": "Incheon, Korea (South)",
       "homepage": "http://www.hanmisemi.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 032-571-9100 / 홈페이지: https://hanmisemi.com/",
+      "phone": "032-571-9100",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -23964,7 +23964,10 @@
       "source_note": "",
       "country": "Korea, Republic of",
       "source_id": "semicon-2026-hanmisemiconductor-hanmisemi.com",
-      "id": "94087"
+      "id": "94087",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next72_enrichment; result=tmp_b2b_next72_semicon0_0_90_browser_enriched_filtered_final.json; final_url=https://hanmisemi.com/; title=한미반도체; phones=032-571-9100; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:30:17.694+09:00"
     },
     {
       "name": "HANSHIN LIMITED",
@@ -53854,9 +53857,9 @@
       "region": "해외",
       "address": "Gyeonggi-do,, Germany",
       "homepage": "http://www.centrotherm.world",
-      "contact": "전화: 031-695-8125 / 이메일: service@centrotherm.kr / 홈페이지: https://www.centrotherm.de/en/contact",
-      "phone": "031-695-8125",
-      "email": "service@centrotherm.kr",
+      "contact": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=62&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=642938",
+      "phone": "",
+      "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/exhibitors.aspx",
@@ -53867,10 +53870,7 @@
       "source_id": "semicon-korea-2026:642938",
       "country": "Germany",
       "source_category": "SEMICON Korea 2026",
-      "id": "95565",
-      "verification": "homepage_rendered_contact_enriched",
-      "evidence": "verified_export:b2b_next71_enrichment; result=tmp_b2b_next71_semicon0_0_80_browser_enriched_filtered_final.json; final_url=https://www.centrotherm.de/en/contact; title=centrotherm Korea contact; phones=031-695-8125; emails=service@centrotherm.kr; verification=homepage_rendered_contact_enriched",
-      "updatedAt": "2026-06-27T21:20:16.442+09:00"
+      "id": "95565"
     },
     {
       "name": "CHANGZHOU MINGSEAL ROBOT TECHNOLOGY CO., LTD.",
@@ -55901,8 +55901,8 @@
       "region": "해외",
       "address": "Seoul,, United States",
       "homepage": "http://www.technic.com",
-      "contact": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=465&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=641977",
-      "phone": "",
+      "contact": "전화: 02-576-3830 / 홈페이지: https://www.technic.com/about/contact-us",
+      "phone": "02-576-3830",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -55914,7 +55914,10 @@
       "source_id": "semicon-korea-2026:641977",
       "country": "United States",
       "source_category": "SEMICON Korea 2026",
-      "id": "95660"
+      "id": "95660",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next72_enrichment; result=tmp_b2b_next72_semicon0_0_90_browser_enriched_filtered_final.json; final_url=https://www.technic.com/about/contact-us; title=Technic Korea contact; phones=02-576-3830; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:30:17.694+09:00"
     },
     {
       "name": "TEL",

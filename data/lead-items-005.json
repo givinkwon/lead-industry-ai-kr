@@ -13890,9 +13890,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.curiosis.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-508-5236 / 이메일: info@curiosis.com, sales@curiosis.com / 홈페이지: http://www.curiosis.com/sub/contact/location.asp",
+      "phone": "02-508-5236",
+      "email": "info@curiosis.com, sales@curiosis.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78313",
@@ -13900,7 +13900,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "494120",
-      "product": "라이브셀 이미징 기기 등"
+      "product": "라이브셀 이미징 기기 등",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next72_enrichment; result=tmp_b2b_next72_krx0_0_100_browser_enriched_filtered_final.json; final_url=http://www.curiosis.com/sub/contact/location.asp; title=Curiosis contact; phones=02-508-5236; emails=info@curiosis.com,sales@curiosis.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:30:17.694+09:00"
     },
     {
       "name": "이노테크",
@@ -16503,9 +16506,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.smartradarsystem.com",
-      "contact": "",
+      "contact": "이메일: info@srs.ai / 홈페이지: http://www.smartradarsystem.com/kr/about/contacts.html",
       "phone": "",
-      "email": "",
+      "email": "info@srs.ai",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78452",
@@ -16513,7 +16516,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "424960",
-      "product": "모빌리티 및 비모빌리티용 4D이미징레이다"
+      "product": "모빌리티 및 비모빌리티용 4D이미징레이다",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next72_enrichment; result=tmp_b2b_next72_krx0_0_100_browser_enriched_filtered_final.json; final_url=http://www.smartradarsystem.com/kr/about/contacts.html; title=Smart Radar System contacts; phones=; emails=info@srs.ai; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:30:17.694+09:00"
     },
     {
       "name": "큐리옥스바이오시스템즈",
@@ -17071,8 +17077,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://RAON.io",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-786-4600 / 홈페이지: https://raon.io/careers/professionals.php",
+      "phone": "031-786-4600",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -17081,7 +17087,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "418420",
-      "product": "마이크로디스플레이, 컨트롤러 IC"
+      "product": "마이크로디스플레이, 컨트롤러 IC",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next72_enrichment; result=tmp_b2b_next72_krx0_0_100_browser_enriched_filtered_final.json; final_url=https://raon.io/careers/professionals.php; title=RAONTECH; phones=031-786-4600; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:30:17.694+09:00"
     },
     {
       "name": "자람테크놀로지",
@@ -17541,8 +17550,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.tfe.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-206-0541 / 홈페이지: https://tfe.co.kr/locations",
+      "phone": "031-206-0541",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -17551,7 +17560,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "425420",
-      "product": "COK, Board, Test Socket"
+      "product": "COK, Board, Test Socket",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next72_enrichment; result=tmp_b2b_next72_krx0_0_100_browser_enriched_filtered_final.json; final_url=https://tfe.co.kr/locations; title=TFE locations; phones=031-206-0541; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:30:17.694+09:00"
     },
     {
       "name": "윤성에프앤씨",
@@ -24539,8 +24551,8 @@
       "region": "충청남도",
       "address": "",
       "homepage": "http://www.thecodi.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 041-620-9000 / 홈페이지: http://thecodi.kr/?page_id=892",
+      "phone": "041-620-9000",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -24549,7 +24561,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "224060",
-      "product": "반도체 및 평판디스플레이 제조용 장비(IRIS, LOZIX, HP/CP)"
+      "product": "반도체 및 평판디스플레이 제조용 장비(IRIS, LOZIX, HP/CP)",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next72_enrichment; result=tmp_b2b_next72_krx0_0_100_browser_enriched_filtered_final.json; final_url=http://thecodi.kr/?page_id=892; title=더코디; phones=041-620-9000; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:30:17.694+09:00"
     },
     {
       "name": "질경이",
@@ -25721,8 +25736,8 @@
       "region": "강원특별자치도",
       "address": "",
       "homepage": "http://www.boditech.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 033-243-1400 / 홈페이지: https://www.boditech.co.kr/ko/contact-us/",
+      "phone": "033-243-1400",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -25731,7 +25746,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "206640",
-      "product": "면역진단기기 및 카트리지"
+      "product": "면역진단기기 및 카트리지",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next72_enrichment; result=tmp_b2b_next72_krx0_0_100_browser_enriched_filtered_final.json; final_url=https://www.boditech.co.kr/ko/contact-us/; title=Boditech Med Contact; phones=033-243-1400; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:30:17.694+09:00"
     },
     {
       "name": "에이팩트",
@@ -31263,8 +31281,8 @@
       "region": "인천광역시",
       "address": "",
       "homepage": "http://www.hanmisemi.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 032-571-9100 / 홈페이지: https://hanmisemi.com/",
+      "phone": "032-571-9100",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -31273,7 +31291,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "042700",
-      "product": "반도체 후공정장비,반도체금형 제조/부동산 매매,임대"
+      "product": "반도체 후공정장비,반도체금형 제조/부동산 매매,임대",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next72_enrichment; result=tmp_b2b_next72_krx100_100_100_browser_enriched_filtered_final.json; final_url=https://hanmisemi.com/; title=한미반도체; phones=032-571-9100; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:30:17.694+09:00"
     },
     {
       "name": "동일산업",
@@ -35310,17 +35331,20 @@
       "region": "충청북도",
       "address": "",
       "homepage": "http://www.simmtechholdings.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 043-909-8000 / 홈페이지: https://www.simmtechholdings.co.kr/about/map.aspx",
+      "phone": "043-909-8000",
       "email": "",
-      "confidence": "medium",
+      "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79507",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "036710",
-      "product": "반도체용 인쇄회로기판"
+      "product": "반도체용 인쇄회로기판",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next72_enrichment; result=tmp_b2b_next72_krx100_100_100_browser_enriched_filtered_final.json; final_url=https://www.simmtechholdings.co.kr/about/map.aspx; title=심텍홀딩스 오시는 길; phones=043-909-8000; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:30:17.694+09:00"
     },
     {
       "name": "파세코",
@@ -38214,8 +38238,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://spsamhwa.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-765-3641 / 홈페이지: https://spsamhwa.com/company/headoffice",
+      "phone": "02-765-3641",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -38224,7 +38248,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "000390",
-      "product": "건축용페인트,공업용페인트,분체도료 등 제조"
+      "product": "건축용페인트,공업용페인트,분체도료 등 제조",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next72_enrichment; result=tmp_b2b_next72_krx100_100_100_browser_enriched_filtered_final.json; final_url=https://spsamhwa.com/company/headoffice; title=SP SAMHWA 본사/공장; phones=02-765-3641; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:30:17.694+09:00"
     },
     {
       "name": "대동금속",
