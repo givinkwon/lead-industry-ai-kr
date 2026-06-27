@@ -17117,10 +17117,10 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.sungsankor.com",
-      "contact": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 02-550-9531 / 이메일: bill@sungsankor.com",
+      "phone": "02-550-9531",
+      "email": "bill@sungsankor.com",
+      "confidence": "high",
       "source": "source_file:keet_2022_2026_exhibitor_homepage",
       "source_page": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
       "ksic_major_code": "E",
@@ -17132,7 +17132,10 @@
       "source_category": "KEET 2026",
       "exhibit_category": "",
       "domestic_proof": "official_korean_exhibitor",
-      "id": "93757"
+      "id": "93757",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next57_enrichment; final_url=http://www.sungsankor.com/sungsan/customer/contact_us/inq; title=성산기업; name_score=1; manual_review=official_contact_page_phone_email_visible_secondary_phone_excluded; phones=02-550-9531; emails=bill@sungsankor.com; checked_urls=http://www.sungsankor.com/sungsan/customer/contact_us/inq; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:41:00.947+09:00"
     },
     {
       "name": "주식회사 디시오",
@@ -17563,10 +17566,10 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.sungsankor.com",
-      "contact": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 02-550-9531 / 이메일: bill@sungsankor.com",
+      "phone": "02-550-9531",
+      "email": "bill@sungsankor.com",
+      "confidence": "high",
       "source": "source_file:keet_2022_2026_exhibitor_homepage",
       "source_page": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
       "ksic_major_code": "E",
@@ -17578,7 +17581,10 @@
       "source_category": "KEET 2025",
       "exhibit_category": "",
       "domestic_proof": "official_korean_exhibitor",
-      "id": "93778"
+      "id": "93778",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next57_enrichment; final_url=http://www.sungsankor.com/sungsan/customer/contact_us/inq; title=성산기업; name_score=1; manual_review=official_contact_page_phone_email_visible_secondary_phone_excluded; phones=02-550-9531; emails=bill@sungsankor.com; checked_urls=http://www.sungsankor.com/sungsan/customer/contact_us/inq; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:41:00.947+09:00"
     },
     {
       "name": "디엠테크㈜",
@@ -20127,10 +20133,10 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.sdn-i.com",
-      "contact": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
+      "contact": "이메일: service@sdn-i.com",
       "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "email": "service@sdn-i.com",
+      "confidence": "high",
       "source": "source_file:keet_2022_2026_exhibitor_homepage",
       "source_page": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
       "ksic_major_code": "D",
@@ -20142,7 +20148,10 @@
       "source_category": "KEET 2023",
       "exhibit_category": "태양광, 열",
       "domestic_proof": "official_korean_exhibitor",
-      "id": "93913"
+      "id": "93913",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next57_enrichment; final_url=http://solar.sdn-i.com/; title=SDN(주) 태양광사업부; name_score=1; manual_review=official_homepage_service_email_visible; phones=; emails=service@sdn-i.com; checked_urls=http://solar.sdn-i.com/; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:41:00.947+09:00"
     },
     {
       "name": "주식회사 대양기업",
@@ -54370,8 +54379,8 @@
       "region": "해외",
       "address": "Heidelberg,, Germany",
       "homepage": "https://heidelberg-instruments.com",
-      "contact": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=194&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=634206",
-      "phone": "",
+      "contact": "전화: 02-9009-3082",
+      "phone": "02-9009-3082",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -54383,7 +54392,10 @@
       "source_id": "semicon-korea-2026:634206",
       "country": "Germany",
       "source_category": "SEMICON Korea 2026",
-      "id": "95590"
+      "id": "95590",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next57_enrichment; final_url=https://heidelberg-instruments.com/locations/; title=Locations ǀ Heidelberg Instruments; name_score=3; manual_review=official_locations_page_korea_phone_visible; phones=02-9009-3082; emails=; checked_urls=https://heidelberg-instruments.com/locations/; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:41:00.947+09:00"
     },
     {
       "name": "HERAEUS QUARZGLAS GMBH & CO. KG",
@@ -55730,8 +55742,8 @@
       "region": "해외",
       "address": "Suwon,, Japan",
       "homepage": "https://www.shicryogenics.com",
-      "contact": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=444&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=643116",
-      "phone": "",
+      "contact": "전화: 02-2001-2000",
+      "phone": "02-2001-2000",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -55743,7 +55755,10 @@
       "source_id": "semicon-korea-2026:643116",
       "country": "Japan",
       "source_category": "SEMICON Korea 2026",
-      "id": "95654"
+      "id": "95654",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next57_enrichment; final_url=https://shicryogenics.com/contact/; title=Contact SHI Cryogenics Group; name_score=3; manual_review=official_contact_page_korea_phone_visible; phones=02-2001-2000; emails=; checked_urls=https://shicryogenics.com/contact; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:41:00.947+09:00"
     },
     {
       "name": "SUMITOMO CHEMICAL",
@@ -60446,9 +60461,9 @@
       "region": "전국",
       "address": "152 TEHERAN-RO, GANGNAM-GU, SEOUL, REPUBLIC OF KOREA 18F",
       "homepage": "http://www.dell.com/ko-kr",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
+      "contact": "이메일: email_kr@dell.com",
       "phone": "",
-      "email": "",
+      "email": "email_kr@dell.com",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
@@ -60462,7 +60477,10 @@
       "category_names": [
         "AI + Smart Factory Show",
         "로봇·AI 자동화"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next57_enrichment; final_url=https://www.dell.com/ko-kr/lp/contact-us; title=연락처 | Dell 대한민국; name_score=2; manual_review=official_korea_contact_page_email_visible; phones=; emails=email_kr@dell.com; checked_urls=https://www.dell.com/ko-kr/lp/contact-us; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:41:00.947+09:00"
     },
     {
       "id": "95852",
@@ -60728,9 +60746,9 @@
       "region": "전국",
       "address": "30 SONGDOMIRAE-RO, YEONSU-GU, INCHEON, REPUBLIC OF KOREA D-1906",
       "homepage": "https://www.eos.info",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
+      "contact": "이메일: info@eos.info",
       "phone": "",
-      "email": "",
+      "email": "info@eos.info",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
@@ -60744,7 +60762,10 @@
       "category_names": [
         "Robot Tech Show",
         "디지털헬스케어"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next57_enrichment; final_url=https://www.eos.info/ko/about-us/locations-worldwide; title=EOS 전세계 글로벌 영업 및 서비스 사무소 | EOS GmbH; name_score=3; manual_review=official_korea_locations_page_email_visible; phones=; emails=info@eos.info; checked_urls=https://www.eos.info/ko/about-us/locations-worldwide; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:41:00.947+09:00"
     },
     {
       "id": "95864",
@@ -61434,9 +61455,9 @@
       "region": "전국",
       "address": "15-3 EONNAM-GIL, SEOCHO-GU, SEOUL, REPUBLIC OF KOREA 2F",
       "homepage": "http://www.hybees.com",
-      "contact": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2088-0226 / 이메일: info@hybees.com",
+      "phone": "02-2088-0226",
+      "email": "info@hybees.com",
       "confidence": "high",
       "source": "source_file:smart_tech_korea_2026_exhibitor_homepage",
       "source_page": "https://biz.smarttechkorea.com/biz/index_all.asp?MY_LANG=ENG",
@@ -61450,7 +61471,10 @@
       "category_names": [
         "Smart Tech Show",
         "AI·빅데이터"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next57_enrichment; final_url=http://www.hybees.com/company/company; title=하이비; name_score=1; manual_review=official_company_page_phone_email_visible_secondary_phone_excluded; phones=02-2088-0226; emails=info@hybees.com; checked_urls=http://www.hybees.com/company/company; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:41:00.947+09:00"
     },
     {
       "id": "95896",
@@ -65630,9 +65654,9 @@
       "region": "전국",
       "address": "10039 경기 김포시 대곶면 율생중앙로 184-8 가동",
       "homepage": "http://www.kopecs.com",
-      "contact": "https://nanokorea.or.kr/visit/cp_pop.php?num=3900",
+      "contact": "이메일: kopecs@kopecs.com",
       "phone": "",
-      "email": "",
+      "email": "kopecs@kopecs.com",
       "confidence": "high",
       "source": "source_file:nano_korea_2026_exhibitor_homepage",
       "source_page": "https://nanokorea.or.kr/visit/search.php",
@@ -65646,7 +65670,10 @@
       "category_names": [
         "NANO KOREA 2026",
         "스마트센서·계측장비"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next57_enrichment; final_url=http://www.kopecs.com/cs04.php; title=KOPECS; name_score=0; manual_review=official_contact_page_email_visible; phones=; emails=kopecs@kopecs.com; checked_urls=http://www.kopecs.com/cs04.php; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:41:00.947+09:00"
     },
     {
       "id": "96071",

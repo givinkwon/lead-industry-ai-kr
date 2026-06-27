@@ -45986,9 +45986,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.ltcam.co.kr",
-      "contact": "",
+      "contact": "이메일: myun0117@ltcam.co.kr",
       "phone": "",
-      "email": "",
+      "email": "myun0117@ltcam.co.kr",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=291&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=663824",
@@ -45997,7 +45997,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "B",
       "booth": "C228",
-      "source_note": "[회사소개] 업종: 반도체 소재 및 설비 제조업 대표자명: 이민석 홈페이지: http://www.ltcam.co.kr 사업내용: 반도체 화학제품, 설비제조 , 화학제품 도소매 주소: 경기 평택시 산단로15번길 45 2004년 설립된 엘티씨에이엠 주식회사는 반도체 화학제품 전문기업으로,주 제품으로는 반도체 제조 과정에서 사용되는 세정액, 식각액 등 습식 화학재료(Wet Chemical) 제품을 만들고 있습니다. 코스닥 상장사인 엘티씨(주)의 자회사로 고성능/고품질 반도체 & 디스플레이 공정 소재 Chemical 개발 및 생산을 위해 한발한발 목표를 향해 전진하고 있는 혁신적인 회사입니다. [회사연혁] 2024 신규 제조 Line 준공 완료 2023 SKH 기술혁신분야 우수협력사 수상 2022 고선택비 인산 양산 공급 2018년 FIS vs LTCAM 흡수합병 2015 LCTAM으로 사명 변경 에칭 잔여물 제거 양산공급 2014 Cu 벌크 CMP 슬러리 양산공급 OHSAS 18001인증"
+      "source_note": "[회사소개] 업종: 반도체 소재 및 설비 제조업 대표자명: 이민석 홈페이지: http://www.ltcam.co.kr 사업내용: 반도체 화학제품, 설비제조 , 화학제품 도소매 주소: 경기 평택시 산단로15번길 45 2004년 설립된 엘티씨에이엠 주식회사는 반도체 화학제품 전문기업으로,주 제품으로는 반도체 제조 과정에서 사용되는 세정액, 식각액 등 습식 화학재료(Wet Chemical) 제품을 만들고 있습니다. 코스닥 상장사인 엘티씨(주)의 자회사로 고성능/고품질 반도체 & 디스플레이 공정 소재 Chemical 개발 및 생산을 위해 한발한발 목표를 향해 전진하고 있는 혁신적인 회사입니다. [회사연혁] 2024 신규 제조 Line 준공 완료 2023 SKH 기술혁신분야 우수협력사 수상 2022 고선택비 인산 양산 공급 2018년 FIS vs LTCAM 흡수합병 2015 LCTAM으로 사명 변경 에칭 잔여물 제거 양산공급 2014 Cu 벌크 CMP 슬러리 양산공급 OHSAS 18001인증",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next57_enrichment; final_url=http://www.ltcam.co.kr/contents/customer_1_view.asp?id=20; title=��Ƽ�����̿� Ȩ�������� ���Ű��� ȯ���մϴ�.; name_score=1; manual_review=official_customer_page_email_visible; phones=; emails=myun0117@ltcam.co.kr; checked_urls=http://www.ltcam.co.kr/contents/customer_1_view.asp?id=20; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:41:00.947+09:00"
     },
     {
       "id": "89089",
@@ -46195,9 +46198,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.mkpsemi.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-613-3359 / 이메일: mkpsales@mkpsemi.com",
+      "phone": "031-613-3359",
+      "email": "mkpsales@mkpsemi.com",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=311&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=633887",
@@ -46206,7 +46209,10 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "B",
       "booth": "B428",
-      "source_note": "I NNOVATE WITH M K P MKP Co., Ltd. stands as the first company in Korea to successfully localize and mass-produce Mass Flow Controllers (MFC), overcoming the market's previous reliance on foreign technology. Through continuous R&D, we have proven our technical prowess and established a reputation for excellence. Our vision extends beyond simply supplying parts. We are dedicated to delivering the highest value to our customers through innovative \"Mass Flow Total Solutions.\" As we pursue sustainab"
+      "source_note": "I NNOVATE WITH M K P MKP Co., Ltd. stands as the first company in Korea to successfully localize and mass-produce Mass Flow Controllers (MFC), overcoming the market's previous reliance on foreign technology. Through continuous R&D, we have proven our technical prowess and established a reputation for excellence. Our vision extends beyond simply supplying parts. We are dedicated to delivering the highest value to our customers through innovative \"Mass Flow Total Solutions.\" As we pursue sustainab",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next57_enrichment; final_url=https://www.mkpsemi.com/company/location; title=MKP; name_score=1; manual_review=official_location_page_sales_phone_email_visible; phones=031-613-3359; emails=mkpsales@mkpsemi.com; checked_urls=https://www.mkpsemi.com/company/location; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:41:00.947+09:00"
     },
     {
       "id": "89098",
@@ -46569,9 +46575,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.parksystems.com",
-      "contact": "",
+      "contact": "이메일: inquiry@parksystems.com",
       "phone": "",
-      "email": "",
+      "email": "inquiry@parksystems.com",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=353&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=634409",
@@ -46580,7 +46586,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "B",
       "booth": "C168",
-      "source_note": "Park Systems Corporation is the industry leader in manufacturing nanoscale microscopy and metrology solutions. Its comprehensive range of products includes atomic force microscopy (AFM), white light interferometry (WLI), nanoinfrared spectroscopy (NanoIR), and imaging spectroscopic ellipsometry (ISE) systems. The company’s commitment to excellence has resulted in the development of several groundbreaking innovations, including True Non-Contact Imaging, 3D metrology, and fully automated AFM syste"
+      "source_note": "Park Systems Corporation is the industry leader in manufacturing nanoscale microscopy and metrology solutions. Its comprehensive range of products includes atomic force microscopy (AFM), white light interferometry (WLI), nanoinfrared spectroscopy (NanoIR), and imaging spectroscopic ellipsometry (ISE) systems. The company’s commitment to excellence has resulted in the development of several groundbreaking innovations, including True Non-Contact Imaging, 3D metrology, and fully automated AFM syste",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next57_enrichment; final_url=http://www.parksystems.com/en/company/locations; title=Locations - Company | Park Systems; name_score=3; manual_review=official_locations_page_inquiry_email_visible; phones=; emails=inquiry@parksystems.com; checked_urls=http://www.parksystems.com/en/company/locations; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:41:00.947+09:00"
     },
     {
       "id": "89115",
@@ -72696,9 +72705,9 @@
       "region": "경기",
       "address": "경기 용인시 기흥구 기흥로 58 제 C동 13층 1301, 1302호(구갈동, 기흥 ICT밸리)",
       "homepage": "https://www.smartray.com",
-      "contact": "https://www.automationworld.co.kr/company-directories/1836?year=2026&hl=ko",
+      "contact": "이메일: info.korea@smartray.com",
       "phone": "",
-      "email": "",
+      "email": "info.korea@smartray.com",
       "confidence": "high",
       "source": "source_file:automation_world_2026_company_directory",
       "source_page": "https://www.automationworld.co.kr/company-directories?year=2026&hl=en",
@@ -72710,7 +72719,10 @@
       "country": "KR",
       "business_type": "서비스업 외",
       "industry_type": "마케팅 및 기술지원서비스 외",
-      "ceo": "RATHSACK CLARE LOUISE(단독대표)"
+      "ceo": "RATHSACK CLARE LOUISE(단독대표)",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next57_enrichment; final_url=https://www.smartray.com/contact/; title=Contact SmartRay GmbH - directions; name_score=0; manual_review=official_contact_page_korea_email_visible; phones=; emails=info.korea@smartray.com; checked_urls=https://www.smartray.com/contact; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:41:00.947+09:00"
     },
     {
       "id": "90480",
@@ -74262,8 +74274,8 @@
       "region": "대전",
       "address": "대전 대덕구 대화로106번길 66 323호(대화동, 펜타플렉스)",
       "homepage": "https://www.bilay.co.kr",
-      "contact": "https://interbattery.or.kr/company-directories/3022?year=2026&hl=ko",
-      "phone": "",
+      "contact": "전화: 070-7826-5425",
+      "phone": "070-7826-5425",
       "email": "",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
@@ -74276,7 +74288,10 @@
       "country": "KR",
       "business_type": "도매 및 소매업",
       "industry_type": "산업용레이저, 과학기자재",
-      "ceo": "손지영"
+      "ceo": "손지영",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next57_enrichment; final_url=https://bilay.co.kr/contact/; title=Contact – BILAY; name_score=1; manual_review=official_contact_page_phone_visible; phones=070-7826-5425; emails=; checked_urls=https://bilay.co.kr/contact/; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:41:00.947+09:00"
     },
     {
       "id": "90568",
@@ -77690,8 +77705,8 @@
       "region": "서울",
       "address": "서울 영등포구 선유로45길 21 양평동 4가",
       "homepage": "https://www.yokogawa.com/kr",
-      "contact": "https://interbattery.or.kr/company-directories/2901?year=2026&hl=ko",
-      "phone": "",
+      "contact": "전화: 02-2628-6000",
+      "phone": "02-2628-6000",
       "email": "",
       "confidence": "high",
       "source": "source_file:interbattery_2026_company_directory",
@@ -77704,7 +77719,10 @@
       "country": "KR",
       "business_type": "정밀기계제조업 외",
       "industry_type": "자동제어 외",
-      "ceo": "NAKAJIMA KOICHI"
+      "ceo": "NAKAJIMA KOICHI",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next57_enrichment; final_url=https://www.yokogawa.com/kr/contact/; title=견적 및 기술문의 | Yokogawa Electric Korea Co., Ltd.; name_score=1; manual_review=official_korea_contact_page_main_phone_visible; phones=02-2628-6000; emails=; checked_urls=https://www.yokogawa.com/kr/contact/; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:41:00.947+09:00"
     },
     {
       "id": "90741",
@@ -77937,10 +77955,10 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.ispeedbar.com",
-      "contact": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 031-494-2880 / 이메일: sales@ispeedbar.com",
+      "phone": "031-494-2880",
+      "email": "sales@ispeedbar.com",
+      "confidence": "high",
       "source": "source_file:elecs_exhibitor_homepage",
       "source_page": "https://www.elecskorea.org/fairCorpList.do?FAIRMENU_IDX=7441&hl=ENG",
       "ksic_major_code": "G",
@@ -77948,7 +77966,10 @@
       "lead_quality_grade": "B",
       "booth": "N102",
       "source_id": "elecs-2024-0-L C POWER KOREA",
-      "country": "KR-inferred"
+      "country": "KR-inferred",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next57_enrichment; final_url=https://ispeedbar.com/; title=엘씨파워코리아 - ispeedbar; name_score=1; manual_review=official_homepage_sales_phone_email_visible; phones=031-494-2880; emails=sales@ispeedbar.com; checked_urls=https://www.ispeedbar.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:41:00.947+09:00"
     },
     {
       "id": "90754",
