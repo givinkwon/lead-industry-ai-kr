@@ -18545,8 +18545,8 @@
       "region": "대구",
       "address": "대구",
       "homepage": "http://dyrnt.co.kr/",
-      "contact": "이중호",
-      "phone": "",
+      "contact": "전화: 053-355-3930 / 홈페이지: http://dyrnt.co.kr/",
+      "phone": "053-355-3930",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -18554,7 +18554,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2027-07-06",
-      "id": "107060"
+      "id": "107060",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=http://dyrnt.co.kr/contents/01_company/sub05.html; title=대영알앤티; body_bytes=10127; name_score=2; manual_review=official_location_page_html_rendered_representative_tel_visible; phones=053-355-3930; emails=; excluded=; checked_urls=http://dyrnt.co.kr/ | http://dyrnt.co.kr/contents/01_company/sub01.html | http://dyrnt.co.kr/contents/01_company/sub02.html | http://dyrnt.co.kr/contents/01_company/sub03.html | http://dyrnt.co.kr/contents/01_company/sub04.html | http://dyrnt.co.kr/contents/01_company/sub05.html | http://dyrnt.co.kr/contents/05_board/board.html?board_id=board_notice | http://dyrnt.co.kr/contents/05_board/board.html?board_id=board_qna | http://dyrnt.co.kr/contents/01_company/sub0102.html | http://dyrnt.co.kr/contact | http://dyrnt.co.kr/contact-us | http://dyrnt.co.kr/contacts | http://dyrnt.co.kr/company/contact | http://dyrnt.co.kr/company/location; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 에스제이그룹",
@@ -22120,8 +22122,8 @@
       "region": "경남",
       "address": "경남",
       "homepage": "http://www.tobishydraulic.com/",
-      "contact": "송균호",
-      "phone": "",
+      "contact": "전화: 055-762-7983 / 홈페이지: http://www.tobishydraulic.com/",
+      "phone": "055-762-7983",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -22129,7 +22131,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2026-12-25",
-      "id": "107300"
+      "id": "107300",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=http://tobishydraulic.com/location01/; title=tobis &#8211; This is about tobis hydraulic; body_bytes=103370; name_score=2; manual_review=official_location_page_html_rendered_tel_visible_excluded_fax_055-762-7984; phones=055-762-7983; emails=; excluded=fax 055-762-7984; checked_urls=http://tobishydraulic.com/ | http://tobishydraulic.com/company01/ | http://tobishydraulic.com/company02/ | http://tobishydraulic.com/company03/ | http://tobishydraulic.com/location01/ | http://tobishydraulic.com/support/ | http://tobishydraulic.com/contact-us/ | http://tobishydraulic.com/board/ | http://tobishydraulic.com/contact | http://tobishydraulic.com/contact-us | http://tobishydraulic.com/contacts | http://tobishydraulic.com/company/contact | http://tobishydraulic.com/company/location | http://tobishydraulic.com/about/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)영동테크",
@@ -22694,8 +22698,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://ulike.co.kr/",
-      "contact": "윤정상",
-      "phone": "",
+      "contact": "전화: 031-712-7402 / 홈페이지: http://ulike.co.kr/",
+      "phone": "031-712-7402",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -22703,7 +22707,9 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "product": "SW / S/W / 인증만료 2026-11-29",
-      "id": "107339"
+      "id": "107339",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=http://ulike.co.kr/; title=Ulike; body_bytes=17296; name_score=0; manual_review=official_homepage_contact_section_html_rendered_tel_visible_excluded_postmaster_email; phones=031-712-7402; emails=; excluded=postmaster@ulike.co.kr; checked_urls=http://ulike.co.kr/ | http://ulike.co.kr/file/ulike_companybiref_150518.pdf | http://ulike.co.kr/contact | http://ulike.co.kr/contact-us | http://ulike.co.kr/contacts | http://ulike.co.kr/company/contact | http://ulike.co.kr/company/location | http://ulike.co.kr/about/contact | http://ulike.co.kr/support | http://ulike.co.kr/customer | http://ulike.co.kr/kor/contact | http://ulike.co.kr/kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 선진마루",
@@ -26019,8 +26025,8 @@
       "region": "경남",
       "address": "경남",
       "homepage": "http://www.finningmc.com/",
-      "contact": "정대영",
-      "phone": "",
+      "contact": "전화: 055-345-2853 / 홈페이지: http://www.finningmc.com/",
+      "phone": "055-345-2853",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -26028,7 +26034,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2029-05-19",
-      "id": "107581"
+      "id": "107581",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=https://www.finningmc.com/; title=JTC Co., Ltd.; body_bytes=3782; name_score=0; manual_review=official_homepage_footer_html_rendered_tel_visible_excluded_fax_055-345-2856; phones=055-345-2853; emails=; excluded=fax 055-345-2856, short_range_not_expanded 055-345-2854; checked_urls=https://www.finningmc.com/ | https://www.finningmc.com/contact | https://www.finningmc.com/contact-us | https://www.finningmc.com/contacts | https://www.finningmc.com/company/contact | https://www.finningmc.com/company/location | https://www.finningmc.com/about/contact | https://www.finningmc.com/support | https://www.finningmc.com/customer | https://www.finningmc.com/kor/contact | https://www.finningmc.com/kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)현대금형기술",
@@ -27177,8 +27185,8 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.ckipm.com/",
-      "contact": "강석주",
-      "phone": "",
+      "contact": "전화: 02-541-4023, 043-883-7770 / 홈페이지: http://www.ckipm.com/",
+      "phone": "02-541-4023, 043-883-7770",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -27186,7 +27194,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2029-04-10",
-      "id": "107650"
+      "id": "107650",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=http://www.ckipm.com/company04.html; title=CKIPM Marine Group; body_bytes=14510; name_score=2; manual_review=official_location_page_html_rendered_head_office_and_factory_tel_visible; phones=02-541-4023, 043-883-7770; emails=; excluded=; checked_urls=http://www.ckipm.com/ | http://www.ckipm.com/company01.html | http://www.ckipm.com/company02.html | http://www.ckipm.com/company03.html | http://www.ckipm.com/company04.html | http://www.ckipm.com/company05.html | http://www.ckipm.com/contact | http://www.ckipm.com/contact-us | http://www.ckipm.com/contacts | http://www.ckipm.com/company/contact | http://www.ckipm.com/company/location | http://www.ckipm.com/about/contact | http://www.ckipm.com/support | http://www.ckipm.com/customer; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "티알에스(주)",
@@ -29261,16 +29271,18 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.dselaser.com/",
-      "contact": "김규",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2108-2198 / 이메일: dse@dselaser.com / 홈페이지: http://www.dselaser.com/",
+      "phone": "02-2108-2198",
+      "email": "dse@dselaser.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 바이오 / 인증만료 2027-03-22",
-      "id": "107788"
+      "id": "107788",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=https://www.dselaser.com/contact-us; title=DSE | DSE INC.; body_bytes=2428635; name_score=0; manual_review=official_contact_page_html_rendered_tel_email_visible_excluded_fax_02-2108-2181; phones=02-2108-2198; emails=dse@dselaser.com; excluded=fax 02-2108-2181; checked_urls=https://www.dselaser.com/ | https://www.dselaser.com/contact-us | https://www.dselaser.com/contact | https://www.dselaser.com/contacts | https://www.dselaser.com/company/contact | https://www.dselaser.com/company/location | https://www.dselaser.com/about/contact | https://www.dselaser.com/support | https://www.dselaser.com/customer | https://www.dselaser.com/kor/contact | https://www.dselaser.com/kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)한국표준거래소",
@@ -30232,8 +30244,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.dns-global.net/",
-      "contact": "송동엽",
-      "phone": "",
+      "contact": "전화: 02-415-3144 / 홈페이지: http://www.dns-global.net/",
+      "phone": "02-415-3144",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -30241,7 +30253,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 섬유 / 인증만료 2028-08-13",
-      "id": "107849"
+      "id": "107849",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=https://www.dns-global.net/contact; title=DNS | Microfibre; body_bytes=522820; name_score=0; manual_review=official_contact_page_html_rendered_korea_tel_visible_excluded_fax_031-797-0387_and_overseas_contacts; phones=02-415-3144; emails=; excluded=fax 031-797-0387, overseas_vietnam_contacts; checked_urls=https://www.dns-global.net/ | https://www.dns-global.net/contact | https://www.dns-global.net/contact-us | https://www.dns-global.net/contacts | https://www.dns-global.net/company/contact | https://www.dns-global.net/company/location | https://www.dns-global.net/about/contact | https://www.dns-global.net/support | https://www.dns-global.net/customer | https://www.dns-global.net/kor/contact | https://www.dns-global.net/kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)뉴텍",
@@ -32430,8 +32444,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.acrylic.co.kr/",
-      "contact": "박재웅",
-      "phone": "",
+      "contact": "전화: 031-572-4953 / 홈페이지: http://www.acrylic.co.kr/",
+      "phone": "031-572-4953",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -32439,7 +32453,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2027-12-27",
-      "id": "107996"
+      "id": "107996",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=https://www.acrylic.co.kr/home; title=KOAGLAS ACRYLIC | Underwater Acrylic; body_bytes=437025; name_score=0; manual_review=official_homepage_contact_section_html_rendered_tel_visible_excluded_mobile_and_fax_031-572-0256; phones=031-572-4953; emails=; excluded=mobile 010-2644-4953, fax 031-572-0256; checked_urls=https://www.acrylic.co.kr/ | https://www.acrylic.co.kr/home | https://www.acrylic.co.kr/contact | https://www.acrylic.co.kr/contact-us | https://www.acrylic.co.kr/contacts | https://www.acrylic.co.kr/company/contact | https://www.acrylic.co.kr/company/location | https://www.acrylic.co.kr/about/contact | https://www.acrylic.co.kr/support | https://www.acrylic.co.kr/customer | https://www.acrylic.co.kr/kor/contact | https://www.acrylic.co.kr/kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)티에이치테크",
@@ -32953,16 +32969,18 @@
       "region": "충남",
       "address": "충남",
       "homepage": "http://www.joowoninnovation.com/",
-      "contact": "이해항",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 041-582-6117, 041-582-6118 / 이메일: sales@joowoninnovation.co.kr / 홈페이지: http://www.joowoninnovation.com/",
+      "phone": "041-582-6117, 041-582-6118",
+      "email": "sales@joowoninnovation.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2026-09-27",
-      "id": "108031"
+      "id": "108031",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=https://joowoninnovation.com/location/; title=joowoninnovation &#8211; Trusted Technology for Perfect Color; body_bytes=72792; name_score=0; manual_review=official_location_page_html_rendered_tel_email_visible_excluded_fax_templates_and_privacy_contacts; phones=041-582-6117, 041-582-6118; emails=sales@joowoninnovation.co.kr; excluded=fax 041-553-1991, template_emails info@realet.com sales@realet.com, privacy_policy_third_party_contacts; checked_urls=https://joowoninnovation.com/ | https://joowoninnovation.com/about-us-2/ | https://joowoninnovation.com/location/ | https://joowoninnovation.com/about-us/ | https://joowoninnovation.com/rd/ | https://joowoninnovation.com/products/ | https://joowoninnovation.com/contact | https://joowoninnovation.com/contact-us | https://joowoninnovation.com/contacts | https://joowoninnovation.com/company/contact | https://joowoninnovation.com/company/location | https://joowoninnovation.com/about/contact | https://joowoninnovation.com/support | https://joowoninnovation.com/customer; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)오지에스공업",
@@ -33031,8 +33049,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.naus.co.kr/",
-      "contact": "김학준",
-      "phone": "",
+      "contact": "전화: 031-527-6761, 031-527-6763 / 홈페이지: http://www.naus.co.kr/",
+      "phone": "031-527-6761, 031-527-6763",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -33040,7 +33058,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2027-01-13",
-      "id": "108036"
+      "id": "108036",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=http://www.naus.co.kr/company/c1-4.php; title=주식회사 나우스; body_bytes=74028; name_score=2; manual_review=official_location_page_html_rendered_customer_and_sales_tel_visible_excluded_faxes; phones=031-527-6761, 031-527-6763; emails=; excluded=fax 031-527-6765, fax 031-527-6710; checked_urls=http://www.naus.co.kr/ | http://www.naus.co.kr/company/c1-1.php | http://www.naus.co.kr/company/c1-2.php | http://www.naus.co.kr/company/c1-3.php | http://www.naus.co.kr/company/c1-4.php | http://www.naus.co.kr/company/c2-2.php | http://www.naus.co.kr/company/c2-3.php | http://www.naus.co.kr/company/c2-1.php | http://www.naus.co.kr/company/c3-1.php | http://www.naus.co.kr/company/c3-2.php | http://www.naus.co.kr/contact | http://www.naus.co.kr/contact-us | http://www.naus.co.kr/contacts | http://www.naus.co.kr/company/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)티에스테크놀로지",
@@ -34358,16 +34378,18 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.jeiljersey.com/",
-      "contact": "양대영",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 070-4272-6686, 070-4272-6684 / 이메일: jslee@jeiljersey.com, bhhwang@jeiljersey.com / 홈페이지: http://www.jeiljersey.com/",
+      "phone": "070-4272-6686, 070-4272-6684",
+      "email": "jslee@jeiljersey.com, bhhwang@jeiljersey.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 섬유 / 인증만료 2028-07-21",
-      "id": "108126"
+      "id": "108126",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=http://www.jeiljersey.com/contact.php; title=Jeil Jersey : Quality, excellence, understanding, service and teamwork.; body_bytes=13957; name_score=0; manual_review=official_contact_page_html_rendered_korea_department_tel_email_visible_excluded_fax_and_us_contact; phones=070-4272-6686, 070-4272-6684; emails=jslee@jeiljersey.com, bhhwang@jeiljersey.com; excluded=fax 02-3436-0781, overseas_us_contact junakim@jeiljersey.com; checked_urls=http://www.jeiljersey.com/ | http://www.jeiljersey.com/company_description.php | http://www.jeiljersey.com/company_ceo.php | http://www.jeiljersey.com/company_history.php | http://www.jeiljersey.com/company_departments.php | http://www.jeiljersey.com/company_structure.php | http://www.jeiljersey.com/contact.php | http://www.jeiljersey.com/contact | http://www.jeiljersey.com/contact-us | http://www.jeiljersey.com/contacts | http://www.jeiljersey.com/company/contact | http://www.jeiljersey.com/company/location | http://www.jeiljersey.com/about/contact | http://www.jeiljersey.com/support; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사그린터보",
@@ -34607,8 +34629,8 @@
       "region": "경남",
       "address": "경남",
       "homepage": "http://www.hanflon.com/",
-      "contact": "송지현",
-      "phone": "",
+      "contact": "전화: 055-345-3994 / 홈페이지: http://www.hanflon.com/",
+      "phone": "055-345-3994",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -34616,7 +34638,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2029-06-03",
-      "id": "108143"
+      "id": "108143",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=http://www.hanflon.com/sub.asp?maincode=462&sub_sequence=464&sub_sub_sequence=; title=hanflon; body_bytes=21373; name_score=0; manual_review=official_company_page_html_rendered_tel_visible_excluded_fax_055-345-3972; phones=055-345-3994; emails=; excluded=fax 055-345-3972; checked_urls=http://www.hanflon.com/ | http://www.hanflon.com/sub.asp?maincode=462&sub_sequence=&sub_sub_sequence= | http://www.hanflon.com/sub.asp?maincode=462&sub_sequence=467&sub_sub_sequence= | http://www.hanflon.com/contact | http://www.hanflon.com/contact-us | http://www.hanflon.com/contacts | http://www.hanflon.com/company/contact | http://www.hanflon.com/company/location | http://www.hanflon.com/about/contact | http://www.hanflon.com/support | http://www.hanflon.com/customer | http://www.hanflon.com/kor/contact | http://www.hanflon.com/kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "퍼펙트부영단조",
@@ -35582,8 +35606,8 @@
       "region": "전북",
       "address": "전북",
       "homepage": "http://www.lumicom.co.kr/",
-      "contact": "이복수",
-      "phone": "",
+      "contact": "전화: 063-211-3223 / 홈페이지: http://www.lumicom.co.kr/",
+      "phone": "063-211-3223",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -35591,7 +35615,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2027-12-02",
-      "id": "108204"
+      "id": "108204",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=http://www.lumicom.co.kr/; title=LUMICOM; body_bytes=3291; name_score=0; manual_review=official_homepage_footer_html_rendered_tel_visible_excluded_fax_063-211-3224; phones=063-211-3223; emails=; excluded=fax 063-211-3224; checked_urls=http://www.lumicom.co.kr/ | http://www.lumicom.co.kr/contact | http://www.lumicom.co.kr/contact-us | http://www.lumicom.co.kr/contacts | http://www.lumicom.co.kr/company/contact | http://www.lumicom.co.kr/company/location | http://www.lumicom.co.kr/about/contact | http://www.lumicom.co.kr/support | http://www.lumicom.co.kr/customer | http://www.lumicom.co.kr/kor/contact | http://www.lumicom.co.kr/kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)이노프",
@@ -37120,8 +37146,8 @@
       "region": "세종",
       "address": "세종",
       "homepage": "http://www.eldis.co.kr/",
-      "contact": "조호성",
-      "phone": "",
+      "contact": "전화: 044-862-7890 / 홈페이지: http://www.eldis.co.kr/",
+      "phone": "044-862-7890",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -37129,7 +37155,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2028-12-15",
-      "id": "108306"
+      "id": "108306",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=http://www.eldis.co.kr/bbs/content.php?co_id=company04; title=eldis; body_bytes=17947; name_score=2; manual_review=official_contact_page_html_rendered_tel_visible_excluded_fax_044-868-7830; phones=044-862-7890; emails=; excluded=fax 044-868-7830; checked_urls=http://www.eldis.co.kr/ | http://www.eldis.co.kr/bbs/content.php?co_id=company01 | http://www.eldis.co.kr/bbs/content.php?co_id=company02 | http://www.eldis.co.kr/bbs/content.php?co_id=company03 | http://www.eldis.co.kr/bbs/content.php?co_id=company04 | http://www.eldis.co.kr/bbs/board.php?bo_table=support01 | http://www.eldis.co.kr/bbs/board.php?bo_table=support03 | http://www.eldis.co.kr/bbs/board.php?bo_table=sales | http://eldis.co.kr/bbs/board.php?bo_table=support01&amp;wr_id=6 | http://eldis.co.kr/bbs/board.php?bo_table=support01&amp;wr_id=5 | http://www.eldis.co.kr/contact | http://www.eldis.co.kr/contact-us | http://www.eldis.co.kr/contacts | http://www.eldis.co.kr/company/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)디엔티",
@@ -39386,8 +39414,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.etm2000.com/",
-      "contact": "조기연",
-      "phone": "",
+      "contact": "전화: 02-2295-5762 / 홈페이지: http://www.etm2000.com/",
+      "phone": "02-2295-5762",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -39395,7 +39423,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-05-11",
-      "id": "108454"
+      "id": "108454",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=http://www.etm2000.com/customer/agency/index.jsp; title=::ETM::; body_bytes=19459; name_score=2; manual_review=official_agency_contact_page_html_rendered_tel_visible_excluded_fax_and_unexpanded_range; phones=02-2295-5762; emails=; excluded=fax 02-2295-5766, short_range_not_expanded 02-2295-5763; checked_urls=http://www.etm2000.com/ | http://www.etm2000.com/intro/index.jsp | http://www.etm2000.com/customer/notice/index.jsp | http://www.etm2000.com/intro/map.jsp | http://www.etm2000.com/delivery/index.jsp?searchHospitalFK=3 | http://www.etm2000.com/customer/down/index.jsp | http://www.etm2000.com/customer/online/index.jsp | http://www.etm2000.com/customer/cost/index.jsp | http://www.etm2000.com/customer/board/index.jsp | http://www.etm2000.com/customer/agency/index.jsp | http://www.etm2000.com/contact | http://www.etm2000.com/contact-us | http://www.etm2000.com/contacts | http://www.etm2000.com/company/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)디와이티",
@@ -40122,8 +40152,8 @@
       "region": "전남",
       "address": "전남",
       "homepage": "http://ssgloves.com/",
-      "contact": "강영춘",
-      "phone": "",
+      "contact": "전화: 061-752-1027, 061-752-2725 / 홈페이지: http://ssgloves.com/",
+      "phone": "061-752-1027, 061-752-2725",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -40131,7 +40161,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2027-05-29",
-      "id": "108500"
+      "id": "108500",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=http://ssgloves.com/en/docs/page/location; title=SHINSUNG MAJOR GLOVE CORP.; body_bytes=34363; name_score=2; manual_review=official_location_page_html_rendered_korea_factory_tel_visible_excluded_fax_and_overseas_contact; phones=061-752-1027, 061-752-2725; emails=; excluded=fax 061-752-1029, overseas_china_contact +86-532-8493-555; checked_urls=http://ssgloves.com/ | http://ssgloves.com/en/docs/page/sitemap | http://ssgloves.com/en/docs/page/introduce | http://ssgloves.com/en/docs/page/location | http://ssgloves.com/en/inquiry/write/inquiry | http://ssgloves.com/en/inquiry/write/catalog | http://ssgloves.com/en/inquiry/lists/inquiry | http://ssgloves.com/en/inquiry/lists/catalog | http://ssgloves.com/contact | http://ssgloves.com/contact-us | http://ssgloves.com/contacts | http://ssgloves.com/company/contact | http://ssgloves.com/company/location | http://ssgloves.com/about/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "동원산자",
@@ -41620,8 +41652,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.dsliquid.co.kr/",
-      "contact": "송중용",
-      "phone": "",
+      "contact": "전화: 031-500-3431 / 홈페이지: http://www.dsliquid.co.kr/",
+      "phone": "031-500-3431",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -41629,7 +41661,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-04-02",
-      "id": "108593"
+      "id": "108593",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=https://www.dsliquid.com/map; title=DS Liquid - Aluminum Recycling 전문기업; body_bytes=30984; name_score=2; manual_review=official_map_page_html_rendered_tel_visible_excluded_fax_031-500-4433; phones=031-500-3431; emails=; excluded=fax 031-500-4433; checked_urls=https://www.dsliquid.com/ | https://www.dsliquid.com/company | https://www.dsliquid.com/company/ideology | https://www.dsliquid.com/company/vision | https://www.dsliquid.com/company/history | https://www.dsliquid.com/map | https://www.dsliquid.com/contact | https://www.dsliquid.com/contact-us | https://www.dsliquid.com/contacts | https://www.dsliquid.com/company/contact | https://www.dsliquid.com/company/location | https://www.dsliquid.com/about/contact | https://www.dsliquid.com/support | https://www.dsliquid.com/customer; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)진우아이앤피",
@@ -44894,16 +44928,18 @@
       "region": "대구",
       "address": "대구",
       "homepage": "http://www.jin-il.com/",
-      "contact": "황성준",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 053-581-5755, 054-604-5755 / 이메일: call@jin-il.com / 홈페이지: http://www.jin-il.com/",
+      "phone": "053-581-5755, 054-604-5755",
+      "email": "call@jin-il.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2026-08-27",
-      "id": "108807"
+      "id": "108807",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next46_enrichment; final_url=http://jin-il.com/?avada_portfolio=about-us; title=(주)진일공업 &#8211; PRESS, 용접, 가공, 로터리날, tiller blades, 400KVA SPOT; body_bytes=89372; name_score=2; manual_review=official_about_contact_section_html_rendered_site_tel_email_visible_excluded_faxes; phones=053-581-5755, 054-604-5755; emails=call@jin-il.com; excluded=fax 053-581-0648, fax 054-931-0648; checked_urls=http://jin-il.com/ | http://jin-il.com/?avada_portfolio=about-us | http://jin-il.com/contact | http://jin-il.com/contact-us | http://jin-il.com/contacts | http://jin-il.com/company/contact | http://jin-il.com/company/location | http://jin-il.com/about/contact | http://jin-il.com/support | http://jin-il.com/customer | http://jin-il.com/kor/contact | http://jin-il.com/kr/contact; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)휴닉스",
