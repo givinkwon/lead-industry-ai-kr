@@ -83557,8 +83557,8 @@
       "segment": "소프트웨어사업자",
       "region": "대구광역시",
       "address": "대구광역시 동구 신암남로 24길 107, 101호(신암동)",
-      "homepage": "http://www.dipvision.com",
-      "contact": "",
+      "homepage": "http://www.dipvision.com/",
+      "contact": "홈페이지: http://www.dipvision.com/",
       "phone": "",
       "email": "",
       "confidence": "medium",
@@ -83566,7 +83566,10 @@
       "id": "55419",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
-      "lead_quality_grade": "B"
+      "lead_quality_grade": "B",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next82_enrichment; result=direct_verification; final_url=http://www.dipvision.com/; title=DIPVISION machine vision inquiry; phones=; emails=; contact_form=home_inquiry_form; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-28T00:23:51.804+09:00"
     },
     {
       "name": "(주)명리",
