@@ -56543,8 +56543,8 @@
       "region": "전국",
       "address": "KOREA",
       "homepage": "https://www.dslaser.biz",
-      "contact": "https://exhibitors.informamarkets-info.com/event/2025KOFAS/en-US/exhibitor/424898/dongsung-laser-co-ltd",
-      "phone": "",
+      "contact": "전화: 02-6406-8818 / 홈페이지: http://www.dslaser.biz/about",
+      "phone": "02-6406-8818",
       "email": "",
       "confidence": "high",
       "source": "source_file:kofas_2025_digital_showroom_homepage",
@@ -56558,7 +56558,10 @@
       "source_category": "KOFAS 2025",
       "category_names": [
         "Manufacturer,Exporter,Importer,Retailer,Wholesaler,Service Provider"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next70_enrichment; result=tmp_b2b_next70_kofas_0_40_browser_enriched_filtered_final.json; final_url=http://www.dslaser.biz/about; title=동성레이저; phones=02-6406-8818; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:07:26.000+09:00"
     },
     {
       "id": "95691",

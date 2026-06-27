@@ -3148,8 +3148,8 @@
       "region": "경기",
       "address": "경기 하남시 대성로95번길 17, 2층 현대푸드 하남사무소",
       "homepage": "http://www.hdfood.kr/",
-      "contact": "강종채",
-      "phone": "",
+      "contact": "전화: 031-338-1785 / 홈페이지: https://hdfood.kr/about-us/%ec%98%a4%ec%8b%9c%eb%8a%94%ea%b8%b8/",
+      "phone": "031-338-1785",
       "email": "",
       "confidence": "high",
       "source": "source_file:safetyfood_member_homepage",
@@ -3157,7 +3157,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "수산물가공품",
-      "id": "99887"
+      "id": "99887",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next70_enrichment; result=tmp_b2b_next70_safetyfood_0_20_browser_enriched_filtered_final.json; final_url=https://hdfood.kr/about-us/%ec%98%a4%ec%8b%9c%eb%8a%94%ea%b8%b8/; title=오시는길 - (주)현대푸드; phones=031-338-1785,061-864-7701; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:07:26.000+09:00"
     },
     {
       "name": "주식회사 드림팩",

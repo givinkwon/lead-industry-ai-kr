@@ -113833,9 +113833,9 @@
       "region": "전국",
       "address": "South Korea",
       "homepage": "https://www.kr.endress.com",
-      "contact": "https://www.bioplusinterphex.co.kr/en-us/visitor/exhibitor_directory/Exhibitor_detail.exh-d1e98f45-cb1d-4f0e-9962-db722fe1beaf.html",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2658-7200 / 이메일: info.kr@endress.com / 홈페이지: https://www.kr.endress.com/ko/contact",
+      "phone": "02-2658-7200",
+      "email": "info.kr@endress.com",
       "confidence": "high",
       "source": "source_file:bioplus_interphex_korea_2026_exhibitor_homepage",
       "source_page": "https://www.bioplusinterphex.co.kr/en-us/visitor/exhibitor_directory.html",
@@ -113855,7 +113855,10 @@
         "Biologics Manufacturing",
         "Cleanroom Equipment & Supplies"
       ],
-      "id": "92477"
+      "id": "92477",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next70_enrichment; result=tmp_b2b_next70_bioplus_0_20_browser_enriched_filtered_final.json; final_url=https://www.kr.endress.com/ko/contact; title=연락처 | Endress+Hauser; phones=02-2658-7200,052-274-9448,061-691-5721,02-3660-0366,032-822-6199; emails=info.kr@endress.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:07:26.000+09:00"
     },
     {
       "name": "KNBS",
