@@ -20362,8 +20362,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.rawga.co.kr/",
-      "contact": "김현민",
-      "phone": "",
+      "contact": "전화: 031-778-8552",
+      "phone": "031-778-8552",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -20371,7 +20371,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 식품 / 인증만료 2027-10-31",
-      "id": "100981"
+      "id": "100981",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next62_enrichment; final_url=https://www.rawga.co.kr/contactus-1-2; title=ODM/OEM Services | RAWGA OFFICIAL; source=source_file:innobiz_certified_company_homepage; manual_review=official_homepage_contact_visible; phones=031-778-8552; emails=; checked_urls=http://www.rawga.co.kr/|https://www.rawga.co.kr/company|https://www.rawga.co.kr/contactus-1-2|https://www.rawga.co.kr/contactus|https://www.rawga.co.kr/contact|https://www.rawga.co.kr/contact/|https://www.rawga.co.kr/contact-us|https://www.rawga.co.kr/inquiry|https://www.rawga.co.kr/support|https://www.rawga.co.kr/company/contact|https://www.rawga.co.kr/company/location|https://www.rawga.co.kr/company/about|https://www.rawga.co.kr/about|https://www.rawga.co.kr/about/|https://www.rawga.co.kr/kr/contact|https://www.rawga.co.kr/ko/contact; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:32:49.164+09:00"
     },
     {
       "name": "(주)엔피에스",
@@ -25135,8 +25138,8 @@
       "region": "광주",
       "address": "광주",
       "homepage": "http://www.mpsglobal.co.kr/",
-      "contact": "김대웅",
-      "phone": "",
+      "contact": "전화: 062-961-0322",
+      "phone": "062-961-0322",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -25144,7 +25147,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2027-04-15",
-      "id": "101291"
+      "id": "101291",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next62_enrichment; final_url=http://www.mpsglobal.co.kr/; title=MPS - Material Process Solutions; source=source_file:innobiz_certified_company_homepage; manual_review=official_homepage_contact_visible; phones=062-961-0322|031-304-6881; emails=; checked_urls=http://www.mpsglobal.co.kr/|http://www.mpsglobal.co.kr/#about|http://www.mpsglobal.co.kr/#contact|http://www.mpsglobal.co.kr/#about2|http://www.mpsglobal.co.kr/#about3|http://www.mpsglobal.co.kr/#|http://www.mpsglobal.co.kr/contact|http://www.mpsglobal.co.kr/contact/|http://www.mpsglobal.co.kr/contact-us|http://www.mpsglobal.co.kr/inquiry|http://www.mpsglobal.co.kr/support|http://www.mpsglobal.co.kr/company/contact|http://www.mpsglobal.co.kr/company/location|http://www.mpsglobal.co.kr/company/about|http://www.mpsglobal.co.kr/about|http://www.mpsglobal.co.kr/about/; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:32:49.164+09:00"
     },
     {
       "name": "주식회사볼코리아",
@@ -31114,8 +31120,8 @@
       "region": "충북",
       "address": "충북",
       "homepage": "http://wiregene.com/",
-      "contact": "현정근,윤상진",
-      "phone": "",
+      "contact": "전화: 041-550-3889",
+      "phone": "041-550-3889",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -31123,7 +31129,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 바이오 / 인증만료 2029-07-25",
-      "id": "101669"
+      "id": "101669",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next62_enrichment; final_url=http://wiregene.com/contact/address; title=Wiregene; source=source_file:innobiz_certified_company_homepage; manual_review=official_homepage_contact_visible; phones=041-550-3889; emails=; checked_urls=http://wiregene.com/|http://wiregene.com/about/ceoMessage|http://wiregene.com/about/ceoIntro|http://wiregene.com/about/mission|http://wiregene.com/about/history|http://wiregene.com/about/researchTeam|http://wiregene.com/about/rndFacility|http://wiregene.com/contact/address|http://wiregene.com/contact/email|http://wiregene.com/contact|http://wiregene.com/contact/|http://wiregene.com/contact-us|http://wiregene.com/inquiry|http://wiregene.com/support|http://wiregene.com/company/contact|http://wiregene.com/company/location; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:32:49.164+09:00"
     },
     {
       "name": "(주)남영휀스",
@@ -38744,16 +38753,19 @@
       "region": "충북",
       "address": "충북",
       "homepage": "http://www.pathwel.co.kr/",
-      "contact": "문현수",
+      "contact": "이메일: mhs0215@pathwel.co.kr",
       "phone": "",
-      "email": "",
+      "email": "mhs0215@pathwel.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 화학 / 인증만료 2028-12-06",
-      "id": "102161"
+      "id": "102161",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next62_enrichment; final_url=http://www.pathwel.co.kr/page/inquiry.php; title=PATHWEL; source=source_file:innobiz_certified_company_homepage; manual_review=official_homepage_contact_visible; phones=; emails=mhs0215@pathwel.co.kr; checked_urls=http://www.pathwel.co.kr/|http://www.pathwel.co.kr/page/about.php|http://www.pathwel.co.kr/page/location.php|http://www.pathwel.co.kr/page/csr.php|http://www.pathwel.co.kr/page/inquiry.php|http://www.pathwel.co.kr/contact|http://www.pathwel.co.kr/contact/|http://www.pathwel.co.kr/contact-us|http://www.pathwel.co.kr/inquiry|http://www.pathwel.co.kr/support|http://www.pathwel.co.kr/company/contact|http://www.pathwel.co.kr/company/location|http://www.pathwel.co.kr/company/about|http://www.pathwel.co.kr/about|http://www.pathwel.co.kr/about/|http://www.pathwel.co.kr/kr/contact; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:32:49.164+09:00"
     },
     {
       "name": "씨케이테크코리아 주식회사",
@@ -69694,8 +69706,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://inocn.com/",
-      "contact": "윤수형",
-      "phone": "",
+      "contact": "전화: 031-852-0857",
+      "phone": "031-852-0857",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -69703,7 +69715,10 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "product": "제조업 / 정보통신 / 인증만료 2028-04-18",
-      "id": "104170"
+      "id": "104170",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next62_enrichment; final_url=http://inocn.com/bbs/page.php?hid=support; title=Support > (주)이노씨앤정보통신; source=source_file:innobiz_certified_company_homepage; manual_review=official_homepage_contact_visible; phones=031-852-0857; emails=; checked_urls=http://inocn.com/|http://inocn.com/bbs/page.php?hid=intro|http://inocn.com/bbs/page.php?hid=load|http://inocn.com/bbs/page.php?hid=support|http://inocn.com/#sidebar_menu_s1|http://inocn.com/#sidebar_menu_s4|http://inocn.com/contact|http://inocn.com/contact/|http://inocn.com/contact-us|http://inocn.com/inquiry|http://inocn.com/support|http://inocn.com/company/contact|http://inocn.com/company/location|http://inocn.com/company/about|http://inocn.com/about|http://inocn.com/about/; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:32:49.164+09:00"
     },
     {
       "name": "주식회사 누아 (Nuua Inc.)",
@@ -70291,16 +70306,19 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.ekeosan.com/",
-      "contact": "이규식",
+      "contact": "이메일: keosan@ekeosan.com",
       "phone": "",
-      "email": "",
+      "email": "keosan@ekeosan.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "비제조업 / 바이오 / 인증만료 2028-07-21",
-      "id": "104208"
+      "id": "104208",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next62_enrichment; final_url=http://www.ekeosan.com/en/company/location.php; title=KEOSAN - Location | KEOSAN(거산무역상사); source=source_file:innobiz_certified_company_homepage; manual_review=official_homepage_contact_visible; phones=; emails=keosan@ekeosan.com; checked_urls=http://www.ekeosan.com/|http://www.ekeosan.com/en/company/ceo.php|http://www.ekeosan.com/en/company/history.php|http://www.ekeosan.com/en/company/major.php|http://www.ekeosan.com/en/company/location.php|http://www.ekeosan.com/en/customer/news.php|http://www.ekeosan.com/en/customer/video.php|http://www.ekeosan.com/en/customer/contact.php|http://www.ekeosan.com/en/product/fitme.php|http://www.ekeosan.com/en/product/misti.php|http://www.ekeosan.com/contact|http://www.ekeosan.com/contact/|http://www.ekeosan.com/contact-us|http://www.ekeosan.com/inquiry|http://www.ekeosan.com/support|http://www.ekeosan.com/company/contact; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:32:49.164+09:00"
     },
     {
       "name": "플랜트에셋(주)",
@@ -72181,16 +72199,19 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://handocns.com/",
-      "contact": "김용대",
+      "contact": "이메일: alex@handocns.com",
       "phone": "",
-      "email": "",
+      "email": "alex@handocns.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2028-02-26",
-      "id": "104319"
+      "id": "104319",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next62_enrichment; final_url=http://handocns.com/?c=1/11; title=한도CnS - 찾아오시는길; source=source_file:innobiz_certified_company_homepage; manual_review=official_homepage_contact_visible; phones=; emails=alex@handocns.com; checked_urls=http://handocns.com/|http://handocns.com/?mod=sitemap|http://handocns.com/?c=1/6|http://handocns.com/?c=1/10|http://handocns.com/?c=1/11|http://handocns.com/?c=1|http://handocns.com/contact|http://handocns.com/contact/|http://handocns.com/contact-us|http://handocns.com/inquiry|http://handocns.com/support|http://handocns.com/company/contact|http://handocns.com/company/location|http://handocns.com/company/about|http://handocns.com/about|http://handocns.com/about/; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:32:49.164+09:00"
     },
     {
       "name": "주식회사 스와디시크릿",

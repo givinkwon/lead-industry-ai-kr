@@ -14126,8 +14126,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.daishinvaluereit.com/",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 070-4473-7917",
+      "phone": "070-4473-7917",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -14136,7 +14136,10 @@
       "ksic_major_name": "금융 및 보험업",
       "lead_quality_grade": "A",
       "stock_code": "0030R0",
-      "product": "부동산 임대"
+      "product": "부동산 임대",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next62_enrichment; final_url=https://www.daishinvaluereit.com/company/contact; title=Contact | 대신밸류리츠; source=source_file:krx_listed_company_homepage; manual_review=official_homepage_contact_visible; phones=070-4473-7917; emails=; checked_urls=http://www.daishinvaluereit.com/|https://www.daishinvaluereit.com/company|https://www.daishinvaluereit.com/company/overview|https://www.daishinvaluereit.com/company/overview/profile|https://www.daishinvaluereit.com/company/overview/structure|https://www.daishinvaluereit.com/company/overview/highlights|https://www.daishinvaluereit.com/company/overview/strategy|https://www.daishinvaluereit.com/company/overview/roadmap|https://www.daishinvaluereit.com/company/history|https://www.daishinvaluereit.com/company/sponsors|https://www.daishinvaluereit.com/company/leadership|https://www.daishinvaluereit.com/company/contact|https://www.daishinvaluereit.com/portfolio/map|https://www.daishinvaluereit.com/contact|https://www.daishinvaluereit.com/contact/|https://www.daishinvaluereit.com/contact-us; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:32:49.164+09:00"
     },
     {
       "name": "지에프씨생명과학",
@@ -14592,9 +14595,9 @@
       "region": "충청남도",
       "address": "",
       "homepage": "http://lkchem.co.kr",
-      "contact": "",
+      "contact": "이메일: sales@lkchem.co.kr",
       "phone": "",
-      "email": "",
+      "email": "sales@lkchem.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78351",
@@ -14602,7 +14605,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "489500",
-      "product": "반도체 소재(CP, PCP, DIS) 등"
+      "product": "반도체 소재(CP, PCP, DIS) 등",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next62_enrichment; final_url=https://lkchem.co.kr/wp/product-05-ko/; title=사업소개제품문의 &#8211; lkchem; source=source_file:krx_listed_company_homepage; manual_review=official_homepage_contact_visible; phones=; emails=sales@lkchem.co.kr; checked_urls=http://lkchem.co.kr|https://lkchem.co.kr/wp/overview-ko/|https://lkchem.co.kr/wp/product-05-ko/|https://lkchem.co.kr/wp/help-desk-ko/|https://lkchem.co.kr/wp/cs-board-ko/|https://lkchem.co.kr/wp/cs-board-ko/?category1=Lkchem+%EC%86%8C%EC%8B%9D&#038;mod=list&#038;pageid=1|https://lkchem.co.kr/wp/cs-board-ko/?category1=%EA%B3%B5%EA%B0%9C%EC%9E%85%EC%B0%B0&#038;mod=list&#038;pageid=1|https://lkchem.co.kr/wp/cs-board-ko/?category1=%EA%B3%B5%EC%8B%9C%EC%86%A1%EB%8B%AC&#038;mod=list&#038;pageid=1|https://lkchem.co.kr/wp/cs-board-ko/?category1=%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C&#038;mod=list&#038;pageid=1|http://lkchem.co.kr/wp/overview-conpany-ko/|http://lkchem.co.kr/wp/help-desk-ko/|https://lkchem.co.kr/contact|https://lkchem.co.kr/contact/|https://lkchem.co.kr/contact-us|https://lkchem.co.kr/inquiry|https://lkchem.co.kr/support; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:32:49.164+09:00"
     },
     {
       "name": "위너스일렉",
@@ -14774,9 +14780,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://asterasys.com",
-      "contact": "",
+      "contact": "이메일: info@asterasys.com",
       "phone": "",
-      "email": "",
+      "email": "info@asterasys.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78360",
@@ -14784,7 +14790,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "450950",
-      "product": "피부 미용의료기기 제조, 판매"
+      "product": "피부 미용의료기기 제조, 판매",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next62_enrichment; final_url=https://asterasys.com/contact-us/location/; title=Where We’re Located | ASTERASYS; source=source_file:krx_listed_company_homepage; manual_review=official_homepage_contact_visible; phones=; emails=info@asterasys.com; checked_urls=http://asterasys.com|https://asterasys.com/about-us/|https://asterasys.com/about-us/company/|https://asterasys.com/about-us/business/|https://asterasys.com/about-us/history/|https://asterasys.com/about-us/global-network/|https://asterasys.com/contact-us/|https://asterasys.com/contact-us/contact-form/|https://asterasys.com/contact-us/location/|https://asterasys.com/blog/new-technology-new-paradigm-3/|https://asterasys.com/site-map/|https://asterasys.com/contact|https://asterasys.com/contact/|https://asterasys.com/contact-us|https://asterasys.com/inquiry|https://asterasys.com/support; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:32:49.164+09:00"
     },
     {
       "name": "와이즈넛",
@@ -15364,9 +15373,9 @@
       "region": "강원특별자치도",
       "address": "",
       "homepage": "http://www.hassbio.com",
-      "contact": "",
+      "contact": "이메일: gdkim@hassbio.com",
       "phone": "",
-      "email": "",
+      "email": "gdkim@hassbio.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78393",
@@ -15374,7 +15383,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "450330",
-      "product": "리튬디실리케이트 수복소재(Amber block, Amber Ingot 등), 지르코니아 유치관"
+      "product": "리튬디실리케이트 수복소재(Amber block, Amber Ingot 등), 지르코니아 유치관",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next62_enrichment; final_url=https://www.hassbio.com/en/contact_us; title=Contact US | HASS; source=source_file:krx_listed_company_homepage; manual_review=official_homepage_contact_visible; phones=; emails=hasschina@hassbio.com|gdkim@hassbio.com; checked_urls=http://www.hassbio.com|https://www.hassbio.com/en/contact_us|https://www.hassbio.com/en/education/about_HASS_academy|https://www.hassbio.com/en/rnd/dental_glass_ceramics|https://www.hassbio.com/en/about/all_about_us|https://www.hassbio.com/en/about/who_we_are|https://www.hassbio.com/en/about/what_we_do|https://www.hassbio.com/en/about/our_history|https://www.hassbio.com/en/about/leadership|https://www.hassbio.com/en/about/vision|https://www.hassbio.com/en/about/social_responsibility|https://www.hassbio.com/en/about/news|https://www.hassbio.com/en/about/event_exhibitions|https://www.hassbio.com/contact|https://www.hassbio.com/contact/|https://www.hassbio.com/contact-us; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:32:49.164+09:00"
     },
     {
       "name": "이노스페이스",
@@ -17726,9 +17738,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.model-solution.com",
-      "contact": "",
+      "contact": "이메일: sales@model-solution.com",
       "phone": "",
-      "email": "",
+      "email": "sales@model-solution.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78515",
@@ -17736,7 +17748,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "417970",
-      "product": "하이엔드 프로토타입 제조, 다품종 소량생산 서비스"
+      "product": "하이엔드 프로토타입 제조, 다품종 소량생산 서비스",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next62_enrichment; final_url=https://www.model-solution.com/en/company/contact; title=Contact Information - Model Solution Company; source=source_file:krx_listed_company_homepage; manual_review=official_homepage_contact_visible; phones=; emails=us.sales@model-solution.com|sales@model-solution.com; checked_urls=http://www.model-solution.com|https://www.model-solution.com/en/company/overview|https://www.model-solution.com/en/company/partners|https://www.model-solution.com/en/company/ir|https://www.model-solution.com/en/company/contact|https://www.model-solution.com/en/solutions/contactManufacturing|https://www.model-solution.com/en/main;jsessionid=DA92CC0355484F431DA949DEEFB09CBE.hms1#|https://www.model-solution.com/en/solutions/3dPrinting|https://www.model-solution.com/en/main;jsessionid=DA92CC0355484F431DA949DEEFB09CBE.hms1#none|https://www.model-solution.com/contact|https://www.model-solution.com/contact/|https://www.model-solution.com/contact-us|https://www.model-solution.com/inquiry|https://www.model-solution.com/support|https://www.model-solution.com/company/contact|https://www.model-solution.com/company/location; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:32:49.164+09:00"
     },
     {
       "name": "이노에이엑스",
@@ -31110,9 +31125,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.e-sang.net",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-580-0533 / 이메일: kbkim@e-sang.net",
+      "phone": "02-580-0533",
+      "email": "kbkim@e-sang.net",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79269",
@@ -31120,7 +31135,10 @@
       "ksic_major_name": "도매 및 소매업",
       "lead_quality_grade": "A",
       "stock_code": "080010",
-      "product": "기업간전자상거래서비스"
+      "product": "기업간전자상거래서비스",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next62_enrichment; final_url=https://e-sang.net/esang-networks/directions/; title=오시는 길 - 이상네트웍스; source=source_file:krx_listed_company_homepage; manual_review=official_homepage_contact_visible; phones=02-580-0533|02-3480-2000; emails=kbkim@e-sang.net|jnlee@e-sang.net; checked_urls=http://www.e-sang.net|https://e-sang.net/#|https://e-sang.net/esang-networks/company_history/|https://e-sang.net/esang-networks/directions/|https://bs.e-sang.net/NewContents/AboutUS/Privacy_before.htm|https://e-sang.net/contact|https://e-sang.net/contact/|https://e-sang.net/contact-us|https://e-sang.net/inquiry|https://e-sang.net/support|https://e-sang.net/company/contact|https://e-sang.net/company/location|https://e-sang.net/company/about|https://e-sang.net/about|https://e-sang.net/about/|https://e-sang.net/kr/contact; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:32:49.164+09:00"
     },
     {
       "name": "코아스",
@@ -31372,8 +31390,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.hanchem.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-353-2970",
+      "phone": "031-353-2970",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -31382,7 +31400,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "079170",
-      "product": "아연말,리튬브로마이드,산화망간,인산아연"
+      "product": "아연말,리튬브로마이드,산화망간,인산아연",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next62_enrichment; final_url=https://www.hanchem.com/about/location.php?PHPSESSID=932d3340831511bd9fd33745f893a9b8; title=; source=source_file:krx_listed_company_homepage; manual_review=official_homepage_contact_visible; phones=031-353-2970|02-3448-4266; emails=; checked_urls=http://www.hanchem.com|https://www.hanchem.com/about/mission.php?PHPSESSID=932d3340831511bd9fd33745f893a9b8|https://www.hanchem.com/about/history.php?PHPSESSID=932d3340831511bd9fd33745f893a9b8|https://www.hanchem.com/about/ci.php?PHPSESSID=932d3340831511bd9fd33745f893a9b8|https://www.hanchem.com/about/location.php?PHPSESSID=932d3340831511bd9fd33745f893a9b8|https://www.hanchem.com/customer/inquiry.php?PHPSESSID=932d3340831511bd9fd33745f893a9b8|https://www.hanchem.com/bbs/?so_table=news2&PHPSESSID=932d3340831511bd9fd33745f893a9b8|https://www.hanchem.com/bbs/?so_table=news&PHPSESSID=932d3340831511bd9fd33745f893a9b8|https://www.hanchem.com/contact|https://www.hanchem.com/contact/|https://www.hanchem.com/contact-us|https://www.hanchem.com/inquiry|https://www.hanchem.com/support|https://www.hanchem.com/company/contact|https://www.hanchem.com/company/location|https://www.hanchem.com/company/about; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:32:49.164+09:00"
     },
     {
       "name": "서산",
@@ -32922,8 +32943,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.abco.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-730-5063",
+      "phone": "031-730-5063",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -32932,7 +32953,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "036010",
-      "product": "인덕터, 저항기"
+      "product": "인덕터, 저항기",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next62_enrichment; final_url=http://www.abco.co.kr/common/company/company3_2.asp; title=아비코전자; source=source_file:krx_listed_company_homepage; manual_review=official_homepage_contact_visible; phones=031-730-5063; emails=; checked_urls=http://www.abco.co.kr|http://www.abco.co.kr/common/company/company1.asp|http://www.abco.co.kr/common/company/company1_2.asp|http://www.abco.co.kr/common/company/company1_3.asp|http://www.abco.co.kr/common/company/company1_4.asp|http://www.abco.co.kr/common/company/company1_5.asp|http://www.abco.co.kr/common/company/company1_6.asp|http://www.abco.co.kr/common/company/company1_7.asp|http://www.abco.co.kr/common/company/company1_8.asp|http://www.abco.co.kr/common/company/company2.asp|http://www.abco.co.kr/common/company/company3.asp|http://www.abco.co.kr/common/company/company3_2.asp|http://www.abco.co.kr/common/company/company4.asp|http://www.abco.co.kr/contact|http://www.abco.co.kr/contact/|http://www.abco.co.kr/contact-us; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:32:49.164+09:00"
     },
     {
       "name": "큐렉소",
@@ -35268,7 +35292,7 @@
       "contact": "",
       "phone": "",
       "email": "",
-      "confidence": "high",
+      "confidence": "medium",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79507",
       "ksic_major_code": "C",
@@ -41953,9 +41977,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.ilshin.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-794-4531 / 이메일: chpark@ilshin.co.kr",
+      "phone": "02-794-4531",
+      "email": "chpark@ilshin.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79890",
@@ -41963,7 +41987,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "003200",
-      "product": "면사,P/C혼방사,P/C혼방직물,화섬사 제조,수출"
+      "product": "면사,P/C혼방사,P/C혼방직물,화섬사 제조,수출",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next62_enrichment; final_url=http://www.ilshin.co.kr/front/kor/customer/sub_05.do; title=일신방직; source=source_file:krx_listed_company_homepage; manual_review=official_homepage_contact_visible; phones=02-794-4531|02-786-9933|02-3774-0126|02-3774-0125|02-3774-0132|031-489-4611|02-3774-0136|02-3774-0234; emails=chpark@ilshin.co.kr; checked_urls=http://www.ilshin.co.kr|http://www.ilshin.co.kr/front/kor/common/sitemap.do|http://www.ilshin.co.kr/front/kor/company/sub_01_01.do|http://www.ilshin.co.kr/front/kor/ethics/sub_04_01_01.do|http://www.ilshin.co.kr/front/kor/customer/sub_05.do|http://www.ilshin.co.kr/front/kor/company/sub_01_02.do|http://www.ilshin.co.kr/front/kor/company/sub_01_03_01.do|http://www.ilshin.co.kr/front/kor/company/sub_01_04.do|http://www.ilshin.co.kr/front/kor/company/sub_01_05.do|http://www.ilshin.co.kr/front/kor/company/noticeL.do|http://www.ilshin.co.kr/front/kor/finance/companyL.do|http://www.ilshin.co.kr/front/kor/company/sub_01_03_02.do|http://www.ilshin.co.kr/front/kor/company/sub_01_03_03.do|http://www.ilshin.co.kr/contact|http://www.ilshin.co.kr/contact/|http://www.ilshin.co.kr/contact-us; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:32:49.164+09:00"
     },
     {
       "name": "한솔홀딩스",
