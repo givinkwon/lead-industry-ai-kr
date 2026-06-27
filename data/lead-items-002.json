@@ -40228,16 +40228,19 @@
       "region": "제주특별자치도",
       "address": "제주특별자치도 제주시 애월읍 평화로 2715, 창업보육센터동(제주관광대학)",
       "homepage": "http://www.tforus.com/",
-      "contact": "https://www.tforus.com/company/",
+      "contact": "이메일: gogogo@tforus.com",
       "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "email": "gogogo@tforus.com",
+      "confidence": "high",
       "source": "source_file:j_sw_business_db",
       "id": "52365",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "B",
-      "source_page": "https://www.tforus.com/"
+      "source_page": "https://www.tforus.com/",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next55_enrichment; final_url=https://www.tforus.com/company/; title=Company | TFORUS; body_bytes=22219; name_score=5; manual_review=official_company_page_email_visible_secondary_typo_domain_excluded; phones=; emails=gogogo@tforus.com; checked_urls=https://www.tforus.com/company/; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:22:01+09:00"
     },
     {
       "name": "주식회사 제주아이티엘",

@@ -92063,8 +92063,8 @@
       "region": "서울",
       "address": "서울 영등포구 당산동6가 121-102 진성빌딩 4층",
       "homepage": "https://www.meaningware.co.kr/",
-      "contact": "https://www.meaningware.co.kr/",
-      "phone": "",
+      "contact": "전화: 02-2678-0988",
+      "phone": "02-2678-0988",
       "email": "",
       "confidence": "high",
       "source": "source_file:j_sw_business_db",
@@ -92072,7 +92072,10 @@
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "B",
-      "id": "111810"
+      "id": "111810",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next55_enrichment; final_url=https://www.meaningware.co.kr/; title=(주) 미닝웨어; body_bytes=24119; name_score=10; manual_review=official_homepage_company_phone_visible_secondary_number_excluded; phones=02-2678-0988; emails=; checked_urls=https://www.meaningware.co.kr/; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:22:01+09:00"
     },
     {
       "name": "주식회사 스윗트래커",
@@ -93204,16 +93207,19 @@
       "region": "서울",
       "address": "서울특별시 마포구 월드컵북로 396 (상암동 ,누리꿈스퀘어 연구개발타워 7층)",
       "homepage": "https://www.onionsoftware.com/",
-      "contact": "https://www.onionsoftware.com/",
+      "contact": "이메일: biz@onionsoftware.com",
       "phone": "",
-      "email": "",
+      "email": "biz@onionsoftware.com",
       "confidence": "high",
       "source": "source_file:j_sw_business_db",
       "source_page": "C:\\Users\\블루웨일\\Documents\\Codex\\2026-06-22\\givinkwon-github-construction-lead-lead-industry\\construction_lead_collector\\data\\source_files\\j_sw_business_db\\EC_82_AC_EC_97_85_EC_9E_90_EC_A0_95_EB_B3_B4_20250630.csv",
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "B",
-      "id": "111875"
+      "id": "111875",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next55_enrichment; final_url=https://www.onionsoftware.com/; title=Onion Software - 어니언소프트웨어; body_bytes=40128; name_score=10; manual_review=official_homepage_business_email_visible_singapore_email_excluded; phones=; emails=biz@onionsoftware.com; checked_urls=https://www.onionsoftware.com/; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:22:01+09:00"
     },
     {
       "name": "주식회사 루테크",
@@ -94375,8 +94381,8 @@
       "region": "경기",
       "address": "경기도 안양시 동안구 벌말로 123,  1005호 (관양동, 평촌스마트베이)",
       "homepage": "https://oscoict.com/",
-      "contact": "https://oscoict.com/",
-      "phone": "",
+      "contact": "전화: 031-8069-2293",
+      "phone": "031-8069-2293",
       "email": "",
       "confidence": "high",
       "source": "source_file:j_sw_business_db",
@@ -94384,7 +94390,10 @@
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "C",
-      "id": "111937"
+      "id": "111937",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next55_enrichment; final_url=https://oscoict.com/; title=오스코; body_bytes=262410; name_score=10; manual_review=official_homepage_phone_visible; phones=031-8069-2293; emails=; checked_urls=https://oscoict.com/; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:22:01+09:00"
     },
     {
       "name": "미래정보산업(주)",
@@ -95158,8 +95167,8 @@
       "region": "서울",
       "address": "서울특별시 금천구 가산디지털2로 184, 12층 1209호 (가산동, 벽산디지털밸리2차)",
       "homepage": "http://www.jscgtech.co.kr",
-      "contact": "http://www.jscgtech.co.kr",
-      "phone": "",
+      "contact": "전화: 02-865-4600",
+      "phone": "02-865-4600",
       "email": "",
       "confidence": "high",
       "source": "source_file:j_sw_business_db",
@@ -95167,7 +95176,10 @@
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "C",
-      "id": "111981"
+      "id": "111981",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next55_enrichment; final_url=http://www.jscgtech.co.kr/; title=진성씨지테크; body_bytes=30433; name_score=10; manual_review=official_homepage_phone_visible_secondary_number_excluded; phones=02-865-4600; emails=; checked_urls=http://www.jscgtech.co.kr/; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:22:01+09:00"
     },
     {
       "name": "주식회사 아이앤이",
