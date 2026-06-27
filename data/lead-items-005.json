@@ -18676,9 +18676,9 @@
       "region": "충청북도",
       "address": "",
       "homepage": "http://www.enchem.net",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 041-568-9080 / 이메일: enchem@enchem.kr / 홈페이지: https://www.enchem.net/home/sub.php?menukey=458",
+      "phone": "041-568-9080",
+      "email": "enchem@enchem.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78561",
@@ -18686,7 +18686,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "348370",
-      "product": "2차전지 전해액"
+      "product": "2차전지 전해액",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next75_enrichment; result=targeted_b2b_next75_render_check; final_url=https://www.enchem.net/home/sub.php?menukey=458; title=엔켐 Contact; phones=041-568-9080; emails=enchem@enchem.kr; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T22:21:34.243+09:00"
     },
     {
       "name": "리파인",
@@ -21451,9 +21454,9 @@
       "region": "대전광역시",
       "address": "",
       "homepage": "http://www.sugentech.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 042-364-5000 / 이메일: info@sugentech.com, sales@sugentech.com / 홈페이지: https://www.sugentech.com/kr/sub/company/directions.php",
+      "phone": "042-364-5000",
+      "email": "info@sugentech.com, sales@sugentech.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78714",
@@ -21461,7 +21464,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "253840",
-      "product": "체외진단 기기 및 시약"
+      "product": "체외진단 기기 및 시약",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next75_enrichment; result=targeted_b2b_next75_render_check; final_url=https://www.sugentech.com/kr/sub/company/directions.php; title=수젠텍 오시는 길; phones=042-364-5000; emails=info@sugentech.com,sales@sugentech.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T22:21:34.243+09:00"
     },
     {
       "name": "컴퍼니케이",
@@ -24842,9 +24848,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.wonikpne.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-299-0100 / 이메일: power@wonik.com / 홈페이지: https://www.wonikpne.com/kr/contact/contact_as.php",
+      "phone": "031-299-0100",
+      "email": "power@wonik.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78909",
@@ -24852,7 +24858,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "217820",
-      "product": "2차전지 자동화 설비"
+      "product": "2차전지 자동화 설비",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next75_enrichment; result=targeted_b2b_next75_render_check; final_url=https://www.wonikpne.com/kr/contact/contact_as.php; title=원익피앤이 고객문의; phones=031-299-0100; emails=power@wonik.com; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T22:21:34.243+09:00"
     },
     {
       "name": "세진중공업",

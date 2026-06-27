@@ -46156,9 +46156,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "https://www.metrohm.com/ko_kr.html",
-      "contact": "",
+      "contact": "이메일: info@metrohm.kr / 홈페이지: https://www.metrohm.com/ko_kr/company/academy.html",
       "phone": "",
-      "email": "",
+      "email": "info@metrohm.kr",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=303&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=657335",
@@ -46167,7 +46167,10 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "B",
       "booth": "W206",
-      "source_note": "Metrohm is a global leader in precision chemical analysis instruments, recognized for its Swiss quality, technological expertise, and reliability. Founded in 1943 in Herisau, Switzerland, Metrohm has built a strong reputation through continuous innovation and a commitment to high standards. Today, its products and services are available in more than 80 countries through over 37 subsidiaries and a wide network of exclusive distributors. Metrohm supports laboratories and production environments wi"
+      "source_note": "Metrohm is a global leader in precision chemical analysis instruments, recognized for its Swiss quality, technological expertise, and reliability. Founded in 1943 in Herisau, Switzerland, Metrohm has built a strong reputation through continuous innovation and a commitment to high standards. Today, its products and services are available in more than 80 countries through over 37 subsidiaries and a wide network of exclusive distributors. Metrohm supports laboratories and production environments wi",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next75_enrichment; result=targeted_b2b_next75_render_check; final_url=https://www.metrohm.com/ko_kr/company/academy.html; title=세미나 및 교육 | Metrohm; phones=; emails=info@metrohm.kr; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T22:21:34.243+09:00"
     },
     {
       "id": "89095",

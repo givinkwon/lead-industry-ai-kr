@@ -53857,9 +53857,9 @@
       "region": "해외",
       "address": "Gyeonggi-do,, Germany",
       "homepage": "http://www.centrotherm.world",
-      "contact": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=62&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=642938",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-695-8125 / 이메일: service@centrotherm.kr / 홈페이지: https://www.centrotherm.de/en/contact",
+      "phone": "031-695-8125",
+      "email": "service@centrotherm.kr",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/exhibitors.aspx",
@@ -53870,7 +53870,10 @@
       "source_id": "semicon-korea-2026:642938",
       "country": "Germany",
       "source_category": "SEMICON Korea 2026",
-      "id": "95565"
+      "id": "95565",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next75_enrichment; result=targeted_b2b_next75_render_check; final_url=https://www.centrotherm.de/en/contact; title=Contact | centrotherm; phones=031-695-8125; emails=service@centrotherm.kr; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T22:21:34.243+09:00"
     },
     {
       "name": "CHANGZHOU MINGSEAL ROBOT TECHNOLOGY CO., LTD.",
