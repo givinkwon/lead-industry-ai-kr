@@ -46101,8 +46101,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.mat.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-659-0600 / 홈페이지: https://www.mat.co.kr/kr/contact/contact_sub01.html",
+      "phone": "031-659-0600",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -46112,7 +46112,10 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "B",
       "booth": "A328",
-      "source_note": "당사는 1995년 설립 이래 30년 동안 오직 스크러버 한 품목에 매진해왔습니다. 우리는 이제까지 끊임없는 기술 혁신과 고객 중심의 서비스를 통해 고객의 신뢰를 얻으며 성장해 왔습니다. 엠에이티플러스는 ‘고객가치 최우선’ 을 위해 선제적 안전, 신속한 서비스, 최고 수준의 설비 퍼포먼스라는 세 가지 목표 아래 혁신을 이뤄내며 발전하겠습니다"
+      "source_note": "당사는 1995년 설립 이래 30년 동안 오직 스크러버 한 품목에 매진해왔습니다. 우리는 이제까지 끊임없는 기술 혁신과 고객 중심의 서비스를 통해 고객의 신뢰를 얻으며 성장해 왔습니다. 엠에이티플러스는 ‘고객가치 최우선’ 을 위해 선제적 안전, 신속한 서비스, 최고 수준의 설비 퍼포먼스라는 세 가지 목표 아래 혁신을 이뤄내며 발전하겠습니다",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next71_enrichment; result=tmp_b2b_next71_semicon0_0_80_browser_enriched_filtered_final.json; final_url=https://www.mat.co.kr/kr/contact/contact_sub01.html; title=엠에이티플러스 오시는 길; phones=031-659-0600; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:20:16.442+09:00"
     },
     {
       "id": "89093",
@@ -47129,8 +47132,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.seoilenm.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-206-0400 / 홈페이지: http://www.seoilenm.com/kor/contact/index.php",
+      "phone": "031-206-0400",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -47140,7 +47143,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "B",
       "booth": "C604",
-      "source_note": ""
+      "source_note": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next71_enrichment; result=tmp_b2b_next71_semicon0_0_80_browser_enriched_filtered_final.json; final_url=http://www.seoilenm.com/kor/contact/index.php; title=서일이앤엠 문의; phones=031-206-0400; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:20:16.442+09:00"
     },
     {
       "id": "89139",

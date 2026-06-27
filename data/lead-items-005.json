@@ -40862,8 +40862,8 @@
       "region": "부산광역시",
       "address": "",
       "homepage": "http://www.sebang.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-3469-0300 / 홈페이지: https://www.sebang.com/contents/01_10.asp",
+      "phone": "02-3469-0300",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -40872,7 +40872,10 @@
       "ksic_major_name": "운수 및 창고업",
       "lead_quality_grade": "A",
       "stock_code": "004360",
-      "product": "도로운송,항만하역,창고,지게차 임대"
+      "product": "도로운송,항만하역,창고,지게차 임대",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next71_enrichment; result=tmp_b2b_next71_krx220_220_80_browser_enriched_filtered_final.json; final_url=https://www.sebang.com/contents/01_10.asp; title=세방 찾아오시는 길; phones=02-3469-0300; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:20:16.442+09:00"
     },
     {
       "name": "삼영전자공업",

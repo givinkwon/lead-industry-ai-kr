@@ -25271,8 +25271,8 @@
       "region": "전국",
       "address": "경기도 화성시, 경기도 Korea (South)",
       "homepage": "http://www.tfe.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-206-0541 / 홈페이지: https://tfe.co.kr/locations",
+      "phone": "031-206-0541",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -25285,7 +25285,10 @@
       "source_note": "㈜티에프이는 반도체Final Test부분 COK/소켓/BOARD/장비의 개발/제조/솔루션 제공을 합니다.",
       "country": "Korea, Republic of",
       "source_id": "semicon-2026-tfe-tfe.co.kr",
-      "id": "94142"
+      "id": "94142",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next71_enrichment; result=tmp_b2b_next71_semicon0_0_80_browser_enriched_filtered_final.json; final_url=https://tfe.co.kr/locations; title=TFE locations; phones=031-206-0541; emails=; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:20:16.442+09:00"
     },
     {
       "name": "TRACOWORLD LTD.",
@@ -53851,9 +53854,9 @@
       "region": "해외",
       "address": "Gyeonggi-do,, Germany",
       "homepage": "http://www.centrotherm.world",
-      "contact": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=62&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=642938",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-695-8125 / 이메일: service@centrotherm.kr / 홈페이지: https://www.centrotherm.de/en/contact",
+      "phone": "031-695-8125",
+      "email": "service@centrotherm.kr",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/exhibitors.aspx",
@@ -53864,7 +53867,10 @@
       "source_id": "semicon-korea-2026:642938",
       "country": "Germany",
       "source_category": "SEMICON Korea 2026",
-      "id": "95565"
+      "id": "95565",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next71_enrichment; result=tmp_b2b_next71_semicon0_0_80_browser_enriched_filtered_final.json; final_url=https://www.centrotherm.de/en/contact; title=centrotherm Korea contact; phones=031-695-8125; emails=service@centrotherm.kr; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T21:20:16.442+09:00"
     },
     {
       "name": "CHANGZHOU MINGSEAL ROBOT TECHNOLOGY CO., LTD.",
