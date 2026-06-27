@@ -17393,9 +17393,9 @@
       "segment": "코넥스",
       "region": "대구광역시",
       "address": "",
-      "homepage": "http://www.micronx.co.kr",
-      "contact": "",
-      "phone": "",
+      "homepage": "https://www.micronx.co.kr/intro.html",
+      "contact": "전화: 053-650-1000, 02-568-1122 / 홈페이지: https://www.micronx.co.kr/intro.html",
+      "phone": "053-650-1000, 02-568-1122",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -17404,7 +17404,11 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "448780",
-      "product": "의료용구(전동기)"
+      "product": "의료용구(전동기)",
+      "source_page": "http://www.micronx.co.kr",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next89_enrichment; result=rendered_homepage_contact; final_url=https://www.micronx.co.kr/intro.html; title=MICRO-NX; body_bytes=1538; phones=053-650-1000,02-568-1122; emails=; checked_urls=https://www.micronx.co.kr/intro.html; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-28T02:24:53.703+09:00"
     },
     {
       "name": "애니메디솔루션",
@@ -21097,10 +21101,10 @@
       "segment": "코스닥",
       "region": "경기도",
       "address": "",
-      "homepage": "http://www.raymedical.co.kr/",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "homepage": "http://wp1.raymedical.com/company/",
+      "contact": "전화: 031-605-1000 / 이메일: ray_sales@raymedical.co.kr / 홈페이지: http://wp1.raymedical.com/company/",
+      "phone": "031-605-1000",
+      "email": "ray_sales@raymedical.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78696",
@@ -21108,7 +21112,11 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "228670",
-      "product": "디지털 치료솔루션(CT scan 장비, 3D 프린터), 디지털 진단시스템(X-ray, CT 등)"
+      "product": "디지털 치료솔루션(CT scan 장비, 3D 프린터), 디지털 진단시스템(X-ray, CT 등)",
+      "source_page": "http://www.raymedical.co.kr/",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next89_enrichment; result=rendered_homepage_contact; final_url=http://wp1.raymedical.com/company/; title=회사소개 – Ray; body_bytes=8689; phones=031-605-1000; emails=ray_sales@raymedical.co.kr; checked_urls=http://wp1.raymedical.com/company/; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-28T02:24:53.703+09:00"
     },
     {
       "name": "그린플러스",
