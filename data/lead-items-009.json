@@ -2462,16 +2462,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://gnplink.com/",
-      "contact": "황순신",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-6203-1532 / 이메일: hjhan@gnplink.com / 홈페이지: http://gnplink.com/",
+      "phone": "02-6203-1532",
+      "email": "hjhan@gnplink.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
       "product": "비제조업 / 서비스 / 인증만료 2027-04-15",
-      "id": "106013"
+      "id": "106013",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next44_enrichment; final_url=http://www.gnplink.com/; title=gnpgroup; body_bytes=1200; name_score=0; manual_review=official_homepage_html_rendered_tel_email_visible_excluded_fax_02-6203-1533_and_affiliate_email; phones=02-6203-1532; emails=hjhan@gnplink.com; checked_urls=http://www.gnplink.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "성우산업 주식회사",
@@ -2846,8 +2848,8 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.harnics.com/",
-      "contact": "김정호",
-      "phone": "",
+      "contact": "전화: 02-837-0150 / 홈페이지: http://www.harnics.com/",
+      "phone": "02-837-0150",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -2855,7 +2857,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2027-02-05",
-      "id": "106038"
+      "id": "106038",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next44_enrichment; final_url=https://harnics.com/en/; title=HARNICS | From Tech To Innovation; body_bytes=1200; name_score=0; manual_review=official_homepage_html_rendered_tel_visible_excluded_fax_02-837-0159; phones=02-837-0150; emails=; checked_urls=https://harnics.com/en/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)경신산업",
@@ -4574,16 +4578,18 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.e-biogen.com/",
-      "contact": "유성덕",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-3141-0791 / 이메일: service@e-biogen.com / 홈페이지: http://www.e-biogen.com/",
+      "phone": "02-3141-0791",
+      "email": "service@e-biogen.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 바이오 / 인증만료 2027-07-18",
-      "id": "106156"
+      "id": "106156",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next44_enrichment; final_url=https://www.e-biogen.com/support; title=이바이오젠; body_bytes=1200; name_score=0; manual_review=official_support_page_html_rendered_tel_email_visible_excluded_fax_02-3141-0792; phones=02-3141-0791; emails=service@e-biogen.com; checked_urls=https://www.e-biogen.com/support; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "대웅기업주식회사",

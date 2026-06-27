@@ -92728,8 +92728,8 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.entasys.com/",
-      "contact": "YANGLIANFENG(양리안펑)",
-      "phone": "",
+      "contact": "전화: 02-400-7540 / 홈페이지: http://www.entasys.com/",
+      "phone": "02-400-7540",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -92737,7 +92737,9 @@
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "A",
       "product": "SW / 서비스 / 인증만료 2027-11-22",
-      "id": "105627"
+      "id": "105627",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next44_enrichment; final_url=http://www.entasys.com/; title=Entasys Design Inc; body_bytes=1200; name_score=0; manual_review=official_homepage_html_rendered_tel_visible_excluded_fax_02-400-7541; phones=02-400-7540; emails=; checked_urls=http://www.entasys.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)블루코어컴퍼니",
@@ -94143,8 +94145,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://sfk21.com/",
-      "contact": "조인기",
-      "phone": "",
+      "contact": "전화: 031-711-8891, 031-675-1115 / 홈페이지: http://sfk21.com/",
+      "phone": "031-711-8891, 031-675-1115",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -94152,7 +94154,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2027-09-13",
-      "id": "105724"
+      "id": "105724",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next44_enrichment; final_url=http://www.sfk21.com/; title=(주)에스에프코리아; body_bytes=1500; name_score=0; manual_review=official_homepage_html_rendered_hq_factory_tel_visible_excluded_faxes_031-711-8869_031-675-0115; phones=031-711-8891,031-675-1115; emails=; checked_urls=http://www.sfk21.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)도너랜드",
@@ -95394,16 +95398,18 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.fdcg.co.kr/",
-      "contact": "남중관",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-547-4001, 031-322-8362 / 이메일: chans@fdcg.co.kr / 홈페이지: http://www.fdcg.co.kr/",
+      "phone": "02-547-4001, 031-322-8362",
+      "email": "chans@fdcg.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
       "lead_quality_grade": "A",
       "product": "디자인 / 서비스 / 인증만료 2028-08-24",
-      "id": "105806"
+      "id": "105806",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next44_enrichment; final_url=http://fdcg.co.kr/contact-us/; title=Contact Us - 파인아트; body_bytes=1600; name_score=0; manual_review=official_contact_page_html_rendered_two_site_tel_email_visible_excluded_faxes_02-547-0040_031-322-8363; phones=02-547-4001,031-322-8362; emails=chans@fdcg.co.kr; checked_urls=http://fdcg.co.kr/contact-us/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 티제이이노베이션",
