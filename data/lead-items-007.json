@@ -53692,8 +53692,8 @@
       "region": "해외",
       "address": "Hwaseong-si, Gyeonggi-go,, Netherlands",
       "homepage": "http://www.asm.com",
-      "contact": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=33&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=635054",
-      "phone": "",
+      "contact": "전화: 070-7596-7704",
+      "phone": "070-7596-7704",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -53705,7 +53705,10 @@
       "source_id": "semicon-korea-2026:635054",
       "country": "Netherlands",
       "source_category": "SEMICON Korea 2026",
-      "id": "95559"
+      "id": "95559",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next53_enrichment; final_url=https://www.asm.com/service-and-support; title=Service and support | ASM; body_bytes=105729; name_score=12; manual_review=official_support_page_south_korea_phone_visible_us_phone_false_positive_excluded; phones=070-7596-7704; emails=; checked_urls=http://www.asm.com | https://www.asm.com/service-and-support; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:01:51+09:00"
     },
     {
       "name": "ASMPT",
@@ -54100,9 +54103,9 @@
       "region": "해외",
       "address": "Hwaseong-si, Gyeonggi-do,, Germany",
       "homepage": "http://www.ensingerplastics.com/ko-kr",
-      "contact": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=132&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=633891",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-926-3512 / 이메일: sales.kr@ensingerplastics.com",
+      "phone": "031-926-3512",
+      "email": "sales.kr@ensingerplastics.com",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/exhibitors.aspx",
@@ -54113,7 +54116,10 @@
       "source_id": "semicon-korea-2026:633891",
       "country": "Germany",
       "source_category": "SEMICON Korea 2026",
-      "id": "95578"
+      "id": "95578",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next53_enrichment; final_url=https://www.ensingerplastics.com/ko-kr/locations; title=위치 | Ensinger; body_bytes=141163; name_score=1; manual_review=official_korean_locations_page_ensinger_korea_phone_email_visible_fax_excluded; phones=031-926-3512; emails=sales.kr@ensingerplastics.com; checked_urls=http://www.ensingerplastics.com/ko-kr | https://www.ensingerplastics.com/ko-kr/locations; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:01:51+09:00"
     },
     {
       "name": "ENTEGRIS",

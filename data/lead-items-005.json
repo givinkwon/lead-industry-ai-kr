@@ -21126,9 +21126,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.xperix.com",
-      "contact": "",
+      "contact": "이메일: korea@xperix.com, cs@xperix.com",
       "phone": "",
-      "email": "",
+      "email": "korea@xperix.com, cs@xperix.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78700",
@@ -21136,7 +21136,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "317770",
-      "product": "지문인식 등록, 인증 기기 및 솔루션"
+      "product": "지문인식 등록, 인증 기기 및 솔루션",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next53_enrichment; final_url=https://www.xperix.com/ko/company/contact-us; title=궁금한 점이 있으신가요? | 엑스페릭스; body_bytes=39961; name_score=10; manual_review=official_korean_contact_page_sales_and_technical_email_visible_service_phone_1588_and_fax_excluded; phones=; emails=korea@xperix.com, cs@xperix.com; checked_urls=http://www.xperix.com/ | https://www.xperix.com/ko/company/contact-us; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:01:50+09:00"
     },
     {
       "name": "캐리",
@@ -25834,9 +25837,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.hironic.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-525-7000 / 이메일: info@hironic.com",
+      "phone": "031-525-7000",
+      "email": "info@hironic.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78968",
@@ -25844,7 +25847,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "149980",
-      "product": "피부미용 의료기기"
+      "product": "피부미용 의료기기",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next53_enrichment; final_url=https://hironic.com/p/map; title=Contact - hironic; body_bytes=69676; name_score=5; manual_review=official_contact_page_sales_support_phone_email_visible_customer_service_and_rnd_numbers_not_primary; phones=031-525-7000; emails=info@hironic.com; checked_urls=http://www.hironic.com/ | https://hironic.com/p/map; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:01:50+09:00"
     },
     {
       "name": "랩지노믹스",
@@ -34366,9 +34372,9 @@
       "region": "충청남도",
       "address": "",
       "homepage": "http://sungroup.kr/seungilsun/",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2186-1170 / 이메일: seungil@seungilcan.co.kr",
+      "phone": "02-2186-1170",
+      "email": "seungil@seungilcan.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79458",
@@ -34376,7 +34382,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "049830",
-      "product": "에어졸캔,에어졸발브,일반관"
+      "product": "에어졸캔,에어졸발브,일반관",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next53_enrichment; final_url=http://www.sungroup.kr/seungilsun/sub0503.jsp; title=승일 방문을 환영합니다.; body_bytes=17427; name_score=10; manual_review=official_contact_page_representative_contact_visible_department_mobiles_excluded; phones=02-2186-1170; emails=seungil@seungilcan.co.kr; checked_urls=http://sungroup.kr/seungilsun/ | http://www.sungroup.kr/seungilsun/sub0503.jsp; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:01:50+09:00"
     },
     {
       "name": "TPC로보틱스",
@@ -39992,9 +40001,9 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.gbattery.com",
-      "contact": "",
+      "contact": "이메일: cs@gbattery.com",
       "phone": "",
-      "email": "",
+      "email": "cs@gbattery.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79782",
@@ -40002,7 +40011,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "004490",
-      "product": "자동차용 및 산업용 축전지(연축전지) 제조,판매"
+      "product": "자동차용 및 산업용 축전지(연축전지) 제조,판매",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next53_enrichment; final_url=https://www.gbattery.com/board/contactus; title=세방전지 | 고객지원센터; body_bytes=40179; name_score=10; manual_review=official_customer_contact_page_email_visible_service_phone_1899_excluded; phones=; emails=cs@gbattery.com; checked_urls=http://www.gbattery.com | https://www.gbattery.com/board/contactus; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:01:50+09:00"
     },
     {
       "name": "진원생명과학",
@@ -40662,9 +40674,9 @@
       "region": "울산광역시",
       "address": "",
       "homepage": "http://www.songwon.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 052-273-9841, 031-204-8801, 02-536-3600 / 이메일: koreasales@songwon.com",
+      "phone": "052-273-9841, 031-204-8801, 02-536-3600",
+      "email": "koreasales@songwon.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "79819",
@@ -40672,7 +40684,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "004430",
-      "product": "폴리머첨가제(PVC안정제,산화방지제),폴리우레탄수지,프라스틱첨가제 제조"
+      "product": "폴리머첨가제(PVC안정제,산화방지제),폴리우레탄수지,프라스틱첨가제 제조",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next53_enrichment; final_url=https://www.songwon.com/contact; title=SONGWON Industrial Group - Contact; body_bytes=223855; name_score=0; manual_review=official_contact_page_korea_sales_locations_visible; phones=052-273-9841, 031-204-8801, 02-536-3600; emails=koreasales@songwon.com; checked_urls=http://www.songwon.com | https://www.songwon.com/contact; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:01:50+09:00"
     },
     {
       "name": "진흥기업",

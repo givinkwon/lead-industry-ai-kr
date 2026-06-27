@@ -95269,8 +95269,8 @@
       "region": "전국",
       "address": "KOREA",
       "homepage": "http://www.yymetal.co.kr",
-      "contact": "https://www.korea-metal.com/en/visitor/exhibitor_detail/2490",
-      "phone": "",
+      "contact": "전화: 031-949-9950",
+      "phone": "031-949-9950",
       "email": "",
       "confidence": "high",
       "source": "source_file:korea_metal_week_2026_exhibitor_homepage",
@@ -95282,7 +95282,10 @@
       "source_id": "korea-metal-2026-2490",
       "country": "KOREA",
       "source_category": "KOREA METAL WEEK 2026",
-      "id": "91783"
+      "id": "91783",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next53_enrichment; final_url=http://www.yymetal.co.kr/contact; title=양양메탈; body_bytes=11853; name_score=1; manual_review=official_contact_page_tel_visible_fax_excluded; phones=031-949-9950; emails=; checked_urls=http://www.yymetal.co.kr | http://www.yymetal.co.kr/contact; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T18:01:50+09:00"
     },
     {
       "name": "LASERVALL KOREA Inc.",
