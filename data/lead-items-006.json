@@ -2518,16 +2518,19 @@
       "region": "서울특별시",
       "address": "서울 강남구 개포로 623 (개포동, 대청타워)",
       "homepage": "http://www.miraegc.com",
-      "contact": "",
+      "contact": "이메일: info@miraegc.com",
       "phone": "",
-      "email": "",
+      "email": "info@miraegc.com",
       "confidence": "high",
       "source": "source_file:kova_member_company_homepage",
       "source_page": "https://venture.or.kr/home/kor/M318196487/membership/status/all/index.do?pageIndex=621",
       "representative": "조희성",
       "ksic_major_code": "G",
       "ksic_major_name": "도매 및 소매업",
-      "lead_quality_grade": "A"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next64_enrichment; final_url=https://www.miraegc.com/itc/company/location?menuId=20; title=미래그린케미칼; source=source_file:kova_member_company_homepage; manual_review=official_homepage_contact_visible; phones=; emails=info@miraegc.com; checked_urls=http://www.miraegc.com|https://www.miraegc.com/itc/company/aboutUs?menuId=3|https://www.miraegc.com/itc/company/ceo?menuId=2|https://www.miraegc.com/itc/company/history?menuId=19|https://www.miraegc.com/itc/company/location?menuId=20|https://www.miraegc.com/posts/3?menuId=18|https://www.miraegc.com/itc/customer/inquiry?menuId=15|https://www.miraegc.com/itc/customer/inquiry?parentId=14&menuId=15|https://www.miraegc.com/#tabs_3|https://www.miraegc.com/contact|https://www.miraegc.com/contact/|https://www.miraegc.com/contact-us|https://www.miraegc.com/inquiry|https://www.miraegc.com/support|https://www.miraegc.com/company/contact|https://www.miraegc.com/company/location|https://www.miraegc.com/company/about|https://www.miraegc.com/about; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:54:40.398+09:00"
     },
     {
       "id": "83621",

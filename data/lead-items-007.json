@@ -82560,8 +82560,8 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.pentasecurity.com/",
-      "contact": "https://kisia.or.kr/membership/member_company_guide/",
-      "phone": "",
+      "contact": "전화: 02-9706-9084",
+      "phone": "02-9706-9084",
       "email": "",
       "confidence": "high",
       "source": "source_file:kisia_member_company_homepage",
@@ -82575,7 +82575,10 @@
       "category_names": [
         "한국정보보호산업협회 회원사안내",
         "정보보안·사이버보안"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next64_enrichment; final_url=https://www.pentasecurity.com/company/locations/; title=Penta Security Locations | Penta Security Inc.; source=source_file:kisia_member_company_homepage; manual_review=official_homepage_contact_visible; phones=02-9706-9084|044-489-3225|044-489-3226|044-492-2929; emails=japan@pentasecurity.com; checked_urls=https://www.pentasecurity.com/|https://www.pentasecurity.com/company/about-us/|https://www.pentasecurity.com/company/company_history/|https://www.pentasecurity.com/company/awards/|https://www.pentasecurity.com/company/locations/|https://www.pentasecurity.com/company/partnership/|https://www.pentasecurity.com/contact-us/|https://www.pentasecurity.com/contact-us-old/faq/|https://www.pentasecurity.com/contact|https://www.pentasecurity.com/contact/|https://www.pentasecurity.com/contact-us|https://www.pentasecurity.com/inquiry|https://www.pentasecurity.com/support|https://www.pentasecurity.com/company/contact|https://www.pentasecurity.com/company/location|https://www.pentasecurity.com/company/about|https://www.pentasecurity.com/about|https://www.pentasecurity.com/about/; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:54:40.398+09:00"
     },
     {
       "id": "96759",
@@ -82722,9 +82725,9 @@
       "region": "전국",
       "address": "",
       "homepage": "https://coresec.co.kr/",
-      "contact": "https://kisia.or.kr/membership/member_company_guide/",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-3453-6630 / 이메일: coresec@coresec.co.kr",
+      "phone": "02-3453-6630",
+      "email": "coresec@coresec.co.kr",
       "confidence": "high",
       "source": "source_file:kisia_member_company_homepage",
       "source_page": "https://kisia.or.kr/membership/member_company_guide/",
@@ -82737,7 +82740,10 @@
       "category_names": [
         "한국정보보호산업협회 회원사안내",
         "정보보안·사이버보안"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next64_enrichment; final_url=https://www.coresec.co.kr/; title=(주)코어시큐리티_실시간공방훈련 서비스 | Red Team 침투테스트 서비스; source=source_file:kisia_member_company_homepage; manual_review=official_homepage_contact_visible; phones=02-3453-6630; emails=coresec@coresec.co.kr; checked_urls=https://coresec.co.kr/|https://www.coresec.co.kr/about|https://www.coresec.co.kr/contact|https://www.coresec.co.kr/contact/|https://www.coresec.co.kr/contact-us|https://www.coresec.co.kr/inquiry|https://www.coresec.co.kr/support|https://www.coresec.co.kr/company/contact|https://www.coresec.co.kr/company/location|https://www.coresec.co.kr/company/about|https://www.coresec.co.kr/about/|https://www.coresec.co.kr/kr/contact|https://www.coresec.co.kr/ko/contact|https://www.coresec.co.kr/html/company/location.php|https://www.coresec.co.kr/sub/company/location.php|https://www.coresec.co.kr/bbs/content.php?co_id=company|https://www.coresec.co.kr/customer/qna|https://www.coresec.co.kr/product/contact; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:54:40.398+09:00"
     },
     {
       "id": "96766",
@@ -83289,9 +83295,9 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.amclab.io/",
-      "contact": "https://kisia.or.kr/membership/member_company_guide/",
+      "contact": "이메일: sales@amclab.io",
       "phone": "",
-      "email": "",
+      "email": "sales@amclab.io",
       "confidence": "high",
       "source": "source_file:kisia_member_company_homepage",
       "source_page": "https://kisia.or.kr/membership/member_company_guide/",
@@ -83304,7 +83310,10 @@
       "category_names": [
         "한국정보보호산업협회 회원사안내",
         "정보보안·사이버보안"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next64_enrichment; final_url=https://www.amclab.io/ko/contact; title=문의 및 파트너십 | HoneyBee Platform | AMCLab; source=source_file:kisia_member_company_homepage; manual_review=official_homepage_contact_visible; phones=; emails=sales@amclab.io; checked_urls=https://www.amclab.io/|https://www.amclab.io/contact|https://www.amclab.io/contact/|https://www.amclab.io/contact-us|https://www.amclab.io/inquiry|https://www.amclab.io/support|https://www.amclab.io/company/contact|https://www.amclab.io/company/location|https://www.amclab.io/company/about|https://www.amclab.io/about|https://www.amclab.io/about/|https://www.amclab.io/kr/contact|https://www.amclab.io/ko/contact|https://www.amclab.io/html/company/location.php|https://www.amclab.io/sub/company/location.php|https://www.amclab.io/bbs/content.php?co_id=company|https://www.amclab.io/customer/qna|https://www.amclab.io/product/contact; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:54:40.398+09:00"
     },
     {
       "id": "96794",
@@ -106279,8 +106288,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.paxmone.com",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=75",
-      "phone": "",
+      "contact": "전화: 02-3443-8001",
+      "phone": "02-3443-8001",
       "email": "",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
@@ -106289,7 +106298,10 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 간편송금/지급결제 / 블록체인(가상자산)",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98129"
+      "id": "98129",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next64_enrichment; final_url=http://www.paxmone.com/pxm_contact.html; title=Global Standard for P2P Payment, CRENCY [PAXMONE]; source=source_file:korfin_fintech_member_homepage; manual_review=official_homepage_contact_visible; phones=02-3443-8001; emails=; checked_urls=http://www.paxmone.com|http://www.paxmone.com/pxm_contact.html|http://www.paxmone.com/contact|http://www.paxmone.com/contact/|http://www.paxmone.com/contact-us|http://www.paxmone.com/inquiry|http://www.paxmone.com/support|http://www.paxmone.com/company/contact|http://www.paxmone.com/company/location|http://www.paxmone.com/company/about|http://www.paxmone.com/about|http://www.paxmone.com/about/|http://www.paxmone.com/kr/contact|http://www.paxmone.com/ko/contact|http://www.paxmone.com/html/company/location.php|http://www.paxmone.com/sub/company/location.php|http://www.paxmone.com/bbs/content.php?co_id=company|http://www.paxmone.com/customer/qna; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:54:40.398+09:00"
     },
     {
       "name": "한국포스증권(주)",
@@ -106845,9 +106857,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://qsremit.net",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=161",
+      "contact": "이메일: support@qsremit.net",
       "phone": "",
-      "email": "",
+      "email": "support@qsremit.net",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
       "ksic_major_code": "K",
@@ -106855,7 +106867,10 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 소액해외송금",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98172"
+      "id": "98172",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next64_enrichment; final_url=https://www.qsremit.net/en/About; title=QSREMIT&lt;!-- --&gt; - About us; source=source_file:korfin_fintech_member_homepage; manual_review=official_homepage_contact_visible; phones=; emails=support@qsremit.net; checked_urls=http://qsremit.net|https://www.qsremit.net/en/About|https://www.qsremit.net/en|https://www.qsremit.net/contact|https://www.qsremit.net/contact/|https://www.qsremit.net/contact-us|https://www.qsremit.net/inquiry|https://www.qsremit.net/support|https://www.qsremit.net/company/contact|https://www.qsremit.net/company/location|https://www.qsremit.net/company/about|https://www.qsremit.net/about|https://www.qsremit.net/about/|https://www.qsremit.net/kr/contact|https://www.qsremit.net/ko/contact|https://www.qsremit.net/html/company/location.php|https://www.qsremit.net/sub/company/location.php|https://www.qsremit.net/bbs/content.php?co_id=company; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:54:40.398+09:00"
     },
     {
       "name": "나이스페이먼츠(주)",
@@ -106905,8 +106920,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.e9pay.co.kr",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=165",
-      "phone": "",
+      "contact": "전화: 070-4923-9908",
+      "phone": "070-4923-9908",
       "email": "",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
@@ -106915,7 +106930,10 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 소액해외송금",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98175"
+      "id": "98175",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next64_enrichment; final_url=https://www.e9pay.co.kr/cs/contact; title=해외송금 - 이나인페이; source=source_file:korfin_fintech_member_homepage; manual_review=official_homepage_contact_visible; phones=070-4923-9908; emails=; checked_urls=http://www.e9pay.co.kr|https://www.e9pay.co.kr/company/finance|https://www.e9pay.co.kr/company/announce|https://www.e9pay.co.kr/e9biz#signup|https://www.e9pay.co.kr/cs/contact|https://www.e9pay.co.kr/cs/location|https://www.e9pay.co.kr/cs/faq|https://www.e9pay.co.kr/cs/partner|https://www.e9pay.co.kr/contact|https://www.e9pay.co.kr/contact/|https://www.e9pay.co.kr/contact-us|https://www.e9pay.co.kr/inquiry|https://www.e9pay.co.kr/support|https://www.e9pay.co.kr/company/contact|https://www.e9pay.co.kr/company/location|https://www.e9pay.co.kr/company/about|https://www.e9pay.co.kr/about|https://www.e9pay.co.kr/about/; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:54:40.398+09:00"
     },
     {
       "name": "(주)유니어스",
@@ -108161,9 +108179,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.glninternational.com/",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=342",
+      "contact": "이메일: biz_partnership@glninternational.com",
       "phone": "",
-      "email": "",
+      "email": "biz_partnership@glninternational.com",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
       "ksic_major_code": "K",
@@ -108171,7 +108189,10 @@
       "lead_quality_grade": "A",
       "industry_type": "정회원사 / 간편송금/지급결제 / 소액해외송금 / PG",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98265"
+      "id": "98265",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next64_enrichment; final_url=https://www.glninternational.com/%08CONTACT; title=해외여행 QR결제, GLN; source=source_file:korfin_fintech_member_homepage; manual_review=official_homepage_contact_visible; phones=; emails=biz_partnership@glninternational.com; checked_urls=http://www.glninternational.com/|https://www.glninternational.com/%08CONTACT|https://www.glninternational.com/privacy-policy-hana|https://www.glninternational.com/location-policy|https://www.glninternational.com/contact|https://www.glninternational.com/contact/|https://www.glninternational.com/contact-us|https://www.glninternational.com/inquiry|https://www.glninternational.com/support|https://www.glninternational.com/company/contact|https://www.glninternational.com/company/location|https://www.glninternational.com/company/about|https://www.glninternational.com/about|https://www.glninternational.com/about/|https://www.glninternational.com/kr/contact|https://www.glninternational.com/ko/contact|https://www.glninternational.com/html/company/location.php|https://www.glninternational.com/sub/company/location.php; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:54:40.398+09:00"
     },
     {
       "name": "서울거래",
@@ -110695,9 +110716,9 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.gbp.kr",
-      "contact": "http://www.korfin.kr/kr/member/info_view.php?IDX=541",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-6275-5050 / 이메일: gbp@gbp.kr",
+      "phone": "02-6275-5050",
+      "email": "gbp@gbp.kr",
       "confidence": "high",
       "source": "source_file:korfin_fintech_member_homepage",
       "ksic_major_code": "K",
@@ -110705,7 +110726,10 @@
       "lead_quality_grade": "A",
       "industry_type": "준회원사 / 기타",
       "source_page": "http://www.korfin.kr/kr/member/info_list.php",
-      "id": "98421"
+      "id": "98421",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next64_enrichment; final_url=http://gbp.kr/; title=Global Business & Partners; source=source_file:korfin_fintech_member_homepage; manual_review=official_homepage_contact_visible; phones=02-6275-5050; emails=gbp@gbp.kr; checked_urls=http://www.gbp.kr|http://gbp.kr/?page_id=65&amp;lang=ko#about|http://gbp.kr/?page_id=65&amp;lang=ko#contact|http://gbp.kr/contact|http://gbp.kr/contact/|http://gbp.kr/contact-us|http://gbp.kr/inquiry|http://gbp.kr/support|http://gbp.kr/company/contact|http://gbp.kr/company/location|http://gbp.kr/company/about|http://gbp.kr/about|http://gbp.kr/about/|http://gbp.kr/kr/contact|http://gbp.kr/ko/contact|http://gbp.kr/html/company/location.php|http://gbp.kr/sub/company/location.php|http://gbp.kr/bbs/content.php?co_id=company; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:54:40.398+09:00"
     },
     {
       "name": "넥션",

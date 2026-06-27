@@ -4544,8 +4544,8 @@
       "region": "경기",
       "address": "",
       "homepage": "http://www.psd-inc.co.kr",
-      "contact": "박동석",
-      "phone": "",
+      "contact": "전화: 031-353-6033",
+      "phone": "031-353-6033",
       "email": "",
       "confidence": "high",
       "source": "source_file:gea_export_regular_member_homepage",
@@ -4553,7 +4553,10 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "반도체, OLED 장비, 부품 및 모듈",
-      "id": "99994"
+      "id": "99994",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next64_enrichment; final_url=http://www.psd-inc.co.kr/contact; title=PSD Inc.; source=source_file:gea_export_regular_member_homepage; manual_review=official_homepage_contact_visible; phones=031-353-6033|031-353-8055; emails=; checked_urls=http://www.psd-inc.co.kr|http://www.psd-inc.co.kr/contact|http://www.psd-inc.co.kr/contact/|http://www.psd-inc.co.kr/contact-us|http://www.psd-inc.co.kr/inquiry|http://www.psd-inc.co.kr/support|http://www.psd-inc.co.kr/company/contact|http://www.psd-inc.co.kr/company/location|http://www.psd-inc.co.kr/company/about|http://www.psd-inc.co.kr/about|http://www.psd-inc.co.kr/about/|http://www.psd-inc.co.kr/kr/contact|http://www.psd-inc.co.kr/ko/contact|http://www.psd-inc.co.kr/html/company/location.php|http://www.psd-inc.co.kr/sub/company/location.php|http://www.psd-inc.co.kr/bbs/content.php?co_id=company|http://www.psd-inc.co.kr/customer/qna|http://www.psd-inc.co.kr/product/contact; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-27T19:54:40.398+09:00"
     },
     {
       "name": "㈜센서뷰",
