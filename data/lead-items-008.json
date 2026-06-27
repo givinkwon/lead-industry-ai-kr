@@ -84084,8 +84084,8 @@
       "region": "인천",
       "address": "인천",
       "homepage": "http://www.jueunbrake.com/",
-      "contact": "박덕민",
-      "phone": "",
+      "contact": "전화: 032-433-6052 / 홈페이지: http://www.jueunbrake.com/",
+      "phone": "032-433-6052",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -84093,7 +84093,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기타 / 인증만료 2029-03-15",
-      "id": "105093"
+      "id": "105093",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next43_enrichment; final_url=http://jueunbrake.co.kr/; title=main - jueun; body_bytes=891; name_score=7; manual_review=official_homepage_tel_visible_excluded_fax_032-433-6057; phones=032-433-6052; emails=; checked_urls=http://jueunbrake.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "크린테크 주식회사",
@@ -87118,8 +87120,8 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.gimpoi.co.kr/",
-      "contact": "방의규",
-      "phone": "",
+      "contact": "전화: 031-982-5550 / 홈페이지: http://www.gimpoi.co.kr/",
+      "phone": "031-982-5550",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -87127,7 +87129,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2029-01-13",
-      "id": "105277"
+      "id": "105277",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next43_enrichment; final_url=http://www.gimpoi.co.kr/; title=:::: (주)김포산업에 오신걸 환영합니다 ::::; body_bytes=167; name_score=7; manual_review=official_homepage_tel_visible_excluded_fax_031-998-7776; phones=031-982-5550; emails=; checked_urls=http://www.gimpoi.co.kr/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 케이엘디",
@@ -88659,16 +88663,18 @@
       "region": "경기",
       "address": "경기",
       "homepage": "http://www.glkglobal.net/",
-      "contact": "길의석",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-997-6600 / 이메일: joo@glkglobal.co.kr, jhseo76@naver.com / 홈페이지: http://www.glkglobal.net/",
+      "phone": "031-997-6600",
+      "email": "joo@glkglobal.co.kr, jhseo76@naver.com",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 화학 / 인증만료 2028-07-13",
-      "id": "105372"
+      "id": "105372",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next43_enrichment; final_url=https://glkglobal.net/contact/; title=Contact - GLK GLOBOL Co., Ltd.; body_bytes=758; name_score=0; manual_review=official_contact_page_tel_email_visible_excluded_fax_031-997-6630; phones=031-997-6600; emails=joo@glkglobal.co.kr,jhseo76@naver.com; checked_urls=https://glkglobal.net/contact/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 위트",
@@ -89505,8 +89511,8 @@
       "region": "충북",
       "address": "충북",
       "homepage": "http://www.rstrf.com/",
-      "contact": "김왕종",
-      "phone": "",
+      "contact": "전화: 043-273-2770 / 홈페이지: http://www.rstrf.com/",
+      "phone": "043-273-2770",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -89514,7 +89520,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2028-08-31",
-      "id": "105424"
+      "id": "105424",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next43_enrichment; final_url=https://www.rstrf.com/; title=알에스테크; body_bytes=1073; name_score=7; manual_review=official_homepage_tel_visible_excluded_fax_043-273-2771; phones=043-273-2770; emails=; checked_urls=https://www.rstrf.com/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)에스아이",
@@ -90064,16 +90072,18 @@
       "region": "서울",
       "address": "서울",
       "homepage": "http://www.nexel.co.kr/",
-      "contact": "한충성",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-2088-8886 / 이메일: nexel@nexel.co.kr, support@nexel.co.kr / 홈페이지: http://www.nexel.co.kr/",
+      "phone": "02-2088-8886",
+      "email": "nexel@nexel.co.kr, support@nexel.co.kr",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "바이오 / 바이오 / 인증만료 2027-06-03",
-      "id": "105458"
+      "id": "105458",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next43_enrichment; final_url=https://www.nexel.co.kr/contact-us; title=iPSC Technology | Nexel, Korean iPSC Derived Cells Provider; body_bytes=4944; name_score=0; manual_review=official_contact_page_tel_email_visible_excluded_fax_02-2088-8884; phones=02-2088-8886; emails=nexel@nexel.co.kr,support@nexel.co.kr; checked_urls=https://www.nexel.co.kr/contact-us; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "주식회사 현명",
@@ -91750,8 +91760,8 @@
       "region": "광주",
       "address": "광주",
       "homepage": "http://www.mpnics.com/",
-      "contact": "강상도",
-      "phone": "",
+      "contact": "전화: 062-973-9520 / 홈페이지: http://www.mpnics.com/",
+      "phone": "062-973-9520",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -91759,7 +91769,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 전기전자 / 인증만료 2027-12-14",
-      "id": "105565"
+      "id": "105565",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next43_enrichment; final_url=http://www.mpnics.com/en/contact-us/; title=Contact Us – MPNICS; body_bytes=921; name_score=0; manual_review=official_contact_page_tel_visible_excluded_fax_062-973-9521; phones=062-973-9520; emails=; checked_urls=http://www.mpnics.com/en/contact-us/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)그린우드",
