@@ -66934,9 +66934,9 @@
       "region": "전국",
       "address": "18469 경기 화성시 동탄구 동탄첨단산업1로 27 A동 907호 A-907, 27, Dongtancheomdansaneop 1 -ro, Dongtan-gu, Hwaseong-si, Gyeonggi-do, Korea(19469)",
       "homepage": "http://fctglobal.co.kr",
-      "contact": "https://nanokorea.or.kr/visit/cp_pop.php?num=3799",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-372-0418 / 이메일: info@fctglobal.co.kr / 홈페이지: http://fctglobal.co.kr",
+      "phone": "031-372-0418",
+      "email": "info@fctglobal.co.kr",
       "confidence": "high",
       "source": "source_file:nano_korea_2026_exhibitor_homepage",
       "source_page": "https://nanokorea.or.kr/visit/search.php",
@@ -66950,7 +66950,9 @@
       "category_names": [
         "NANO KOREA 2026",
         "에너지·친환경 소재"
-      ]
+      ],
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next36_enrichment; final_url=https://fctglobal.co.kr/kr/contact.html; title=Contact - FCT; body_bytes=258; name_score=7; manual_review=official_contact_page_visible; phones=031-372-0418; emails=info@fctglobal.co.kr; checked_urls=https://fctglobal.co.kr/kr/index.html|https://fctglobal.co.kr/kr/about.html|https://fctglobal.co.kr/kr/contact.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "96124",

@@ -15282,9 +15282,9 @@
       "region": "대전광역시",
       "address": "",
       "homepage": "http://www.ivimtech.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 02-431-7450 / 이메일: information@ivimtech.com / 홈페이지: http://www.ivimtech.com",
+      "phone": "02-431-7450",
+      "email": "information@ivimtech.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78389",
@@ -15292,7 +15292,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "460470",
-      "product": "생체현미경, CRO 서비스"
+      "product": "생체현미경, CRO 서비스",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next36_enrichment; final_url=https://www.ivimtech.com/about/contact; title=About us > Location; body_bytes=4380; name_score=0; manual_review=official_domain_rendered_contact_english_brand; phones=02-431-7450; emails=information@ivimtech.com; checked_urls=https://www.ivimtech.com/|https://www.ivimtech.com/about/contact|https://www.ivimtech.com/#; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "피앤에스로보틱스",
@@ -15602,8 +15604,8 @@
       "region": "경상남도",
       "address": "",
       "homepage": "http://www.samhyun.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 055-294-0011 / 홈페이지: http://www.samhyun.co.kr",
+      "phone": "055-294-0011",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -15612,7 +15614,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "437730",
-      "product": "스마트 액추에이터, 스마트 파워유닛"
+      "product": "스마트 액추에이터, 스마트 파워유닛",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next36_enrichment; final_url=https://www.samhyun.co.kr/company; title=주식회사 삼현; body_bytes=1401; name_score=6; manual_review=official_footer_tel_only_corrected_from_news_ids; phones=055-294-0011; emails=; checked_urls=https://www.samhyun.co.kr/main|https://www.samhyun.co.kr/company|https://www.samhyun.co.kr/company/about-us; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "오상헬스케어",
@@ -16008,9 +16012,9 @@
       "region": "부산광역시",
       "address": "",
       "homepage": "http://www.slok.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 051-899-6700 / 이메일: sales@ehansun.co.kr / 홈페이지: http://www.slok.co.kr",
+      "phone": "051-899-6700",
+      "email": "sales@ehansun.co.kr",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78428",
@@ -16018,7 +16022,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "452280",
-      "product": "계장용 피팅 및 밸브, 모듈"
+      "product": "계장용 피팅 및 밸브, 모듈",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next36_enrichment; final_url=https://www.slok.co.kr/main/view.do; title=한선엔지니어링(주); body_bytes=1197; name_score=7; manual_review=official_footer_contact; phones=051-899-6700; emails=sales@ehansun.co.kr; checked_urls=https://www.slok.co.kr/main/view.do|https://www.slok.co.kr/quality/view_kr.do?location=qua2|https://www.slok.co.kr/quality/view_kr.do?location=qua3; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "동인기연",
@@ -16392,9 +16398,9 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.doosanrobotics.com",
-      "contact": "",
+      "contact": "이메일: marketing.robotics@doosan.com / 홈페이지: http://www.doosanrobotics.com",
       "phone": "",
-      "email": "",
+      "email": "marketing.robotics@doosan.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78448",
@@ -16402,7 +16408,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "454910",
-      "product": "협동로봇"
+      "product": "협동로봇",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next36_enrichment; final_url=https://www.doosanrobotics.com/kr/about/company/overview/; title=개요 : 기업정보 : 두산로보틱스; body_bytes=1482; name_score=7; manual_review=official_global_network_hq_email; phones=; emails=marketing.robotics@doosan.com; checked_urls=https://www.doosanrobotics.com/kr/|https://www.doosanrobotics.com/kr/training-services/service/customer/|https://www.doosanrobotics.com/kr/about/company/overview/; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "우듬지팜",
@@ -18040,8 +18048,8 @@
       "region": "경상북도",
       "address": "",
       "homepage": "http://www.ycchem.co.kr/",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 054-930-2500 / 홈페이지: http://www.ycchem.co.kr/",
+      "phone": "054-930-2500",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -18050,7 +18058,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "112290",
-      "product": "반도체 및 디스플레이용 화학소재"
+      "product": "반도체 및 디스플레이용 화학소재",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next36_enrichment; final_url=https://www.ycchem.co.kr/; title=와이씨켐; body_bytes=1745; name_score=7; manual_review=official_locations_tel_corrected_from_anchor_ids; phones=054-930-2500; emails=; checked_urls=https://www.ycchem.co.kr/|https://www.ycchem.co.kr/#; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "레이저쎌",
@@ -19464,9 +19474,9 @@
       "region": "대전광역시",
       "address": "",
       "homepage": "http://www.fiberpro.com",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 042-360-0030 / 이메일: sales@fiberpro.com / 홈페이지: http://www.fiberpro.com",
+      "phone": "042-360-0030",
+      "email": "sales@fiberpro.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78610",
@@ -19474,7 +19484,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "368770",
-      "product": "광섬유 관성센서 및 관성 측정장치"
+      "product": "광섬유 관성센서 및 관성 측정장치",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next36_enrichment; final_url=https://fiberpro.com/support/inquiry/inquiry.php; title=FIBERPRO l Inquiry; body_bytes=5298; name_score=0; manual_review=official_inquiry_page_visible; phones=042-360-0030; emails=sales@fiberpro.com; checked_urls=https://fiberpro.com/|https://fiberpro.com/support/inquiry/inquiry.php|https://fiberpro.com/support/rma/rma.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "루트락",
@@ -20380,8 +20392,8 @@
       "region": "서울특별시",
       "address": "",
       "homepage": "http://www.kccglass.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-2015-8500 / 홈페이지: http://www.kccglass.co.kr",
+      "phone": "02-2015-8500",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -20390,7 +20402,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "344820",
-      "product": "판유리 등"
+      "product": "판유리 등",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next36_enrichment; final_url=https://www.kccglass.co.kr/main.do; title=KCC글라스; body_bytes=2398; name_score=0; manual_review=official_footer_enterprise_phone; phones=02-2015-8500; emails=; checked_urls=https://www.kccglass.co.kr/main.do|https://www.kccglass.co.kr/kccGlassInfo/company/about.do; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "아이비김영",
@@ -22272,8 +22286,8 @@
       "region": "경상북도",
       "address": "",
       "homepage": "http://www.techtrans.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 053-815-8830 / 홈페이지: http://www.techtrans.co.kr",
+      "phone": "053-815-8830",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -22282,7 +22296,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "258050",
-      "product": "비철금속표면처리장비 및 솔루션"
+      "product": "비철금속표면처리장비 및 솔루션",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next36_enrichment; final_url=https://www.techtrans.co.kr/; title=테크트랜스; body_bytes=518; name_score=7; manual_review=official_footer_tel_corrected_from_link_ids; phones=053-815-8830; emails=; checked_urls=https://www.techtrans.co.kr/|https://www.techtrans.co.kr/27|https://www.techtrans.co.kr/28; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "효성티앤씨",
@@ -22712,8 +22728,8 @@
       "region": "세종특별자치시",
       "address": "",
       "homepage": "http://www.lake-led.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 044-414-9400 / 홈페이지: http://www.lake-led.com",
+      "phone": "044-414-9400",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -22722,7 +22738,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "281740",
-      "product": "LED, 반도체 소재 및 석유화학촉매"
+      "product": "LED, 반도체 소재 및 석유화학촉매",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next36_enrichment; final_url=http://lakematerials.co.kr/lakematerials/introduction/company; title=LAKE MATERIALS; body_bytes=1377; name_score=7; manual_review=official_company_page_tel_corrected_from_disclosure_links; phones=044-414-9400; emails=; checked_urls=http://lakematerials.co.kr/lakematerials|http://lakematerials.co.kr/lakematerials/introduction/company; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "씨티케이",
@@ -23324,9 +23342,9 @@
       "region": "전북특별자치도",
       "address": "",
       "homepage": "http://www.miramer.co.kr",
-      "contact": "",
-      "phone": "",
-      "email": "",
+      "contact": "전화: 031-479-9140 / 이메일: sales.asia@miwonsc.com / 홈페이지: http://www.miramer.co.kr",
+      "phone": "031-479-9140",
+      "email": "sales.asia@miwonsc.com",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
       "id": "78828",
@@ -23334,7 +23352,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "268280",
-      "product": "에너지경화수지"
+      "product": "에너지경화수지",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next36_enrichment; final_url=https://www.miwonsc.com/eng/Company/locations.html?#topnav_go; title=Miwon Specialty Chemical Co., Ltd.; body_bytes=1583; name_score=0; manual_review=official_domain_rendered_contact_english_name; phones=031-479-9140; emails=sales.asia@miwonsc.com; checked_urls=https://www.miwonsc.com/eng/|https://www.miwonsc.com/eng/Company/company.html|https://www.miwonsc.com/eng/Company/locations.html?#topnav_go; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "HD건설기계",
@@ -24408,8 +24428,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.pangen.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-733-9165 / 홈페이지: http://www.pangen.com",
+      "phone": "031-733-9165",
       "email": "",
       "confidence": "high",
       "source": "source_file:krx_listed_company_homepage",
@@ -24418,7 +24438,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "stock_code": "222110",
-      "product": "바이오시밀러 의약품 개발, 바이오의약품 개발 기술이전 서비스 등"
+      "product": "바이오시밀러 의약품 개발, 바이오의약품 개발 기술이전 서비스 등",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next36_enrichment; final_url=https://pangen.com/layout/kor/home.php?go=company; title=팬젠; body_bytes=1194; name_score=6; manual_review=official_footer_tel_only; phones=031-733-9165; emails=; checked_urls=https://pangen.com/layout/kor/home.php?go=main&|https://pangen.com/layout/kor/home.php?go=company|https://pangen.com/layout/kor/home.php?go=company1; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "큐리언트",
