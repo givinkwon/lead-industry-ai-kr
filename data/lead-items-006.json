@@ -44264,8 +44264,8 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.dwchem.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-659-4000 / 홈페이지: http://www.dwchem.co.kr",
+      "phone": "031-659-4000",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -44275,7 +44275,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "B",
       "booth": "C616",
-      "source_note": "Established in 1991, Dongwoo Fine-Chem has been growing as the leader in the electronic industry ever since it successfully developed its own high-purity semiconductor chemicals. Dongwoo Fine-Chem expanded its business to TFT-LCD material market and contributed to the success of Korea in IT industry. Dongwoo Fine-Chem is consistently challenging to discover the momentum for the success of the next generation. Dongwoo Fine-Chem is becoming the key of global network of Sumitomo Chemicals in IT Fie"
+      "source_note": "Established in 1991, Dongwoo Fine-Chem has been growing as the leader in the electronic industry ever since it successfully developed its own high-purity semiconductor chemicals. Dongwoo Fine-Chem expanded its business to TFT-LCD material market and contributed to the success of Korea in IT industry. Dongwoo Fine-Chem is consistently challenging to discover the momentum for the success of the next generation. Dongwoo Fine-Chem is becoming the key of global network of Sumitomo Chemicals in IT Fie",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next35_enrichment; final_url=https://www.dwchem.co.kr/main.do; title=동우화인켐; body_bytes=815; name_score=3; phones=031-659-4000; emails=; checked_urls=https://www.dwchem.co.kr/main.do|https://www.dwchem.co.kr/main.do|https://www.dwchem.co.kr/contents.do?lang=kor&menuPos=26; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "89009",
@@ -44751,8 +44753,8 @@
       "region": "경기도",
       "address": "",
       "homepage": "http://www.gns2010.com",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 031-378-6141 / 홈페이지: http://www.gns2010.com",
+      "phone": "031-378-6141",
       "email": "",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
@@ -44762,7 +44764,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "B",
       "booth": "G208",
-      "source_note": "1. 회사 개요 사업 분야 : 반도체/LCD용 필터 제조 및 장비/부품 개발 임 직 원 : 15명 2. 회사 연혁 2003년 4월 ㈜지앤에스산업 법인 설립 2006년 2월 ㈜삼성전자 LCD사업부 Filter 납품 2006년 12월 본사이전 (경기도 오산) 2007년 5월 스팀분사형 습식세정장치 특허등록 2007년 9월 부설 기술연구소 설립 2007년 10월 ISO 9001, 14001 취득 2008년 5월 벤쳐 등록 2008년 7월 ㈜삼성전자 직거래업체 등록 2009 년 6 월 CLEAN 사업장 인증 2011 년 5 월 본사 신사옥 이전 ( 현 . 용인 ) 2012 년 2 월 FPD 부문 해외수출 ( 중국 , 일본 ) 2013 년 9 월 SSL 소주사업장 거래 ( 중국 ) 2013 년 11 월 IBK 창조기업 선정 2014 년 10 월 반도체用 PVA Brush 사업 시작 , 위험성평가인정 사업장 승인 2015 년 5 월 ㈜삼성전자 ( 반도체 ) 직거래업체 등록 2016 년 1 월 "
+      "source_note": "1. 회사 개요 사업 분야 : 반도체/LCD용 필터 제조 및 장비/부품 개발 임 직 원 : 15명 2. 회사 연혁 2003년 4월 ㈜지앤에스산업 법인 설립 2006년 2월 ㈜삼성전자 LCD사업부 Filter 납품 2006년 12월 본사이전 (경기도 오산) 2007년 5월 스팀분사형 습식세정장치 특허등록 2007년 9월 부설 기술연구소 설립 2007년 10월 ISO 9001, 14001 취득 2008년 5월 벤쳐 등록 2008년 7월 ㈜삼성전자 직거래업체 등록 2009 년 6 월 CLEAN 사업장 인증 2011 년 5 월 본사 신사옥 이전 ( 현 . 용인 ) 2012 년 2 월 FPD 부문 해외수출 ( 중국 , 일본 ) 2013 년 9 월 SSL 소주사업장 거래 ( 중국 ) 2013 년 11 월 IBK 창조기업 선정 2014 년 10 월 반도체用 PVA Brush 사업 시작 , 위험성평가인정 사업장 승인 2015 년 5 월 ㈜삼성전자 ( 반도체 ) 직거래업체 등록 2016 년 1 월 ",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next35_enrichment; final_url=http://www.gns2010.com/kr/company/company01.html; title=(주)지엔에스산업; body_bytes=240; name_score=5; manual_review=official_domain_rendered_contact; title=(주)지엔에스산업; phone_source=TEL_only; phones=031-378-6141; emails=; checked_urls=http://www.gns2010.com/kr/main/main.html|http://www.gns2010.com/kr/company/company05.html|http://www.gns2010.com/kr/company/company01.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "89031",

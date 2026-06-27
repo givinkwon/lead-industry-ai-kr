@@ -17481,10 +17481,10 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.mdklab.co.kr",
-      "contact": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
-      "phone": "",
+      "contact": "전화: 02-553-0923 / 홈페이지: http://www.mdklab.co.kr",
+      "phone": "02-553-0923",
       "email": "",
-      "confidence": "medium",
+      "confidence": "high",
       "source": "source_file:keet_2022_2026_exhibitor_homepage",
       "source_page": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
       "ksic_major_code": "E",
@@ -17496,7 +17496,9 @@
       "source_category": "KEET 2025",
       "exhibit_category": "",
       "domestic_proof": "homepage_kr",
-      "id": "93774"
+      "id": "93774",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next35_enrichment; final_url=http://www.mdklab.co.kr/main/index.html; title=MDKLAB; body_bytes=3059; name_score=0; manual_review=official_domain_rendered_contact; title=MDKLAB; phones=02-553-0923; emails=; checked_urls=http://www.mdklab.co.kr/main/index.html; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "코스탈(주)",
@@ -17693,10 +17695,10 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.tlcgroup.co.kr",
-      "contact": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 02-6951-0084 / 이메일: mst@tlcgroup.co.kr / 홈페이지: http://www.tlcgroup.co.kr",
+      "phone": "02-6951-0084",
+      "email": "mst@tlcgroup.co.kr",
+      "confidence": "high",
       "source": "source_file:keet_2022_2026_exhibitor_homepage",
       "source_page": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
       "ksic_major_code": "C",
@@ -17708,7 +17710,9 @@
       "source_category": "KEET 2025",
       "exhibit_category": "",
       "domestic_proof": "homepage_kr",
-      "id": "93784"
+      "id": "93784",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next35_enrichment; final_url=https://www.tlcgroup.co.kr/; title=TLC Co.,Ltd.; body_bytes=809; name_score=5; phones=02-6951-0084; emails=mst@tlcgroup.co.kr; checked_urls=https://www.tlcgroup.co.kr/|https://www.tlcgroup.co.kr/1709199163|https://www.tlcgroup.co.kr/CONTACTUS; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "㈜현대쏠라텍",
@@ -18395,10 +18399,10 @@
       "region": "전국",
       "address": "",
       "homepage": "https://www.realtimewave.com",
-      "contact": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
+      "contact": "이메일: sales@realtimewave.com / 홈페이지: https://www.realtimewave.com",
       "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "email": "sales@realtimewave.com",
+      "confidence": "high",
       "source": "source_file:keet_2022_2026_exhibitor_homepage",
       "source_page": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
       "ksic_major_code": "D",
@@ -18410,7 +18414,9 @@
       "source_category": "KEET 2024",
       "exhibit_category": "스마트그리드",
       "domestic_proof": "official_korean_exhibitor",
-      "id": "93821"
+      "id": "93821",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next35_enrichment; final_url=https://www.realtimewave.com/about-us; title=About Us | REALTIMEWAVE; body_bytes=6870; name_score=5; phones=; emails=sales@realtimewave.com; checked_urls=https://www.realtimewave.com/|https://www.realtimewave.com/about-us|https://www.realtimewave.com/location; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "대화인더스",
@@ -20511,10 +20517,10 @@
       "region": "전국",
       "address": "",
       "homepage": "http://www.dselectric.co.kr",
-      "contact": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "전화: 051-996-0411 / 이메일: info@dselectric.co.kr / 홈페이지: http://www.dselectric.co.kr",
+      "phone": "051-996-0411",
+      "email": "info@dselectric.co.kr",
+      "confidence": "high",
       "source": "source_file:keet_2022_2026_exhibitor_homepage",
       "source_page": "https://www.keet.or.kr/fairContents.do?FAIRMENU_IDX=1944&hl=KOR",
       "ksic_major_code": "C",
@@ -20526,7 +20532,9 @@
       "source_category": "KEET 2022",
       "exhibit_category": "ESS, 에너지효율 / 송배전",
       "domestic_proof": "homepage_kr",
-      "id": "93939"
+      "id": "93939",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next35_enrichment; final_url=https://dselectric.co.kr/ko/; title=DS ELECTRIC; body_bytes=1614; name_score=0; manual_review=official_domain_rendered_contact; title=DS ELECTRIC; phone_source=primary_only; phones=051-996-0411; emails=info@dselectric.co.kr; checked_urls=https://dselectric.co.kr/ko/|https://dselectric.co.kr/ko/pages/about_ceo.php|https://dselectric.co.kr/ko/pages/contact.php; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "메타파스",
