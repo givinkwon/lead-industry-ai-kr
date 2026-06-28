@@ -3617,13 +3617,16 @@
       "region": "",
       "address": "",
       "homepage": "https://iliasai.com/",
-      "contact": "https://iliasai.com/pages/about-us.html",
+      "contact": "이메일: business@iliasai.com / 홈페이지: https://iliasai.com/",
       "phone": "",
-      "email": "",
+      "email": "business@iliasai.com",
       "confidence": "medium",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed",
-      "source_page": "https://iliasai.com/"
+      "source_page": "https://iliasai.com/pages/contact-us.html",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next97_enrichment; result=rendered_homepage_contact; final_url=https://iliasai.com/pages/contact-us.html; title=Ilias AI contact; body_bytes=598; phones=; emails=business@iliasai.com; checked_urls=https://iliasai.com/|https://iliasai.com/pages/contact-us.html; official homepage contact email; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-28T21:06:27.610+09:00"
     },
     {
       "id": "37408",
