@@ -8717,13 +8717,15 @@
       "region": "",
       "address": "",
       "homepage": "https://jcg.asia/",
-      "contact": "",
+      "contact": "EMAIL: jcg@jcglobeway.com",
       "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "email": "jcg@jcglobeway.com",
+      "confidence": "high",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next105_enrichment; result=rendered_homepage_contact; final_url=https://jcg.asia/; title=official homepage contact; body_bytes=3192; phones=; emails=jcg@jcglobeway.com; checked_urls=https://jcg.asia/; official homepage rendered company inquiry email; social links ignored; captured_at=2026-06-28T23:29:41.228+09:00; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "37850",
@@ -8772,13 +8774,15 @@
       "region": "",
       "address": "",
       "homepage": "https://zi-en.io/",
-      "contact": "",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "TEL: 070-4571-9854 / EMAIL: support@zi-en.io",
+      "phone": "070-4571-9854",
+      "email": "support@zi-en.io",
+      "confidence": "high",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next105_enrichment; result=rendered_homepage_contact; final_url=https://zi-en.io/; title=official homepage contact; body_bytes=1983; phones=070-4571-9854; emails=support@zi-en.io; checked_urls=https://zi-en.io/; official homepage footer rendered address phone and support email; captured_at=2026-06-28T23:29:41.228+09:00; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "37856",
