@@ -63723,8 +63723,8 @@
       "region": "서울특별시",
       "address": "서울특별시 서초구 청룡마을3길 2, 2층 (신원동)",
       "homepage": "http://pluspark.co.kr/",
-      "contact": "https://pluspark.co.kr/",
-      "phone": "",
+      "contact": "전화: 02-6956-1488 / 홈페이지: http://pluspark.co.kr/",
+      "phone": "02-6956-1488",
       "email": "",
       "confidence": "medium",
       "source": "source_file:j_sw_business_db",
@@ -63732,7 +63732,10 @@
       "ksic_major_code": "J",
       "ksic_major_name": "정보통신업",
       "lead_quality_grade": "B",
-      "source_page": "https://pluspark.co.kr/"
+      "source_page": "http://pluspark.co.kr/",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next101_enrichment; result=rendered_homepage_contact; final_url=http://pluspark.co.kr/; title=Pluspark parking solution; body_bytes=2263; phones=02-6956-1488; emails=; checked_urls=http://pluspark.co.kr/|http://pluspark.co.kr/about.html|http://pluspark.co.kr/solution.html; official homepage representative phone; excluded service number 1522-7587; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-28T21:45:47.262+09:00"
     },
     {
       "name": "지오스트 주식회사",
