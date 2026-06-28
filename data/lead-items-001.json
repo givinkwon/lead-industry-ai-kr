@@ -4975,13 +4975,15 @@
       "region": "",
       "address": "",
       "homepage": "https://bewall.co.kr/",
-      "contact": "",
-      "phone": "",
+      "contact": "TEL: 070-4032-3489",
+      "phone": "070-4032-3489",
       "email": "",
-      "confidence": "medium",
+      "confidence": "high",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next102_enrichment; result=rendered_homepage_contact; final_url=https://bewall.co.kr/; title=official homepage contact; body_bytes=6055; phones=070-4032-3489; emails=; checked_urls=https://bewall.co.kr/; official homepage production inquiry phone; captured_at=2026-06-28T22:19:44.907+09:00; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "37532",
@@ -6196,13 +6198,15 @@
       "region": "",
       "address": "",
       "homepage": "https://realmkt.co.kr/",
-      "contact": "",
-      "phone": "",
-      "email": "",
-      "confidence": "medium",
+      "contact": "TEL: 02-540-3111 | EMAIL: sonmagic@realmkt.co.kr",
+      "phone": "02-540-3111",
+      "email": "sonmagic@realmkt.co.kr",
+      "confidence": "high",
       "lead_quality_grade": "B",
       "source": "seed:registry_seed",
-      "source_page": ""
+      "source_page": "",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next102_enrichment; result=rendered_homepage_contact; final_url=https://realmkt.co.kr/; title=official homepage contact; body_bytes=1729; phones=02-540-3111; emails=sonmagic@realmkt.co.kr; checked_urls=https://realmkt.co.kr/; official homepage company footer contact; captured_at=2026-06-28T22:19:44.907+09:00; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "37637",
