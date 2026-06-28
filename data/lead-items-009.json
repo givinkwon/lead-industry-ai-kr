@@ -52482,8 +52482,8 @@
       "region": "경남",
       "address": "경남",
       "homepage": "http://www.sunyangmetal.co.kr/",
-      "contact": "이상호",
-      "phone": "",
+      "contact": "TEL: 055-346-2686",
+      "phone": "055-346-2686",
       "email": "",
       "confidence": "high",
       "source": "source_file:innobiz_certified_company_homepage",
@@ -52491,7 +52491,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "product": "제조업 / 기계금속 / 인증만료 2029-06-26",
-      "id": "109305"
+      "id": "109305",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next103_enrichment; result=rendered_homepage_contact; final_url=http://www.sunyangmetal.co.kr/; title=official homepage contact; body_bytes=2741; phones=055-346-2686; emails=; checked_urls=http://www.sunyangmetal.co.kr/; official homepage company phone; fax and master email excluded; captured_at=2026-06-28T22:41:47.509+09:00; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "(주)바이하츠",

@@ -4078,8 +4078,8 @@
       "region": "경기도",
       "address": "경기 양주시 은현면 그루고개로490번길 49-63 (도하리)",
       "homepage": "http://www.ssgeng.co.kr",
-      "contact": "",
-      "phone": "",
+      "contact": "TEL: 031-867-4669",
+      "phone": "031-867-4669",
       "email": "",
       "confidence": "high",
       "source": "source_file:kova_member_company_homepage",
@@ -4087,7 +4087,9 @@
       "representative": "박지안",
       "ksic_major_code": "C",
       "ksic_major_name": "제조업",
-      "lead_quality_grade": "A"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next103_enrichment; result=rendered_homepage_contact; final_url=http://www.ssgeng.co.kr/default/company/01.php?top=1&sub=0; title=official homepage contact; body_bytes=2184; phones=031-867-4669; emails=; checked_urls=http://www.ssgeng.co.kr|http://www.ssgeng.co.kr/default/company/01.php?top=1&sub=0; official homepage customer representative phone; captured_at=2026-06-28T22:41:47.509+09:00; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "83711",
@@ -9171,8 +9173,8 @@
       "region": "대전광역시",
       "address": "",
       "homepage": "https://www.lkrobotics.co.kr",
-      "contact": "전화: -",
-      "phone": "",
+      "contact": "TEL: 02-3159-2865",
+      "phone": "02-3159-2865",
       "email": "",
       "confidence": "high",
       "source": "source_file:korea_ai_robot_industry_association_members",
@@ -9182,7 +9184,9 @@
       "ksic_major_name": "제조업",
       "lead_quality_grade": "A",
       "member_type": "정회원일반사",
-      "business_area": "서비스로봇"
+      "business_area": "서비스로봇",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next103_enrichment; result=rendered_homepage_contact; final_url=https://www.lkrobotics.co.kr; title=official homepage contact; body_bytes=1322; phones=02-3159-2865; emails=; checked_urls=https://www.lkrobotics.co.kr; official homepage representative phone; captured_at=2026-06-28T22:41:47.509+09:00; verification=homepage_rendered_contact_enriched"
     },
     {
       "id": "84008",

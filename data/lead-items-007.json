@@ -21831,9 +21831,9 @@
       "region": "경남",
       "address": "35 Sangnam-ro 51505 Korea, Republic of",
       "homepage": "https://www.famtech.co.kr",
-      "contact": "https://www.testingexpo-korea.com/exhibitors/famtech",
-      "phone": "",
-      "email": "",
+      "contact": "TEL: 055-262-3730 | EMAIL: sales@famtech.co.kr",
+      "phone": "055-262-3730",
+      "email": "sales@famtech.co.kr",
       "confidence": "high",
       "source": "source_file:automotive_testing_expo_korea_2026_exhibitors",
       "source_page": "https://www.testingexpo-korea.com/exhibitors",
@@ -21847,7 +21847,9 @@
       "exhibit_category": "NVH analysis; Dynamometers; Vehicle dynamics testing; Vibration and shock testing; Acoustic modeling and testing; Environmental testing; Electrical systems testing; Materials testing; Reliability/lifecycle testing; Test facilities; Automated test equipment (ATE); Data acquisition and signal analysis; Impact testing; Electronics and microelectronics testing; Test management software; Fatigue/fracture testing; Crash test analysis; Structural and fatigue testing; Sensors and transducers; Telemetry systems; Stress/strain testing; Calibration; Tire testing; Software test and development; Climate Testing; Durability Testing; Measurement Data Management (MDM); Data post-processing; Interior Component Testing",
       "domestic_proof": "official_exhibitor_korea_address",
       "description": "FAMTECH is a specialized provider of advanced testing solutions, including vibration, durability, noise, and battery testing, with over 30 years of industry experience. Serving sectors such as automotive, defense, and construction, Pamtech offers comprehensive solutions spanning from measurement to testing and analysis. With precision measurement technology and strict quality control, FAMTECH meets and exceeds client requirements across diverse applications. Equipped with state-of-the-art equipm",
-      "id": "94001"
+      "id": "94001",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next103_enrichment; result=rendered_homepage_contact; final_url=https://www.famtech.co.kr; title=official homepage contact; body_bytes=4092; phones=055-262-3730; emails=sales@famtech.co.kr; checked_urls=https://www.famtech.co.kr; official homepage sales phone and email; fax excluded; captured_at=2026-06-28T22:41:47.509+09:00; verification=homepage_rendered_contact_enriched"
     },
     {
       "name": "General Utility Ltd",
