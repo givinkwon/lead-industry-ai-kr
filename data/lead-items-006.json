@@ -3655,16 +3655,19 @@
       "region": "서울특별시",
       "address": "서울 광진구 중곡동 292",
       "homepage": "http://www.shcpa.co.kr/",
-      "contact": "",
-      "phone": "",
+      "contact": "전화: 02-3452-9793 / 홈페이지: http://www.shcpa.co.kr/",
+      "phone": "02-3452-9793",
       "email": "",
       "confidence": "high",
       "source": "source_file:kova_member_company_homepage",
-      "source_page": "https://venture.or.kr/home/kor/M318196487/membership/status/all/index.do?pageIndex=1358",
+      "source_page": "http://www.shcpa.co.kr/bbs/content.php?co_id=direction",
       "representative": "석완주",
       "ksic_major_code": "M",
       "ksic_major_name": "전문, 과학 및 기술 서비스업",
-      "lead_quality_grade": "A"
+      "lead_quality_grade": "A",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next96_enrichment; result=rendered_homepage_contact; final_url=http://www.shcpa.co.kr/bbs/content.php?co_id=direction; title=SHCPA direction; body_bytes=557; phones=02-3452-9793; emails=; checked_urls=http://www.shcpa.co.kr/|http://www.shcpa.co.kr/bbs/content.php?co_id=direction; excluded recruitment and personal expert emails; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-28T20:44:18.676+09:00"
     },
     {
       "id": "83686",
