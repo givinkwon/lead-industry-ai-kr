@@ -24030,10 +24030,10 @@
       "product": "Pipe; Tubing; Hose; Flanges; Connectors; Couplings; Plumbing Fittings",
       "region": "부산",
       "address": "Gangseo-gu, Busan Korea (South)",
-      "homepage": "https://www.slok.co.kr",
-      "contact": "",
+      "homepage": "https://www.slok.co.kr/main/view.do",
+      "contact": "이메일: sales@ehansun.co.kr / 홈페이지: https://www.slok.co.kr/main/view.do",
       "phone": "",
-      "email": "",
+      "email": "sales@ehansun.co.kr",
       "confidence": "high",
       "source": "source_file:semicon_korea_2026_exhibitor_homepage",
       "source_page": "https://expo.semi.org/korea2026/Public/eBooth.aspx?IndexInList=190&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=642166",
@@ -24045,7 +24045,10 @@
       "source_note": "Meet HANSUN(S-LOK)’s Semi UHP Fitting & Valve Solutions!",
       "country": "Korea, Republic of",
       "source_id": "semicon-2026-hansunengineering-slok.co.kr",
-      "id": "94090"
+      "id": "94090",
+      "verification": "homepage_rendered_contact_enriched",
+      "evidence": "verified_export:b2b_next94_enrichment; result=rendered_homepage_contact; final_url=https://www.slok.co.kr/main/view.do; title=Hansun Engineering; body_bytes=1792; phones=; emails=sales@ehansun.co.kr; checked_urls=https://www.slok.co.kr/main/view.do; verification=homepage_rendered_contact_enriched",
+      "updatedAt": "2026-06-28T20:12:31.719+09:00"
     },
     {
       "name": "HANYANG ENG CO., LTD.",
