@@ -176,6 +176,7 @@
       background: var(--soft);
     }
     .tag.ksic { color: #075985; border-color: #bae6fd; background: #f0f9ff; }
+    .tag.warn { color: #92400e; border-color: #fcd34d; background: #fffbeb; }
     .links { display: flex; flex-direction: column; gap: 8px; min-width: 132px; }
     a.btn, button.link-btn {
       display: block;
@@ -310,6 +311,8 @@
           <option value="phone">전화 있음</option>
           <option value="email">이메일 있음</option>
           <option value="homepage">홈페이지 있음</option>
+          <option value="homepageOfficial">의심 홈페이지 제외</option>
+          <option value="homepageSuspect">의심 홈페이지만</option>
         </select>
         <button id="reset">초기화</button>
       </div>
@@ -409,6 +412,11 @@
     function tag(value, className = "") {
       return `<span class="tag ${className}">${escapeHtml(value)}</span>`;
     }
+    function homepageStatusTag(item) {
+      if (item.homepageStatus === "suspect") return tag("홈페이지 검토 필요", "warn");
+      if (item.homepageStatus === "verified" || item.homepageVerified) return tag("홈페이지 검증됨", "ksic");
+      return "";
+    }
     function ksicLabel(item) {
       const code = item.ksic_major_code || "";
       if (!code) return "";
@@ -434,6 +442,8 @@
       if (filter === "phone") return Boolean(item.phone);
       if (filter === "email") return Boolean(item.email);
       if (filter === "homepage") return Boolean(item.homepage);
+      if (filter === "homepageOfficial") return Boolean(item.homepage) && item.homepageStatus !== "suspect";
+      if (filter === "homepageSuspect") return item.homepageStatus === "suspect";
       return true;
     }
     function apply() {
@@ -509,6 +519,7 @@
               ${item.booth ? tag(`부스 ${item.booth}`) : ""}
               ${item.phone ? tag(item.phone) : ""}
               ${item.email ? tag(item.email) : ""}
+              ${homepageStatusTag(item)}
             </div>
           </div>
           <div class="links">
@@ -554,6 +565,7 @@
         optionalDetailItem("전화", item.phone),
         optionalDetailItem("이메일", item.email, item.email ? `mailto:${item.email}` : ""),
         detailItem("홈페이지", item.homepage, item.homepage),
+        optionalDetailItem("홈페이지 상태", item.homepageStatus === "suspect" ? "검토 필요" : item.homepageStatus),
         optionalDetailItem(externalHref(item.contact) ? "문의 페이지" : "연락 정보", item.contact, externalHref(item.contact)),
         optionalDetailItem("대표자", item.representative || item.ceo),
         optionalDetailItem("사업유형", item.business_type),
